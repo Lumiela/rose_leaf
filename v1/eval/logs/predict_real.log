@@ -1,0 +1,32 @@
+
+image 1/1 /helpai-storage/model/runs/rose_seg/eval_test_20261012_0647/real_images/rose_real.webp: 480x640 5 Hole Leavess, 18.1ms
+Speed: 65.5ms preprocess, 18.1ms inference, 25.0ms postprocess per image at shape (1, 3, 480, 640)
+Results saved to [1m/helpai-storage/model/runs/rose_seg/eval_test_20261012_0647/real_images/pred_conf025[0m
+CONF 0.25 rose_real.webp n= 5 {'Hole Leaves': 5}
+  DET Hole Leaves 0.53 [0, 0, 488, 633]
+  DET Hole Leaves 0.405 [155, 0, 1487, 579]
+  DET Hole Leaves 0.375 [1204, 0, 2000, 869]
+  DET Hole Leaves 0.3 [1773, 904, 2000, 1350]
+  DET Hole Leaves 0.294 [1564, 986, 1849, 1333]
+
+image 1/1 /helpai-storage/model/runs/rose_seg/eval_test_20261012_0647/real_images/rose_real.webp: 480x640 4 Black Spot Leavess, 13 Hole Leavess, 31.2ms
+Speed: 3.6ms preprocess, 31.2ms inference, 18.2ms postprocess per image at shape (1, 3, 480, 640)
+Results saved to [1m/helpai-storage/model/runs/rose_seg/eval_test_20261012_0647/real_images/pred_conf010[0m
+CONF 0.1 rose_real.webp n= 17 {'Hole Leaves': 13, 'Black Spot Leaves': 4}
+  DET Hole Leaves 0.53 [0, 0, 488, 633]
+  DET Hole Leaves 0.405 [155, 0, 1487, 579]
+  DET Hole Leaves 0.375 [1204, 0, 2000, 869]
+  DET Hole Leaves 0.3 [1773, 904, 2000, 1350]
+  DET Hole Leaves 0.294 [1564, 986, 1849, 1333]
+  DET Hole Leaves 0.211 [1442, 889, 2000, 1498]
+  DET Hole Leaves 0.173 [485, 592, 828, 933]
+  DET Hole Leaves 0.171 [162, 563, 829, 1288]
+  DET Black Spot Leaves 0.163 [0, 705, 379, 1498]
+  DET Black Spot Leaves 0.147 [47, 568, 829, 1284]
+  DET Black Spot Leaves 0.131 [284, 869, 1598, 1488]
+  DET Hole Leaves 0.127 [1392, 1044, 2000, 1500]
+  DET Hole Leaves 0.122 [1661, 901, 1998, 1464]
+  DET Hole Leaves 0.112 [1529, 1, 2000, 826]
+  DET Black Spot Leaves 0.108 [935, 382, 1914, 1170]
+  DET Hole Leaves 0.104 [1797, 1316, 2000, 1500]
+  DET Hole Leaves 0.103 [66, 4, 1188, 710]
