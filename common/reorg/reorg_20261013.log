@@ -1,0 +1,68 @@
+MV yolo26s-seg.pt -> common/weights/yolo26s-seg.pt
+MV yolo11s-seg.pt -> common/weights/yolo11s-seg.pt
+MV weights/yolo26n.pt -> common/weights/yolo26n.pt
+MV Dataset -> common/Dataset
+MV Dataset.rar -> common/Dataset.rar
+MV runs/rose_seg/eval_test_20261012_0647/real_images/rose_real.webp -> common/real_images/rose_real.webp
+MV runs/rose_seg/eval_test_20261012_0647/real_images/rose_real2.webp -> common/real_images/rose_real2.webp
+MV runs/rose_seg/eval_test_20261012_0647/real_images/rose_real3.webp -> common/real_images/rose_real3.webp
+MV v2_realbg/compare_real_v2.py -> common/tools/compare_real.py
+MV v2_realbg/ckpt_info.py -> common/tools/ckpt_info.py
+MV v2_realbg/viz_labels.py -> common/tools/viz_labels.py
+MV 01_phase1_cls_baseline.ipynb -> phase1_cls/01_phase1_cls_baseline.ipynb
+MV .ipynb_checkpoints/01_phase1_cls_baseline-checkpoint.ipynb -> phase1_cls/.ipynb_checkpoints/01_phase1_cls_baseline-checkpoint.ipynb
+MV 02_phase2_seg_synthetic.ipynb -> v1/02_phase2_seg_synthetic.ipynb
+MV .ipynb_checkpoints/02_phase2_seg_synthetic-checkpoint.ipynb -> v1/.ipynb_checkpoints/02_phase2_seg_synthetic-checkpoint.ipynb
+MV data/rose_seg -> v1/data/rose_seg
+MV runs/rose_seg/yolo26s-seg -> v1/runs/yolo26s-seg
+MV runs/rose_seg/yolo11s-seg -> v1/runs/yolo11s-seg
+MV runs/rose_seg/eval_test_20261012_0647/test -> v1/eval/test
+MV runs/rose_seg/eval_test_20261012_0647/test_conf025 -> v1/eval/test_conf025
+MV runs/rose_seg/eval_test_20261012_0647/real_images/pred_conf025 -> v1/eval/real_pred_conf025
+MV runs/rose_seg/eval_test_20261012_0647/real_images/pred_conf010 -> v1/eval/real_pred_conf010
+MV runs/rose_seg/eval_test_20261012_0647/best_snapshot.pt -> v1/eval/best_snapshot.pt
+MV runs/rose_seg/eval_test_20261012_0647/eval.log -> v1/eval/logs/eval.log
+MV runs/rose_seg/eval_test_20261012_0647/eval_conf025.log -> v1/eval/logs/eval_conf025.log
+MV runs/rose_seg/eval_test_20261012_0647/predict_real.log -> v1/eval/logs/predict_real.log
+MV runs/rose_seg/eval_test_20261012_0647/predict_real2.log -> v1/eval/logs/predict_real2.log
+MV runs/rose_seg/eval_test_20261012_0647/eval_test.py -> v1/scripts/archive/eval_test.py
+MV runs/rose_seg/eval_test_20261012_0647/eval_test_conf025.py -> v1/scripts/archive/eval_test_conf025.py
+MV runs/rose_seg/eval_test_20261012_0647/predict_real.py -> v1/scripts/archive/predict_real.py
+MV v2_realbg/make_backgrounds.py -> v2/scripts/make_backgrounds.py
+MV v2_realbg/inspect_leaves.py -> v2/scripts/inspect_leaves.py
+MV v2_realbg/make_synth_v2.py -> v2/scripts/make_synth_v2.py
+MV v2_realbg/train_eval_v2.py -> v2/scripts/train_eval_v2.py
+MV v2_realbg/make_review.py -> v2/scripts/make_review.py
+MV v2_realbg/compare_real.py -> v2/scripts/archive/compare_real_simple.py
+MV v2_realbg/predict_real_v2.py -> v2/scripts/archive/predict_real_v2.py
+MV v2_realbg/.ipynb_checkpoints -> v2/scripts/.ipynb_checkpoints
+MV v2_realbg/ckpt_info.log -> v2/logs/ckpt_info.log
+MV v2_realbg/compare_real.log -> v2/logs/compare_real.log
+MV v2_realbg/compare_real_v2.log -> v2/logs/compare_real_v2.log
+MV v2_realbg/predict_real_v2_ft.log -> v2/logs/predict_real_v2_ft.log
+MV v2_realbg/smoke.log -> v2/logs/smoke.log
+MV v2_realbg/synth_v2.log -> v2/logs/synth_v2.log
+MV v2_realbg/train_eval_v2.log -> v2/logs/train_eval_v2.log
+MV v2_realbg/backgrounds -> v2/backgrounds
+MV v2_realbg/data -> v2/data
+MV v2_realbg/debug -> v2/debug
+MV runs/rose_seg_v2/ft_from_v1 -> v2/runs/ft_from_v1
+MV runs/rose_seg_v2/coco_init -> v2/runs/coco_init
+MV v2_realbg/eval_v2_early/compare_3models -> v2/eval/compare_3models
+MV v2_realbg/eval_v2_early/compare_v1_vs_ft.jpg -> v2/eval/compare_v1_vs_ft.jpg
+MV v2_realbg/eval_v2_early/ft_from_v1_conf010 -> v2/eval/ft_from_v1_conf010
+MV v2_realbg/eval_v2_early/ft_from_v1_conf025 -> v2/eval/ft_from_v1_conf025
+RM identical duplicate v2_realbg/weights/yolo26n.pt
+RM v2_realbg/__pycache__
+RMDIR v2_realbg/weights
+RMDIR v2_realbg/eval_v2_early
+RMDIR runs/rose_seg/eval_test_20261012_0647/real_images
+KEEP (not empty or missing) runs/rose_seg/eval_test_20261012_0647
+KEEP (not empty or missing) runs/rose_seg
+RMDIR runs/rose_seg_v2
+KEEP (not empty or missing) runs
+RMDIR data
+RMDIR weights
+RMDIR v2_realbg
+RMDIR .ipynb_checkpoints
+REORG_DONE

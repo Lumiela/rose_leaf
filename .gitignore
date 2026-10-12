@@ -1,0 +1,23 @@
+# Archives: kept only in the original model/
+*.zip
+*.rar
+*.7z
+*.tar
+*.tgz
+*.tbz2
+*.txz
+*.gz
+*.bz2
+*.xz
+
+# Generated files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# YOLO label caches: rebuilt on demand, train.cache files exceed GitHub's 100 MiB limit
+*.cache
+
+# Third-party pretrained weights and code: re-downloadable, listed in MODELS.md
+/common/weights/
+/weights/
