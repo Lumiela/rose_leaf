@@ -1,0 +1,86 @@
+{
+  "Black Spot Leaves": {
+    "n": 400,
+    "raw": {
+      "mean": 0.841,
+      "median": 0.928,
+      "lt80": 0.225,
+      "lt50": 0.08
+    },
+    "close+fill": {
+      "mean": 0.875,
+      "median": 0.962,
+      "lt80": 0.168,
+      "lt50": 0.072
+    },
+    "close+fill+dilate": {
+      "mean": 0.913,
+      "median": 0.992,
+      "lt80": 0.12,
+      "lt50": 0.05
+    }
+  },
+  "Fresh Leaves": {
+    "n": 400,
+    "raw": {
+      "mean": 0.807,
+      "median": 0.968,
+      "lt80": 0.247,
+      "lt50": 0.165
+    },
+    "close+fill": {
+      "mean": 0.825,
+      "median": 0.981,
+      "lt80": 0.225,
+      "lt50": 0.158
+    },
+    "close+fill+dilate": {
+      "mean": 0.861,
+      "median": 0.999,
+      "lt80": 0.193,
+      "lt50": 0.135
+    }
+  },
+  "Hole Leaves": {
+    "n": 400,
+    "raw": {
+      "mean": 0.765,
+      "median": 0.885,
+      "lt80": 0.335,
+      "lt50": 0.175
+    },
+    "close+fill": {
+      "mean": 0.805,
+      "median": 0.942,
+      "lt80": 0.273,
+      "lt50": 0.163
+    },
+    "close+fill+dilate": {
+      "mean": 0.854,
+      "median": 0.986,
+      "lt80": 0.205,
+      "lt50": 0.13
+    }
+  },
+  "Yellow Leaves": {
+    "n": 42,
+    "raw": {
+      "mean": 0.848,
+      "median": 0.875,
+      "lt80": 0.286,
+      "lt50": 0.024
+    },
+    "close+fill": {
+      "mean": 0.868,
+      "median": 0.914,
+      "lt80": 0.238,
+      "lt50": 0.024
+    },
+    "close+fill+dilate": {
+      "mean": 0.943,
+      "median": 0.978,
+      "lt80": 0.048,
+      "lt50": 0.024
+    }
+  }
+}

@@ -1,0 +1,36 @@
+MISSED Black Spot Leaves  20/400 failed_threshold={'sat': 19, 'hue': 1}
+   20241104_165145.png                      recall=0.00 median H=47 S=17 V=124
+   20241104_170955.png                      recall=0.01 median H=36 S=20 V=111
+   20241104_172233.png                      recall=0.02 median H=93 S=13 V=97
+   20241104_123054.png                      recall=0.02 median H=40 S=21 V=130
+   20241104_154930.png                      recall=0.03 median H=50 S=23 V=137
+   20241104_125909.png                      recall=0.03 median H=36 S=25 V=145
+   20241104_172223.png                      recall=0.04 median H=34 S=14 V=103
+   20241104_170745.png                      recall=0.06 median H=38 S=29 V=94
+   20241104_104801.png                      recall=0.07 median H=51 S=26 V=127
+   20241104_172252.png                      recall=0.08 median H=52 S=18 V=77
+MISSED Fresh Leaves       54/400 failed_threshold={'hue': 28, 'sat': 25, 'mixed': 1}
+   PXL_20241104_093512688.png               recall=0.00 median H=162 S=77 V=155
+   PXL_20241104_095625793.png               recall=0.00 median H=175 S=76 V=185
+   20241104_171201.png                      recall=0.00 median H=36 S=10 V=77
+   PXL_20241104_093518358.png               recall=0.00 median H=156 S=51 V=142
+   PXL_20241104_093531157.png               recall=0.00 median H=148 S=44 V=119
+   PXL_20241104_093547886.png               recall=0.01 median H=10 S=71 V=174
+   20241104_120913.png                      recall=0.01 median H=45 S=16 V=129
+   20241104_120611.png                      recall=0.01 median H=38 S=21 V=130
+   20241104_115755.png                      recall=0.02 median H=35 S=14 V=158
+   PXL_20241104_110106344.png               recall=0.02 median H=148 S=33 V=141
+MISSED Hole Leaves        54/400 failed_threshold={'sat': 21, 'hue': 33}
+   20241104_102810.png                      recall=0.00 median H=9 S=78 V=108
+   PXL_20241104_093734456.png               recall=0.00 median H=15 S=115 V=188
+   PXL_20241104_094143676.png               recall=0.00 median H=8 S=77 V=182
+   20241104_121939.png                      recall=0.00 median H=10 S=60 V=90
+   20241104_160128.png                      recall=0.04 median H=15 S=119 V=117
+   20241104_170018.png                      recall=0.07 median H=30 S=26 V=68
+   PXL_20241104_054500017.png               recall=0.09 median H=20 S=54 V=84
+   20241104_120443.png                      recall=0.10 median H=41 S=30 V=131
+   20241104_115334.png                      recall=0.11 median H=43 S=24 V=129
+   20241104_163025.png                      recall=0.12 median H=60 S=19 V=110
+MISSED Yellow Leaves      1/42 failed_threshold={'hue': 1}
+   20241104_165521.png                      recall=0.43 median H=20 S=142 V=128
+SAVED /helpai-storage/model/v3_twostage/results/exp1_hsv_leaf_recall/missed_leaves_original_colors.jpg

@@ -1,0 +1,176 @@
+{
+  "rose_real": {
+    "rois": [
+      [
+        0,
+        0,
+        2000,
+        1500
+      ]
+    ],
+    "tiles_used": {
+      "tiles800": 9,
+      "tiles640": 12,
+      "tiles800_gray": 9
+    },
+    "baseline_scale": 0.32,
+    "leaf_mask_frac": 0.362,
+    "baseline": {
+      "n": 116,
+      "counts": {
+        "Fresh": 50,
+        "Hole": 64,
+        "Yellow": 1,
+        "Black": 1
+      },
+      "outside_leaf_mask": 3,
+      "median_area_px": 4069
+    },
+    "tiles800": {
+      "n": 160,
+      "counts": {
+        "Fresh": 126,
+        "Hole": 28,
+        "Yellow": 2,
+        "Black": 4
+      },
+      "outside_leaf_mask": 2,
+      "median_area_px": 1908
+    },
+    "tiles640": {
+      "n": 118,
+      "counts": {
+        "Fresh": 98,
+        "Hole": 17,
+        "Yellow": 2,
+        "Black": 1
+      },
+      "outside_leaf_mask": 3,
+      "median_area_px": 1668
+    },
+    "tiles800_gray": {
+      "n": 165,
+      "counts": {
+        "Fresh": 133,
+        "Hole": 27,
+        "Yellow": 1,
+        "Black": 4
+      },
+      "outside_leaf_mask": 0,
+      "median_area_px": 1856
+    }
+  },
+  "rose_real2": {
+    "rois": [
+      [
+        0,
+        7,
+        1500,
+        1900
+      ]
+    ],
+    "tiles_used": {
+      "tiles800": 9,
+      "tiles640": 12,
+      "tiles800_gray": 9
+    },
+    "baseline_scale": 0.32,
+    "leaf_mask_frac": 0.432,
+    "baseline": {
+      "n": 103,
+      "counts": {
+        "Fresh": 96,
+        "Hole": 7
+      },
+      "outside_leaf_mask": 0,
+      "median_area_px": 5531
+    },
+    "tiles800": {
+      "n": 50,
+      "counts": {
+        "Fresh": 43,
+        "Hole": 4,
+        "Yellow": 2,
+        "Black": 1
+      },
+      "outside_leaf_mask": 0,
+      "median_area_px": 4650
+    },
+    "tiles640": {
+      "n": 48,
+      "counts": {
+        "Fresh": 44,
+        "Hole": 3,
+        "Yellow": 1
+      },
+      "outside_leaf_mask": 0,
+      "median_area_px": 27982
+    },
+    "tiles800_gray": {
+      "n": 54,
+      "counts": {
+        "Fresh": 47,
+        "Hole": 6,
+        "Yellow": 1
+      },
+      "outside_leaf_mask": 0,
+      "median_area_px": 3519
+    }
+  },
+  "rose_real3": {
+    "rois": [
+      [
+        0,
+        0,
+        1415,
+        2000
+      ]
+    ],
+    "tiles_used": {
+      "tiles800": 9,
+      "tiles640": 12,
+      "tiles800_gray": 9
+    },
+    "baseline_scale": 0.32,
+    "leaf_mask_frac": 0.503,
+    "baseline": {
+      "n": 105,
+      "counts": {
+        "Fresh": 98,
+        "Yellow": 2,
+        "Black": 3,
+        "Hole": 2
+      },
+      "outside_leaf_mask": 1,
+      "median_area_px": 5715
+    },
+    "tiles800": {
+      "n": 69,
+      "counts": {
+        "Fresh": 67,
+        "Hole": 2
+      },
+      "outside_leaf_mask": 0,
+      "median_area_px": 3785
+    },
+    "tiles640": {
+      "n": 59,
+      "counts": {
+        "Fresh": 56,
+        "Hole": 3
+      },
+      "outside_leaf_mask": 0,
+      "median_area_px": 3820
+    },
+    "tiles800_gray": {
+      "n": 70,
+      "counts": {
+        "Fresh": 66,
+        "Yellow": 2,
+        "Hole": 2
+      },
+      "outside_leaf_mask": 0,
+      "median_area_px": 3462
+    }
+  }
+}

@@ -1,0 +1,13 @@
+RECALL Black Spot Leaves  raw                n= 400 mean=0.841 median=0.928 <0.8=22.5% <0.5=8.0%
+RECALL Black Spot Leaves  close+fill         n= 400 mean=0.875 median=0.962 <0.8=16.8% <0.5=7.2%
+RECALL Black Spot Leaves  close+fill+dilate  n= 400 mean=0.913 median=0.992 <0.8=12.0% <0.5=5.0%
+RECALL Fresh Leaves       raw                n= 400 mean=0.807 median=0.968 <0.8=24.8% <0.5=16.5%
+RECALL Fresh Leaves       close+fill         n= 400 mean=0.825 median=0.981 <0.8=22.5% <0.5=15.8%
+RECALL Fresh Leaves       close+fill+dilate  n= 400 mean=0.861 median=0.999 <0.8=19.2% <0.5=13.5%
+RECALL Hole Leaves        raw                n= 400 mean=0.765 median=0.885 <0.8=33.5% <0.5=17.5%
+RECALL Hole Leaves        close+fill         n= 400 mean=0.805 median=0.942 <0.8=27.3% <0.5=16.2%
+RECALL Hole Leaves        close+fill+dilate  n= 400 mean=0.854 median=0.986 <0.8=20.5% <0.5=13.0%
+RECALL Yellow Leaves      raw                n=  42 mean=0.848 median=0.875 <0.8=28.6% <0.5=2.4%
+RECALL Yellow Leaves      close+fill         n=  42 mean=0.868 median=0.914 <0.8=23.8% <0.5=2.4%
+RECALL Yellow Leaves      close+fill+dilate  n=  42 mean=0.943 median=0.978 <0.8=4.8% <0.5=2.4%
+SAVED /helpai-storage/model/v3_twostage/results/exp1_hsv_leaf_recall
