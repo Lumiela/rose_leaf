@@ -1,0 +1,3 @@
+PHOTO v4 {'photo': 'camfix_01.jpg', 'instances': 130, 'Black': 0, 'Fresh': 116, 'Hole': 14, 'Yellow': 0, 'leaf_area': 0.415, 'yellow_in_leaf': 0.0037}
+TOTAL v4 {'Black': 0, 'Fresh': 116, 'Hole': 14, 'Yellow': 0} non-Fresh crops 14
+ALL DONE

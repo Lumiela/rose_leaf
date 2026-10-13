@@ -1,0 +1,19 @@
+WB {'photo': 'cube_05', 'gain_r': 0.94, 'gain_g': 1.09, 'gain_b': 0.98, 'orig_Black': 12, 'orig_Fresh': 114, 'orig_Hole': 6, 'orig_Yellow': 13, 'wb_Black': 6, 'wb_Fresh': 159, 'wb_Hole': 5, 'wb_Yellow': 2}
+WB {'photo': 'cube_06', 'gain_r': 0.95, 'gain_g': 1.09, 'gain_b': 0.97, 'orig_Black': 7, 'orig_Fresh': 79, 'orig_Hole': 7, 'orig_Yellow': 39, 'wb_Black': 2, 'wb_Fresh': 134, 'wb_Hole': 6, 'wb_Yellow': 11}
+WB {'photo': 'cube_07', 'gain_r': 1.01, 'gain_g': 1.0, 'gain_b': 1.0, 'orig_Black': 1, 'orig_Fresh': 191, 'orig_Hole': 5, 'orig_Yellow': 2, 'wb_Black': 1, 'wb_Fresh': 191, 'wb_Hole': 6, 'wb_Yellow': 2}
+WB {'photo': 'cube_08', 'gain_r': 0.94, 'gain_g': 1.1, 'gain_b': 0.98, 'orig_Black': 12, 'orig_Fresh': 98, 'orig_Hole': 10, 'orig_Yellow': 26, 'wb_Black': 5, 'wb_Fresh': 157, 'wb_Hole': 4, 'wb_Yellow': 3}
+WB {'photo': 'cube_09', 'gain_r': 0.96, 'gain_g': 1.11, 'gain_b': 0.94, 'orig_Black': 9, 'orig_Fresh': 121, 'orig_Hole': 2, 'orig_Yellow': 27, 'wb_Black': 3, 'wb_Fresh': 155, 'wb_Hole': 2, 'wb_Yellow': 6}
+WB {'photo': 'cube_10', 'gain_r': 0.95, 'gain_g': 1.05, 'gain_b': 1.01, 'orig_Black': 4, 'orig_Fresh': 162, 'orig_Hole': 8, 'orig_Yellow': 18, 'wb_Black': 3, 'wb_Fresh': 183, 'wb_Hole': 5, 'wb_Yellow': 6}
+WB {'photo': 'cube_11', 'gain_r': 0.95, 'gain_g': 1.08, 'gain_b': 0.98, 'orig_Black': 14, 'orig_Fresh': 121, 'orig_Hole': 0, 'orig_Yellow': 14, 'wb_Black': 3, 'wb_Fresh': 157, 'wb_Hole': 0, 'wb_Yellow': 1}
+WB {'photo': 'cube_12', 'gain_r': 0.96, 'gain_g': 1.09, 'gain_b': 0.96, 'orig_Black': 9, 'orig_Fresh': 136, 'orig_Hole': 1, 'orig_Yellow': 10, 'wb_Black': 2, 'wb_Fresh': 173, 'wb_Hole': 2, 'wb_Yellow': 1}
+WB {'photo': 'cube_13', 'gain_r': 0.96, 'gain_g': 1.09, 'gain_b': 0.96, 'orig_Black': 16, 'orig_Fresh': 152, 'orig_Hole': 14, 'orig_Yellow': 53, 'wb_Black': 5, 'wb_Fresh': 209, 'wb_Hole': 13, 'wb_Yellow': 14}
+WB {'photo': 'cube_14', 'gain_r': 0.96, 'gain_g': 1.1, 'gain_b': 0.95, 'orig_Black': 4, 'orig_Fresh': 150, 'orig_Hole': 3, 'orig_Yellow': 16, 'wb_Black': 0, 'wb_Fresh': 163, 'wb_Hole': 3, 'wb_Yellow': 4}
+WB {'photo': 'cube_15', 'gain_r': 0.97, 'gain_g': 1.07, 'gain_b': 0.97, 'orig_Black': 7, 'orig_Fresh': 55, 'orig_Hole': 12, 'orig_Yellow': 30, 'wb_Black': 4, 'wb_Fresh': 107, 'wb_Hole': 13, 'wb_Yellow': 12}
+WB {'photo': 'cube_16', 'gain_r': 0.95, 'gain_g': 1.08, 'gain_b': 0.98, 'orig_Black': 9, 'orig_Fresh': 168, 'orig_Hole': 15, 'orig_Yellow': 54, 'wb_Black': 5, 'wb_Fresh': 228, 'wb_Hole': 12, 'wb_Yellow': 5}
+WB {'photo': 'cube_17', 'gain_r': 0.95, 'gain_g': 1.07, 'gain_b': 0.98, 'orig_Black': 9, 'orig_Fresh': 171, 'orig_Hole': 12, 'orig_Yellow': 27, 'wb_Black': 6, 'wb_Fresh': 221, 'wb_Hole': 9, 'wb_Yellow': 3}
+WB {'photo': 'cube_18', 'gain_r': 0.95, 'gain_g': 1.11, 'gain_b': 0.96, 'orig_Black': 19, 'orig_Fresh': 55, 'orig_Hole': 3, 'orig_Yellow': 39, 'wb_Black': 9, 'wb_Fresh': 101, 'wb_Hole': 3, 'wb_Yellow': 11}
+WB {'photo': 'cube_19', 'gain_r': 1.01, 'gain_g': 1.0, 'gain_b': 0.99, 'orig_Black': 0, 'orig_Fresh': 200, 'orig_Hole': 6, 'orig_Yellow': 0, 'wb_Black': 1, 'wb_Fresh': 198, 'wb_Hole': 6, 'wb_Yellow': 0}
+WB {'photo': 'cube_20', 'gain_r': 0.95, 'gain_g': 1.11, 'gain_b': 0.96, 'orig_Black': 9, 'orig_Fresh': 78, 'orig_Hole': 6, 'orig_Yellow': 25, 'wb_Black': 3, 'wb_Fresh': 124, 'wb_Hole': 5, 'wb_Yellow': 2}
+WB {'photo': 'cube_21', 'gain_r': 0.96, 'gain_g': 1.06, 'gain_b': 0.99, 'orig_Black': 9, 'orig_Fresh': 121, 'orig_Hole': 53, 'orig_Yellow': 12, 'wb_Black': 11, 'wb_Fresh': 162, 'wb_Hole': 39, 'wb_Yellow': 1}
+WB {'photo': 'cube_22', 'gain_r': 1.0, 'gain_g': 1.01, 'gain_b': 1.0, 'orig_Black': 3, 'orig_Fresh': 135, 'orig_Hole': 48, 'orig_Yellow': 3, 'wb_Black': 3, 'wb_Fresh': 135, 'wb_Hole': 48, 'wb_Yellow': 2}
+TOTAL {'orig_Black': 153, 'orig_Fresh': 2307, 'orig_Hole': 211, 'orig_Yellow': 408, 'wb_Black': 72, 'wb_Fresh': 2957, 'wb_Hole': 181, 'wb_Yellow': 86}

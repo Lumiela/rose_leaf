@@ -1,0 +1,39 @@
+PHOTO v4 {'photo': 'cube_05.jpg', 'instances': 145, 'Black': 12, 'Fresh': 114, 'Hole': 6, 'Yellow': 13, 'leaf_area': 0.272, 'yellow_in_leaf': 0.0579}
+PHOTO v4 {'photo': 'cube_06.jpg', 'instances': 132, 'Black': 7, 'Fresh': 79, 'Hole': 7, 'Yellow': 39, 'leaf_area': 0.338, 'yellow_in_leaf': 0.0566}
+PHOTO v4 {'photo': 'cube_07.jpg', 'instances': 199, 'Black': 1, 'Fresh': 191, 'Hole': 5, 'Yellow': 2, 'leaf_area': 0.339, 'yellow_in_leaf': 0.0046}
+PHOTO v4 {'photo': 'cube_08.jpg', 'instances': 146, 'Black': 12, 'Fresh': 98, 'Hole': 10, 'Yellow': 26, 'leaf_area': 0.323, 'yellow_in_leaf': 0.0805}
+PHOTO v4 {'photo': 'cube_09.jpg', 'instances': 159, 'Black': 9, 'Fresh': 121, 'Hole': 2, 'Yellow': 27, 'leaf_area': 0.186, 'yellow_in_leaf': 0.0806}
+PHOTO v4 {'photo': 'cube_10.jpg', 'instances': 192, 'Black': 4, 'Fresh': 162, 'Hole': 8, 'Yellow': 18, 'leaf_area': 0.237, 'yellow_in_leaf': 0.0355}
+PHOTO v4 {'photo': 'cube_11.jpg', 'instances': 149, 'Black': 14, 'Fresh': 121, 'Hole': 0, 'Yellow': 14, 'leaf_area': 0.152, 'yellow_in_leaf': 0.0623}
+PHOTO v4 {'photo': 'cube_12.jpg', 'instances': 156, 'Black': 9, 'Fresh': 136, 'Hole': 1, 'Yellow': 10, 'leaf_area': 0.193, 'yellow_in_leaf': 0.0523}
+PHOTO v4 {'photo': 'cube_13.jpg', 'instances': 235, 'Black': 16, 'Fresh': 152, 'Hole': 14, 'Yellow': 53, 'leaf_area': 0.351, 'yellow_in_leaf': 0.0827}
+PHOTO v4 {'photo': 'cube_14.jpg', 'instances': 173, 'Black': 4, 'Fresh': 150, 'Hole': 3, 'Yellow': 16, 'leaf_area': 0.239, 'yellow_in_leaf': 0.0567}
+PHOTO v4 {'photo': 'cube_15.jpg', 'instances': 104, 'Black': 7, 'Fresh': 55, 'Hole': 12, 'Yellow': 30, 'leaf_area': 0.204, 'yellow_in_leaf': 0.0948}
+PHOTO v4 {'photo': 'cube_16.jpg', 'instances': 246, 'Black': 9, 'Fresh': 168, 'Hole': 15, 'Yellow': 54, 'leaf_area': 0.346, 'yellow_in_leaf': 0.0781}
+PHOTO v4 {'photo': 'cube_17.jpg', 'instances': 219, 'Black': 9, 'Fresh': 171, 'Hole': 12, 'Yellow': 27, 'leaf_area': 0.451, 'yellow_in_leaf': 0.0437}
+PHOTO v4 {'photo': 'cube_18.jpg', 'instances': 116, 'Black': 19, 'Fresh': 55, 'Hole': 3, 'Yellow': 39, 'leaf_area': 0.174, 'yellow_in_leaf': 0.0931}
+PHOTO v4 {'photo': 'cube_19.jpg', 'instances': 206, 'Black': 0, 'Fresh': 200, 'Hole': 6, 'Yellow': 0, 'leaf_area': 0.325, 'yellow_in_leaf': 0.0031}
+PHOTO v4 {'photo': 'cube_20.jpg', 'instances': 118, 'Black': 9, 'Fresh': 78, 'Hole': 6, 'Yellow': 25, 'leaf_area': 0.145, 'yellow_in_leaf': 0.0733}
+PHOTO v4 {'photo': 'cube_21.jpg', 'instances': 195, 'Black': 9, 'Fresh': 121, 'Hole': 53, 'Yellow': 12, 'leaf_area': 0.237, 'yellow_in_leaf': 0.0228}
+PHOTO v4 {'photo': 'cube_22.jpg', 'instances': 189, 'Black': 3, 'Fresh': 135, 'Hole': 48, 'Yellow': 3, 'leaf_area': 0.209, 'yellow_in_leaf': 0.0091}
+TOTAL v4 {'Black': 153, 'Fresh': 2307, 'Hole': 211, 'Yellow': 408} non-Fresh crops 772
+PHOTO ft_from_v1 {'photo': 'cube_05.jpg', 'instances': 89, 'Black': 7, 'Fresh': 72, 'Hole': 6, 'Yellow': 4, 'leaf_area': 0.214, 'yellow_in_leaf': 0.0553}
+PHOTO ft_from_v1 {'photo': 'cube_06.jpg', 'instances': 75, 'Black': 9, 'Fresh': 48, 'Hole': 13, 'Yellow': 5, 'leaf_area': 0.145, 'yellow_in_leaf': 0.1012}
+PHOTO ft_from_v1 {'photo': 'cube_07.jpg', 'instances': 124, 'Black': 5, 'Fresh': 109, 'Hole': 7, 'Yellow': 3, 'leaf_area': 0.319, 'yellow_in_leaf': 0.0055}
+PHOTO ft_from_v1 {'photo': 'cube_08.jpg', 'instances': 100, 'Black': 10, 'Fresh': 76, 'Hole': 7, 'Yellow': 7, 'leaf_area': 0.206, 'yellow_in_leaf': 0.1148}
+PHOTO ft_from_v1 {'photo': 'cube_09.jpg', 'instances': 124, 'Black': 5, 'Fresh': 111, 'Hole': 1, 'Yellow': 7, 'leaf_area': 0.15, 'yellow_in_leaf': 0.0928}
+PHOTO ft_from_v1 {'photo': 'cube_10.jpg', 'instances': 146, 'Black': 12, 'Fresh': 121, 'Hole': 5, 'Yellow': 8, 'leaf_area': 0.184, 'yellow_in_leaf': 0.0427}
+PHOTO ft_from_v1 {'photo': 'cube_11.jpg', 'instances': 121, 'Black': 18, 'Fresh': 97, 'Hole': 1, 'Yellow': 5, 'leaf_area': 0.144, 'yellow_in_leaf': 0.0638}
+PHOTO ft_from_v1 {'photo': 'cube_12.jpg', 'instances': 121, 'Black': 14, 'Fresh': 103, 'Hole': 1, 'Yellow': 3, 'leaf_area': 0.151, 'yellow_in_leaf': 0.0597}
+PHOTO ft_from_v1 {'photo': 'cube_13.jpg', 'instances': 132, 'Black': 12, 'Fresh': 94, 'Hole': 15, 'Yellow': 11, 'leaf_area': 0.258, 'yellow_in_leaf': 0.0935}
+PHOTO ft_from_v1 {'photo': 'cube_14.jpg', 'instances': 114, 'Black': 9, 'Fresh': 101, 'Hole': 0, 'Yellow': 4, 'leaf_area': 0.161, 'yellow_in_leaf': 0.0634}
+PHOTO ft_from_v1 {'photo': 'cube_15.jpg', 'instances': 59, 'Black': 4, 'Fresh': 34, 'Hole': 17, 'Yellow': 4, 'leaf_area': 0.112, 'yellow_in_leaf': 0.0674}
+PHOTO ft_from_v1 {'photo': 'cube_16.jpg', 'instances': 168, 'Black': 12, 'Fresh': 127, 'Hole': 11, 'Yellow': 18, 'leaf_area': 0.258, 'yellow_in_leaf': 0.0886}
+PHOTO ft_from_v1 {'photo': 'cube_17.jpg', 'instances': 145, 'Black': 12, 'Fresh': 115, 'Hole': 10, 'Yellow': 8, 'leaf_area': 0.292, 'yellow_in_leaf': 0.0719}
+PHOTO ft_from_v1 {'photo': 'cube_18.jpg', 'instances': 84, 'Black': 20, 'Fresh': 50, 'Hole': 2, 'Yellow': 12, 'leaf_area': 0.158, 'yellow_in_leaf': 0.0872}
+PHOTO ft_from_v1 {'photo': 'cube_19.jpg', 'instances': 115, 'Black': 0, 'Fresh': 105, 'Hole': 10, 'Yellow': 0, 'leaf_area': 0.239, 'yellow_in_leaf': 0.0039}
+PHOTO ft_from_v1 {'photo': 'cube_20.jpg', 'instances': 99, 'Black': 20, 'Fresh': 76, 'Hole': 1, 'Yellow': 2, 'leaf_area': 0.128, 'yellow_in_leaf': 0.089}
+PHOTO ft_from_v1 {'photo': 'cube_21.jpg', 'instances': 137, 'Black': 8, 'Fresh': 82, 'Hole': 45, 'Yellow': 2, 'leaf_area': 0.185, 'yellow_in_leaf': 0.0167}
+PHOTO ft_from_v1 {'photo': 'cube_22.jpg', 'instances': 108, 'Black': 0, 'Fresh': 45, 'Hole': 63, 'Yellow': 0, 'leaf_area': 0.18, 'yellow_in_leaf': 0.0064}
+TOTAL ft_from_v1 {'Black': 177, 'Fresh': 1566, 'Hole': 215, 'Yellow': 103} non-Fresh crops 495
+ALL DONE
