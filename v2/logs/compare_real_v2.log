@@ -1,0 +1,15 @@
+CNT v1 rose_real.webp {'Hole': 5}
+CNT v1 rose_real2.webp {'Black': 1, 'Hole': 4}
+CNT v1 rose_real3.webp {'Black': 1, 'Hole': 3}
+CNT ft_from_v1 rose_real.webp {'Black': 1, 'Fresh': 50, 'Hole': 64, 'Yellow': 1}
+CNT ft_from_v1 rose_real2.webp {'Fresh': 96, 'Hole': 7}
+CNT ft_from_v1 rose_real3.webp {'Black': 3, 'Fresh': 98, 'Hole': 2, 'Yellow': 2}
+CNT coco_init rose_real.webp {'Black': 1, 'Fresh': 31, 'Hole': 12, 'Yellow': 3}
+CNT coco_init rose_real2.webp {'Black': 2, 'Fresh': 99, 'Hole': 3, 'Yellow': 1}
+CNT coco_init rose_real3.webp {'Black': 3, 'Fresh': 70, 'Hole': 7, 'Yellow': 4}
+SAVED eval_v2_early/compare_3models/rose_real_all.jpg (2716, 675)
+SAVED eval_v2_early/compare_3models/rose_real_disease.jpg (2716, 675)
+SAVED eval_v2_early/compare_3models/rose_real2_all.jpg (2041, 900)
+SAVED eval_v2_early/compare_3models/rose_real2_disease.jpg (2041, 900)
+SAVED eval_v2_early/compare_3models/rose_real3_all.jpg (2041, 900)
+SAVED eval_v2_early/compare_3models/rose_real3_disease.jpg (2041, 900)

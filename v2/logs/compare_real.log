@@ -1,0 +1,7 @@
+CMP v1 rose_real.webp n= 5 {'Hole': 5}
+CMP v1 rose_real2.webp n= 5 {'Hole': 4, 'Black': 1}
+CMP v1 rose_real3.webp n= 4 {'Hole': 3, 'Black': 1}
+CMP ft_from_v1 rose_real.webp n= 116 {'Fresh': 50, 'Hole': 64, 'Yellow': 1, 'Black': 1}
+CMP ft_from_v1 rose_real2.webp n= 103 {'Fresh': 96, 'Hole': 7}
+CMP ft_from_v1 rose_real3.webp n= 105 {'Fresh': 98, 'Yellow': 2, 'Black': 3, 'Hole': 2}
+SAVED eval_v2_early/compare_v1_vs_ft.jpg (1052, 1448)

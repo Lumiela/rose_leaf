@@ -1,0 +1,5 @@
+CKPT runs/rose_seg_v2/ft_from_v1/weights/best.pt | size 23.4MB | mtime 10-12 19:23 | epoch -1 | best_fitness None | mask mAP50 0.81931 mAP50-95 0.66333 | fitness 1.34999 | has_optimizer False
+CKPT runs/rose_seg_v2/ft_from_v1/weights/last.pt | size 23.4MB | mtime 10-12 19:23 | epoch -1 | best_fitness None | mask mAP50 0.76835 mAP50-95 0.62191 | fitness 1.26757 | has_optimizer False
+CKPT runs/rose_seg_v2/coco_init/weights/best.pt | size 92.4MB | mtime 10-12 22:35 | epoch 12 | best_fitness 1.32695 | mask mAP50 0.82581 mAP50-95 0.65797 | fitness 1.32695 | has_optimizer True
+CKPT runs/rose_seg_v2/coco_init/weights/last.pt | size 92.4MB | mtime 10-13 00:02 | epoch 18 | best_fitness 1.32695 | mask mAP50 0.80657 mAP50-95 0.64709 | fitness 1.31416 | has_optimizer True
+CKPT runs/rose_seg/yolo26s-seg/weights/best.pt | size 23.4MB | mtime 10-12 07:00 | epoch -1 | best_fitness None | mask mAP50 0.91474 mAP50-95 0.88467 | fitness 1.74818 | has_optimizer False

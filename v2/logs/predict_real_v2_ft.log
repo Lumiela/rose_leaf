@@ -1,0 +1,8 @@
+Results saved to [1m/helpai-storage/model/v2_realbg/eval_v2_early/ft_from_v1_conf025[0m
+PRED ft_from_v1 0.25 rose_real.webp n= 116 {'Fresh Leaves': 50, 'Hole Leaves': 64, 'Yellow Leaves': 1, 'Black Spot Leaves': 1} max_conf=0.86
+PRED ft_from_v1 0.25 rose_real2.webp n= 103 {'Fresh Leaves': 96, 'Hole Leaves': 7} max_conf=0.90
+PRED ft_from_v1 0.25 rose_real3.webp n= 105 {'Fresh Leaves': 98, 'Yellow Leaves': 2, 'Black Spot Leaves': 3, 'Hole Leaves': 2} max_conf=0.90
+Results saved to [1m/helpai-storage/model/v2_realbg/eval_v2_early/ft_from_v1_conf010[0m
+PRED ft_from_v1 0.1 rose_real.webp n= 300 {'Fresh Leaves': 112, 'Hole Leaves': 183, 'Yellow Leaves': 3, 'Black Spot Leaves': 2} max_conf=0.86
+PRED ft_from_v1 0.1 rose_real2.webp n= 227 {'Fresh Leaves': 195, 'Hole Leaves': 31, 'Black Spot Leaves': 1} max_conf=0.90
+PRED ft_from_v1 0.1 rose_real3.webp n= 227 {'Fresh Leaves': 196, 'Yellow Leaves': 4, 'Black Spot Leaves': 8, 'Hole Leaves': 19} max_conf=0.90
