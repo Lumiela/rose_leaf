@@ -1,0 +1,4015 @@
+{
+ "photo": "rose_real.webp",
+ "size": [
+  2000,
+  1500
+ ],
+ "median_side": 64.0,
+ "tiles": true,
+ "proposals": [
+  {
+   "id": 0,
+   "box": [
+    939,
+    149,
+    1019,
+    188
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.413,
+   "src": "tile",
+   "area": 1859
+  },
+  {
+   "id": 1,
+   "box": [
+    941,
+    139,
+    1050,
+    204
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.114,
+   "src": "full",
+   "area": 3984
+  },
+  {
+   "id": 2,
+   "box": [
+    954,
+    131,
+    1120,
+    260
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.529,
+   "src": "tile",
+   "area": 8849
+  },
+  {
+   "id": 3,
+   "box": [
+    1009,
+    137,
+    1054,
+    228
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.295,
+   "src": "full",
+   "area": 2952
+  },
+  {
+   "id": 4,
+   "box": [
+    1018,
+    135,
+    1056,
+    191
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.886,
+   "src": "tile",
+   "area": 1515
+  },
+  {
+   "id": 5,
+   "box": [
+    1063,
+    117,
+    1150,
+    256
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.283,
+   "src": "full",
+   "area": 5011
+  },
+  {
+   "id": 6,
+   "box": [
+    1064,
+    159,
+    1106,
+    208
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.691,
+   "src": "tile",
+   "area": 984
+  },
+  {
+   "id": 7,
+   "box": [
+    1100,
+    111,
+    1131,
+    168
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.796,
+   "src": "tile",
+   "area": 1077
+  },
+  {
+   "id": 8,
+   "box": [
+    1113,
+    167,
+    1152,
+    182
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.678,
+   "src": "tile",
+   "area": 454
+  },
+  {
+   "id": 9,
+   "box": [
+    1201,
+    181,
+    1309,
+    249
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.55,
+   "src": "full",
+   "area": 4473
+  },
+  {
+   "id": 10,
+   "box": [
+    1201,
+    178,
+    1261,
+    235
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.502,
+   "src": "full",
+   "area": 2306
+  },
+  {
+   "id": 11,
+   "box": [
+    1428,
+    82,
+    1678,
+    406
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.174,
+   "src": "tile",
+   "area": 66315
+  },
+  {
+   "id": 12,
+   "box": [
+    1546,
+    0,
+    1789,
+    273
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.171,
+   "src": "tile",
+   "area": 56681
+  },
+  {
+   "id": 13,
+   "box": [
+    1586,
+    0,
+    1623,
+    18
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.32,
+   "src": "tile",
+   "area": 326
+  },
+  {
+   "id": 14,
+   "box": [
+    128,
+    383,
+    252,
+    475
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.721,
+   "src": "full",
+   "area": 7634
+  },
+  {
+   "id": 15,
+   "box": [
+    246,
+    324,
+    310,
+    358
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.816,
+   "src": "tile",
+   "area": 1710
+  },
+  {
+   "id": 16,
+   "box": [
+    258,
+    382,
+    311,
+    440
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.228,
+   "src": "tile",
+   "area": 1700
+  },
+  {
+   "id": 17,
+   "box": [
+    262,
+    382,
+    293,
+    412
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.226,
+   "src": "tile",
+   "area": 382
+  },
+  {
+   "id": 18,
+   "box": [
+    263,
+    357,
+    338,
+    438
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.319,
+   "src": "full",
+   "area": 4112
+  },
+  {
+   "id": 19,
+   "box": [
+    292,
+    357,
+    334,
+    397
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.748,
+   "src": "tile",
+   "area": 1327
+  },
+  {
+   "id": 20,
+   "box": [
+    307,
+    297,
+    370,
+    324
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.794,
+   "src": "tile",
+   "area": 925
+  },
+  {
+   "id": 21,
+   "box": [
+    309,
+    299,
+    371,
+    349
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.432,
+   "src": "full",
+   "area": 2275
+  },
+  {
+   "id": 22,
+   "box": [
+    313,
+    312,
+    349,
+    352
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.83,
+   "src": "tile",
+   "area": 1145
+  },
+  {
+   "id": 23,
+   "box": [
+    326,
+    312,
+    460,
+    466
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.592,
+   "src": "full",
+   "area": 11397
+  },
+  {
+   "id": 24,
+   "box": [
+    377,
+    395,
+    403,
+    420
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.299,
+   "src": "tile",
+   "area": 456
+  },
+  {
+   "id": 25,
+   "box": [
+    392,
+    261,
+    428,
+    299
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.711,
+   "src": "tile",
+   "area": 1055
+  },
+  {
+   "id": 26,
+   "box": [
+    398,
+    270,
+    453,
+    317
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.344,
+   "src": "full",
+   "area": 1819
+  },
+  {
+   "id": 27,
+   "box": [
+    398,
+    258,
+    483,
+    308
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.134,
+   "src": "full",
+   "area": 2470
+  },
+  {
+   "id": 28,
+   "box": [
+    405,
+    357,
+    461,
+    424
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.308,
+   "src": "tile",
+   "area": 2195
+  },
+  {
+   "id": 29,
+   "box": [
+    432,
+    235,
+    499,
+    281
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.639,
+   "src": "tile",
+   "area": 2006
+  },
+  {
+   "id": 30,
+   "box": [
+    456,
+    383,
+    564,
+    467
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.371,
+   "src": "full",
+   "area": 5251
+  },
+  {
+   "id": 31,
+   "box": [
+    481,
+    360,
+    681,
+    622
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.45,
+   "src": "tile",
+   "area": 45654
+  },
+  {
+   "id": 32,
+   "box": [
+    547,
+    368,
+    693,
+    462
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.552,
+   "src": "full",
+   "area": 8770
+  },
+  {
+   "id": 33,
+   "box": [
+    554,
+    335,
+    596,
+    384
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.655,
+   "src": "tile",
+   "area": 1448
+  },
+  {
+   "id": 34,
+   "box": [
+    585,
+    343,
+    911,
+    639
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.275,
+   "src": "tile",
+   "area": 80482
+  },
+  {
+   "id": 35,
+   "box": [
+    593,
+    305,
+    648,
+    354
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.432,
+   "src": "full",
+   "area": 1808
+  },
+  {
+   "id": 36,
+   "box": [
+    616,
+    314,
+    711,
+    397
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.334,
+   "src": "full",
+   "area": 5636
+  },
+  {
+   "id": 37,
+   "box": [
+    683,
+    316,
+    784,
+    432
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.399,
+   "src": "full",
+   "area": 5709
+  },
+  {
+   "id": 38,
+   "box": [
+    691,
+    383,
+    779,
+    466
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.184,
+   "src": "full",
+   "area": 3708
+  },
+  {
+   "id": 39,
+   "box": [
+    696,
+    298,
+    770,
+    369
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.104,
+   "src": "full",
+   "area": 3443
+  },
+  {
+   "id": 40,
+   "box": [
+    702,
+    298,
+    766,
+    339
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.229,
+   "src": "full",
+   "area": 1534
+  },
+  {
+   "id": 41,
+   "box": [
+    747,
+    368,
+    923,
+    514
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.222,
+   "src": "tile",
+   "area": 19115
+  },
+  {
+   "id": 42,
+   "box": [
+    749,
+    343,
+    776,
+    365
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.662,
+   "src": "tile",
+   "area": 496
+  },
+  {
+   "id": 43,
+   "box": [
+    753,
+    368,
+    857,
+    451
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.47,
+   "src": "full",
+   "area": 5951
+  },
+  {
+   "id": 44,
+   "box": [
+    780,
+    344,
+    816,
+    376
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.302,
+   "src": "tile",
+   "area": 853
+  },
+  {
+   "id": 45,
+   "box": [
+    781,
+    306,
+    817,
+    365
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.496,
+   "src": "full",
+   "area": 1363
+  },
+  {
+   "id": 46,
+   "box": [
+    788,
+    308,
+    875,
+    370
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.254,
+   "src": "full",
+   "area": 2657
+  },
+  {
+   "id": 47,
+   "box": [
+    799,
+    311,
+    863,
+    346
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.187,
+   "src": "full",
+   "area": 1479
+  },
+  {
+   "id": 48,
+   "box": [
+    810,
+    365,
+    835,
+    380
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.169,
+   "src": "tile",
+   "area": 227
+  },
+  {
+   "id": 49,
+   "box": [
+    816,
+    315,
+    867,
+    336
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.295,
+   "src": "tile",
+   "area": 711
+  },
+  {
+   "id": 50,
+   "box": [
+    830,
+    375,
+    870,
+    422
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.179,
+   "src": "tile",
+   "area": 1296
+  },
+  {
+   "id": 51,
+   "box": [
+    843,
+    344,
+    890,
+    373
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.82,
+   "src": "tile",
+   "area": 1002
+  },
+  {
+   "id": 52,
+   "box": [
+    987,
+    247,
+    1154,
+    401
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.187,
+   "src": "tile",
+   "area": 8377
+  },
+  {
+   "id": 53,
+   "box": [
+    992,
+    215,
+    1233,
+    414
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.207,
+   "src": "tile",
+   "area": 22017
+  },
+  {
+   "id": 54,
+   "box": [
+    1016,
+    338,
+    1126,
+    400
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.486,
+   "src": "full",
+   "area": 3795
+  },
+  {
+   "id": 55,
+   "box": [
+    1016,
+    302,
+    1206,
+    413
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.246,
+   "src": "tile",
+   "area": 8150
+  },
+  {
+   "id": 56,
+   "box": [
+    1061,
+    297,
+    1571,
+    640
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.634,
+   "src": "tile",
+   "area": 118734
+  },
+  {
+   "id": 57,
+   "box": [
+    1070,
+    337,
+    1095,
+    370
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.678,
+   "src": "tile",
+   "area": 628
+  },
+  {
+   "id": 58,
+   "box": [
+    1105,
+    340,
+    1161,
+    392
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.181,
+   "src": "tile",
+   "area": 1005
+  },
+  {
+   "id": 59,
+   "box": [
+    1111,
+    339,
+    1132,
+    369
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.344,
+   "src": "tile",
+   "area": 390
+  },
+  {
+   "id": 60,
+   "box": [
+    1116,
+    389,
+    1234,
+    483
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.32,
+   "src": "full",
+   "area": 6561
+  },
+  {
+   "id": 61,
+   "box": [
+    1133,
+    217,
+    1236,
+    325
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.177,
+   "src": "full",
+   "area": 6877
+  },
+  {
+   "id": 62,
+   "box": [
+    1138,
+    345,
+    1235,
+    428
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.274,
+   "src": "tile",
+   "area": 5171
+  },
+  {
+   "id": 63,
+   "box": [
+    1145,
+    311,
+    1185,
+    341
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.556,
+   "src": "tile",
+   "area": 742
+  },
+  {
+   "id": 64,
+   "box": [
+    1147,
+    343,
+    1195,
+    383
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.524,
+   "src": "tile",
+   "area": 1187
+  },
+  {
+   "id": 65,
+   "box": [
+    1152,
+    332,
+    1260,
+    411
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.294,
+   "src": "full",
+   "area": 4494
+  },
+  {
+   "id": 66,
+   "box": [
+    1156,
+    269,
+    1260,
+    352
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.109,
+   "src": "full",
+   "area": 5010
+  },
+  {
+   "id": 67,
+   "box": [
+    1181,
+    249,
+    1288,
+    332
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.132,
+   "src": "full",
+   "area": 4488
+  },
+  {
+   "id": 68,
+   "box": [
+    1185,
+    259,
+    1252,
+    323
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.117,
+   "src": "full",
+   "area": 2597
+  },
+  {
+   "id": 69,
+   "box": [
+    1210,
+    231,
+    1237,
+    258
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.575,
+   "src": "tile",
+   "area": 480
+  },
+  {
+   "id": 70,
+   "box": [
+    1224,
+    358,
+    1318,
+    454
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.358,
+   "src": "full",
+   "area": 5593
+  },
+  {
+   "id": 71,
+   "box": [
+    1240,
+    275,
+    1340,
+    366
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.107,
+   "src": "full",
+   "area": 5236
+  },
+  {
+   "id": 72,
+   "box": [
+    1243,
+    263,
+    1402,
+    356
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.213,
+   "src": "full",
+   "area": 7788
+  },
+  {
+   "id": 73,
+   "box": [
+    1265,
+    314,
+    1305,
+    346
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.672,
+   "src": "tile",
+   "area": 903
+  },
+  {
+   "id": 74,
+   "box": [
+    1271,
+    245,
+    1296,
+    277
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.42,
+   "src": "tile",
+   "area": 580
+  },
+  {
+   "id": 75,
+   "box": [
+    1278,
+    346,
+    1333,
+    383
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.257,
+   "src": "tile",
+   "area": 1131
+  },
+  {
+   "id": 76,
+   "box": [
+    1298,
+    259,
+    1333,
+    284
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.483,
+   "src": "tile",
+   "area": 645
+  },
+  {
+   "id": 77,
+   "box": [
+    1299,
+    398,
+    1419,
+    531
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.125,
+   "src": "full",
+   "area": 9558
+  },
+  {
+   "id": 78,
+   "box": [
+    1304,
+    356,
+    1380,
+    420
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.162,
+   "src": "full",
+   "area": 3400
+  },
+  {
+   "id": 79,
+   "box": [
+    1308,
+    228,
+    1390,
+    271
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.502,
+   "src": "tile",
+   "area": 2306
+  },
+  {
+   "id": 80,
+   "box": [
+    1325,
+    275,
+    1414,
+    338
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.182,
+   "src": "tile",
+   "area": 3613
+  },
+  {
+   "id": 81,
+   "box": [
+    1331,
+    267,
+    1427,
+    363
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.321,
+   "src": "full",
+   "area": 7087
+  },
+  {
+   "id": 82,
+   "box": [
+    1350,
+    365,
+    1482,
+    443
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.4,
+   "src": "full",
+   "area": 6989
+  },
+  {
+   "id": 83,
+   "box": [
+    1354,
+    248,
+    1402,
+    300
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.279,
+   "src": "tile",
+   "area": 935
+  },
+  {
+   "id": 84,
+   "box": [
+    1380,
+    236,
+    1420,
+    273
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.816,
+   "src": "tile",
+   "area": 1080
+  },
+  {
+   "id": 85,
+   "box": [
+    1393,
+    330,
+    1459,
+    375
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.135,
+   "src": "full",
+   "area": 2275
+  },
+  {
+   "id": 86,
+   "box": [
+    1399,
+    339,
+    1443,
+    372
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.191,
+   "src": "tile",
+   "area": 1085
+  },
+  {
+   "id": 87,
+   "box": [
+    1413,
+    306,
+    1435,
+    335
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.167,
+   "src": "tile",
+   "area": 456
+  },
+  {
+   "id": 88,
+   "box": [
+    1419,
+    217,
+    1549,
+    362
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.115,
+   "src": "full",
+   "area": 7538
+  },
+  {
+   "id": 89,
+   "box": [
+    1420,
+    285,
+    1449,
+    308
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.374,
+   "src": "tile",
+   "area": 442
+  },
+  {
+   "id": 90,
+   "box": [
+    1422,
+    216,
+    1627,
+    400
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.179,
+   "src": "tile",
+   "area": 19409
+  },
+  {
+   "id": 91,
+   "box": [
+    1436,
+    382,
+    1500,
+    415
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.43,
+   "src": "tile",
+   "area": 1279
+  },
+  {
+   "id": 92,
+   "box": [
+    1446,
+    313,
+    1526,
+    434
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.17,
+   "src": "full",
+   "area": 5030
+  },
+  {
+   "id": 93,
+   "box": [
+    1450,
+    399,
+    1524,
+    464
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.47,
+   "src": "full",
+   "area": 3582
+  },
+  {
+   "id": 94,
+   "box": [
+    1466,
+    221,
+    1520,
+    249
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.326,
+   "src": "tile",
+   "area": 836
+  },
+  {
+   "id": 95,
+   "box": [
+    1488,
+    341,
+    1521,
+    375
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.48,
+   "src": "tile",
+   "area": 750
+  },
+  {
+   "id": 96,
+   "box": [
+    1503,
+    286,
+    1536,
+    309
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.445,
+   "src": "tile",
+   "area": 586
+  },
+  {
+   "id": 97,
+   "box": [
+    1510,
+    378,
+    1548,
+    406
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.516,
+   "src": "tile",
+   "area": 685
+  },
+  {
+   "id": 98,
+   "box": [
+    1524,
+    252,
+    1550,
+    289
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.661,
+   "src": "tile",
+   "area": 706
+  },
+  {
+   "id": 99,
+   "box": [
+    1555,
+    278,
+    1591,
+    306
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.182,
+   "src": "tile",
+   "area": 737
+  },
+  {
+   "id": 100,
+   "box": [
+    1556,
+    246,
+    1607,
+    306
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.291,
+   "src": "tile",
+   "area": 1906
+  },
+  {
+   "id": 101,
+   "box": [
+    1,
+    480,
+    210,
+    694
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.302,
+   "src": "tile",
+   "area": 27617
+  },
+  {
+   "id": 102,
+   "box": [
+    8,
+    565,
+    271,
+    926
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.247,
+   "src": "tile",
+   "area": 55944
+  },
+  {
+   "id": 103,
+   "box": [
+    15,
+    589,
+    166,
+    696
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.638,
+   "src": "full",
+   "area": 9175
+  },
+  {
+   "id": 104,
+   "box": [
+    72,
+    567,
+    155,
+    619
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.347,
+   "src": "full",
+   "area": 2995
+  },
+  {
+   "id": 105,
+   "box": [
+    111,
+    416,
+    561,
+    640
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.521,
+   "src": "tile",
+   "area": 73578
+  },
+  {
+   "id": 106,
+   "box": [
+    125,
+    480,
+    567,
+    780
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.299,
+   "src": "tile",
+   "area": 99026
+  },
+  {
+   "id": 107,
+   "box": [
+    137,
+    563,
+    169,
+    597
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.229,
+   "src": "tile",
+   "area": 437
+  },
+  {
+   "id": 108,
+   "box": [
+    139,
+    568,
+    186,
+    611
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.115,
+   "src": "full",
+   "area": 1201
+  },
+  {
+   "id": 109,
+   "box": [
+    150,
+    516,
+    273,
+    614
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.259,
+   "src": "full",
+   "area": 5894
+  },
+  {
+   "id": 110,
+   "box": [
+    152,
+    518,
+    201,
+    568
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.377,
+   "src": "full",
+   "area": 1614
+  },
+  {
+   "id": 111,
+   "box": [
+    198,
+    443,
+    326,
+    534
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.383,
+   "src": "full",
+   "area": 6966
+  },
+  {
+   "id": 112,
+   "box": [
+    219,
+    425,
+    262,
+    467
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.209,
+   "src": "full",
+   "area": 1441
+  },
+  {
+   "id": 113,
+   "box": [
+    239,
+    445,
+    321,
+    497
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.332,
+   "src": "full",
+   "area": 3254
+  },
+  {
+   "id": 114,
+   "box": [
+    257,
+    412,
+    274,
+    431
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.17,
+   "src": "tile",
+   "area": 230
+  },
+  {
+   "id": 115,
+   "box": [
+    270,
+    562,
+    361,
+    640
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.228,
+   "src": "full",
+   "area": 4451
+  },
+  {
+   "id": 116,
+   "box": [
+    281,
+    430,
+    473,
+    596
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.287,
+   "src": "full",
+   "area": 15993
+  },
+  {
+   "id": 117,
+   "box": [
+    321,
+    401,
+    355,
+    437
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.171,
+   "src": "tile",
+   "area": 709
+  },
+  {
+   "id": 118,
+   "box": [
+    339,
+    582,
+    420,
+    649
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.214,
+   "src": "full",
+   "area": 3704
+  },
+  {
+   "id": 119,
+   "box": [
+    341,
+    551,
+    423,
+    648
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.116,
+   "src": "full",
+   "area": 5191
+  },
+  {
+   "id": 120,
+   "box": [
+    380,
+    530,
+    478,
+    623
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.106,
+   "src": "full",
+   "area": 5102
+  },
+  {
+   "id": 121,
+   "box": [
+    406,
+    568,
+    477,
+    647
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.344,
+   "src": "full",
+   "area": 4008
+  },
+  {
+   "id": 122,
+   "box": [
+    426,
+    431,
+    496,
+    484
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.266,
+   "src": "full",
+   "area": 2289
+  },
+  {
+   "id": 123,
+   "box": [
+    431,
+    441,
+    466,
+    463
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.186,
+   "src": "tile",
+   "area": 543
+  },
+  {
+   "id": 124,
+   "box": [
+    448,
+    513,
+    495,
+    556
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.186,
+   "src": "full",
+   "area": 1655
+  },
+  {
+   "id": 125,
+   "box": [
+    449,
+    487,
+    527,
+    555
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.233,
+   "src": "full",
+   "area": 3482
+  },
+  {
+   "id": 126,
+   "box": [
+    451,
+    482,
+    546,
+    551
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.404,
+   "src": "full",
+   "area": 3834
+  },
+  {
+   "id": 127,
+   "box": [
+    470,
+    562,
+    549,
+    617
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.225,
+   "src": "full",
+   "area": 3096
+  },
+  {
+   "id": 128,
+   "box": [
+    480,
+    481,
+    687,
+    644
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.169,
+   "src": "tile",
+   "area": 26055
+  },
+  {
+   "id": 129,
+   "box": [
+    504,
+    510,
+    607,
+    613
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.322,
+   "src": "full",
+   "area": 6085
+  },
+  {
+   "id": 130,
+   "box": [
+    516,
+    596,
+    568,
+    664
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.411,
+   "src": "full",
+   "area": 2417
+  },
+  {
+   "id": 131,
+   "box": [
+    574,
+    489,
+    642,
+    552
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.178,
+   "src": "full",
+   "area": 2578
+  },
+  {
+   "id": 132,
+   "box": [
+    575,
+    480,
+    904,
+    704
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.489,
+   "src": "tile",
+   "area": 47837
+  },
+  {
+   "id": 133,
+   "box": [
+    589,
+    524,
+    646,
+    554
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.195,
+   "src": "tile",
+   "area": 1245
+  },
+  {
+   "id": 134,
+   "box": [
+    591,
+    441,
+    677,
+    517
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.158,
+   "src": "full",
+   "area": 4680
+  },
+  {
+   "id": 135,
+   "box": [
+    604,
+    551,
+    678,
+    676
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.205,
+   "src": "full",
+   "area": 4440
+  },
+  {
+   "id": 136,
+   "box": [
+    607,
+    512,
+    706,
+    677
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.255,
+   "src": "full",
+   "area": 7557
+  },
+  {
+   "id": 137,
+   "box": [
+    648,
+    416,
+    714,
+    485
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.15,
+   "src": "full",
+   "area": 3533
+  },
+  {
+   "id": 138,
+   "box": [
+    672,
+    452,
+    776,
+    528
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.372,
+   "src": "full",
+   "area": 5270
+  },
+  {
+   "id": 139,
+   "box": [
+    678,
+    517,
+    797,
+    629
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.158,
+   "src": "full",
+   "area": 9729
+  },
+  {
+   "id": 140,
+   "box": [
+    714,
+    539,
+    817,
+    655
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.342,
+   "src": "full",
+   "area": 9144
+  },
+  {
+   "id": 141,
+   "box": [
+    729,
+    446,
+    771,
+    482
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.165,
+   "src": "tile",
+   "area": 798
+  },
+  {
+   "id": 142,
+   "box": [
+    759,
+    491,
+    896,
+    602
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.448,
+   "src": "full",
+   "area": 7521
+  },
+  {
+   "id": 143,
+   "box": [
+    769,
+    448,
+    829,
+    494
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.269,
+   "src": "full",
+   "area": 2439
+  },
+  {
+   "id": 144,
+   "box": [
+    821,
+    438,
+    900,
+    522
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.156,
+   "src": "full",
+   "area": 4389
+  },
+  {
+   "id": 145,
+   "box": [
+    832,
+    492,
+    905,
+    527
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.427,
+   "src": "tile",
+   "area": 1747
+  },
+  {
+   "id": 146,
+   "box": [
+    849,
+    595,
+    886,
+    637
+   ],
+   "model_cls": "Yellow Leaves",
+   "conf": 0.857,
+   "src": "tile",
+   "area": 944
+  },
+  {
+   "id": 147,
+   "box": [
+    850,
+    544,
+    904,
+    579
+   ],
+   "model_cls": "Black Spot Leaves",
+   "conf": 0.604,
+   "src": "tile",
+   "area": 1417
+  },
+  {
+   "id": 148,
+   "box": [
+    866,
+    406,
+    912,
+    441
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.796,
+   "src": "tile",
+   "area": 1226
+  },
+  {
+   "id": 149,
+   "box": [
+    872,
+    454,
+    922,
+    502
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.727,
+   "src": "tile",
+   "area": 1724
+  },
+  {
+   "id": 150,
+   "box": [
+    1030,
+    463,
+    1112,
+    509
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.639,
+   "src": "full",
+   "area": 3057
+  },
+  {
+   "id": 151,
+   "box": [
+    1091,
+    454,
+    1168,
+    579
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.489,
+   "src": "full",
+   "area": 6139
+  },
+  {
+   "id": 152,
+   "box": [
+    1138,
+    470,
+    1236,
+    587
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.6,
+   "src": "full",
+   "area": 6974
+  },
+  {
+   "id": 153,
+   "box": [
+    1157,
+    587,
+    1211,
+    633
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.128,
+   "src": "full",
+   "area": 1355
+  },
+  {
+   "id": 154,
+   "box": [
+    1162,
+    407,
+    1251,
+    502
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.192,
+   "src": "full",
+   "area": 4577
+  },
+  {
+   "id": 155,
+   "box": [
+    1178,
+    532,
+    1295,
+    665
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.292,
+   "src": "full",
+   "area": 10820
+  },
+  {
+   "id": 156,
+   "box": [
+    1250,
+    427,
+    1337,
+    502
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.289,
+   "src": "full",
+   "area": 3788
+  },
+  {
+   "id": 157,
+   "box": [
+    1253,
+    584,
+    1340,
+    672
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.213,
+   "src": "full",
+   "area": 4877
+  },
+  {
+   "id": 158,
+   "box": [
+    1291,
+    404,
+    1400,
+    520
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.107,
+   "src": "full",
+   "area": 3939
+  },
+  {
+   "id": 159,
+   "box": [
+    1323,
+    565,
+    1436,
+    650
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.218,
+   "src": "full",
+   "area": 6293
+  },
+  {
+   "id": 160,
+   "box": [
+    1360,
+    480,
+    1616,
+    812
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.249,
+   "src": "tile",
+   "area": 40629
+  },
+  {
+   "id": 161,
+   "box": [
+    1360,
+    543,
+    1617,
+    947
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.201,
+   "src": "tile",
+   "area": 85440
+  },
+  {
+   "id": 162,
+   "box": [
+    1379,
+    473,
+    1457,
+    583
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.156,
+   "src": "full",
+   "area": 5405
+  },
+  {
+   "id": 163,
+   "box": [
+    1394,
+    443,
+    1581,
+    568
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.431,
+   "src": "full",
+   "area": 16438
+  },
+  {
+   "id": 164,
+   "box": [
+    1413,
+    401,
+    1449,
+    437
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.268,
+   "src": "tile",
+   "area": 677
+  },
+  {
+   "id": 165,
+   "box": [
+    1429,
+    539,
+    1465,
+    605
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.114,
+   "src": "full",
+   "area": 2022
+  },
+  {
+   "id": 166,
+   "box": [
+    1436,
+    572,
+    1520,
+    635
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.586,
+   "src": "full",
+   "area": 4016
+  },
+  {
+   "id": 167,
+   "box": [
+    1567,
+    489,
+    1675,
+    553
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.729,
+   "src": "full",
+   "area": 4676
+  },
+  {
+   "id": 168,
+   "box": [
+    1572,
+    556,
+    1631,
+    613
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.315,
+   "src": "full",
+   "area": 2240
+  },
+  {
+   "id": 169,
+   "box": [
+    1631,
+    599,
+    1711,
+    649
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.514,
+   "src": "tile",
+   "area": 2691
+  },
+  {
+   "id": 170,
+   "box": [
+    1668,
+    568,
+    1732,
+    629
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.213,
+   "src": "full",
+   "area": 2789
+  },
+  {
+   "id": 171,
+   "box": [
+    71,
+    700,
+    185,
+    758
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.411,
+   "src": "full",
+   "area": 3429
+  },
+  {
+   "id": 172,
+   "box": [
+    78,
+    747,
+    240,
+    891
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.685,
+   "src": "full",
+   "area": 13918
+  },
+  {
+   "id": 173,
+   "box": [
+    101,
+    630,
+    169,
+    681
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.19,
+   "src": "full",
+   "area": 2595
+  },
+  {
+   "id": 174,
+   "box": [
+    113,
+    700,
+    152,
+    746
+   ],
+   "model_cls": "Black Spot Leaves",
+   "conf": 0.242,
+   "src": "tile",
+   "area": 1058
+  },
+  {
+   "id": 175,
+   "box": [
+    135,
+    606,
+    274,
+    710
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.313,
+   "src": "full",
+   "area": 7959
+  },
+  {
+   "id": 176,
+   "box": [
+    144,
+    661,
+    254,
+    782
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.171,
+   "src": "full",
+   "area": 6701
+  },
+  {
+   "id": 177,
+   "box": [
+    206,
+    731,
+    268,
+    812
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.117,
+   "src": "full",
+   "area": 3127
+  },
+  {
+   "id": 178,
+   "box": [
+    219,
+    673,
+    294,
+    759
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.447,
+   "src": "full",
+   "area": 4583
+  },
+  {
+   "id": 179,
+   "box": [
+    237,
+    700,
+    304,
+    820
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.111,
+   "src": "full",
+   "area": 5266
+  },
+  {
+   "id": 180,
+   "box": [
+    251,
+    788,
+    314,
+    923
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.143,
+   "src": "full",
+   "area": 2758
+  },
+  {
+   "id": 181,
+   "box": [
+    252,
+    786,
+    440,
+    917
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.449,
+   "src": "tile",
+   "area": 17963
+  },
+  {
+   "id": 182,
+   "box": [
+    254,
+    793,
+    335,
+    926
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.424,
+   "src": "tile",
+   "area": 7206
+  },
+  {
+   "id": 183,
+   "box": [
+    261,
+    779,
+    450,
+    925
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.108,
+   "src": "full",
+   "area": 15546
+  },
+  {
+   "id": 184,
+   "box": [
+    262,
+    793,
+    327,
+    868
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.166,
+   "src": "full",
+   "area": 3052
+  },
+  {
+   "id": 185,
+   "box": [
+    266,
+    777,
+    512,
+    938
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.276,
+   "src": "full",
+   "area": 14025
+  },
+  {
+   "id": 186,
+   "box": [
+    278,
+    634,
+    355,
+    716
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.132,
+   "src": "full",
+   "area": 3962
+  },
+  {
+   "id": 187,
+   "box": [
+    302,
+    743,
+    334,
+    779
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.655,
+   "src": "tile",
+   "area": 675
+  },
+  {
+   "id": 188,
+   "box": [
+    307,
+    633,
+    376,
+    734
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.304,
+   "src": "full",
+   "area": 5347
+  },
+  {
+   "id": 189,
+   "box": [
+    318,
+    785,
+    439,
+    891
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.871,
+   "src": "tile",
+   "area": 8901
+  },
+  {
+   "id": 190,
+   "box": [
+    326,
+    678,
+    380,
+    736
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.146,
+   "src": "full",
+   "area": 2789
+  },
+  {
+   "id": 191,
+   "box": [
+    371,
+    674,
+    465,
+    778
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.289,
+   "src": "full",
+   "area": 6097
+  },
+  {
+   "id": 192,
+   "box": [
+    371,
+    649,
+    440,
+    711
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.244,
+   "src": "full",
+   "area": 3889
+  },
+  {
+   "id": 193,
+   "box": [
+    397,
+    639,
+    481,
+    717
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.272,
+   "src": "tile",
+   "area": 3980
+  },
+  {
+   "id": 194,
+   "box": [
+    410,
+    633,
+    488,
+    704
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.175,
+   "src": "full",
+   "area": 3505
+  },
+  {
+   "id": 195,
+   "box": [
+    420,
+    643,
+    481,
+    697
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.182,
+   "src": "full",
+   "area": 1504
+  },
+  {
+   "id": 196,
+   "box": [
+    470,
+    652,
+    530,
+    745
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.195,
+   "src": "tile",
+   "area": 3652
+  },
+  {
+   "id": 197,
+   "box": [
+    479,
+    660,
+    580,
+    718
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.171,
+   "src": "full",
+   "area": 3935
+  },
+  {
+   "id": 198,
+   "box": [
+    481,
+    652,
+    528,
+    706
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.419,
+   "src": "tile",
+   "area": 1627
+  },
+  {
+   "id": 199,
+   "box": [
+    507,
+    676,
+    585,
+    714
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.445,
+   "src": "tile",
+   "area": 1948
+  },
+  {
+   "id": 200,
+   "box": [
+    621,
+    620,
+    667,
+    678
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.182,
+   "src": "full",
+   "area": 2083
+  },
+  {
+   "id": 201,
+   "box": [
+    653,
+    643,
+    748,
+    689
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.531,
+   "src": "full",
+   "area": 3227
+  },
+  {
+   "id": 202,
+   "box": [
+    731,
+    637,
+    789,
+    699
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.387,
+   "src": "full",
+   "area": 2421
+  },
+  {
+   "id": 203,
+   "box": [
+    778,
+    603,
+    842,
+    670
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.372,
+   "src": "full",
+   "area": 2317
+  },
+  {
+   "id": 204,
+   "box": [
+    1089,
+    709,
+    1157,
+    750
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.425,
+   "src": "full",
+   "area": 1902
+  },
+  {
+   "id": 205,
+   "box": [
+    1145,
+    650,
+    1220,
+    718
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.414,
+   "src": "tile",
+   "area": 3336
+  },
+  {
+   "id": 206,
+   "box": [
+    1147,
+    698,
+    1217,
+    764
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.136,
+   "src": "full",
+   "area": 3795
+  },
+  {
+   "id": 207,
+   "box": [
+    1149,
+    722,
+    1194,
+    769
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.404,
+   "src": "tile",
+   "area": 1468
+  },
+  {
+   "id": 208,
+   "box": [
+    1167,
+    795,
+    1239,
+    910
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.167,
+   "src": "full",
+   "area": 4752
+  },
+  {
+   "id": 209,
+   "box": [
+    1172,
+    708,
+    1214,
+    769
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.391,
+   "src": "tile",
+   "area": 1469
+  },
+  {
+   "id": 210,
+   "box": [
+    1174,
+    793,
+    1215,
+    853
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.542,
+   "src": "tile",
+   "area": 1721
+  },
+  {
+   "id": 211,
+   "box": [
+    1180,
+    630,
+    1221,
+    653
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.248,
+   "src": "tile",
+   "area": 698
+  },
+  {
+   "id": 212,
+   "box": [
+    1194,
+    665,
+    1294,
+    767
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.179,
+   "src": "full",
+   "area": 6607
+  },
+  {
+   "id": 213,
+   "box": [
+    1194,
+    778,
+    1245,
+    829
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.167,
+   "src": "tile",
+   "area": 1791
+  },
+  {
+   "id": 214,
+   "box": [
+    1199,
+    732,
+    1295,
+    837
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.231,
+   "src": "full",
+   "area": 6257
+  },
+  {
+   "id": 215,
+   "box": [
+    1200,
+    605,
+    1236,
+    638
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.27,
+   "src": "tile",
+   "area": 790
+  },
+  {
+   "id": 216,
+   "box": [
+    1209,
+    639,
+    1299,
+    729
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.185,
+   "src": "full",
+   "area": 4767
+  },
+  {
+   "id": 217,
+   "box": [
+    1235,
+    798,
+    1298,
+    850
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.159,
+   "src": "full",
+   "area": 2258
+  },
+  {
+   "id": 218,
+   "box": [
+    1283,
+    735,
+    1363,
+    809
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.228,
+   "src": "full",
+   "area": 2683
+  },
+  {
+   "id": 219,
+   "box": [
+    1287,
+    641,
+    1392,
+    733
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.211,
+   "src": "full",
+   "area": 4837
+  },
+  {
+   "id": 220,
+   "box": [
+    1336,
+    661,
+    1489,
+    836
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.191,
+   "src": "full",
+   "area": 15854
+  },
+  {
+   "id": 221,
+   "box": [
+    1360,
+    752,
+    1763,
+    1120
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.228,
+   "src": "tile",
+   "area": 120705
+  },
+  {
+   "id": 222,
+   "box": [
+    1422,
+    623,
+    1475,
+    675
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.21,
+   "src": "full",
+   "area": 2226
+  },
+  {
+   "id": 223,
+   "box": [
+    1455,
+    638,
+    1578,
+    721
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.36,
+   "src": "full",
+   "area": 6977
+  },
+  {
+   "id": 224,
+   "box": [
+    1473,
+    785,
+    1560,
+    837
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.118,
+   "src": "full",
+   "area": 2419
+  },
+  {
+   "id": 225,
+   "box": [
+    1482,
+    601,
+    1519,
+    632
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.676,
+   "src": "tile",
+   "area": 951
+  },
+  {
+   "id": 226,
+   "box": [
+    1502,
+    767,
+    1902,
+    1114
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.329,
+   "src": "tile",
+   "area": 71856
+  },
+  {
+   "id": 227,
+   "box": [
+    1502,
+    700,
+    1586,
+    787
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.19,
+   "src": "full",
+   "area": 4913
+  },
+  {
+   "id": 228,
+   "box": [
+    1544,
+    756,
+    1658,
+    899
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.454,
+   "src": "full",
+   "area": 9581
+  },
+  {
+   "id": 229,
+   "box": [
+    1549,
+    605,
+    1715,
+    739
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.355,
+   "src": "tile",
+   "area": 16046
+  },
+  {
+   "id": 230,
+   "box": [
+    1555,
+    617,
+    1623,
+    683
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.493,
+   "src": "tile",
+   "area": 3014
+  },
+  {
+   "id": 231,
+   "box": [
+    1560,
+    648,
+    1584,
+    667
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.173,
+   "src": "tile",
+   "area": 345
+  },
+  {
+   "id": 232,
+   "box": [
+    1570,
+    718,
+    1594,
+    748
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.155,
+   "src": "tile",
+   "area": 581
+  },
+  {
+   "id": 233,
+   "box": [
+    1584,
+    705,
+    1656,
+    747
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.619,
+   "src": "tile",
+   "area": 2092
+  },
+  {
+   "id": 234,
+   "box": [
+    1589,
+    794,
+    1677,
+    889
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.124,
+   "src": "full",
+   "area": 6773
+  },
+  {
+   "id": 235,
+   "box": [
+    1593,
+    754,
+    1658,
+    861
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.219,
+   "src": "full",
+   "area": 4758
+  },
+  {
+   "id": 236,
+   "box": [
+    1608,
+    627,
+    1669,
+    702
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.159,
+   "src": "full",
+   "area": 2988
+  },
+  {
+   "id": 237,
+   "box": [
+    1618,
+    634,
+    1640,
+    669
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.24,
+   "src": "tile",
+   "area": 421
+  },
+  {
+   "id": 238,
+   "box": [
+    1621,
+    678,
+    1652,
+    705
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.517,
+   "src": "tile",
+   "area": 508
+  },
+  {
+   "id": 239,
+   "box": [
+    1626,
+    600,
+    1681,
+    659
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.11,
+   "src": "full",
+   "area": 1722
+  },
+  {
+   "id": 240,
+   "box": [
+    1627,
+    613,
+    1713,
+    696
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.204,
+   "src": "tile",
+   "area": 3649
+  },
+  {
+   "id": 241,
+   "box": [
+    1648,
+    620,
+    1712,
+    705
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.473,
+   "src": "full",
+   "area": 3064
+  },
+  {
+   "id": 242,
+   "box": [
+    1651,
+    663,
+    1692,
+    707
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.357,
+   "src": "tile",
+   "area": 1089
+  },
+  {
+   "id": 243,
+   "box": [
+    1723,
+    734,
+    1890,
+    880
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.307,
+   "src": "full",
+   "area": 14402
+  },
+  {
+   "id": 244,
+   "box": [
+    1770,
+    733,
+    1830,
+    794
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.83,
+   "src": "tile",
+   "area": 2289
+  },
+  {
+   "id": 245,
+   "box": [
+    35,
+    826,
+    107,
+    882
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.722,
+   "src": "tile",
+   "area": 3026
+  },
+  {
+   "id": 246,
+   "box": [
+    131,
+    906,
+    191,
+    984
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.689,
+   "src": "full",
+   "area": 3253
+  },
+  {
+   "id": 247,
+   "box": [
+    192,
+    840,
+    244,
+    923
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.257,
+   "src": "full",
+   "area": 3207
+  },
+  {
+   "id": 248,
+   "box": [
+    292,
+    840,
+    321,
+    869
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.276,
+   "src": "tile",
+   "area": 661
+  },
+  {
+   "id": 249,
+   "box": [
+    713,
+    921,
+    738,
+    938
+   ],
+   "model_cls": "Yellow Leaves",
+   "conf": 0.443,
+   "src": "tile",
+   "area": 352
+  },
+  {
+   "id": 250,
+   "box": [
+    1092,
+    833,
+    1185,
+    883
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.674,
+   "src": "tile",
+   "area": 3229
+  },
+  {
+   "id": 251,
+   "box": [
+    1167,
+    857,
+    1217,
+    912
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.221,
+   "src": "tile",
+   "area": 1864
+  },
+  {
+   "id": 252,
+   "box": [
+    1227,
+    914,
+    1292,
+    983
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.301,
+   "src": "full",
+   "area": 3261
+  },
+  {
+   "id": 253,
+   "box": [
+    1228,
+    882,
+    1329,
+    982
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.307,
+   "src": "full",
+   "area": 6218
+  },
+  {
+   "id": 254,
+   "box": [
+    1235,
+    855,
+    1306,
+    910
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.263,
+   "src": "full",
+   "area": 2408
+  },
+  {
+   "id": 255,
+   "box": [
+    1246,
+    979,
+    1295,
+    1039
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.75,
+   "src": "tile",
+   "area": 1988
+  },
+  {
+   "id": 256,
+   "box": [
+    1250,
+    829,
+    1305,
+    880
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.168,
+   "src": "tile",
+   "area": 2122
+  },
+  {
+   "id": 257,
+   "box": [
+    1270,
+    860,
+    1600,
+    1234
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.495,
+   "src": "tile",
+   "area": 103929
+  },
+  {
+   "id": 258,
+   "box": [
+    1271,
+    981,
+    1405,
+    1068
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.333,
+   "src": "full",
+   "area": 9082
+  },
+  {
+   "id": 259,
+   "box": [
+    1278,
+    883,
+    1378,
+    997
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.542,
+   "src": "full",
+   "area": 6717
+  },
+  {
+   "id": 260,
+   "box": [
+    1320,
+    831,
+    1379,
+    887
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.126,
+   "src": "full",
+   "area": 1493
+  },
+  {
+   "id": 261,
+   "box": [
+    1330,
+    825,
+    1410,
+    909
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.274,
+   "src": "full",
+   "area": 2490
+  },
+  {
+   "id": 262,
+   "box": [
+    1336,
+    814,
+    1465,
+    912
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.11,
+   "src": "full",
+   "area": 7786
+  },
+  {
+   "id": 263,
+   "box": [
+    1357,
+    835,
+    1524,
+    997
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.473,
+   "src": "full",
+   "area": 18153
+  },
+  {
+   "id": 264,
+   "box": [
+    1394,
+    834,
+    1525,
+    928
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.132,
+   "src": "full",
+   "area": 7846
+  },
+  {
+   "id": 265,
+   "box": [
+    1410,
+    995,
+    1489,
+    1103
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.134,
+   "src": "full",
+   "area": 6630
+  },
+  {
+   "id": 266,
+   "box": [
+    1483,
+    881,
+    1581,
+    985
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.443,
+   "src": "full",
+   "area": 6414
+  },
+  {
+   "id": 267,
+   "box": [
+    1489,
+    876,
+    1589,
+    950
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.142,
+   "src": "full",
+   "area": 5454
+  },
+  {
+   "id": 268,
+   "box": [
+    1530,
+    919,
+    1647,
+    1045
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.131,
+   "src": "full",
+   "area": 7552
+  },
+  {
+   "id": 269,
+   "box": [
+    1598,
+    915,
+    1667,
+    989
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.103,
+   "src": "full",
+   "area": 2756
+  },
+  {
+   "id": 270,
+   "box": [
+    1610,
+    915,
+    1719,
+    1066
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.132,
+   "src": "full",
+   "area": 11941
+  },
+  {
+   "id": 271,
+   "box": [
+    1620,
+    992,
+    1682,
+    1059
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.182,
+   "src": "full",
+   "area": 3349
+  },
+  {
+   "id": 272,
+   "box": [
+    1625,
+    802,
+    1679,
+    867
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.614,
+   "src": "tile",
+   "area": 2496
+  },
+  {
+   "id": 273,
+   "box": [
+    1642,
+    903,
+    1698,
+    999
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.118,
+   "src": "full",
+   "area": 3396
+  },
+  {
+   "id": 274,
+   "box": [
+    1653,
+    896,
+    1701,
+    950
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.226,
+   "src": "full",
+   "area": 2205
+  },
+  {
+   "id": 275,
+   "box": [
+    1664,
+    864,
+    1723,
+    894
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.739,
+   "src": "tile",
+   "area": 1350
+  },
+  {
+   "id": 276,
+   "box": [
+    1664,
+    980,
+    1723,
+    1083
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.284,
+   "src": "full",
+   "area": 4727
+  },
+  {
+   "id": 277,
+   "box": [
+    1684,
+    927,
+    1891,
+    1099
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.454,
+   "src": "full",
+   "area": 23586
+  },
+  {
+   "id": 278,
+   "box": [
+    1720,
+    827,
+    1787,
+    862
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.124,
+   "src": "full",
+   "area": 1355
+  },
+  {
+   "id": 279,
+   "box": [
+    1798,
+    803,
+    1907,
+    894
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.18,
+   "src": "full",
+   "area": 7480
+  },
+  {
+   "id": 280,
+   "box": [
+    1801,
+    847,
+    1880,
+    894
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.186,
+   "src": "full",
+   "area": 2883
+  },
+  {
+   "id": 281,
+   "box": [
+    1813,
+    974,
+    1855,
+    1017
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.699,
+   "src": "tile",
+   "area": 1347
+  },
+  {
+   "id": 282,
+   "box": [
+    1815,
+    916,
+    1903,
+    992
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.168,
+   "src": "tile",
+   "area": 2916
+  },
+  {
+   "id": 283,
+   "box": [
+    1168,
+    1037,
+    1263,
+    1094
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.731,
+   "src": "full",
+   "area": 4073
+  },
+  {
+   "id": 284,
+   "box": [
+    1249,
+    1075,
+    1325,
+    1176
+   ],
+   "model_cls": "Yellow Leaves",
+   "conf": 0.298,
+   "src": "full",
+   "area": 2385
+  },
+  {
+   "id": 285,
+   "box": [
+    1272,
+    1054,
+    1365,
+    1123
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.322,
+   "src": "full",
+   "area": 4065
+  },
+  {
+   "id": 286,
+   "box": [
+    1310,
+    1078,
+    1514,
+    1234
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.321,
+   "src": "full",
+   "area": 20455
+  },
+  {
+   "id": 287,
+   "box": [
+    1483,
+    1032,
+    1552,
+    1091
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.108,
+   "src": "full",
+   "area": 2776
+  },
+  {
+   "id": 288,
+   "box": [
+    1502,
+    1086,
+    1606,
+    1187
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.109,
+   "src": "full",
+   "area": 5699
+  },
+  {
+   "id": 289,
+   "box": [
+    1524,
+    1136,
+    1560,
+    1191
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.178,
+   "src": "tile",
+   "area": 1324
+  },
+  {
+   "id": 290,
+   "box": [
+    1531,
+    1009,
+    1626,
+    1121
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.233,
+   "src": "full",
+   "area": 6849
+  },
+  {
+   "id": 291,
+   "box": [
+    1559,
+    1117,
+    1629,
+    1175
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.173,
+   "src": "full",
+   "area": 2766
+  },
+  {
+   "id": 292,
+   "box": [
+    1565,
+    1182,
+    1673,
+    1257
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.648,
+   "src": "full",
+   "area": 4688
+  },
+  {
+   "id": 293,
+   "box": [
+    1578,
+    1129,
+    1758,
+    1301
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.445,
+   "src": "tile",
+   "area": 19675
+  },
+  {
+   "id": 294,
+   "box": [
+    1579,
+    1131,
+    1679,
+    1260
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.353,
+   "src": "tile",
+   "area": 6924
+  },
+  {
+   "id": 295,
+   "box": [
+    1582,
+    1132,
+    1682,
+    1214
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.166,
+   "src": "tile",
+   "area": 3483
+  },
+  {
+   "id": 296,
+   "box": [
+    1588,
+    1068,
+    1682,
+    1163
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.482,
+   "src": "full",
+   "area": 3649
+  },
+  {
+   "id": 297,
+   "box": [
+    1625,
+    1140,
+    1682,
+    1164
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.167,
+   "src": "tile",
+   "area": 1028
+  },
+  {
+   "id": 298,
+   "box": [
+    1643,
+    1103,
+    1681,
+    1137
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.15,
+   "src": "tile",
+   "area": 990
+  },
+  {
+   "id": 299,
+   "box": [
+    1652,
+    1126,
+    1746,
+    1188
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.542,
+   "src": "tile",
+   "area": 3452
+  },
+  {
+   "id": 300,
+   "box": [
+    1664,
+    1199,
+    1758,
+    1283
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.759,
+   "src": "full",
+   "area": 4450
+  },
+  {
+   "id": 301,
+   "box": [
+    1664,
+    1017,
+    1719,
+    1083
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.178,
+   "src": "tile",
+   "area": 2553
+  },
+  {
+   "id": 302,
+   "box": [
+    1699,
+    1093,
+    1853,
+    1327
+   ],
+   "model_cls": "Hole Leaves",
+   "conf": 0.282,
+   "src": "full",
+   "area": 20153
+  },
+  {
+   "id": 303,
+   "box": [
+    1837,
+    1054,
+    1874,
+    1094
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.548,
+   "src": "tile",
+   "area": 1279
+  },
+  {
+   "id": 304,
+   "box": [
+    1563,
+    1207,
+    1619,
+    1245
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.786,
+   "src": "tile",
+   "area": 1564
+  },
+  {
+   "id": 305,
+   "box": [
+    1570,
+    1271,
+    1642,
+    1333
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.906,
+   "src": "tile",
+   "area": 3355
+  },
+  {
+   "id": 306,
+   "box": [
+    1641,
+    1301,
+    1712,
+    1406
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.946,
+   "src": "tile",
+   "area": 5391
+  },
+  {
+   "id": 307,
+   "box": [
+    1647,
+    1244,
+    1727,
+    1299
+   ],
+   "model_cls": "Fresh Leaves",
+   "conf": 0.768,
+   "src": "full",
+   "area": 3452
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+path: /helpai-storage/model/v4_reallabel/labels_draft
+train: images
+val: images
+names:
+  0: Black Spot Leaves
+  1: Fresh Leaves
+  2: Hole Leaves
+  3: Yellow Leaves

@@ -1,0 +1,3 @@
+REFINE rose_real2 proposals 163 candidates 39 model_cls_of_candidates {'Black Spot Leaves': 0, 'Fresh Leaves': 33, 'Hole Leaves': 6, 'Yellow Leaves': 0}
+REFINE rose_real3 proposals 163 candidates 29 model_cls_of_candidates {'Black Spot Leaves': 0, 'Fresh Leaves': 27, 'Hole Leaves': 2, 'Yellow Leaves': 0}
+REFINE rose_real proposals 308 candidates 56 model_cls_of_candidates {'Black Spot Leaves': 0, 'Fresh Leaves': 32, 'Hole Leaves': 24, 'Yellow Leaves': 0}

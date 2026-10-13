@@ -1,0 +1,180 @@
+{
+ "_note": "Claude review of cutout candidates (refine_select.py, 2026-10-13). accept = single, untruncated leaf with a clean mask -> cutout. Photo rose_real3 is the evaluation photo: no cutouts are taken from it. Class policy: 4 classes only; dead/fallen leaves are not labeled (background).",
+ "rose_real": {
+  "accept": {
+   "0": "Fresh",
+   "104": "Fresh",
+   "145": "Fresh",
+   "198": "Fresh",
+   "199": "Fresh",
+   "202": "Fresh",
+   "204": "Fresh",
+   "210": "Fresh",
+   "244": "Fresh",
+   "246": "Fresh",
+   "250": "Fresh",
+   "251": "Fresh",
+   "252": "Fresh",
+   "265": "Fresh",
+   "272": "Fresh",
+   "305": "Fresh",
+   "307": "Fresh"
+  },
+  "relabeled": {
+   "199": "Hole->Fresh (healthy leaf)",
+   "265": "Hole->Fresh (healthy leaf)"
+  },
+  "reject_reasons": {
+   "merged (several leaflets)": [
+    "3",
+    "14",
+    "21",
+    "60",
+    "70",
+    "81",
+    "103",
+    "111",
+    "122",
+    "138",
+    "156",
+    "166",
+    "167",
+    "172",
+    "188",
+    "189",
+    "196",
+    "216",
+    "223",
+    "263",
+    "286",
+    "292"
+   ],
+   "partial / truncated / occluded": [
+    "79",
+    "135",
+    "177",
+    "218",
+    "255",
+    "258",
+    "266",
+    "285",
+    "287",
+    "300",
+    "301"
+   ],
+   "background inside mask": [
+    "10",
+    "80",
+    "100",
+    "205"
+   ],
+   "whole plant": [
+    "56"
+   ],
+   "new shoot cluster": [
+    "296"
+   ]
+  }
+ },
+ "rose_real2": {
+  "accept": {
+   "4": "Fresh",
+   "7": "Fresh",
+   "14": "Fresh",
+   "15": "Fresh",
+   "34": "Fresh",
+   "51": "Fresh",
+   "87": "Fresh",
+   "90": "Fresh",
+   "99": "Fresh",
+   "135": "Fresh"
+  },
+  "reject_reasons": {
+   "merged (several leaflets)": [
+    "0",
+    "10",
+    "31",
+    "44",
+    "47",
+    "54",
+    "56",
+    "73",
+    "95",
+    "102",
+    "111",
+    "132",
+    "141",
+    "145",
+    "155"
+   ],
+   "partial / truncated / occluded": [
+    "22",
+    "48",
+    "67",
+    "82",
+    "88",
+    "92",
+    "104",
+    "115",
+    "119",
+    "130",
+    "133",
+    "140",
+    "151"
+   ],
+   "blocky mask edge": [
+    "86"
+   ]
+  }
+ },
+ "exclude_boxes": {
+  "_note": "dead / fallen leaves (Claude vision findings) - proposals overlapping these boxes are dropped from the draft labels",
+  "rose_real": [
+   [
+    843,
+    588,
+    890,
+    642
+   ],
+   [
+    1258,
+    582,
+    1308,
+    652
+   ],
+   [
+    1245,
+    765,
+    1280,
+    798
+   ]
+  ],
+  "rose_real2": [
+   [
+    498,
+    1282,
+    668,
+    1372
+   ]
+  ],
+  "rose_real3": [
+   [
+    3,
+    612,
+    82,
+    698
+   ]
+  ]
+ },
+ "uncertain_for_human": {
+  "rose_real": [
+   "leaf-tip browning near (852,538)-(892,566): Fresh or Black Spot?"
+  ],
+  "rose_real2": [
+   "small brown spots near (652,1478)-(684,1508) and (1212,892)-(1244,922)"
+  ],
+  "rose_real3": [
+   "neighbor-pot leaf yellowing near (3,548)-(88,608): Yellow?"
+  ]
+ }
+}

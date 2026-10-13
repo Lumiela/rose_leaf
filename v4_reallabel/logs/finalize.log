@@ -1,0 +1,4 @@
+FINAL rose_real2 cutouts 10 draft_instances 154 dropped 9
+FINAL rose_real3 cutouts 0 draft_instances 155 dropped 8
+FINAL rose_real cutouts 17 draft_instances 281 dropped 27
+CUTOUTS 27 -> /helpai-storage/model/v4_reallabel/real_cutouts

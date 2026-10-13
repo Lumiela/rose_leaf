@@ -1,0 +1,15 @@
+POOL train {'Black Spot Leaves': 633, 'Fresh Leaves': 965, 'Hole Leaves': 629, 'Yellow Leaves': 121}
+POOL val   {'Black Spot Leaves': 78, 'Fresh Leaves': 206, 'Hole Leaves': 65, 'Yellow Leaves': 6}
+POOL test  {'Black Spot Leaves': 80, 'Fresh Leaves': 208, 'Hole Leaves': 67, 'Yellow Leaves': 7}
+REAL_CUTOUTS train 27 p 0.3
+CACHE 3092 leaves in 18s
+HOLEFIX leaves=761 with_white(>0.5%)=75 median_white_frac=0.000 p90=0.005
+BACKGROUNDS 79
+  train 0/24 1s
+SPLIT train scenes=24 kinds={'sparse': 10, 'dense': 13, 'empty': 1} dense_inst_median=56 {'Black Spot Leaves': 165, 'Fresh Leaves': 385, 'Hole Leaves': 100, 'Yellow Leaves': 132} 16s
+  val 0/4 0s
+SPLIT val scenes=4 kinds={'sparse': 2, 'dense': 2} dense_inst_median=62 {'Black Spot Leaves': 27, 'Fresh Leaves': 56, 'Hole Leaves': 26, 'Yellow Leaves': 21} 4s
+  test 0/4 0s
+SPLIT test scenes=4 kinds={'sparse': 1, 'dense': 3} dense_inst_median=56 {'Black Spot Leaves': 41, 'Fresh Leaves': 108, 'Hole Leaves': 39, 'Yellow Leaves': 5} 5s
+YAML /helpai-storage/model/v4_reallabel/data/rose_seg_v4_smoke/rose_seg_v4.yaml
+DONE

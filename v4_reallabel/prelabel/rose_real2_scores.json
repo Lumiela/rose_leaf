@@ -1,0 +1,1640 @@
+{
+ "rule": {
+  "keep": 0.8,
+  "solidity": 0.85,
+  "straight": 0.25,
+  "side": 40
+ },
+ "scores": [
+  {
+   "id": 0,
+   "keep": 0.894,
+   "solidity": 0.865,
+   "straight": 0.15,
+   "side": 89.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.18,
+   "candidate": true
+  },
+  {
+   "id": 1,
+   "keep": 0.899,
+   "solidity": 0.823,
+   "straight": 0.134,
+   "side": 157.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.163,
+   "candidate": false
+  },
+  {
+   "id": 2,
+   "keep": 0.981,
+   "solidity": 0.839,
+   "straight": 0.189,
+   "side": 40.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.276,
+   "candidate": false
+  },
+  {
+   "id": 3,
+   "keep": 0.94,
+   "solidity": 0.71,
+   "straight": 0.326,
+   "side": 65.3,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.552,
+   "candidate": false
+  },
+  {
+   "id": 4,
+   "keep": 0.876,
+   "solidity": 0.961,
+   "straight": 0.127,
+   "side": 65.3,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.777,
+   "candidate": true
+  },
+  {
+   "id": 5,
+   "keep": 0.868,
+   "solidity": 0.593,
+   "straight": 0.282,
+   "side": 58.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.108,
+   "candidate": false
+  },
+  {
+   "id": 6,
+   "keep": 0.922,
+   "solidity": 1.005,
+   "straight": 0.251,
+   "side": 69.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.685,
+   "candidate": false
+  },
+  {
+   "id": 7,
+   "keep": 0.966,
+   "solidity": 0.999,
+   "straight": 0.228,
+   "side": 62.3,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.616,
+   "candidate": true
+  },
+  {
+   "id": 8,
+   "keep": 0.984,
+   "solidity": 0.999,
+   "straight": 0.285,
+   "side": 95.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.804,
+   "candidate": false
+  },
+  {
+   "id": 9,
+   "keep": 0.988,
+   "solidity": 0.91,
+   "straight": 0.318,
+   "side": 85.7,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.116,
+   "candidate": false
+  },
+  {
+   "id": 10,
+   "keep": 0.992,
+   "solidity": 0.881,
+   "straight": 0.22,
+   "side": 131.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.602,
+   "candidate": true
+  },
+  {
+   "id": 11,
+   "keep": 0.689,
+   "solidity": 0.642,
+   "straight": 0.189,
+   "side": 80.9,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.155,
+   "candidate": false
+  },
+  {
+   "id": 12,
+   "keep": 0.964,
+   "solidity": 0.64,
+   "straight": 0.083,
+   "side": 61.8,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.241,
+   "candidate": false
+  },
+  {
+   "id": 13,
+   "keep": 0.926,
+   "solidity": 0.719,
+   "straight": 0.088,
+   "side": 96.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.203,
+   "candidate": false
+  },
+  {
+   "id": 14,
+   "keep": 0.972,
+   "solidity": 1.005,
+   "straight": 0.178,
+   "side": 63.8,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.748,
+   "candidate": true
+  },
+  {
+   "id": 15,
+   "keep": 0.986,
+   "solidity": 0.998,
+   "straight": 0.245,
+   "side": 55.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.667,
+   "candidate": true
+  },
+  {
+   "id": 16,
+   "keep": 0.989,
+   "solidity": 0.749,
+   "straight": 0.183,
+   "side": 79.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.286,
+   "candidate": false
+  },
+  {
+   "id": 17,
+   "keep": 0.995,
+   "solidity": 0.978,
+   "straight": 0.384,
+   "side": 49.9,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.366,
+   "candidate": false
+  },
+  {
+   "id": 18,
+   "keep": 0.978,
+   "solidity": 1.004,
+   "straight": 0.258,
+   "side": 37.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.511,
+   "candidate": false
+  },
+  {
+   "id": 19,
+   "keep": 0.977,
+   "solidity": 0.789,
+   "straight": 0.205,
+   "side": 166.5,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.173,
+   "candidate": false
+  },
+  {
+   "id": 20,
+   "keep": 0.642,
+   "solidity": 0.966,
+   "straight": 0.213,
+   "side": 36.8,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.113,
+   "candidate": false
+  },
+  {
+   "id": 21,
+   "keep": 0.589,
+   "solidity": 0.64,
+   "straight": 0.069,
+   "side": 61.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.103,
+   "candidate": false
+  },
+  {
+   "id": 22,
+   "keep": 0.815,
+   "solidity": 0.895,
+   "straight": 0.131,
+   "side": 44.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.189,
+   "candidate": true
+  },
+  {
+   "id": 23,
+   "keep": 0.922,
+   "solidity": 0.805,
+   "straight": 0.129,
+   "side": 66.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.352,
+   "candidate": false
+  },
+  {
+   "id": 24,
+   "keep": 0.807,
+   "solidity": 0.531,
+   "straight": 0.23,
+   "side": 81.6,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.311,
+   "candidate": false
+  },
+  {
+   "id": 25,
+   "keep": 0.747,
+   "solidity": 0.768,
+   "straight": 0.463,
+   "side": 45.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.102,
+   "candidate": false
+  },
+  {
+   "id": 26,
+   "keep": 0.985,
+   "solidity": 0.988,
+   "straight": 0.662,
+   "side": 40.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.101,
+   "candidate": false
+  },
+  {
+   "id": 27,
+   "keep": 0.924,
+   "solidity": 0.973,
+   "straight": 0.341,
+   "side": 48.7,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.729,
+   "candidate": false
+  },
+  {
+   "id": 28,
+   "keep": 1.02,
+   "solidity": 0.958,
+   "straight": 0.279,
+   "side": 68.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.125,
+   "candidate": false
+  },
+  {
+   "id": 29,
+   "keep": 0.913,
+   "solidity": 0.808,
+   "straight": 0.08,
+   "side": 118.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.434,
+   "candidate": false
+  },
+  {
+   "id": 30,
+   "keep": 0.967,
+   "solidity": 0.985,
+   "straight": 0.445,
+   "side": 61.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.238,
+   "candidate": false
+  },
+  {
+   "id": 31,
+   "keep": 0.992,
+   "solidity": 0.869,
+   "straight": 0.121,
+   "side": 97.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.633,
+   "candidate": true
+  },
+  {
+   "id": 32,
+   "keep": 0.997,
+   "solidity": 0.668,
+   "straight": 0.102,
+   "side": 113.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.153,
+   "candidate": false
+  },
+  {
+   "id": 33,
+   "keep": 0.993,
+   "solidity": 0.948,
+   "straight": 0.259,
+   "side": 64.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.697,
+   "candidate": false
+  },
+  {
+   "id": 34,
+   "keep": 0.98,
+   "solidity": 1.003,
+   "straight": 0.224,
+   "side": 77.8,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.856,
+   "candidate": true
+  },
+  {
+   "id": 35,
+   "keep": 0.964,
+   "solidity": 1.009,
+   "straight": 0.325,
+   "side": 68.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.739,
+   "candidate": false
+  },
+  {
+   "id": 36,
+   "keep": 1.0,
+   "solidity": 0.88,
+   "straight": 0.31,
+   "side": 68.9,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.574,
+   "candidate": false
+  },
+  {
+   "id": 37,
+   "keep": 0.969,
+   "solidity": 0.98,
+   "straight": 0.371,
+   "side": 67.5,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.653,
+   "candidate": false
+  },
+  {
+   "id": 38,
+   "keep": 0.998,
+   "solidity": 0.827,
+   "straight": 0.213,
+   "side": 104.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.483,
+   "candidate": false
+  },
+  {
+   "id": 39,
+   "keep": 0.966,
+   "solidity": 1.0,
+   "straight": 0.471,
+   "side": 55.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.211,
+   "candidate": false
+  },
+  {
+   "id": 40,
+   "keep": 0.989,
+   "solidity": 0.962,
+   "straight": 0.335,
+   "side": 72.4,
+   "model_cls": "Hole Leaves",
+   "conf": 0.373,
+   "candidate": false
+  },
+  {
+   "id": 41,
+   "keep": 0.973,
+   "solidity": 0.944,
+   "straight": 0.323,
+   "side": 49.6,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.102,
+   "candidate": false
+  },
+  {
+   "id": 42,
+   "keep": 0.769,
+   "solidity": 0.727,
+   "straight": 0.263,
+   "side": 57.9,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.226,
+   "candidate": false
+  },
+  {
+   "id": 43,
+   "keep": 0.797,
+   "solidity": 0.733,
+   "straight": 0.329,
+   "side": 48.4,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.146,
+   "candidate": false
+  },
+  {
+   "id": 44,
+   "keep": 0.987,
+   "solidity": 0.952,
+   "straight": 0.221,
+   "side": 72.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.447,
+   "candidate": true
+  },
+  {
+   "id": 45,
+   "keep": 0.958,
+   "solidity": 0.876,
+   "straight": 0.32,
+   "side": 134.7,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.384,
+   "candidate": false
+  },
+  {
+   "id": 46,
+   "keep": 0.936,
+   "solidity": 0.675,
+   "straight": 0.309,
+   "side": 53.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.159,
+   "candidate": false
+  },
+  {
+   "id": 47,
+   "keep": 0.981,
+   "solidity": 0.919,
+   "straight": 0.104,
+   "side": 71.6,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.459,
+   "candidate": true
+  },
+  {
+   "id": 48,
+   "keep": 0.957,
+   "solidity": 0.997,
+   "straight": 0.148,
+   "side": 66.6,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.444,
+   "candidate": true
+  },
+  {
+   "id": 49,
+   "keep": 0.472,
+   "solidity": 1.0,
+   "straight": 0.12,
+   "side": 66.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.399,
+   "candidate": false
+  },
+  {
+   "id": 50,
+   "keep": 0.984,
+   "solidity": 0.915,
+   "straight": 0.416,
+   "side": 76.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.179,
+   "candidate": false
+  },
+  {
+   "id": 51,
+   "keep": 0.931,
+   "solidity": 1.011,
+   "straight": 0.19,
+   "side": 50.4,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.78,
+   "candidate": true
+  },
+  {
+   "id": 52,
+   "keep": 0.978,
+   "solidity": 1.008,
+   "straight": 0.278,
+   "side": 67.9,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.69,
+   "candidate": false
+  },
+  {
+   "id": 53,
+   "keep": 0.995,
+   "solidity": 0.88,
+   "straight": 0.291,
+   "side": 119.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.641,
+   "candidate": false
+  },
+  {
+   "id": 54,
+   "keep": 0.997,
+   "solidity": 0.925,
+   "straight": 0.234,
+   "side": 114.6,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.326,
+   "candidate": true
+  },
+  {
+   "id": 55,
+   "keep": 0.916,
+   "solidity": 0.81,
+   "straight": 0.337,
+   "side": 112.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.161,
+   "candidate": false
+  },
+  {
+   "id": 56,
+   "keep": 0.99,
+   "solidity": 0.912,
+   "straight": 0.155,
+   "side": 79.4,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.196,
+   "candidate": true
+  },
+  {
+   "id": 57,
+   "keep": 0.999,
+   "solidity": 0.767,
+   "straight": 0.426,
+   "side": 71.9,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.26,
+   "candidate": false
+  },
+  {
+   "id": 58,
+   "keep": 0.978,
+   "solidity": 0.734,
+   "straight": 0.292,
+   "side": 60.3,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.103,
+   "candidate": false
+  },
+  {
+   "id": 59,
+   "keep": 0.99,
+   "solidity": 0.847,
+   "straight": 0.253,
+   "side": 148.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.254,
+   "candidate": false
+  },
+  {
+   "id": 60,
+   "keep": 1.0,
+   "solidity": 0.967,
+   "straight": 0.57,
+   "side": 62.4,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.123,
+   "candidate": false
+  },
+  {
+   "id": 61,
+   "keep": 0.937,
+   "solidity": 0.917,
+   "straight": 0.448,
+   "side": 55.8,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.281,
+   "candidate": false
+  },
+  {
+   "id": 62,
+   "keep": 1.001,
+   "solidity": 1.015,
+   "straight": 0.675,
+   "side": 67.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.335,
+   "candidate": false
+  },
+  {
+   "id": 63,
+   "keep": 1.0,
+   "solidity": 0.936,
+   "straight": 0.401,
+   "side": 38.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.125,
+   "candidate": false
+  },
+  {
+   "id": 64,
+   "keep": 1.0,
+   "solidity": 0.904,
+   "straight": 0.458,
+   "side": 63.7,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.133,
+   "candidate": false
+  },
+  {
+   "id": 65,
+   "keep": 0.999,
+   "solidity": 0.837,
+   "straight": 0.077,
+   "side": 82.6,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.486,
+   "candidate": false
+  },
+  {
+   "id": 66,
+   "keep": 0.989,
+   "solidity": 0.59,
+   "straight": 0.154,
+   "side": 110.7,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.258,
+   "candidate": false
+  },
+  {
+   "id": 67,
+   "keep": 0.927,
+   "solidity": 0.881,
+   "straight": 0.224,
+   "side": 62.8,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.214,
+   "candidate": true
+  },
+  {
+   "id": 68,
+   "keep": 1.019,
+   "solidity": 0.786,
+   "straight": 0.464,
+   "side": 86.3,
+   "model_cls": "Black Spot Leaves",
+   "conf": 0.143,
+   "candidate": false
+  },
+  {
+   "id": 69,
+   "keep": 0.986,
+   "solidity": 0.998,
+   "straight": 0.376,
+   "side": 67.9,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.194,
+   "candidate": false
+  },
+  {
+   "id": 70,
+   "keep": 0.966,
+   "solidity": 0.835,
+   "straight": 0.088,
+   "side": 45.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.21,
+   "candidate": false
+  },
+  {
+   "id": 71,
+   "keep": 0.942,
+   "solidity": 0.794,
+   "straight": 0.442,
+   "side": 84.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.12,
+   "candidate": false
+  },
+  {
+   "id": 72,
+   "keep": 1.0,
+   "solidity": 0.979,
+   "straight": 0.506,
+   "side": 66.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.131,
+   "candidate": false
+  },
+  {
+   "id": 73,
+   "keep": 1.0,
+   "solidity": 0.955,
+   "straight": 0.136,
+   "side": 119.3,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.619,
+   "candidate": true
+  },
+  {
+   "id": 74,
+   "keep": 0.917,
+   "solidity": 0.637,
+   "straight": 0.048,
+   "side": 80.4,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.27,
+   "candidate": false
+  },
+  {
+   "id": 75,
+   "keep": 0.999,
+   "solidity": 0.786,
+   "straight": 0.28,
+   "side": 44.9,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.106,
+   "candidate": false
+  },
+  {
+   "id": 76,
+   "keep": 0.999,
+   "solidity": 0.798,
+   "straight": 0.0,
+   "side": 98.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.255,
+   "candidate": false
+  },
+  {
+   "id": 77,
+   "keep": 0.797,
+   "solidity": 0.873,
+   "straight": 0.14,
+   "side": 81.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.281,
+   "candidate": false
+  },
+  {
+   "id": 78,
+   "keep": 0.995,
+   "solidity": 0.879,
+   "straight": 0.273,
+   "side": 63.7,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.363,
+   "candidate": false
+  },
+  {
+   "id": 79,
+   "keep": 0.772,
+   "solidity": 0.718,
+   "straight": 0.391,
+   "side": 67.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.111,
+   "candidate": false
+  },
+  {
+   "id": 80,
+   "keep": 1.0,
+   "solidity": 0.771,
+   "straight": 0.365,
+   "side": 47.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.247,
+   "candidate": false
+  },
+  {
+   "id": 81,
+   "keep": 1.031,
+   "solidity": 0.824,
+   "straight": 0.202,
+   "side": 101.6,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.252,
+   "candidate": false
+  },
+  {
+   "id": 82,
+   "keep": 0.974,
+   "solidity": 0.885,
+   "straight": 0.222,
+   "side": 95.4,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.238,
+   "candidate": true
+  },
+  {
+   "id": 83,
+   "keep": 0.986,
+   "solidity": 0.743,
+   "straight": 0.3,
+   "side": 83.4,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.264,
+   "candidate": false
+  },
+  {
+   "id": 84,
+   "keep": 0.969,
+   "solidity": 1.005,
+   "straight": 0.488,
+   "side": 71.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.495,
+   "candidate": false
+  },
+  {
+   "id": 85,
+   "keep": 0.997,
+   "solidity": 1.025,
+   "straight": 0.665,
+   "side": 60.8,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.59,
+   "candidate": false
+  },
+  {
+   "id": 86,
+   "keep": 0.831,
+   "solidity": 0.954,
+   "straight": 0.077,
+   "side": 98.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.901,
+   "candidate": true
+  },
+  {
+   "id": 87,
+   "keep": 0.955,
+   "solidity": 0.98,
+   "straight": 0.207,
+   "side": 57.6,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.775,
+   "candidate": true
+  },
+  {
+   "id": 88,
+   "keep": 0.937,
+   "solidity": 0.985,
+   "straight": 0.194,
+   "side": 42.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.556,
+   "candidate": true
+  },
+  {
+   "id": 89,
+   "keep": 0.992,
+   "solidity": 0.836,
+   "straight": 0.11,
+   "side": 65.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.61,
+   "candidate": false
+  },
+  {
+   "id": 90,
+   "keep": 0.995,
+   "solidity": 1.0,
+   "straight": 0.238,
+   "side": 96.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.721,
+   "candidate": true
+  },
+  {
+   "id": 91,
+   "keep": 0.902,
+   "solidity": 0.794,
+   "straight": 0.125,
+   "side": 89.5,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.226,
+   "candidate": false
+  },
+  {
+   "id": 92,
+   "keep": 0.996,
+   "solidity": 0.854,
+   "straight": 0.207,
+   "side": 54.9,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.676,
+   "candidate": true
+  },
+  {
+   "id": 93,
+   "keep": 0.419,
+   "solidity": 0.623,
+   "straight": 0.165,
+   "side": 30.3,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.297,
+   "candidate": false
+  },
+  {
+   "id": 94,
+   "keep": 0.997,
+   "solidity": 0.974,
+   "straight": 0.467,
+   "side": 68.4,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.263,
+   "candidate": false
+  },
+  {
+   "id": 95,
+   "keep": 0.98,
+   "solidity": 0.872,
+   "straight": 0.175,
+   "side": 124.8,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.471,
+   "candidate": true
+  },
+  {
+   "id": 96,
+   "keep": 0.975,
+   "solidity": 0.96,
+   "straight": 0.465,
+   "side": 88.5,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.177,
+   "candidate": false
+  },
+  {
+   "id": 97,
+   "keep": 0.999,
+   "solidity": 0.929,
+   "straight": 0.293,
+   "side": 57.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.205,
+   "candidate": false
+  },
+  {
+   "id": 98,
+   "keep": 0.997,
+   "solidity": 0.628,
+   "straight": 0.032,
+   "side": 66.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.269,
+   "candidate": false
+  },
+  {
+   "id": 99,
+   "keep": 0.999,
+   "solidity": 0.961,
+   "straight": 0.236,
+   "side": 82.9,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.18,
+   "candidate": true
+  },
+  {
+   "id": 100,
+   "keep": 0.996,
+   "solidity": 0.954,
+   "straight": 0.39,
+   "side": 47.8,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.173,
+   "candidate": false
+  },
+  {
+   "id": 101,
+   "keep": 0.994,
+   "solidity": 0.846,
+   "straight": 0.184,
+   "side": 124.4,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.159,
+   "candidate": false
+  },
+  {
+   "id": 102,
+   "keep": 0.998,
+   "solidity": 0.906,
+   "straight": 0.227,
+   "side": 100.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.1,
+   "candidate": true
+  },
+  {
+   "id": 103,
+   "keep": 0.827,
+   "solidity": 0.569,
+   "straight": 0.22,
+   "side": 84.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.154,
+   "candidate": false
+  },
+  {
+   "id": 104,
+   "keep": 1.0,
+   "solidity": 0.981,
+   "straight": 0.196,
+   "side": 68.7,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.457,
+   "candidate": true
+  },
+  {
+   "id": 105,
+   "keep": 0.886,
+   "solidity": 0.647,
+   "straight": 0.199,
+   "side": 100.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.221,
+   "candidate": false
+  },
+  {
+   "id": 106,
+   "keep": 0.97,
+   "solidity": 0.756,
+   "straight": 0.204,
+   "side": 71.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.189,
+   "candidate": false
+  },
+  {
+   "id": 107,
+   "keep": 1.0,
+   "solidity": 0.906,
+   "straight": 0.383,
+   "side": 64.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.335,
+   "candidate": false
+  },
+  {
+   "id": 108,
+   "keep": 1.0,
+   "solidity": 1.008,
+   "straight": 0.397,
+   "side": 72.4,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.597,
+   "candidate": false
+  },
+  {
+   "id": 109,
+   "keep": 1.0,
+   "solidity": 0.953,
+   "straight": 0.444,
+   "side": 59.3,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.255,
+   "candidate": false
+  },
+  {
+   "id": 110,
+   "keep": 0.999,
+   "solidity": 0.817,
+   "straight": 0.284,
+   "side": 80.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.217,
+   "candidate": false
+  },
+  {
+   "id": 111,
+   "keep": 0.997,
+   "solidity": 0.884,
+   "straight": 0.203,
+   "side": 109.3,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.757,
+   "candidate": true
+  },
+  {
+   "id": 112,
+   "keep": 1.0,
+   "solidity": 1.005,
+   "straight": 0.515,
+   "side": 74.4,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.33,
+   "candidate": false
+  },
+  {
+   "id": 113,
+   "keep": 0.994,
+   "solidity": 0.72,
+   "straight": 0.107,
+   "side": 81.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.335,
+   "candidate": false
+  },
+  {
+   "id": 114,
+   "keep": 0.959,
+   "solidity": 0.972,
+   "straight": 0.295,
+   "side": 85.8,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.605,
+   "candidate": false
+  },
+  {
+   "id": 115,
+   "keep": 0.931,
+   "solidity": 0.867,
+   "straight": 0.0,
+   "side": 50.2,
+   "model_cls": "Hole Leaves",
+   "conf": 0.167,
+   "candidate": true
+  },
+  {
+   "id": 116,
+   "keep": 0.949,
+   "solidity": 0.826,
+   "straight": 0.233,
+   "side": 120.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.191,
+   "candidate": false
+  },
+  {
+   "id": 117,
+   "keep": 1.0,
+   "solidity": 0.963,
+   "straight": 0.612,
+   "side": 76.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.271,
+   "candidate": false
+  },
+  {
+   "id": 118,
+   "keep": 0.993,
+   "solidity": 1.009,
+   "straight": 0.344,
+   "side": 61.4,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.494,
+   "candidate": false
+  },
+  {
+   "id": 119,
+   "keep": 1.007,
+   "solidity": 0.899,
+   "straight": 0.247,
+   "side": 59.5,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.297,
+   "candidate": true
+  },
+  {
+   "id": 120,
+   "keep": 0.999,
+   "solidity": 0.947,
+   "straight": 0.303,
+   "side": 50.5,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.231,
+   "candidate": false
+  },
+  {
+   "id": 121,
+   "keep": 1.0,
+   "solidity": 0.927,
+   "straight": 0.362,
+   "side": 108.6,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.318,
+   "candidate": false
+  },
+  {
+   "id": 122,
+   "keep": 1.0,
+   "solidity": 0.94,
+   "straight": 0.431,
+   "side": 82.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.53,
+   "candidate": false
+  },
+  {
+   "id": 123,
+   "keep": 0.16,
+   "solidity": 0.687,
+   "straight": 0.054,
+   "side": 59.9,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.156,
+   "candidate": false
+  },
+  {
+   "id": 124,
+   "keep": 0.993,
+   "solidity": 1.02,
+   "straight": 0.516,
+   "side": 41.5,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.261,
+   "candidate": false
+  },
+  {
+   "id": 125,
+   "keep": 0.989,
+   "solidity": 1.017,
+   "straight": 0.548,
+   "side": 66.3,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.688,
+   "candidate": false
+  },
+  {
+   "id": 126,
+   "keep": 0.993,
+   "solidity": 0.75,
+   "straight": 0.079,
+   "side": 164.5,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.431,
+   "candidate": false
+  },
+  {
+   "id": 127,
+   "keep": 0.993,
+   "solidity": 0.705,
+   "straight": 0.115,
+   "side": 192.3,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.321,
+   "candidate": false
+  },
+  {
+   "id": 128,
+   "keep": 0.998,
+   "solidity": 0.835,
+   "straight": 0.338,
+   "side": 83.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.201,
+   "candidate": false
+  },
+  {
+   "id": 129,
+   "keep": 0.979,
+   "solidity": 0.897,
+   "straight": 0.398,
+   "side": 88.8,
+   "model_cls": "Hole Leaves",
+   "conf": 0.21,
+   "candidate": false
+  },
+  {
+   "id": 130,
+   "keep": 0.998,
+   "solidity": 0.947,
+   "straight": 0.248,
+   "side": 81.0,
+   "model_cls": "Hole Leaves",
+   "conf": 0.198,
+   "candidate": true
+  },
+  {
+   "id": 131,
+   "keep": 0.82,
+   "solidity": 0.723,
+   "straight": 0.134,
+   "side": 57.2,
+   "model_cls": "Hole Leaves",
+   "conf": 0.234,
+   "candidate": false
+  },
+  {
+   "id": 132,
+   "keep": 1.0,
+   "solidity": 0.851,
+   "straight": 0.217,
+   "side": 101.5,
+   "model_cls": "Hole Leaves",
+   "conf": 0.588,
+   "candidate": true
+  },
+  {
+   "id": 133,
+   "keep": 0.999,
+   "solidity": 0.868,
+   "straight": 0.172,
+   "side": 76.7,
+   "model_cls": "Hole Leaves",
+   "conf": 0.364,
+   "candidate": true
+  },
+  {
+   "id": 134,
+   "keep": 0.941,
+   "solidity": 0.742,
+   "straight": 0.096,
+   "side": 86.6,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.315,
+   "candidate": false
+  },
+  {
+   "id": 135,
+   "keep": 0.992,
+   "solidity": 0.97,
+   "straight": 0.066,
+   "side": 77.9,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.544,
+   "candidate": true
+  },
+  {
+   "id": 136,
+   "keep": 0.999,
+   "solidity": 1.004,
+   "straight": 0.277,
+   "side": 74.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.695,
+   "candidate": false
+  },
+  {
+   "id": 137,
+   "keep": 0.997,
+   "solidity": 0.987,
+   "straight": 0.27,
+   "side": 90.3,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.805,
+   "candidate": false
+  },
+  {
+   "id": 138,
+   "keep": 0.749,
+   "solidity": 0.782,
+   "straight": 0.321,
+   "side": 38.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.141,
+   "candidate": false
+  },
+  {
+   "id": 139,
+   "keep": 0.999,
+   "solidity": 0.946,
+   "straight": 0.279,
+   "side": 81.5,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.539,
+   "candidate": false
+  },
+  {
+   "id": 140,
+   "keep": 0.983,
+   "solidity": 0.931,
+   "straight": 0.194,
+   "side": 85.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.118,
+   "candidate": true
+  },
+  {
+   "id": 141,
+   "keep": 0.972,
+   "solidity": 0.866,
+   "straight": 0.116,
+   "side": 84.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.845,
+   "candidate": true
+  },
+  {
+   "id": 142,
+   "keep": 0.771,
+   "solidity": 0.832,
+   "straight": 0.176,
+   "side": 42.6,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.193,
+   "candidate": false
+  },
+  {
+   "id": 143,
+   "keep": 0.997,
+   "solidity": 0.836,
+   "straight": 0.146,
+   "side": 77.9,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.291,
+   "candidate": false
+  },
+  {
+   "id": 144,
+   "keep": 0.93,
+   "solidity": 0.742,
+   "straight": 0.374,
+   "side": 190.3,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.251,
+   "candidate": false
+  },
+  {
+   "id": 145,
+   "keep": 0.972,
+   "solidity": 0.853,
+   "straight": 0.212,
+   "side": 129.5,
+   "model_cls": "Hole Leaves",
+   "conf": 0.17,
+   "candidate": true
+  },
+  {
+   "id": 146,
+   "keep": 0.997,
+   "solidity": 1.008,
+   "straight": 0.263,
+   "side": 59.3,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.201,
+   "candidate": false
+  },
+  {
+   "id": 147,
+   "keep": 0.988,
+   "solidity": 0.806,
+   "straight": 0.103,
+   "side": 170.1,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.223,
+   "candidate": false
+  },
+  {
+   "id": 148,
+   "keep": 0.653,
+   "solidity": 0.784,
+   "straight": 0.066,
+   "side": 78.4,
+   "model_cls": "Hole Leaves",
+   "conf": 0.576,
+   "candidate": false
+  },
+  {
+   "id": 149,
+   "keep": 0.724,
+   "solidity": 0.79,
+   "straight": 0.218,
+   "side": 53.8,
+   "model_cls": "Hole Leaves",
+   "conf": 0.205,
+   "candidate": false
+  },
+  {
+   "id": 150,
+   "keep": 1.0,
+   "solidity": 0.998,
+   "straight": 0.323,
+   "side": 70.3,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.101,
+   "candidate": false
+  },
+  {
+   "id": 151,
+   "keep": 0.892,
+   "solidity": 0.918,
+   "straight": 0.0,
+   "side": 40.2,
+   "model_cls": "Hole Leaves",
+   "conf": 0.3,
+   "candidate": true
+  },
+  {
+   "id": 152,
+   "keep": 0.754,
+   "solidity": 0.65,
+   "straight": 0.197,
+   "side": 53.8,
+   "model_cls": "Hole Leaves",
+   "conf": 0.246,
+   "candidate": false
+  },
+  {
+   "id": 153,
+   "keep": 0.432,
+   "solidity": 0.533,
+   "straight": 0.098,
+   "side": 66.9,
+   "model_cls": "Hole Leaves",
+   "conf": 0.23,
+   "candidate": false
+  },
+  {
+   "id": 154,
+   "keep": 0.278,
+   "solidity": 0.65,
+   "straight": 0.135,
+   "side": 35.8,
+   "model_cls": "Hole Leaves",
+   "conf": 0.104,
+   "candidate": false
+  },
+  {
+   "id": 155,
+   "keep": 0.998,
+   "solidity": 0.921,
+   "straight": 0.241,
+   "side": 86.3,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.224,
+   "candidate": true
+  },
+  {
+   "id": 156,
+   "keep": 0.943,
+   "solidity": 0.729,
+   "straight": 0.34,
+   "side": 60.2,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.201,
+   "candidate": false
+  },
+  {
+   "id": 157,
+   "keep": 0.926,
+   "solidity": 0.976,
+   "straight": 0.256,
+   "side": 68.4,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.297,
+   "candidate": false
+  },
+  {
+   "id": 158,
+   "keep": 0.989,
+   "solidity": 0.793,
+   "straight": 0.39,
+   "side": 94.7,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.125,
+   "candidate": false
+  },
+  {
+   "id": 159,
+   "keep": 0.995,
+   "solidity": 0.751,
+   "straight": 0.213,
+   "side": 90.0,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.286,
+   "candidate": false
+  },
+  {
+   "id": 160,
+   "keep": 0.956,
+   "solidity": 0.97,
+   "straight": 0.548,
+   "side": 64.8,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.312,
+   "candidate": false
+  },
+  {
+   "id": 161,
+   "keep": 0.615,
+   "solidity": 0.8,
+   "straight": 0.144,
+   "side": 73.5,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.606,
+   "candidate": false
+  },
+  {
+   "id": 162,
+   "keep": 0.548,
+   "solidity": 0.485,
+   "straight": 0.477,
+   "side": 42.7,
+   "model_cls": "Fresh Leaves",
+   "conf": 0.108,
+   "candidate": false
+  }
+ ]
+}

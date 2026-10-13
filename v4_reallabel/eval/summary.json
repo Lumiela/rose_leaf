@@ -1,0 +1,80 @@
+{
+  "v1": {
+    "v2_test": {
+      "mask_map50": 0.2121,
+      "mask_map": 0.1272,
+      "box_map50": 0.2209,
+      "box_map": 0.142,
+      "per_class_mask_map50": {
+        "Black Spot Leaves": 0.1324,
+        "Fresh Leaves": 0.229,
+        "Hole Leaves": 0.161,
+        "Yellow Leaves": 0.3259
+      }
+    },
+    "v1_test": {
+      "mask_map50": 0.9312,
+      "mask_map": 0.9228,
+      "box_map50": 0.9299,
+      "box_map": 0.9186,
+      "per_class_mask_map50": {
+        "Black Spot Leaves": 0.9126,
+        "Fresh Leaves": 0.9557,
+        "Hole Leaves": 0.8967,
+        "Yellow Leaves": 0.9599
+      }
+    }
+  },
+  "ft_from_v1": {
+    "v2_test": {
+      "mask_map50": 0.8548,
+      "mask_map": 0.6859,
+      "box_map50": 0.8416,
+      "box_map": 0.7298,
+      "per_class_mask_map50": {
+        "Black Spot Leaves": 0.8123,
+        "Fresh Leaves": 0.9205,
+        "Hole Leaves": 0.8308,
+        "Yellow Leaves": 0.8555
+      }
+    },
+    "v1_test": {
+      "mask_map50": 0.92,
+      "mask_map": 0.9005,
+      "box_map50": 0.9133,
+      "box_map": 0.8924,
+      "per_class_mask_map50": {
+        "Black Spot Leaves": 0.8949,
+        "Fresh Leaves": 0.9203,
+        "Hole Leaves": 0.8965,
+        "Yellow Leaves": 0.9685
+      }
+    }
+  },
+  "v4": {
+    "v2_test": {
+      "mask_map50": 0.8458,
+      "mask_map": 0.6833,
+      "box_map50": 0.8345,
+      "box_map": 0.7327,
+      "per_class_mask_map50": {
+        "Black Spot Leaves": 0.8044,
+        "Fresh Leaves": 0.908,
+        "Hole Leaves": 0.816,
+        "Yellow Leaves": 0.8548
+      }
+    },
+    "v1_test": {
+      "mask_map50": 0.9232,
+      "mask_map": 0.9037,
+      "box_map50": 0.9171,
+      "box_map": 0.8963,
+      "per_class_mask_map50": {
+        "Black Spot Leaves": 0.9034,
+        "Fresh Leaves": 0.9257,
+        "Hole Leaves": 0.8905,
+        "Yellow Leaves": 0.9732
+      }
+    }
+  }
+}

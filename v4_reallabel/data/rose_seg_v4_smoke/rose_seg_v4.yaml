@@ -1,0 +1,9 @@
+path: /helpai-storage/model/v4_reallabel/data/rose_seg_v4_smoke
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: Black Spot Leaves
+  1: Fresh Leaves
+  2: Hole Leaves
+  3: Yellow Leaves

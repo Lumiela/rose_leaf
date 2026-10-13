@@ -1,0 +1,68 @@
+POOL train {'Black Spot Leaves': 633, 'Fresh Leaves': 965, 'Hole Leaves': 629, 'Yellow Leaves': 121}
+POOL val   {'Black Spot Leaves': 78, 'Fresh Leaves': 206, 'Hole Leaves': 65, 'Yellow Leaves': 6}
+POOL test  {'Black Spot Leaves': 80, 'Fresh Leaves': 208, 'Hole Leaves': 67, 'Yellow Leaves': 7}
+REAL_CUTOUTS train 27 p 0.3
+CACHE 3092 leaves in 19s
+HOLEFIX leaves=761 with_white(>0.5%)=75 median_white_frac=0.000 p90=0.005
+BACKGROUNDS 79
+  train 0/6000 1s
+  train 500/6000 282s
+  train 1000/6000 570s
+  train 1500/6000 848s
+  train 2000/6000 1110s
+  train 2500/6000 1393s
+  train 3000/6000 1713s
+  train 3500/6000 1997s
+  train 4000/6000 2279s
+  train 4500/6000 2566s
+  train 5000/6000 2880s
+  train 5500/6000 3169s
+SPLIT train scenes=6000 kinds={'sparse': 1771, 'dense': 3632, 'empty': 597} dense_inst_median=65 {'Black Spot Leaves': 42997, 'Fresh Leaves': 120947, 'Hole Leaves': 42963, 'Yellow Leaves': 33445} 3456s
+  val 0/800 1s
+POOL train {'Black Spot Leaves': 633, 'Fresh Leaves': 965, 'Hole Leaves': 629, 'Yellow Leaves': 121}
+POOL val   {'Black Spot Leaves': 78, 'Fresh Leaves': 206, 'Hole Leaves': 65, 'Yellow Leaves': 6}
+POOL test  {'Black Spot Leaves': 80, 'Fresh Leaves': 208, 'Hole Leaves': 67, 'Yellow Leaves': 7}
+REAL_CUTOUTS train 27 p 0.3
+POOL train {'Black Spot Leaves': 633, 'Fresh Leaves': 965, 'Hole Leaves': 629, 'Yellow Leaves': 121}
+POOL val   {'Black Spot Leaves': 78, 'Fresh Leaves': 206, 'Hole Leaves': 65, 'Yellow Leaves': 6}
+POOL test  {'Black Spot Leaves': 80, 'Fresh Leaves': 208, 'Hole Leaves': 67, 'Yellow Leaves': 7}
+REAL_CUTOUTS train 27 p 0.3
+CACHE 3092 leaves in 20s
+HOLEFIX leaves=761 with_white(>0.5%)=75 median_white_frac=0.000 p90=0.005
+BACKGROUNDS 79
+  val 0/800 1s
+  val 50/800 3s
+  val 100/800 57s
+  val 150/800 86s
+  val 200/800 126s
+  val 250/800 160s
+  val 300/800 181s
+  val 400/800 227s
+  val 350/800 228s
+  val 450/800 252s
+  val 500/800 277s
+  val 550/800 320s
+  val 600/800 337s
+  val 650/800 361s
+  val 700/800 391s
+  val 750/800 437s
+SPLIT val scenes=800 kinds={'sparse': 266, 'dense': 447, 'empty': 87} dense_inst_median=63 {'Black Spot Leaves': 5163, 'Fresh Leaves': 14656, 'Hole Leaves': 5491, 'Yellow Leaves': 3957} 449s
+  test 0/800 0s
+  test 50/800 4s
+  test 100/800 54s
+  test 150/800 95s
+  test 200/800 138s
+  test 250/800 165s
+  test 300/800 205s
+  test 350/800 240s
+  test 400/800 245s
+  test 450/800 278s
+  test 500/800 307s
+  test 550/800 348s
+  test 600/800 383s
+  test 650/800 410s
+  test 700/800 430s
+  test 750/800 483s
+SPLIT test scenes=800 kinds={'sparse': 247, 'dense': 478, 'empty': 75} dense_inst_median=65 {'Black Spot Leaves': 5966, 'Fresh Leaves': 16006, 'Hole Leaves': 5799, 'Yellow Leaves': 4361} 499s
+YAML /helpai-storage/model/v4_reallabel/data/rose_seg_v4/rose_seg_v4.yaml
+DONE
