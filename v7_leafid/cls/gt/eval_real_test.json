@@ -1,0 +1,62 @@
+[
+ {
+  "run": "runs_bbox",
+  "n": 201,
+  "false_alarm": 8,
+  "rate": 0.04,
+  "by_class": {
+   "Black": 4,
+   "Hole": 3,
+   "Yellow": 1
+  },
+  "anom_recall": {
+   "Black": 0.09,
+   "Hole": 0.746,
+   "Yellow": 0.134
+  },
+  "anom_flagged": 0.647,
+  "anom_n": {
+   "Black": 67,
+   "Hole": 67,
+   "Yellow": 67
+  }
+ },
+ {
+  "run": "runs_bbox_real",
+  "n": 201,
+  "false_alarm": 0,
+  "rate": 0.0,
+  "by_class": {},
+  "anom_recall": {
+   "Black": 0.06,
+   "Hole": 0.537,
+   "Yellow": 0.164
+  },
+  "anom_flagged": 0.433,
+  "anom_n": {
+   "Black": 67,
+   "Hole": 67,
+   "Yellow": 67
+  }
+ },
+ {
+  "run": "runs_bbox_real_aug",
+  "n": 201,
+  "false_alarm": 1,
+  "rate": 0.005,
+  "by_class": {
+   "Hole": 1
+  },
+  "anom_recall": {
+   "Black": 1.0,
+   "Hole": 0.955,
+   "Yellow": 0.985
+  },
+  "anom_flagged": 0.98,
+  "anom_n": {
+   "Black": 67,
+   "Hole": 67,
+   "Yellow": 67
+  }
+ }
+]

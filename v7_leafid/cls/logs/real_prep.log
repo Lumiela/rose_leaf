@@ -1,0 +1,5 @@
+split: {'train': ['cube_05.jpg', 'cube_06.jpg', 'cube_07.jpg', 'cube_08.jpg', 'cube_09.jpg', 'cube_10.jpg', 'cube_12.jpg', 'cube_13.jpg', 'cube_14.jpg', 'cube_15.jpg', 'cube_16.jpg', 'cube_18.jpg', 'cube_19.jpg', 'cube_20.jpg', 'rose_real.webp', 'rose_real2.webp'], 'val': ['cube_11.jpg', 'cube_17.jpg'], 'test': ['cube_21.jpg', 'cube_22.jpg']}
+crops: 2332 judged leaves from 20 photos
+synthetic Fresh train images 1930 -> real leaf cap 965
+review sheets: A 41 (train, model non-Fresh) | T 467 (val/test photos) | B 924 of 1824 (train, model Fresh)
+pred counts: {'train': {'Black': 19, 'Fresh': 1824, 'Hole': 19, 'Yellow': 3}, 'val': {'Black': 6, 'Fresh': 253, 'Hole': 1, 'Yellow': 0}, 'test': {'Black': 7, 'Fresh': 193, 'Hole': 5, 'Yellow': 2}}

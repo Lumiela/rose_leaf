@@ -1,0 +1,125 @@
+[download] start
+[download] downloading yolo11s-cls.pt from https://github.com/ultralytics/assets/releases/download/v8.3.0/yolo11s-cls.pt
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  6 12.9M    6  799k    0     0   619k      0  0:00:21  0:00:01  0:00:20  619k 14 12.9M   14 1951k    0     0   850k      0  0:00:15  0:00:02  0:00:13 1148k 23 12.9M   23 3087k    0     0   937k      0  0:00:14  0:00:03  0:00:11 1142k 30 12.9M   30 4015k    0     0   935k      0  0:00:14  0:00:04  0:00:10 1071k 40 12.9M   40 5327k    0     0  1006k      0  0:00:13  0:00:05  0:00:08 1131k 49 12.9M   49 6639k    0     0  1055k      0  0:00:12  0:00:06  0:00:06 1167k 59 12.9M   59 7871k    0     0  1079k      0  0:00:12  0:00:07  0:00:05 1184k 71 12.9M   71 9567k    0     0  1153k      0  0:00:11  0:00:08  0:00:03 1296k 81 12.9M   81 10.6M    0     0  1169k      0  0:00:11  0:00:09  0:00:02 1369k 93 12.9M   93 12.2M    0     0  1215k      0  0:00:10  0:00:10 --:--:-- 1436k100 12.9M  100 12.9M    0     0  1246k      0  0:00:10  0:00:10 --:--:-- 1522k
+[download] ok yolo11s-cls.pt (13M)
+[download] downloading efficientnet_v2_s-dd5fe13b.pth from https://download.pytorch.org/models/efficientnet_v2_s-dd5fe13b.pth
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 55 82.7M   55 45.9M    0     0  51.5M      0  0:00:01 --:--:--  0:00:01 51.4M100 82.7M  100 82.7M    0     0  71.1M      0  0:00:01  0:00:01 --:--:-- 71.2M
+[download] ok efficientnet_v2_s-dd5fe13b.pth (83M)
+[download] downloading dinov2_vits14_pretrain.pth from https://dl.fbaipublicfiles.com/dinov2/dinov2_vits14/dinov2_vits14_pretrain.pth
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 95 84.1M   95 80.2M    0     0  79.1M      0  0:00:01  0:00:01 --:--:-- 79.1M100 84.1M  100 84.1M    0     0  80.9M      0  0:00:01  0:00:01 --:--:-- 80.9M
+[download] ok dinov2_vits14_pretrain.pth (85M)
+[download] downloading dinov2_main.zip from https://github.com/facebookresearch/dinov2/archive/refs/heads/main.zip
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100  117k    0  117k    0     0  97998      0 --:--:--  0:00:01 --:--:-- 97998100  452k    0  452k    0     0   204k      0 --:--:--  0:00:02 --:--:--  340k100  702k    0  702k    0     0   217k      0 --:--:--  0:00:03 --:--:--  291k100  936k    0  936k    0     0   222k      0 --:--:--  0:00:04 --:--:--  273k100 1120k    0 1120k    0     0   214k      0 --:--:--  0:00:05 --:--:--  250k100 1299k    0 1299k    0     0   209k      0 --:--:--  0:00:06 --:--:--  236k100 1445k    0 1445k    0     0   199k      0 --:--:--  0:00:07 --:--:--  196k100 1657k    0 1657k    0     0   201k      0 --:--:--  0:00:08 --:--:--  191k100 1870k    0 1870k    0     0   202k      0 --:--:--  0:00:09 --:--:--  186k100 2087k    0 2087k    0     0   204k      0 --:--:--  0:00:10 --:--:--  194k100 2281k    0 2281k    0     0   203k      0 --:--:--  0:00:11 --:--:--  196k100 2543k    0 2543k    0     0   207k      0 --:--:--  0:00:12 --:--:--  220k100 2912k    0 2912k    0     0   220k      0 --:--:--  0:00:13 --:--:--  252k
+[download] ok dinov2_main.zip (2.9M)
+[download] dinov2 code -> common/weights/dinov2_repo
+[download] all weights ready
+[render] start
+[render] train 500/2348 originals
+[render] train 1000/2348 originals
+[render] train 1500/2348 originals
+[render] train 2000/2348 originals
+[render] train: 7047 images {'train': {'Black': 1899, 'Fresh': 1930, 'Hole': 1887, 'Yellow': 1331}}
+[render] val: 710 images {'val': {'Black': 156, 'Fresh': 412, 'Hole': 130, 'Yellow': 12}}
+[render] test: 724 images {'test': {'Black': 80, 'Fresh': 208, 'Hole': 67, 'Yellow': 7}, 'test_deg': {'Black': 80, 'Fresh': 208, 'Hole': 67, 'Yellow': 7}}
+[render] dataset ready -> /helpai-storage/model/v7_leafid/cls/data
+[yolo11s_cls] start
+New https://pypi.org/project/ultralytics/8.4.177 available 😃 Update with 'pip install -U ultralytics'
+Ultralytics 8.4.175 🚀 Python-3.10.12 torch-2.3.0a0+40ec155e58.nv24.03 CUDA:0 (Tesla V100-SXM2-32GB, 32494MiB)
+[34m[1mengine/trainer: [0magnostic_nms=False, amp=True, angle=1.0, augment=False, auto_augment=randaugment, batch=64, bgr=0.0, box=7.5, cache=False, cfg=None, channels_last=None, classes=None, close_mosaic=10, cls=0.5, cls_pw=0.0, cls_remap=True, compile=False, conf=None, copy_paste=0.0, copy_paste_mode=flip, cos_lr=False, cutmix=0.0, data=/helpai-storage/model/v7_leafid/cls/data, degrees=0.0, deterministic=True, device=, dfl=1.5, dgrad=0.5, dis=6.0, distill_model=None, dlam=1.0, dlog=1.0, dnn=False, dropout=0.0, dynamic=False, embed=None, epochs=30, erasing=0.4, exist_ok=True, fliplr=0.5, flipud=0.5, format=torchscript, fraction=1.0, freeze=None, hsv_h=0.005, hsv_s=0.7, hsv_v=0.4, imgsz=224, iou=0.7, kobj=1.0, line_width=None, lr0=0.01, lrf=0.01, mask_ratio=4, max_det=300, mixup=0.0, mode=train, model=/helpai-storage/model/common/weights/yolo11s-cls.pt, momentum=0.937, mosaic=1.0, multi_scale=0.0, name=yolo11s_cls, nbs=64, nms=None, opset=None, optimize=False, optimizer=auto, overlap_mask=True, patience=10, perspective=0.0, plots=True, pose=12.0, pretrained=True, profile=False, project=/helpai-storage/model/v7_leafid/cls/runs, quantize=None, rect=False, resume=False, retina_masks=False, rle=1.0, save=True, save_conf=False, save_crop=False, save_dir=/helpai-storage/model/v7_leafid/cls/runs/yolo11s_cls, save_frames=False, save_json=False, save_period=-1, save_txt=False, scale=0.5, seed=42, shear=0.0, show=False, show_boxes=True, show_conf=True, show_labels=True, simplify=True, single_cls=False, source=None, split=val, stream_buffer=False, task=classify, time=None, tracker=tracktrack.yaml, translate=0.1, val=True, verbose=False, vid_stride=1, visualize=False, warmup_bias_lr=0.1, warmup_epochs=3.0, warmup_momentum=0.8, weight_decay=0.0005, workers=4, workspace=None
+[34m[1mtrain:[0m /helpai-storage/model/v7_leafid/cls/data/train... found 7047 images in 4 classes ✅ 
+[34m[1mval:[0m /helpai-storage/model/v7_leafid/cls/data/val... found 710 images in 4 classes ✅ 
+[34m[1mtest:[0m /helpai-storage/model/v7_leafid/cls/data/test... found 362 images in 4 classes ✅ 
+Overriding model.yaml nc=80 with nc=4
+
+                   from  n    params  module                                       arguments                     
+  0                  -1  1       928  ultralytics.nn.modules.conv.Conv             [3, 32, 3, 2]                 
+  1                  -1  1     18560  ultralytics.nn.modules.conv.Conv             [32, 64, 3, 2]                
+  2                  -1  1     26080  ultralytics.nn.modules.block.C3k2            [64, 128, 1, False, 0.25]     
+  3                  -1  1    147712  ultralytics.nn.modules.conv.Conv             [128, 128, 3, 2]              
+  4                  -1  1    103360  ultralytics.nn.modules.block.C3k2            [128, 256, 1, False, 0.25]    
+  5                  -1  1    590336  ultralytics.nn.modules.conv.Conv             [256, 256, 3, 2]              
+  6                  -1  1    346112  ultralytics.nn.modules.block.C3k2            [256, 256, 1, True]           
+  7                  -1  1   1180672  ultralytics.nn.modules.conv.Conv             [256, 512, 3, 2]              
+  8                  -1  1   1380352  ultralytics.nn.modules.block.C3k2            [512, 512, 1, True]           
+  9                  -1  1    990976  ultralytics.nn.modules.block.C2PSA           [512, 512, 1]                 
+ 10                  -1  1    663044  ultralytics.nn.modules.head.Classify         [512, 4]                      
+YOLO11s-cls summary: 86 layers, 5,448,132 parameters, 5,448,132 gradients, 12.3 GFLOPs
+Transferred 234/236 items from pretrained weights
+[34m[1mAMP: [0mrunning Automatic Mixed Precision (AMP) checks...
+[34m[1mAMP: [0mchecks passed ✅
+[yolo11s_cls] ERROR TypeError("ImageFolder.__init__() got an unexpected keyword argument 'allow_empty'")
+Traceback (most recent call last):
+  File "/helpai-storage/model/v7_leafid/cls/scripts/train_yolo.py", line 24, in <module>
+    model.train(data=str(DATA), imgsz=224, epochs=a.epochs, patience=10, batch=64, workers=4, seed=42,
+  File "/usr/local/lib/python3.10/dist-packages/ultralytics/engine/model.py", line 898, in train
+    self.trainer.train()
+  File "/usr/local/lib/python3.10/dist-packages/ultralytics/engine/trainer.py", line 262, in train
+    self._do_train()
+  File "/usr/local/lib/python3.10/dist-packages/ultralytics/engine/trainer.py", line 470, in _do_train
+    self._setup_train()
+  File "/usr/local/lib/python3.10/dist-packages/ultralytics/engine/trainer.py", line 451, in _setup_train
+    self._build_train_pipeline()
+  File "/usr/local/lib/python3.10/dist-packages/ultralytics/engine/trainer.py", line 304, in _build_train_pipeline
+    self.train_loader = self.get_dataloader(
+  File "/usr/local/lib/python3.10/dist-packages/ultralytics/models/yolo/classify/train.py", line 144, in get_dataloader
+    dataset = self.build_dataset(dataset_path, mode)
+  File "/usr/local/lib/python3.10/dist-packages/ultralytics/models/yolo/classify/train.py", line 123, in build_dataset
+    return ClassificationDataset(
+  File "/usr/local/lib/python3.10/dist-packages/ultralytics/data/dataset.py", line 1212, in __init__
+    self.base = torchvision.datasets.ImageFolder(
+TypeError: ImageFolder.__init__() got an unexpected keyword argument 'allow_empty'
+[effnetv2s] start
+[effnetv2s] epoch 1/20 train_loss 1.0825 val_acc 0.7268 val_macroF1 0.627 (best 0.627)
+[effnetv2s] epoch 2/20 train_loss 0.5860 val_acc 0.8408 val_macroF1 0.7186 (best 0.7186)
+[effnetv2s] epoch 3/20 train_loss 0.4920 val_acc 0.8958 val_macroF1 0.7905 (best 0.7905)
+[effnetv2s] epoch 4/20 train_loss 0.4473 val_acc 0.9127 val_macroF1 0.8117 (best 0.8117)
+[effnetv2s] epoch 5/20 train_loss 0.4189 val_acc 0.9099 val_macroF1 0.8223 (best 0.8223)
+[effnetv2s] epoch 6/20 train_loss 0.4100 val_acc 0.9197 val_macroF1 0.8115 (best 0.8223)
+[effnetv2s] epoch 7/20 train_loss 0.3923 val_acc 0.931 val_macroF1 0.8629 (best 0.8629)
+[effnetv2s] epoch 8/20 train_loss 0.3771 val_acc 0.9155 val_macroF1 0.8294 (best 0.8629)
+[effnetv2s] epoch 9/20 train_loss 0.3787 val_acc 0.9254 val_macroF1 0.8322 (best 0.8629)
+[effnetv2s] epoch 10/20 train_loss 0.3694 val_acc 0.8986 val_macroF1 0.7492 (best 0.8629)
+[effnetv2s] epoch 11/20 train_loss 0.3699 val_acc 0.9183 val_macroF1 0.7705 (best 0.8629)
+[effnetv2s] epoch 12/20 train_loss 0.3642 val_acc 0.9127 val_macroF1 0.7981 (best 0.8629)
+[effnetv2s] epoch 13/20 train_loss 0.3613 val_acc 0.9211 val_macroF1 0.7905 (best 0.8629)
+[effnetv2s] epoch 14/20 train_loss 0.3579 val_acc 0.9268 val_macroF1 0.8486 (best 0.8629)
+[effnetv2s] epoch 15/20 train_loss 0.3540 val_acc 0.9225 val_macroF1 0.8212 (best 0.8629)
+[effnetv2s] epoch 16/20 train_loss 0.3539 val_acc 0.9239 val_macroF1 0.8262 (best 0.8629)
+[effnetv2s] epoch 17/20 train_loss 0.3525 val_acc 0.9225 val_macroF1 0.7934 (best 0.8629)
+[effnetv2s] epoch 18/20 train_loss 0.3529 val_acc 0.9211 val_macroF1 0.7804 (best 0.8629)
+[effnetv2s] epoch 19/20 train_loss 0.3528 val_acc 0.9169 val_macroF1 0.7806 (best 0.8629)
+[effnetv2s] epoch 20/20 train_loss 0.3529 val_acc 0.9211 val_macroF1 0.78 (best 0.8629)
+[effnetv2s] training done in 6.2 min, evaluating best
+[effnetv2s] test: acc 0.9613 macroF1 0.9402 recall {'Black': 0.912, 'Fresh': 0.99, 'Hole': 0.94, 'Yellow': 0.857}
+[effnetv2s] test_deg: acc 0.9199 macroF1 0.8569 recall {'Black': 0.887, 'Fresh': 0.942, 'Hole': 0.896, 'Yellow': 0.857}
+[effnetv2s] v7 real crops (603): {'Black': 121, 'Fresh': 249, 'Hole': 201, 'Yellow': 32}
+[dinov2_vits14] start
+/helpai-storage/model/common/weights/dinov2_repo/dinov2/layers/swiglu_ffn.py:51: UserWarning: xFormers is not available (SwiGLU)
+  warnings.warn("xFormers is not available (SwiGLU)")
+/helpai-storage/model/common/weights/dinov2_repo/dinov2/layers/attention.py:33: UserWarning: xFormers is not available (Attention)
+  warnings.warn("xFormers is not available (Attention)")
+/helpai-storage/model/common/weights/dinov2_repo/dinov2/layers/block.py:40: UserWarning: xFormers is not available (Block)
+  warnings.warn("xFormers is not available (Block)")
+[dinov2_vits14] train features (14094, 768) in 513s
+[dinov2_vits14] C=0.01 val_macroF1 0.7126
+[dinov2_vits14] C=0.03 val_macroF1 0.7253
+[dinov2_vits14] C=0.1 val_macroF1 0.7143
+[dinov2_vits14] C=0.3 val_macroF1 0.7127
+[dinov2_vits14] C=1.0 val_macroF1 0.6990
+[dinov2_vits14] best C=0.03 val_macroF1 0.7253; evaluating
+[dinov2_vits14] test: acc 0.9199 macroF1 0.8544 recall {'Black': 0.863, 'Fresh': 0.976, 'Hole': 0.851, 'Yellow': 0.571}
+[dinov2_vits14] test_deg: acc 0.9033 macroF1 0.8318 recall {'Black': 0.887, 'Fresh': 0.933, 'Hole': 0.836, 'Yellow': 0.857}
+[dinov2_vits14] v7 real crops (603): {'Black': 37, 'Fresh': 404, 'Hole': 115, 'Yellow': 47}
+[compare] start
+[compare] 2 models compared -> compare.md
+=== ALL DONE 01:37:26 UTC ===

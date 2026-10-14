@@ -1,0 +1,280 @@
+[
+ {
+  "variant": "cutout",
+  "model": "dinov2_vits14",
+  "n": 456,
+  "false_alarm": 129,
+  "rate": 0.283,
+  "per_photo": 25.8,
+  "by_class": {
+   "Yellow": 44,
+   "Black": 26,
+   "Hole": 59
+  },
+  "by_tag": {
+   "F": {
+    "fa": 55,
+    "n": 132,
+    "rate": 0.417
+   },
+   "Fp": {
+    "fa": 51,
+    "n": 111,
+    "rate": 0.459
+   },
+   "Fb": {
+    "fa": 20,
+    "n": 209,
+    "rate": 0.096
+   },
+   "Fn": {
+    "fa": 3,
+    "n": 4,
+    "rate": 0.75
+   }
+  }
+ },
+ {
+  "variant": "cutout",
+  "model": "effnetv2s",
+  "n": 456,
+  "false_alarm": 249,
+  "rate": 0.546,
+  "per_photo": 49.8,
+  "by_class": {
+   "Hole": 128,
+   "Black": 92,
+   "Yellow": 29
+  },
+  "by_tag": {
+   "F": {
+    "fa": 91,
+    "n": 132,
+    "rate": 0.689
+   },
+   "Fp": {
+    "fa": 87,
+    "n": 111,
+    "rate": 0.784
+   },
+   "Fb": {
+    "fa": 68,
+    "n": 209,
+    "rate": 0.325
+   },
+   "Fn": {
+    "fa": 3,
+    "n": 4,
+    "rate": 0.75
+   }
+  }
+ },
+ {
+  "variant": "cutout",
+  "model": "yolo11s_cls",
+  "n": 456,
+  "false_alarm": 156,
+  "rate": 0.342,
+  "per_photo": 31.2,
+  "by_class": {
+   "Hole": 108,
+   "Yellow": 30,
+   "Black": 18
+  },
+  "by_tag": {
+   "F": {
+    "fa": 55,
+    "n": 132,
+    "rate": 0.417
+   },
+   "Fp": {
+    "fa": 76,
+    "n": 111,
+    "rate": 0.685
+   },
+   "Fb": {
+    "fa": 22,
+    "n": 209,
+    "rate": 0.105
+   },
+   "Fn": {
+    "fa": 3,
+    "n": 4,
+    "rate": 0.75
+   }
+  }
+ },
+ {
+  "variant": "bbox",
+  "model": "dinov2_vits14",
+  "n": 456,
+  "false_alarm": 118,
+  "rate": 0.259,
+  "per_photo": 23.6,
+  "by_class": {
+   "Hole": 14,
+   "Yellow": 89,
+   "Black": 15
+  },
+  "by_tag": {
+   "F": {
+    "fa": 46,
+    "n": 132,
+    "rate": 0.348
+   },
+   "Fp": {
+    "fa": 23,
+    "n": 111,
+    "rate": 0.207
+   },
+   "Fb": {
+    "fa": 48,
+    "n": 209,
+    "rate": 0.23
+   },
+   "Fn": {
+    "fa": 1,
+    "n": 4,
+    "rate": 0.25
+   }
+  }
+ },
+ {
+  "variant": "bbox",
+  "model": "effnetv2s",
+  "n": 456,
+  "false_alarm": 74,
+  "rate": 0.162,
+  "per_photo": 14.8,
+  "by_class": {
+   "Hole": 59,
+   "Black": 7,
+   "Yellow": 8
+  },
+  "by_tag": {
+   "F": {
+    "fa": 8,
+    "n": 132,
+    "rate": 0.061
+   },
+   "Fp": {
+    "fa": 28,
+    "n": 111,
+    "rate": 0.252
+   },
+   "Fb": {
+    "fa": 37,
+    "n": 209,
+    "rate": 0.177
+   },
+   "Fn": {
+    "fa": 1,
+    "n": 4,
+    "rate": 0.25
+   }
+  }
+ },
+ {
+  "variant": "bbox",
+  "model": "yolo11s_cls",
+  "n": 456,
+  "false_alarm": 182,
+  "rate": 0.399,
+  "per_photo": 36.4,
+  "by_class": {
+   "Yellow": 50,
+   "Hole": 109,
+   "Black": 23
+  },
+  "by_tag": {
+   "F": {
+    "fa": 29,
+    "n": 132,
+    "rate": 0.22
+   },
+   "Fp": {
+    "fa": 67,
+    "n": 111,
+    "rate": 0.604
+   },
+   "Fb": {
+    "fa": 83,
+    "n": 209,
+    "rate": 0.397
+   },
+   "Fn": {
+    "fa": 3,
+    "n": 4,
+    "rate": 0.75
+   }
+  }
+ },
+ {
+  "variant": "bbox_real",
+  "model": "effnetv2s",
+  "n": 456,
+  "false_alarm": 2,
+  "rate": 0.004,
+  "per_photo": 0.4,
+  "by_class": {
+   "Hole": 2
+  },
+  "by_tag": {
+   "F": {
+    "fa": 0,
+    "n": 132,
+    "rate": 0.0
+   },
+   "Fp": {
+    "fa": 0,
+    "n": 111,
+    "rate": 0.0
+   },
+   "Fb": {
+    "fa": 2,
+    "n": 209,
+    "rate": 0.01
+   },
+   "Fn": {
+    "fa": 0,
+    "n": 4,
+    "rate": 0.0
+   }
+  }
+ },
+ {
+  "variant": "bbox_real_aug",
+  "model": "effnetv2s",
+  "n": 456,
+  "false_alarm": 4,
+  "rate": 0.009,
+  "per_photo": 0.8,
+  "by_class": {
+   "Black": 2,
+   "Hole": 1,
+   "Yellow": 1
+  },
+  "by_tag": {
+   "F": {
+    "fa": 0,
+    "n": 132,
+    "rate": 0.0
+   },
+   "Fp": {
+    "fa": 1,
+    "n": 111,
+    "rate": 0.009
+   },
+   "Fb": {
+    "fa": 3,
+    "n": 209,
+    "rate": 0.014
+   },
+   "Fn": {
+    "fa": 0,
+    "n": 4,
+    "rate": 0.0
+   }
+  }
+ }
+]

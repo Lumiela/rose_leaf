@@ -1,0 +1,41 @@
+{
+ "weights": "/helpai-storage/model/v7_leafid/cls/runs_bbox_real_aug/effnetv2s/best.pt",
+ "min_conf": 0.0,
+ "per_photo": {
+  "camfix_01.jpg": {
+   "Black Spot": 2,
+   "Fresh": 75,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 24
+  },
+  "camfix_02.jpg": {
+   "Black Spot": 0,
+   "Fresh": 63,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 24
+  },
+  "camfix_03.jpg": {
+   "Black Spot": 0,
+   "Fresh": 68,
+   "Hole": 1,
+   "Yellow": 0,
+   "Hold": 23
+  },
+  "camfix_04.jpg": {
+   "Black Spot": 0,
+   "Fresh": 143,
+   "Hole": 0,
+   "Yellow": 1,
+   "Hold": 43
+  },
+  "camfix_05.jpg": {
+   "Black Spot": 0,
+   "Fresh": 109,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 27
+  }
+ }
+}

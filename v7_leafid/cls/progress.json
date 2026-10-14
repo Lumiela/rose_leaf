@@ -1,0 +1,133 @@
+{
+ "download": {
+  "status": "done",
+  "start": "01:12:08",
+  "lines": [
+   "01:12:08 start",
+   "01:12:08 downloading yolo11s-cls.pt from https://github.com/ultralytics/assets/releases/download/v8.3.0/yolo11s-cls.pt",
+   "01:12:19 ok yolo11s-cls.pt (13M)",
+   "01:12:19 downloading efficientnet_v2_s-dd5fe13b.pth from https://download.pytorch.org/models/efficientnet_v2_s-dd5fe13b.pth",
+   "01:12:21 ok efficientnet_v2_s-dd5fe13b.pth (83M)",
+   "01:12:21 downloading dinov2_vits14_pretrain.pth from https://dl.fbaipublicfiles.com/dinov2/dinov2_vits14/dinov2_vits14_pretrain.pth",
+   "01:12:23 ok dinov2_vits14_pretrain.pth (85M)",
+   "01:12:23 downloading dinov2_main.zip from https://github.com/facebookresearch/dinov2/archive/refs/heads/main.zip",
+   "01:12:37 ok dinov2_main.zip (2.9M)",
+   "01:12:37 dinov2 code -> common/weights/dinov2_repo",
+   "01:12:38 all weights ready"
+  ],
+  "updated": "01:12:38"
+ },
+ "render": {
+  "status": "done",
+  "start": "01:12:38",
+  "lines": [
+   "01:12:38 start",
+   "01:12:58 train 500/2348 originals",
+   "01:13:11 train 1000/2348 originals",
+   "01:13:22 train 1500/2348 originals",
+   "01:13:40 train 2000/2348 originals",
+   "01:14:04 train: 7047 images {'train': {'Black': 1899, 'Fresh': 1930, 'Hole': 1887, 'Yellow': 1331}}",
+   "01:14:07 val: 710 images {'val': {'Black': 156, 'Fresh': 412, 'Hole': 130, 'Yellow': 12}}",
+   "01:14:09 test: 724 images {'test': {'Black': 80, 'Fresh': 208, 'Hole': 67, 'Yellow': 7}, 'test_deg': {'Black': 80, 'Fresh': 208, 'Hole': 67, 'Yellow': 7}}",
+   "01:14:09 dataset ready -> /helpai-storage/model/v7_leafid/cls/data"
+  ],
+  "updated": "01:14:09"
+ },
+ "yolo11s_cls": {
+  "status": "done",
+  "start": "01:14:11",
+  "lines": [
+   "01:45:36 epoch 11/30 train_loss nan val_top1 0.90563",
+   "01:45:49 epoch 12/30 train_loss nan val_top1 0.88732",
+   "01:46:03 epoch 13/30 train_loss nan val_top1 0.89577",
+   "01:46:16 epoch 14/30 train_loss nan val_top1 0.89155",
+   "01:46:29 epoch 15/30 train_loss nan val_top1 0.89859",
+   "01:46:42 epoch 16/30 train_loss nan val_top1 0.85493",
+   "01:46:55 epoch 17/30 train_loss nan val_top1 0.87183",
+   "01:47:09 epoch 18/30 train_loss nan val_top1 0.89014",
+   "01:47:22 epoch 19/30 train_loss nan val_top1 0.89718",
+   "01:47:35 epoch 20/30 train_loss nan val_top1 0.90845",
+   "01:47:51 epoch 21/30 train_loss nan val_top1 0.90986",
+   "01:48:05 epoch 22/30 train_loss nan val_top1 0.89437",
+   "01:48:19 epoch 23/30 train_loss nan val_top1 0.87887",
+   "01:48:34 epoch 24/30 train_loss nan val_top1 0.91268",
+   "01:48:48 epoch 25/30 train_loss nan val_top1 0.90282",
+   "01:49:02 epoch 26/30 train_loss nan val_top1 0.87887",
+   "01:49:16 epoch 27/30 train_loss nan val_top1 0.9",
+   "01:49:30 epoch 28/30 train_loss nan val_top1 0.88732",
+   "01:49:43 epoch 29/30 train_loss nan val_top1 0.92394",
+   "01:49:57 epoch 30/30 train_loss nan val_top1 0.91972",
+   "01:50:01 epoch 31/30 train_loss nan val_top1 0.9239436388015747",
+   "01:50:01 training done in 7.1 min, evaluating",
+   "01:50:03 test: acc 0.942 macroF1 0.8731 recall {'Black': 0.925, 'Fresh': 0.981, 'Hole': 0.881, 'Yellow': 0.571}",
+   "01:50:04 test_deg: acc 0.9309 macroF1 0.8286 recall {'Black': 0.925, 'Fresh': 0.976, 'Hole': 0.836, 'Yellow': 0.571}",
+   "01:50:06 v7 real crops (603): {'Black': 37, 'Fresh': 358, 'Hole': 171, 'Yellow': 37}"
+  ],
+  "updated": "01:50:06"
+ },
+ "effnetv2s": {
+  "status": "done",
+  "start": "01:14:17",
+  "lines": [
+   "01:14:17 start",
+   "01:14:40 epoch 1/20 train_loss 1.0825 val_acc 0.7268 val_macroF1 0.627 (best 0.627)",
+   "01:14:59 epoch 2/20 train_loss 0.5860 val_acc 0.8408 val_macroF1 0.7186 (best 0.7186)",
+   "01:15:17 epoch 3/20 train_loss 0.4920 val_acc 0.8958 val_macroF1 0.7905 (best 0.7905)",
+   "01:15:35 epoch 4/20 train_loss 0.4473 val_acc 0.9127 val_macroF1 0.8117 (best 0.8117)",
+   "01:15:54 epoch 5/20 train_loss 0.4189 val_acc 0.9099 val_macroF1 0.8223 (best 0.8223)",
+   "01:16:12 epoch 6/20 train_loss 0.4100 val_acc 0.9197 val_macroF1 0.8115 (best 0.8223)",
+   "01:16:31 epoch 7/20 train_loss 0.3923 val_acc 0.931 val_macroF1 0.8629 (best 0.8629)",
+   "01:16:49 epoch 8/20 train_loss 0.3771 val_acc 0.9155 val_macroF1 0.8294 (best 0.8629)",
+   "01:17:07 epoch 9/20 train_loss 0.3787 val_acc 0.9254 val_macroF1 0.8322 (best 0.8629)",
+   "01:17:26 epoch 10/20 train_loss 0.3694 val_acc 0.8986 val_macroF1 0.7492 (best 0.8629)",
+   "01:17:44 epoch 11/20 train_loss 0.3699 val_acc 0.9183 val_macroF1 0.7705 (best 0.8629)",
+   "01:18:02 epoch 12/20 train_loss 0.3642 val_acc 0.9127 val_macroF1 0.7981 (best 0.8629)",
+   "01:18:20 epoch 13/20 train_loss 0.3613 val_acc 0.9211 val_macroF1 0.7905 (best 0.8629)",
+   "01:18:39 epoch 14/20 train_loss 0.3579 val_acc 0.9268 val_macroF1 0.8486 (best 0.8629)",
+   "01:18:58 epoch 15/20 train_loss 0.3540 val_acc 0.9225 val_macroF1 0.8212 (best 0.8629)",
+   "01:19:17 epoch 16/20 train_loss 0.3539 val_acc 0.9239 val_macroF1 0.8262 (best 0.8629)",
+   "01:19:36 epoch 17/20 train_loss 0.3525 val_acc 0.9225 val_macroF1 0.7934 (best 0.8629)",
+   "01:19:55 epoch 18/20 train_loss 0.3529 val_acc 0.9211 val_macroF1 0.7804 (best 0.8629)",
+   "01:20:13 epoch 19/20 train_loss 0.3528 val_acc 0.9169 val_macroF1 0.7806 (best 0.8629)",
+   "01:20:31 epoch 20/20 train_loss 0.3529 val_acc 0.9211 val_macroF1 0.78 (best 0.8629)",
+   "01:20:31 training done in 6.2 min, evaluating best",
+   "01:20:32 test: acc 0.9613 macroF1 0.9402 recall {'Black': 0.912, 'Fresh': 0.99, 'Hole': 0.94, 'Yellow': 0.857}",
+   "01:20:33 test_deg: acc 0.9199 macroF1 0.8569 recall {'Black': 0.887, 'Fresh': 0.942, 'Hole': 0.896, 'Yellow': 0.857}",
+   "01:20:35 v7 real crops (603): {'Black': 121, 'Fresh': 249, 'Hole': 201, 'Yellow': 32}"
+  ],
+  "updated": "01:20:35"
+ },
+ "dinov2_vits14": {
+  "status": "done",
+  "start": "01:20:40",
+  "lines": [
+   "01:20:40 start",
+   "01:29:17 train features (14094, 768) in 513s",
+   "01:30:19 C=0.01 val_macroF1 0.7126",
+   "01:31:35 C=0.03 val_macroF1 0.7253",
+   "01:33:07 C=0.1 val_macroF1 0.7143",
+   "01:35:08 C=0.3 val_macroF1 0.7127",
+   "01:36:45 C=1.0 val_macroF1 0.6990",
+   "01:36:45 best C=0.03 val_macroF1 0.7253; evaluating",
+   "01:36:57 test: acc 0.9199 macroF1 0.8544 recall {'Black': 0.863, 'Fresh': 0.976, 'Hole': 0.851, 'Yellow': 0.571}",
+   "01:37:10 test_deg: acc 0.9033 macroF1 0.8318 recall {'Black': 0.887, 'Fresh': 0.933, 'Hole': 0.836, 'Yellow': 0.857}",
+   "01:37:25 v7 real crops (603): {'Black': 37, 'Fresh': 404, 'Hole': 115, 'Yellow': 47}"
+  ],
+  "updated": "01:37:25"
+ },
+ "compare": {
+  "status": "done",
+  "start": "01:37:26",
+  "lines": [
+   "01:37:26 start",
+   "01:37:26 2 models compared -> compare.md",
+   "01:38:14 start",
+   "01:38:14 2 models compared -> compare.md",
+   "01:50:07 start",
+   "01:50:07 3 models compared -> compare.md",
+   "03:05:46 start",
+   "03:05:46 3 models compared -> compare.md"
+  ],
+  "updated": "03:05:46"
+ }
+}

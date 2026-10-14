@@ -1,0 +1,294 @@
+[
+ {
+  "model": "dinov2_vits14",
+  "C": 0.1,
+  "test": {
+   "acc": 0.8011,
+   "macro_f1": 0.6655,
+   "recall": {
+    "Black": 0.725,
+    "Fresh": 0.856,
+    "Hole": 0.761,
+    "Yellow": 0.429
+   },
+   "confusion": [
+    [
+     58,
+     12,
+     10,
+     0
+    ],
+    [
+     14,
+     178,
+     8,
+     8
+    ],
+    [
+     12,
+     4,
+     51,
+     0
+    ],
+    [
+     1,
+     2,
+     1,
+     3
+    ]
+   ],
+   "n": 362,
+   "ms_per_img": 41.85
+  },
+  "test_deg": {
+   "acc": 0.7597,
+   "macro_f1": 0.6406,
+   "recall": {
+    "Black": 0.812,
+    "Fresh": 0.75,
+    "Hole": 0.731,
+    "Yellow": 0.714
+   },
+   "confusion": [
+    [
+     65,
+     7,
+     4,
+     4
+    ],
+    [
+     18,
+     156,
+     17,
+     17
+    ],
+    [
+     10,
+     4,
+     49,
+     4
+    ],
+    [
+     1,
+     1,
+     0,
+     5
+    ]
+   ],
+   "n": 362,
+   "ms_per_img": 35.88
+  },
+  "v7_crops": {
+   "Black": 15,
+   "Fresh": 453,
+   "Hole": 21,
+   "Yellow": 114
+  },
+  "real": {
+   "n": 603,
+   "nonfresh_all": 0.249,
+   "n_judged": 462,
+   "nonfresh_judged": 0.258,
+   "judged_counts": {
+    "Black": 15,
+    "Fresh": 343,
+    "Hole": 14,
+    "Yellow": 90
+   }
+  }
+ },
+ {
+  "model": "effnetv2s",
+  "test": {
+   "acc": 0.9199,
+   "macro_f1": 0.8585,
+   "recall": {
+    "Black": 0.85,
+    "Fresh": 0.981,
+    "Hole": 0.851,
+    "Yellow": 0.571
+   },
+   "confusion": [
+    [
+     68,
+     8,
+     4,
+     0
+    ],
+    [
+     2,
+     204,
+     2,
+     0
+    ],
+    [
+     3,
+     7,
+     57,
+     0
+    ],
+    [
+     1,
+     1,
+     1,
+     4
+    ]
+   ],
+   "n": 362,
+   "ms_per_img": 2.05
+  },
+  "test_deg": {
+   "acc": 0.8729,
+   "macro_f1": 0.8247,
+   "recall": {
+    "Black": 0.787,
+    "Fresh": 0.918,
+    "Hole": 0.836,
+    "Yellow": 0.857
+   },
+   "confusion": [
+    [
+     63,
+     8,
+     8,
+     1
+    ],
+    [
+     12,
+     191,
+     3,
+     2
+    ],
+    [
+     3,
+     8,
+     56,
+     0
+    ],
+    [
+     1,
+     0,
+     0,
+     6
+    ]
+   ],
+   "n": 362,
+   "ms_per_img": 1.76
+  },
+  "v7_crops": {
+   "Black": 11,
+   "Fresh": 491,
+   "Hole": 88,
+   "Yellow": 13
+  },
+  "real": {
+   "n": 603,
+   "nonfresh_all": 0.186,
+   "n_judged": 462,
+   "nonfresh_judged": 0.162,
+   "judged_counts": {
+    "Black": 7,
+    "Fresh": 387,
+    "Hole": 59,
+    "Yellow": 9
+   }
+  }
+ },
+ {
+  "model": "yolo11s_cls",
+  "test": {
+   "acc": 0.8812,
+   "macro_f1": 0.7945,
+   "recall": {
+    "Black": 0.812,
+    "Fresh": 0.928,
+    "Hole": 0.866,
+    "Yellow": 0.429
+   },
+   "confusion": [
+    [
+     65,
+     7,
+     8,
+     0
+    ],
+    [
+     7,
+     193,
+     8,
+     0
+    ],
+    [
+     3,
+     6,
+     58,
+     0
+    ],
+    [
+     1,
+     2,
+     1,
+     3
+    ]
+   ],
+   "n": 362,
+   "ms_per_img": 3.6
+  },
+  "test_deg": {
+   "acc": 0.884,
+   "macro_f1": 0.7916,
+   "recall": {
+    "Black": 0.812,
+    "Fresh": 0.928,
+    "Hole": 0.866,
+    "Yellow": 0.571
+   },
+   "confusion": [
+    [
+     65,
+     8,
+     6,
+     1
+    ],
+    [
+     5,
+     193,
+     8,
+     2
+    ],
+    [
+     6,
+     3,
+     58,
+     0
+    ],
+    [
+     1,
+     2,
+     0,
+     4
+    ]
+   ],
+   "n": 362,
+   "ms_per_img": 1.58
+  },
+  "v7_crops": {
+   "Black": 41,
+   "Fresh": 321,
+   "Hole": 158,
+   "Yellow": 83
+  },
+  "real": {
+   "n": 603,
+   "nonfresh_all": 0.468,
+   "n_judged": 462,
+   "nonfresh_judged": 0.403,
+   "judged_counts": {
+    "Black": 23,
+    "Fresh": 276,
+    "Hole": 109,
+    "Yellow": 54
+   }
+  }
+ }
+]

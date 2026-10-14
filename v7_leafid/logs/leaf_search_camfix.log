@@ -1,0 +1,6 @@
+PHOTO camfix_01.jpg 1280x720 raw=128 hole_dropped=4 leaves=110 merged_suspect(solidity<0.8)=13 border=15 15.6s
+PHOTO camfix_02.jpg 1280x720 raw=108 hole_dropped=2 leaves=93 merged_suspect(solidity<0.8)=15 border=13 8.7s
+PHOTO camfix_03.jpg 1280x720 raw=122 hole_dropped=5 leaves=101 merged_suspect(solidity<0.8)=19 border=11 10.5s
+PHOTO camfix_04.jpg 2000x1500 raw=225 hole_dropped=6 leaves=199 merged_suspect(solidity<0.8)=27 border=21 113.6s
+PHOTO camfix_05.jpg 2000x1500 raw=168 hole_dropped=8 leaves=145 merged_suspect(solidity<0.8)=20 border=12 63.0s
+SAVED /helpai-storage/model/v7_leafid/runs/real_images_camfix_20261014_003117 total leaves 648

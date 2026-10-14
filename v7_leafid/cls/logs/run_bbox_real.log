@@ -1,0 +1,51 @@
+[build_real] start
+[build_real] synthetic 8487 linked; real healthy leaves: train 938 (x2 images, synthetic Fresh 1930), val 253, test_real 201, excluded U/X 40
+[effnetv2s] start
+[effnetv2s] epoch 1/20 train_loss 1.0747 val_acc 0.8754 val_macroF1 0.7311 (best 0.7311)
+[effnetv2s] epoch 2/20 train_loss 0.5729 val_acc 0.8827 val_macroF1 0.7081 (best 0.7311)
+[effnetv2s] epoch 3/20 train_loss 0.4944 val_acc 0.891 val_macroF1 0.7433 (best 0.7433)
+[effnetv2s] epoch 4/20 train_loss 0.4513 val_acc 0.8972 val_macroF1 0.7437 (best 0.7437)
+[effnetv2s] epoch 5/20 train_loss 0.4149 val_acc 0.8827 val_macroF1 0.7279 (best 0.7437)
+[effnetv2s] epoch 6/20 train_loss 0.4112 val_acc 0.8816 val_macroF1 0.721 (best 0.7437)
+[effnetv2s] epoch 7/20 train_loss 0.3963 val_acc 0.892 val_macroF1 0.7284 (best 0.7437)
+[effnetv2s] epoch 8/20 train_loss 0.3892 val_acc 0.8847 val_macroF1 0.73 (best 0.7437)
+[effnetv2s] epoch 9/20 train_loss 0.3830 val_acc 0.8879 val_macroF1 0.7326 (best 0.7437)
+[effnetv2s] epoch 10/20 train_loss 0.3693 val_acc 0.8982 val_macroF1 0.7453 (best 0.7453)
+[effnetv2s] epoch 11/20 train_loss 0.3652 val_acc 0.892 val_macroF1 0.7398 (best 0.7453)
+[effnetv2s] epoch 12/20 train_loss 0.3648 val_acc 0.9055 val_macroF1 0.7726 (best 0.7726)
+[effnetv2s] epoch 13/20 train_loss 0.3588 val_acc 0.9055 val_macroF1 0.7748 (best 0.7748)
+[effnetv2s] epoch 14/20 train_loss 0.3561 val_acc 0.9065 val_macroF1 0.7734 (best 0.7748)
+[effnetv2s] epoch 15/20 train_loss 0.3539 val_acc 0.9128 val_macroF1 0.7707 (best 0.7748)
+[effnetv2s] epoch 16/20 train_loss 0.3526 val_acc 0.9055 val_macroF1 0.7553 (best 0.7748)
+[effnetv2s] epoch 17/20 train_loss 0.3525 val_acc 0.9076 val_macroF1 0.7618 (best 0.7748)
+[effnetv2s] epoch 18/20 train_loss 0.3526 val_acc 0.9045 val_macroF1 0.7606 (best 0.7748)
+[effnetv2s] epoch 19/20 train_loss 0.3529 val_acc 0.9045 val_macroF1 0.7607 (best 0.7748)
+[effnetv2s] epoch 20/20 train_loss 0.3517 val_acc 0.9065 val_macroF1 0.7656 (best 0.7748)
+[effnetv2s] training done in 8.9 min, evaluating best
+[effnetv2s] test: acc 0.9144 macroF1 0.877 recall {'Black': 0.838, 'Fresh': 0.981, 'Hole': 0.806, 'Yellow': 0.857}
+[effnetv2s] test_deg: acc 0.8923 macroF1 0.849 recall {'Black': 0.85, 'Fresh': 0.942, 'Hole': 0.791, 'Yellow': 0.857}
+[effnetv2s] v7 real crops (603): {'Black': 0, 'Fresh': 599, 'Hole': 4, 'Yellow': 0}
+[compare] start
+[compare] 1 models compared -> compare_bbox_real.md
+# 실사 정답 기준 평가 (고정 카메라 5장, 판정 대상 잎 462개)
+
+정답 분포: F 132, Fp 111, Fb 209, Fn 4, X 6, Black 0, Hole 0, Yellow 0
+
+F 선명한 건강 잎 / Fp 마스크가 일부·합쳐진 건강 잎 / Fb 흐린 건강 잎 / Fn 연한 새잎 / X 판정 불가(제외)
+
+| 입력 | 모델 | A1 건강 잎 오판율 | A2 사진당 오판 | A3 클래스별 오판 (Black/Hole/Yellow) | F | Fp | Fb | Fn |
+|---|---|---|---|---|---|---|---|---|
+| bbox_real | effnetv2s | **0.4%** (2/456) | 0.4 | 0/2/0 | 0% (0/132) | 0% (0/111) | 1% (2/209) | 0% (0/4) |
+| bbox | effnetv2s | **16.2%** (74/456) | 14.8 | 7/59/8 | 6% (8/132) | 25% (28/111) | 18% (37/209) | 25% (1/4) |
+| bbox | dinov2_vits14 | **25.9%** (118/456) | 23.6 | 15/14/89 | 35% (46/132) | 21% (23/111) | 23% (48/209) | 25% (1/4) |
+| cutout | dinov2_vits14 | **28.3%** (129/456) | 25.8 | 26/59/44 | 42% (55/132) | 46% (51/111) | 10% (20/209) | 75% (3/4) |
+| cutout | yolo11s_cls | **34.2%** (156/456) | 31.2 | 18/108/30 | 42% (55/132) | 68% (76/111) | 10% (22/209) | 75% (3/4) |
+| bbox | yolo11s_cls | **39.9%** (182/456) | 36.4 | 23/109/50 | 22% (29/132) | 60% (67/111) | 40% (83/209) | 75% (3/4) |
+| cutout | effnetv2s | **54.6%** (249/456) | 49.8 | 92/128/29 | 69% (91/132) | 78% (87/111) | 32% (68/209) | 75% (3/4) |
+# A4: 학습에 안 쓴 실제 사진(스마트폰 cube_21, cube_22)의 건강 잎 오판율
+
+| 실행 | 잎 수 | 오판 | 오판율 | 클래스별 (Black/Hole/Yellow) |
+|---|---|---|---|---|
+| runs_bbox | 201 | 8 | **4.0%** | 4/3/1 |
+| runs_bbox_real | 201 | 0 | **0.0%** | 0/0/0 |
+=== BBOX_REAL RUN DONE 03:48:38 UTC ===

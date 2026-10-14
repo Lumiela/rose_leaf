@@ -1,0 +1,99 @@
+[
+ {
+  "model": "effnetv2s",
+  "test": {
+   "acc": 0.9282,
+   "macro_f1": 0.8927,
+   "recall": {
+    "Black": 0.863,
+    "Fresh": 0.976,
+    "Hole": 0.881,
+    "Yellow": 0.714
+   },
+   "confusion": [
+    [
+     69,
+     7,
+     4,
+     0
+    ],
+    [
+     4,
+     203,
+     1,
+     0
+    ],
+    [
+     3,
+     5,
+     59,
+     0
+    ],
+    [
+     1,
+     1,
+     0,
+     5
+    ]
+   ],
+   "n": 362,
+   "ms_per_img": 2.08
+  },
+  "test_deg": {
+   "acc": 0.8867,
+   "macro_f1": 0.8616,
+   "recall": {
+    "Black": 0.825,
+    "Fresh": 0.928,
+    "Hole": 0.836,
+    "Yellow": 0.857
+   },
+   "confusion": [
+    [
+     66,
+     9,
+     5,
+     0
+    ],
+    [
+     5,
+     193,
+     9,
+     1
+    ],
+    [
+     4,
+     7,
+     56,
+     0
+    ],
+    [
+     1,
+     0,
+     0,
+     6
+    ]
+   ],
+   "n": 362,
+   "ms_per_img": 1.86
+  },
+  "v7_crops": {
+   "Black": 7,
+   "Fresh": 587,
+   "Hole": 5,
+   "Yellow": 4
+  },
+  "real": {
+   "n": 603,
+   "nonfresh_all": 0.027,
+   "n_judged": 462,
+   "nonfresh_judged": 0.009,
+   "judged_counts": {
+    "Black": 2,
+    "Fresh": 458,
+    "Hole": 1,
+    "Yellow": 1
+   }
+  }
+ }
+]

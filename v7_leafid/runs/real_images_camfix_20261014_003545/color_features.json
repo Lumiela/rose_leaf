@@ -1,0 +1,6422 @@
+[
+ {
+  "id": "camfix_01_L0001",
+  "key": "01_1",
+  "tag": "",
+  "sat_med": 0.45,
+  "exg_med": 0.268,
+  "green_frac": 0.973,
+  "dark": 0.0,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_01_L0002",
+  "key": "01_2",
+  "tag": "",
+  "sat_med": 0.536,
+  "exg_med": 0.341,
+  "green_frac": 0.999,
+  "dark": 0.011,
+  "lc": 0.992
+ },
+ {
+  "id": "camfix_01_L0003",
+  "key": "01_3",
+  "tag": "",
+  "sat_med": 0.5,
+  "exg_med": 0.3,
+  "green_frac": 0.996,
+  "dark": 0.001,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0004",
+  "key": "01_4",
+  "tag": "",
+  "sat_med": 0.565,
+  "exg_med": 0.37,
+  "green_frac": 0.998,
+  "dark": 0.002,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_01_L0005",
+  "key": "01_5",
+  "tag": "",
+  "sat_med": 0.533,
+  "exg_med": 0.266,
+  "green_frac": 0.911,
+  "dark": 0.472,
+  "lc": 0.61
+ },
+ {
+  "id": "camfix_01_L0006",
+  "key": "01_6",
+  "tag": "",
+  "sat_med": 0.504,
+  "exg_med": 0.315,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0007",
+  "key": "01_7",
+  "tag": "",
+  "sat_med": 0.569,
+  "exg_med": 0.375,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0008",
+  "key": "01_8",
+  "tag": "",
+  "sat_med": 0.497,
+  "exg_med": 0.336,
+  "green_frac": 0.993,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0009",
+  "key": "01_9",
+  "tag": "",
+  "sat_med": 0.465,
+  "exg_med": 0.3,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0010",
+  "key": "01_10",
+  "tag": "",
+  "sat_med": 0.581,
+  "exg_med": 0.368,
+  "green_frac": 1.0,
+  "dark": 0.001,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0011",
+  "key": "01_11",
+  "tag": "",
+  "sat_med": 0.472,
+  "exg_med": 0.327,
+  "green_frac": 0.985,
+  "dark": 0.018,
+  "lc": 0.984
+ },
+ {
+  "id": "camfix_01_L0012",
+  "key": "01_12",
+  "tag": "",
+  "sat_med": 0.436,
+  "exg_med": 0.307,
+  "green_frac": 0.921,
+  "dark": 0.02,
+  "lc": 0.97
+ },
+ {
+  "id": "camfix_01_L0013",
+  "key": "01_13",
+  "tag": "",
+  "sat_med": 0.559,
+  "exg_med": 0.387,
+  "green_frac": 1.0,
+  "dark": 0.003,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0014",
+  "key": "01_14",
+  "tag": "",
+  "sat_med": 0.517,
+  "exg_med": 0.36,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0015",
+  "key": "01_15",
+  "tag": "bg",
+  "sat_med": 0.178,
+  "exg_med": 0.111,
+  "green_frac": 0.298,
+  "dark": 0.011,
+  "lc": 0.692
+ },
+ {
+  "id": "camfix_01_L0016",
+  "key": "01_16",
+  "tag": "",
+  "sat_med": 0.598,
+  "exg_med": 0.465,
+  "green_frac": 1.0,
+  "dark": 0.026,
+  "lc": 0.983
+ },
+ {
+  "id": "camfix_01_L0017",
+  "key": "01_17",
+  "tag": "",
+  "sat_med": 0.534,
+  "exg_med": 0.432,
+  "green_frac": 0.999,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0018",
+  "key": "01_18",
+  "tag": "bg",
+  "sat_med": 0.348,
+  "exg_med": 0.143,
+  "green_frac": 0.878,
+  "dark": 0.956,
+  "lc": 0.639
+ },
+ {
+  "id": "camfix_01_L0019",
+  "key": "01_19",
+  "tag": "",
+  "sat_med": 0.561,
+  "exg_med": 0.34,
+  "green_frac": 1.0,
+  "dark": 0.01,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0020",
+  "key": "01_20",
+  "tag": "",
+  "sat_med": 0.567,
+  "exg_med": 0.353,
+  "green_frac": 1.0,
+  "dark": 0.006,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0021",
+  "key": "01_21",
+  "tag": "",
+  "sat_med": 0.562,
+  "exg_med": 0.347,
+  "green_frac": 0.987,
+  "dark": 0.035,
+  "lc": 0.979
+ },
+ {
+  "id": "camfix_01_L0022",
+  "key": "01_22",
+  "tag": "",
+  "sat_med": 0.605,
+  "exg_med": 0.403,
+  "green_frac": 1.0,
+  "dark": 0.002,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_01_L0023",
+  "key": "01_23",
+  "tag": "",
+  "sat_med": 0.606,
+  "exg_med": 0.384,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0024",
+  "key": "01_24",
+  "tag": "",
+  "sat_med": 0.551,
+  "exg_med": 0.373,
+  "green_frac": 1.0,
+  "dark": 0.001,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0025",
+  "key": "01_25",
+  "tag": "",
+  "sat_med": 0.587,
+  "exg_med": 0.392,
+  "green_frac": 1.0,
+  "dark": 0.005,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_01_L0026",
+  "key": "01_26",
+  "tag": "",
+  "sat_med": 0.476,
+  "exg_med": 0.312,
+  "green_frac": 1.0,
+  "dark": 0.074,
+  "lc": 0.962
+ },
+ {
+  "id": "camfix_01_L0027",
+  "key": "01_27",
+  "tag": "",
+  "sat_med": 0.53,
+  "exg_med": 0.307,
+  "green_frac": 0.994,
+  "dark": 0.021,
+  "lc": 0.978
+ },
+ {
+  "id": "camfix_01_L0028",
+  "key": "01_28",
+  "tag": "bg",
+  "sat_med": 0.593,
+  "exg_med": 0.2,
+  "green_frac": 0.789,
+  "dark": 0.421,
+  "lc": 0.537
+ },
+ {
+  "id": "camfix_01_L0029",
+  "key": "01_29",
+  "tag": "",
+  "sat_med": 0.606,
+  "exg_med": 0.412,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0030",
+  "key": "01_30",
+  "tag": "",
+  "sat_med": 0.534,
+  "exg_med": 0.313,
+  "green_frac": 1.0,
+  "dark": 0.008,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_01_L0031",
+  "key": "01_31",
+  "tag": "",
+  "sat_med": 0.54,
+  "exg_med": 0.366,
+  "green_frac": 0.995,
+  "dark": 0.003,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0032",
+  "key": "01_32",
+  "tag": "",
+  "sat_med": 0.469,
+  "exg_med": 0.299,
+  "green_frac": 0.999,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0033",
+  "key": "01_33",
+  "tag": "",
+  "sat_med": 0.47,
+  "exg_med": 0.313,
+  "green_frac": 1.0,
+  "dark": 0.018,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_01_L0034",
+  "key": "01_34",
+  "tag": "",
+  "sat_med": 0.458,
+  "exg_med": 0.31,
+  "green_frac": 0.974,
+  "dark": 0.0,
+  "lc": 0.98
+ },
+ {
+  "id": "camfix_01_L0035",
+  "key": "01_35",
+  "tag": "bg",
+  "sat_med": 0.333,
+  "exg_med": 0.159,
+  "green_frac": 0.746,
+  "dark": 0.394,
+  "lc": 0.582
+ },
+ {
+  "id": "camfix_01_L0036",
+  "key": "01_36",
+  "tag": "",
+  "sat_med": 0.578,
+  "exg_med": 0.418,
+  "green_frac": 0.999,
+  "dark": 0.008,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_01_L0037",
+  "key": "01_37",
+  "tag": "",
+  "sat_med": 0.635,
+  "exg_med": 0.463,
+  "green_frac": 0.992,
+  "dark": 0.058,
+  "lc": 0.964
+ },
+ {
+  "id": "camfix_01_L0038",
+  "key": "01_38",
+  "tag": "leaf*",
+  "sat_med": 0.658,
+  "exg_med": 0.646,
+  "green_frac": 0.996,
+  "dark": 0.192,
+  "lc": 0.854
+ },
+ {
+  "id": "camfix_01_L0039",
+  "key": "01_39",
+  "tag": "",
+  "sat_med": 0.72,
+  "exg_med": 0.657,
+  "green_frac": 1.0,
+  "dark": 0.093,
+  "lc": 0.955
+ },
+ {
+  "id": "camfix_01_L0040",
+  "key": "01_40",
+  "tag": "",
+  "sat_med": 0.316,
+  "exg_med": 0.174,
+  "green_frac": 0.813,
+  "dark": 0.0,
+  "lc": 0.891
+ },
+ {
+  "id": "camfix_01_L0041",
+  "key": "01_41",
+  "tag": "",
+  "sat_med": 0.351,
+  "exg_med": 0.209,
+  "green_frac": 0.86,
+  "dark": 0.0,
+  "lc": 0.905
+ },
+ {
+  "id": "camfix_01_L0042",
+  "key": "01_42",
+  "tag": "",
+  "sat_med": 0.393,
+  "exg_med": 0.22,
+  "green_frac": 0.912,
+  "dark": 0.0,
+  "lc": 0.959
+ },
+ {
+  "id": "camfix_01_L0043",
+  "key": "01_43",
+  "tag": "",
+  "sat_med": 0.455,
+  "exg_med": 0.27,
+  "green_frac": 0.97,
+  "dark": 0.005,
+  "lc": 0.98
+ },
+ {
+  "id": "camfix_01_L0044",
+  "key": "01_44",
+  "tag": "",
+  "sat_med": 0.465,
+  "exg_med": 0.273,
+  "green_frac": 0.967,
+  "dark": 0.002,
+  "lc": 0.977
+ },
+ {
+  "id": "camfix_01_L0045",
+  "key": "01_45",
+  "tag": "",
+  "sat_med": 0.419,
+  "exg_med": 0.24,
+  "green_frac": 0.919,
+  "dark": 0.0,
+  "lc": 0.959
+ },
+ {
+  "id": "camfix_01_L0046",
+  "key": "01_46",
+  "tag": "",
+  "sat_med": 0.43,
+  "exg_med": 0.252,
+  "green_frac": 0.948,
+  "dark": 0.0,
+  "lc": 0.983
+ },
+ {
+  "id": "camfix_01_L0047",
+  "key": "01_47",
+  "tag": "",
+  "sat_med": 0.472,
+  "exg_med": 0.287,
+  "green_frac": 1.0,
+  "dark": 0.001,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0048",
+  "key": "01_48",
+  "tag": "",
+  "sat_med": 0.533,
+  "exg_med": 0.327,
+  "green_frac": 0.999,
+  "dark": 0.024,
+  "lc": 0.985
+ },
+ {
+  "id": "camfix_01_L0049",
+  "key": "01_49",
+  "tag": "",
+  "sat_med": 0.526,
+  "exg_med": 0.311,
+  "green_frac": 0.999,
+  "dark": 0.012,
+  "lc": 0.994
+ },
+ {
+  "id": "camfix_01_L0050",
+  "key": "01_50",
+  "tag": "",
+  "sat_med": 0.221,
+  "exg_med": 0.097,
+  "green_frac": 0.555,
+  "dark": 0.01,
+  "lc": 0.93
+ },
+ {
+  "id": "camfix_01_L0051",
+  "key": "01_51",
+  "tag": "",
+  "sat_med": 0.586,
+  "exg_med": 0.346,
+  "green_frac": 1.0,
+  "dark": 0.003,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_01_L0052",
+  "key": "01_52",
+  "tag": "",
+  "sat_med": 0.615,
+  "exg_med": 0.389,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0053",
+  "key": "01_53",
+  "tag": "",
+  "sat_med": 0.59,
+  "exg_med": 0.363,
+  "green_frac": 0.999,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0054",
+  "key": "01_54",
+  "tag": "",
+  "sat_med": 0.602,
+  "exg_med": 0.389,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0055",
+  "key": "01_55",
+  "tag": "",
+  "sat_med": 0.582,
+  "exg_med": 0.365,
+  "green_frac": 1.0,
+  "dark": 0.002,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_01_L0056",
+  "key": "01_56",
+  "tag": "",
+  "sat_med": 0.629,
+  "exg_med": 0.401,
+  "green_frac": 1.0,
+  "dark": 0.006,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0057",
+  "key": "01_57",
+  "tag": "",
+  "sat_med": 0.554,
+  "exg_med": 0.374,
+  "green_frac": 1.0,
+  "dark": 0.017,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_01_L0058",
+  "key": "01_58",
+  "tag": "",
+  "sat_med": 0.59,
+  "exg_med": 0.31,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0059",
+  "key": "01_59",
+  "tag": "",
+  "sat_med": 0.475,
+  "exg_med": 0.313,
+  "green_frac": 1.0,
+  "dark": 0.006,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_01_L0060",
+  "key": "01_60",
+  "tag": "",
+  "sat_med": 0.534,
+  "exg_med": 0.343,
+  "green_frac": 0.99,
+  "dark": 0.0,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_01_L0061",
+  "key": "01_61",
+  "tag": "",
+  "sat_med": 0.482,
+  "exg_med": 0.314,
+  "green_frac": 0.992,
+  "dark": 0.0,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_01_L0062",
+  "key": "01_62",
+  "tag": "",
+  "sat_med": 0.506,
+  "exg_med": 0.34,
+  "green_frac": 1.0,
+  "dark": 0.001,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0063",
+  "key": "01_63",
+  "tag": "",
+  "sat_med": 0.531,
+  "exg_med": 0.353,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0064",
+  "key": "01_64",
+  "tag": "",
+  "sat_med": 0.222,
+  "exg_med": 0.096,
+  "green_frac": 0.612,
+  "dark": 0.07,
+  "lc": 0.876
+ },
+ {
+  "id": "camfix_01_L0065",
+  "key": "01_65",
+  "tag": "",
+  "sat_med": 0.21,
+  "exg_med": 0.11,
+  "green_frac": 0.594,
+  "dark": 0.006,
+  "lc": 0.892
+ },
+ {
+  "id": "camfix_01_L0066",
+  "key": "01_66",
+  "tag": "",
+  "sat_med": 0.467,
+  "exg_med": 0.326,
+  "green_frac": 1.0,
+  "dark": 0.007,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_01_L0067",
+  "key": "01_67",
+  "tag": "",
+  "sat_med": 0.547,
+  "exg_med": 0.393,
+  "green_frac": 0.999,
+  "dark": 0.003,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_01_L0068",
+  "key": "01_68",
+  "tag": "",
+  "sat_med": 0.533,
+  "exg_med": 0.396,
+  "green_frac": 1.0,
+  "dark": 0.001,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0069",
+  "key": "01_69",
+  "tag": "",
+  "sat_med": 0.576,
+  "exg_med": 0.388,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0070",
+  "key": "01_70",
+  "tag": "",
+  "sat_med": 0.511,
+  "exg_med": 0.365,
+  "green_frac": 0.999,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0071",
+  "key": "01_71",
+  "tag": "leaf*",
+  "sat_med": 0.54,
+  "exg_med": 0.411,
+  "green_frac": 0.998,
+  "dark": 0.002,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_01_L0072",
+  "key": "01_72",
+  "tag": "",
+  "sat_med": 0.375,
+  "exg_med": 0.271,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0073",
+  "key": "01_73",
+  "tag": "",
+  "sat_med": 0.356,
+  "exg_med": 0.172,
+  "green_frac": 0.845,
+  "dark": 0.0,
+  "lc": 0.927
+ },
+ {
+  "id": "camfix_01_L0074",
+  "key": "01_74",
+  "tag": "",
+  "sat_med": 0.497,
+  "exg_med": 0.285,
+  "green_frac": 0.993,
+  "dark": 0.0,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_01_L0075",
+  "key": "01_75",
+  "tag": "",
+  "sat_med": 0.527,
+  "exg_med": 0.321,
+  "green_frac": 1.0,
+  "dark": 0.002,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0076",
+  "key": "01_76",
+  "tag": "",
+  "sat_med": 0.489,
+  "exg_med": 0.303,
+  "green_frac": 1.0,
+  "dark": 0.003,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_01_L0077",
+  "key": "01_77",
+  "tag": "",
+  "sat_med": 0.512,
+  "exg_med": 0.315,
+  "green_frac": 1.0,
+  "dark": 0.002,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_01_L0078",
+  "key": "01_78",
+  "tag": "",
+  "sat_med": 0.441,
+  "exg_med": 0.262,
+  "green_frac": 0.996,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0079",
+  "key": "01_79",
+  "tag": "",
+  "sat_med": 0.549,
+  "exg_med": 0.328,
+  "green_frac": 1.0,
+  "dark": 0.037,
+  "lc": 0.975
+ },
+ {
+  "id": "camfix_01_L0080",
+  "key": "01_80",
+  "tag": "",
+  "sat_med": 0.437,
+  "exg_med": 0.248,
+  "green_frac": 0.962,
+  "dark": 0.01,
+  "lc": 0.982
+ },
+ {
+  "id": "camfix_01_L0081",
+  "key": "01_81",
+  "tag": "",
+  "sat_med": 0.476,
+  "exg_med": 0.268,
+  "green_frac": 0.973,
+  "dark": 0.0,
+  "lc": 0.992
+ },
+ {
+  "id": "camfix_01_L0082",
+  "key": "01_82",
+  "tag": "bg",
+  "sat_med": 0.238,
+  "exg_med": 0.089,
+  "green_frac": 0.562,
+  "dark": 0.346,
+  "lc": 0.53
+ },
+ {
+  "id": "camfix_01_L0083",
+  "key": "01_83",
+  "tag": "",
+  "sat_med": 0.577,
+  "exg_med": 0.345,
+  "green_frac": 1.0,
+  "dark": 0.006,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_01_L0084",
+  "key": "01_84",
+  "tag": "",
+  "sat_med": 0.507,
+  "exg_med": 0.289,
+  "green_frac": 0.987,
+  "dark": 0.001,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_01_L0085",
+  "key": "01_85",
+  "tag": "",
+  "sat_med": 0.571,
+  "exg_med": 0.362,
+  "green_frac": 1.0,
+  "dark": 0.001,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0086",
+  "key": "01_86",
+  "tag": "",
+  "sat_med": 0.533,
+  "exg_med": 0.326,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0087",
+  "key": "01_87",
+  "tag": "",
+  "sat_med": 0.53,
+  "exg_med": 0.303,
+  "green_frac": 0.999,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0088",
+  "key": "01_88",
+  "tag": "",
+  "sat_med": 0.529,
+  "exg_med": 0.299,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0089",
+  "key": "01_89",
+  "tag": "",
+  "sat_med": 0.494,
+  "exg_med": 0.333,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0090",
+  "key": "01_90",
+  "tag": "",
+  "sat_med": 0.47,
+  "exg_med": 0.301,
+  "green_frac": 0.963,
+  "dark": 0.0,
+  "lc": 0.977
+ },
+ {
+  "id": "camfix_01_L0091",
+  "key": "01_91",
+  "tag": "",
+  "sat_med": 0.504,
+  "exg_med": 0.373,
+  "green_frac": 1.0,
+  "dark": 0.002,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_01_L0092",
+  "key": "01_92",
+  "tag": "",
+  "sat_med": 0.507,
+  "exg_med": 0.347,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0093",
+  "key": "01_93",
+  "tag": "",
+  "sat_med": 0.512,
+  "exg_med": 0.4,
+  "green_frac": 0.999,
+  "dark": 0.051,
+  "lc": 0.976
+ },
+ {
+  "id": "camfix_01_L0094",
+  "key": "01_94",
+  "tag": "",
+  "sat_med": 0.216,
+  "exg_med": 0.101,
+  "green_frac": 0.755,
+  "dark": 0.063,
+  "lc": 0.941
+ },
+ {
+  "id": "camfix_01_L0095",
+  "key": "01_95",
+  "tag": "",
+  "sat_med": 0.409,
+  "exg_med": 0.218,
+  "green_frac": 0.943,
+  "dark": 0.0,
+  "lc": 0.968
+ },
+ {
+  "id": "camfix_01_L0096",
+  "key": "01_96",
+  "tag": "",
+  "sat_med": 0.365,
+  "exg_med": 0.209,
+  "green_frac": 0.818,
+  "dark": 0.0,
+  "lc": 0.872
+ },
+ {
+  "id": "camfix_01_L0097",
+  "key": "01_97",
+  "tag": "",
+  "sat_med": 0.397,
+  "exg_med": 0.218,
+  "green_frac": 0.896,
+  "dark": 0.0,
+  "lc": 0.941
+ },
+ {
+  "id": "camfix_01_L0098",
+  "key": "01_98",
+  "tag": "",
+  "sat_med": 0.447,
+  "exg_med": 0.237,
+  "green_frac": 0.929,
+  "dark": 0.0,
+  "lc": 0.967
+ },
+ {
+  "id": "camfix_01_L0099",
+  "key": "01_99",
+  "tag": "",
+  "sat_med": 0.478,
+  "exg_med": 0.265,
+  "green_frac": 0.934,
+  "dark": 0.0,
+  "lc": 0.968
+ },
+ {
+  "id": "camfix_01_L0100",
+  "key": "01_100",
+  "tag": "",
+  "sat_med": 0.492,
+  "exg_med": 0.274,
+  "green_frac": 0.915,
+  "dark": 0.0,
+  "lc": 0.959
+ },
+ {
+  "id": "camfix_01_L0101",
+  "key": "01_101",
+  "tag": "",
+  "sat_med": 0.467,
+  "exg_med": 0.266,
+  "green_frac": 0.914,
+  "dark": 0.0,
+  "lc": 0.955
+ },
+ {
+  "id": "camfix_01_L0102",
+  "key": "01_102",
+  "tag": "",
+  "sat_med": 0.465,
+  "exg_med": 0.248,
+  "green_frac": 0.952,
+  "dark": 0.0,
+  "lc": 0.978
+ },
+ {
+  "id": "camfix_01_L0103",
+  "key": "01_103",
+  "tag": "",
+  "sat_med": 0.435,
+  "exg_med": 0.269,
+  "green_frac": 0.885,
+  "dark": 0.0,
+  "lc": 0.923
+ },
+ {
+  "id": "camfix_01_L0104",
+  "key": "01_104",
+  "tag": "",
+  "sat_med": 0.4,
+  "exg_med": 0.241,
+  "green_frac": 0.844,
+  "dark": 0.0,
+  "lc": 0.894
+ },
+ {
+  "id": "camfix_01_L0105",
+  "key": "01_105",
+  "tag": "",
+  "sat_med": 0.488,
+  "exg_med": 0.317,
+  "green_frac": 0.991,
+  "dark": 0.0,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_01_L0106",
+  "key": "01_106",
+  "tag": "",
+  "sat_med": 0.401,
+  "exg_med": 0.255,
+  "green_frac": 0.871,
+  "dark": 0.0,
+  "lc": 0.934
+ },
+ {
+  "id": "camfix_01_L0107",
+  "key": "01_107",
+  "tag": "",
+  "sat_med": 0.468,
+  "exg_med": 0.321,
+  "green_frac": 0.91,
+  "dark": 0.0,
+  "lc": 0.956
+ },
+ {
+  "id": "camfix_01_L0108",
+  "key": "01_108",
+  "tag": "",
+  "sat_med": 0.4,
+  "exg_med": 0.299,
+  "green_frac": 0.915,
+  "dark": 0.0,
+  "lc": 0.962
+ },
+ {
+  "id": "camfix_01_L0109",
+  "key": "01_109",
+  "tag": "",
+  "sat_med": 0.467,
+  "exg_med": 0.374,
+  "green_frac": 0.985,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_01_L0110",
+  "key": "01_110",
+  "tag": "",
+  "sat_med": 0.497,
+  "exg_med": 0.376,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0001",
+  "key": "02_1",
+  "tag": "",
+  "sat_med": 0.395,
+  "exg_med": 0.234,
+  "green_frac": 0.94,
+  "dark": 0.0,
+  "lc": 0.982
+ },
+ {
+  "id": "camfix_02_L0002",
+  "key": "02_2",
+  "tag": "",
+  "sat_med": 0.356,
+  "exg_med": 0.212,
+  "green_frac": 0.936,
+  "dark": 0.0,
+  "lc": 0.97
+ },
+ {
+  "id": "camfix_02_L0003",
+  "key": "02_3",
+  "tag": "",
+  "sat_med": 0.317,
+  "exg_med": 0.165,
+  "green_frac": 0.752,
+  "dark": 0.0,
+  "lc": 0.81
+ },
+ {
+  "id": "camfix_02_L0004",
+  "key": "02_4",
+  "tag": "",
+  "sat_med": 0.371,
+  "exg_med": 0.197,
+  "green_frac": 0.931,
+  "dark": 0.0,
+  "lc": 0.965
+ },
+ {
+  "id": "camfix_02_L0005",
+  "key": "02_5",
+  "tag": "",
+  "sat_med": 0.377,
+  "exg_med": 0.203,
+  "green_frac": 0.933,
+  "dark": 0.0,
+  "lc": 0.975
+ },
+ {
+  "id": "camfix_02_L0006",
+  "key": "02_6",
+  "tag": "",
+  "sat_med": 0.382,
+  "exg_med": 0.217,
+  "green_frac": 0.892,
+  "dark": 0.0,
+  "lc": 0.926
+ },
+ {
+  "id": "camfix_02_L0007",
+  "key": "02_7",
+  "tag": "",
+  "sat_med": 0.437,
+  "exg_med": 0.224,
+  "green_frac": 0.93,
+  "dark": 0.0,
+  "lc": 0.961
+ },
+ {
+  "id": "camfix_02_L0008",
+  "key": "02_8",
+  "tag": "",
+  "sat_med": 0.379,
+  "exg_med": 0.188,
+  "green_frac": 0.896,
+  "dark": 0.0,
+  "lc": 0.918
+ },
+ {
+  "id": "camfix_02_L0009",
+  "key": "02_9",
+  "tag": "",
+  "sat_med": 0.403,
+  "exg_med": 0.195,
+  "green_frac": 0.988,
+  "dark": 0.0,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_02_L0010",
+  "key": "02_10",
+  "tag": "",
+  "sat_med": 0.437,
+  "exg_med": 0.259,
+  "green_frac": 0.932,
+  "dark": 0.0,
+  "lc": 0.956
+ },
+ {
+  "id": "camfix_02_L0011",
+  "key": "02_11",
+  "tag": "",
+  "sat_med": 0.351,
+  "exg_med": 0.204,
+  "green_frac": 0.869,
+  "dark": 0.0,
+  "lc": 0.906
+ },
+ {
+  "id": "camfix_02_L0012",
+  "key": "02_12",
+  "tag": "",
+  "sat_med": 0.425,
+  "exg_med": 0.227,
+  "green_frac": 0.991,
+  "dark": 0.002,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_02_L0013",
+  "key": "02_13",
+  "tag": "",
+  "sat_med": 0.5,
+  "exg_med": 0.305,
+  "green_frac": 0.976,
+  "dark": 0.001,
+  "lc": 0.985
+ },
+ {
+  "id": "camfix_02_L0014",
+  "key": "02_14",
+  "tag": "bg",
+  "sat_med": 0.368,
+  "exg_med": -0.006,
+  "green_frac": 0.345,
+  "dark": 0.439,
+  "lc": 0.32
+ },
+ {
+  "id": "camfix_02_L0015",
+  "key": "02_15",
+  "tag": "",
+  "sat_med": 0.417,
+  "exg_med": 0.226,
+  "green_frac": 0.964,
+  "dark": 0.0,
+  "lc": 0.982
+ },
+ {
+  "id": "camfix_02_L0016",
+  "key": "02_16",
+  "tag": "",
+  "sat_med": 0.42,
+  "exg_med": 0.201,
+  "green_frac": 0.964,
+  "dark": 0.004,
+  "lc": 0.984
+ },
+ {
+  "id": "camfix_02_L0017",
+  "key": "02_17",
+  "tag": "",
+  "sat_med": 0.365,
+  "exg_med": 0.208,
+  "green_frac": 0.909,
+  "dark": 0.015,
+  "lc": 0.959
+ },
+ {
+  "id": "camfix_02_L0018",
+  "key": "02_18",
+  "tag": "",
+  "sat_med": 0.333,
+  "exg_med": 0.179,
+  "green_frac": 0.944,
+  "dark": 0.0,
+  "lc": 0.955
+ },
+ {
+  "id": "camfix_02_L0019",
+  "key": "02_19",
+  "tag": "bg",
+  "sat_med": 0.239,
+  "exg_med": 0.092,
+  "green_frac": 0.568,
+  "dark": 0.474,
+  "lc": 0.653
+ },
+ {
+  "id": "camfix_02_L0020",
+  "key": "02_20",
+  "tag": "",
+  "sat_med": 0.461,
+  "exg_med": 0.271,
+  "green_frac": 0.955,
+  "dark": 0.0,
+  "lc": 0.97
+ },
+ {
+  "id": "camfix_02_L0021",
+  "key": "02_21",
+  "tag": "",
+  "sat_med": 0.406,
+  "exg_med": 0.225,
+  "green_frac": 0.953,
+  "dark": 0.006,
+  "lc": 0.962
+ },
+ {
+  "id": "camfix_02_L0022",
+  "key": "02_22",
+  "tag": "",
+  "sat_med": 0.48,
+  "exg_med": 0.266,
+  "green_frac": 0.997,
+  "dark": 0.0,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_02_L0023",
+  "key": "02_23",
+  "tag": "",
+  "sat_med": 0.54,
+  "exg_med": 0.319,
+  "green_frac": 0.957,
+  "dark": 0.038,
+  "lc": 0.954
+ },
+ {
+  "id": "camfix_02_L0024",
+  "key": "02_24",
+  "tag": "",
+  "sat_med": 0.517,
+  "exg_med": 0.315,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0025",
+  "key": "02_25",
+  "tag": "",
+  "sat_med": 0.483,
+  "exg_med": 0.294,
+  "green_frac": 0.972,
+  "dark": 0.108,
+  "lc": 0.909
+ },
+ {
+  "id": "camfix_02_L0026",
+  "key": "02_26",
+  "tag": "",
+  "sat_med": 0.5,
+  "exg_med": 0.316,
+  "green_frac": 1.0,
+  "dark": 0.004,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_02_L0027",
+  "key": "02_27",
+  "tag": "",
+  "sat_med": 0.516,
+  "exg_med": 0.328,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0028",
+  "key": "02_28",
+  "tag": "",
+  "sat_med": 0.521,
+  "exg_med": 0.308,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0029",
+  "key": "02_29",
+  "tag": "",
+  "sat_med": 0.464,
+  "exg_med": 0.276,
+  "green_frac": 1.0,
+  "dark": 0.019,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_02_L0030",
+  "key": "02_30",
+  "tag": "",
+  "sat_med": 0.477,
+  "exg_med": 0.294,
+  "green_frac": 0.987,
+  "dark": 0.001,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_02_L0031",
+  "key": "02_31",
+  "tag": "",
+  "sat_med": 0.372,
+  "exg_med": 0.217,
+  "green_frac": 0.875,
+  "dark": 0.0,
+  "lc": 0.929
+ },
+ {
+  "id": "camfix_02_L0032",
+  "key": "02_32",
+  "tag": "",
+  "sat_med": 0.333,
+  "exg_med": 0.162,
+  "green_frac": 0.891,
+  "dark": 0.007,
+  "lc": 0.955
+ },
+ {
+  "id": "camfix_02_L0033",
+  "key": "02_33",
+  "tag": "",
+  "sat_med": 0.366,
+  "exg_med": 0.17,
+  "green_frac": 0.929,
+  "dark": 0.002,
+  "lc": 0.972
+ },
+ {
+  "id": "camfix_02_L0034",
+  "key": "02_34",
+  "tag": "",
+  "sat_med": 0.395,
+  "exg_med": 0.196,
+  "green_frac": 0.992,
+  "dark": 0.007,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_02_L0035",
+  "key": "02_35",
+  "tag": "",
+  "sat_med": 0.343,
+  "exg_med": 0.156,
+  "green_frac": 0.941,
+  "dark": 0.0,
+  "lc": 0.969
+ },
+ {
+  "id": "camfix_02_L0036",
+  "key": "02_36",
+  "tag": "",
+  "sat_med": 0.383,
+  "exg_med": 0.209,
+  "green_frac": 0.992,
+  "dark": 0.0,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_02_L0037",
+  "key": "02_37",
+  "tag": "bg",
+  "sat_med": 0.438,
+  "exg_med": 0.083,
+  "green_frac": 0.511,
+  "dark": 0.35,
+  "lc": 0.495
+ },
+ {
+  "id": "camfix_02_L0038",
+  "key": "02_38",
+  "tag": "",
+  "sat_med": 0.5,
+  "exg_med": 0.286,
+  "green_frac": 0.957,
+  "dark": 0.024,
+  "lc": 0.955
+ },
+ {
+  "id": "camfix_02_L0039",
+  "key": "02_39",
+  "tag": "",
+  "sat_med": 0.513,
+  "exg_med": 0.301,
+  "green_frac": 1.0,
+  "dark": 0.031,
+  "lc": 0.984
+ },
+ {
+  "id": "camfix_02_L0040",
+  "key": "02_40",
+  "tag": "",
+  "sat_med": 0.482,
+  "exg_med": 0.28,
+  "green_frac": 1.0,
+  "dark": 0.009,
+  "lc": 0.995
+ },
+ {
+  "id": "camfix_02_L0041",
+  "key": "02_41",
+  "tag": "",
+  "sat_med": 0.477,
+  "exg_med": 0.278,
+  "green_frac": 0.982,
+  "dark": 0.0,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_02_L0042",
+  "key": "02_42",
+  "tag": "",
+  "sat_med": 0.419,
+  "exg_med": 0.253,
+  "green_frac": 0.995,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0043",
+  "key": "02_43",
+  "tag": "leaf*",
+  "sat_med": 0.549,
+  "exg_med": 0.336,
+  "green_frac": 0.909,
+  "dark": 0.012,
+  "lc": 0.974
+ },
+ {
+  "id": "camfix_02_L0044",
+  "key": "02_44",
+  "tag": "",
+  "sat_med": 0.547,
+  "exg_med": 0.364,
+  "green_frac": 0.998,
+  "dark": 0.016,
+  "lc": 0.99
+ },
+ {
+  "id": "camfix_02_L0045",
+  "key": "02_45",
+  "tag": "",
+  "sat_med": 0.418,
+  "exg_med": 0.276,
+  "green_frac": 0.949,
+  "dark": 0.0,
+  "lc": 0.989
+ },
+ {
+  "id": "camfix_02_L0046",
+  "key": "02_46",
+  "tag": "",
+  "sat_med": 0.459,
+  "exg_med": 0.31,
+  "green_frac": 0.961,
+  "dark": 0.001,
+  "lc": 0.984
+ },
+ {
+  "id": "camfix_02_L0047",
+  "key": "02_47",
+  "tag": "",
+  "sat_med": 0.358,
+  "exg_med": 0.181,
+  "green_frac": 0.945,
+  "dark": 0.0,
+  "lc": 0.974
+ },
+ {
+  "id": "camfix_02_L0048",
+  "key": "02_48",
+  "tag": "",
+  "sat_med": 0.414,
+  "exg_med": 0.206,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0049",
+  "key": "02_49",
+  "tag": "",
+  "sat_med": 0.449,
+  "exg_med": 0.225,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0050",
+  "key": "02_50",
+  "tag": "",
+  "sat_med": 0.437,
+  "exg_med": 0.247,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0051",
+  "key": "02_51",
+  "tag": "",
+  "sat_med": 0.447,
+  "exg_med": 0.257,
+  "green_frac": 0.983,
+  "dark": 0.0,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_02_L0052",
+  "key": "02_52",
+  "tag": "",
+  "sat_med": 0.441,
+  "exg_med": 0.219,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0053",
+  "key": "02_53",
+  "tag": "",
+  "sat_med": 0.411,
+  "exg_med": 0.24,
+  "green_frac": 0.988,
+  "dark": 0.005,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_02_L0054",
+  "key": "02_54",
+  "tag": "",
+  "sat_med": 0.434,
+  "exg_med": 0.246,
+  "green_frac": 0.983,
+  "dark": 0.016,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_02_L0055",
+  "key": "02_55",
+  "tag": "",
+  "sat_med": 0.441,
+  "exg_med": 0.267,
+  "green_frac": 0.992,
+  "dark": 0.001,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_02_L0056",
+  "key": "02_56",
+  "tag": "",
+  "sat_med": 0.472,
+  "exg_med": 0.298,
+  "green_frac": 0.947,
+  "dark": 0.003,
+  "lc": 0.975
+ },
+ {
+  "id": "camfix_02_L0057",
+  "key": "02_57",
+  "tag": "",
+  "sat_med": 0.527,
+  "exg_med": 0.342,
+  "green_frac": 0.996,
+  "dark": 0.002,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_02_L0058",
+  "key": "02_58",
+  "tag": "",
+  "sat_med": 0.549,
+  "exg_med": 0.363,
+  "green_frac": 0.996,
+  "dark": 0.01,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_02_L0059",
+  "key": "02_59",
+  "tag": "bg",
+  "sat_med": 0.254,
+  "exg_med": 0.096,
+  "green_frac": 0.683,
+  "dark": 0.319,
+  "lc": 0.699
+ },
+ {
+  "id": "camfix_02_L0060",
+  "key": "02_60",
+  "tag": "",
+  "sat_med": 0.505,
+  "exg_med": 0.308,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0061",
+  "key": "02_61",
+  "tag": "",
+  "sat_med": 0.56,
+  "exg_med": 0.366,
+  "green_frac": 1.0,
+  "dark": 0.003,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_02_L0062",
+  "key": "02_62",
+  "tag": "",
+  "sat_med": 0.597,
+  "exg_med": 0.406,
+  "green_frac": 1.0,
+  "dark": 0.033,
+  "lc": 0.981
+ },
+ {
+  "id": "camfix_02_L0063",
+  "key": "02_63",
+  "tag": "",
+  "sat_med": 0.52,
+  "exg_med": 0.284,
+  "green_frac": 0.998,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0064",
+  "key": "02_64",
+  "tag": "",
+  "sat_med": 0.621,
+  "exg_med": 0.4,
+  "green_frac": 1.0,
+  "dark": 0.02,
+  "lc": 0.988
+ },
+ {
+  "id": "camfix_02_L0065",
+  "key": "02_65",
+  "tag": "",
+  "sat_med": 0.57,
+  "exg_med": 0.388,
+  "green_frac": 1.0,
+  "dark": 0.007,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_02_L0066",
+  "key": "02_66",
+  "tag": "",
+  "sat_med": 0.572,
+  "exg_med": 0.368,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0067",
+  "key": "02_67",
+  "tag": "",
+  "sat_med": 0.474,
+  "exg_med": 0.315,
+  "green_frac": 0.954,
+  "dark": 0.0,
+  "lc": 0.991
+ },
+ {
+  "id": "camfix_02_L0068",
+  "key": "02_68",
+  "tag": "",
+  "sat_med": 0.453,
+  "exg_med": 0.236,
+  "green_frac": 0.988,
+  "dark": 0.0,
+  "lc": 0.994
+ },
+ {
+  "id": "camfix_02_L0069",
+  "key": "02_69",
+  "tag": "",
+  "sat_med": 0.316,
+  "exg_med": 0.174,
+  "green_frac": 0.841,
+  "dark": 0.0,
+  "lc": 0.916
+ },
+ {
+  "id": "camfix_02_L0070",
+  "key": "02_70",
+  "tag": "",
+  "sat_med": 0.401,
+  "exg_med": 0.213,
+  "green_frac": 0.966,
+  "dark": 0.0,
+  "lc": 0.991
+ },
+ {
+  "id": "camfix_02_L0071",
+  "key": "02_71",
+  "tag": "",
+  "sat_med": 0.355,
+  "exg_med": 0.216,
+  "green_frac": 0.946,
+  "dark": 0.014,
+  "lc": 0.965
+ },
+ {
+  "id": "camfix_02_L0072",
+  "key": "02_72",
+  "tag": "",
+  "sat_med": 0.469,
+  "exg_med": 0.286,
+  "green_frac": 0.999,
+  "dark": 0.002,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0073",
+  "key": "02_73",
+  "tag": "",
+  "sat_med": 0.455,
+  "exg_med": 0.277,
+  "green_frac": 0.993,
+  "dark": 0.0,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_02_L0074",
+  "key": "02_74",
+  "tag": "bg",
+  "sat_med": 0.175,
+  "exg_med": 0.06,
+  "green_frac": 0.386,
+  "dark": 0.599,
+  "lc": 0.413
+ },
+ {
+  "id": "camfix_02_L0075",
+  "key": "02_75",
+  "tag": "",
+  "sat_med": 0.487,
+  "exg_med": 0.3,
+  "green_frac": 0.988,
+  "dark": 0.009,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_02_L0076",
+  "key": "02_76",
+  "tag": "",
+  "sat_med": 0.444,
+  "exg_med": 0.236,
+  "green_frac": 0.961,
+  "dark": 0.0,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_02_L0077",
+  "key": "02_77",
+  "tag": "",
+  "sat_med": 0.491,
+  "exg_med": 0.28,
+  "green_frac": 1.0,
+  "dark": 0.01,
+  "lc": 0.994
+ },
+ {
+  "id": "camfix_02_L0078",
+  "key": "02_78",
+  "tag": "",
+  "sat_med": 0.536,
+  "exg_med": 0.361,
+  "green_frac": 1.0,
+  "dark": 0.012,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_02_L0079",
+  "key": "02_79",
+  "tag": "",
+  "sat_med": 0.497,
+  "exg_med": 0.325,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0080",
+  "key": "02_80",
+  "tag": "",
+  "sat_med": 0.57,
+  "exg_med": 0.373,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0081",
+  "key": "02_81",
+  "tag": "",
+  "sat_med": 0.524,
+  "exg_med": 0.341,
+  "green_frac": 0.995,
+  "dark": 0.0,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_02_L0082",
+  "key": "02_82",
+  "tag": "",
+  "sat_med": 0.559,
+  "exg_med": 0.334,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0083",
+  "key": "02_83",
+  "tag": "",
+  "sat_med": 0.571,
+  "exg_med": 0.343,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0084",
+  "key": "02_84",
+  "tag": "bg",
+  "sat_med": 0.14,
+  "exg_med": 0.055,
+  "green_frac": 0.34,
+  "dark": 0.001,
+  "lc": 0.427
+ },
+ {
+  "id": "camfix_02_L0085",
+  "key": "02_85",
+  "tag": "",
+  "sat_med": 0.522,
+  "exg_med": 0.318,
+  "green_frac": 1.0,
+  "dark": 0.002,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0086",
+  "key": "02_86",
+  "tag": "",
+  "sat_med": 0.529,
+  "exg_med": 0.332,
+  "green_frac": 1.0,
+  "dark": 0.012,
+  "lc": 0.992
+ },
+ {
+  "id": "camfix_02_L0087",
+  "key": "02_87",
+  "tag": "",
+  "sat_med": 0.466,
+  "exg_med": 0.243,
+  "green_frac": 1.0,
+  "dark": 0.003,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_02_L0088",
+  "key": "02_88",
+  "tag": "",
+  "sat_med": 0.446,
+  "exg_med": 0.269,
+  "green_frac": 0.981,
+  "dark": 0.0,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_02_L0089",
+  "key": "02_89",
+  "tag": "",
+  "sat_med": 0.445,
+  "exg_med": 0.277,
+  "green_frac": 0.982,
+  "dark": 0.0,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_02_L0090",
+  "key": "02_90",
+  "tag": "",
+  "sat_med": 0.408,
+  "exg_med": 0.252,
+  "green_frac": 0.892,
+  "dark": 0.0,
+  "lc": 0.966
+ },
+ {
+  "id": "camfix_02_L0091",
+  "key": "02_91",
+  "tag": "",
+  "sat_med": 0.544,
+  "exg_med": 0.343,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_02_L0092",
+  "key": "02_92",
+  "tag": "",
+  "sat_med": 0.461,
+  "exg_med": 0.307,
+  "green_frac": 0.974,
+  "dark": 0.0,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_02_L0093",
+  "key": "02_93",
+  "tag": "",
+  "sat_med": 0.484,
+  "exg_med": 0.275,
+  "green_frac": 0.951,
+  "dark": 0.0,
+  "lc": 0.977
+ },
+ {
+  "id": "camfix_03_L0001",
+  "key": "03_1",
+  "tag": "",
+  "sat_med": 0.449,
+  "exg_med": 0.268,
+  "green_frac": 0.971,
+  "dark": 0.0,
+  "lc": 0.991
+ },
+ {
+  "id": "camfix_03_L0002",
+  "key": "03_2",
+  "tag": "",
+  "sat_med": 0.437,
+  "exg_med": 0.263,
+  "green_frac": 0.909,
+  "dark": 0.0,
+  "lc": 0.961
+ },
+ {
+  "id": "camfix_03_L0003",
+  "key": "03_3",
+  "tag": "",
+  "sat_med": 0.533,
+  "exg_med": 0.337,
+  "green_frac": 1.0,
+  "dark": 0.01,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_03_L0004",
+  "key": "03_4",
+  "tag": "",
+  "sat_med": 0.497,
+  "exg_med": 0.305,
+  "green_frac": 0.994,
+  "dark": 0.0,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_03_L0005",
+  "key": "03_5",
+  "tag": "",
+  "sat_med": 0.56,
+  "exg_med": 0.37,
+  "green_frac": 0.991,
+  "dark": 0.001,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_03_L0006",
+  "key": "03_6",
+  "tag": "",
+  "sat_med": 0.517,
+  "exg_med": 0.325,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0007",
+  "key": "03_7",
+  "tag": "",
+  "sat_med": 0.557,
+  "exg_med": 0.365,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0008",
+  "key": "03_8",
+  "tag": "",
+  "sat_med": 0.448,
+  "exg_med": 0.281,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0009",
+  "key": "03_9",
+  "tag": "",
+  "sat_med": 0.483,
+  "exg_med": 0.322,
+  "green_frac": 0.971,
+  "dark": 0.0,
+  "lc": 0.989
+ },
+ {
+  "id": "camfix_03_L0010",
+  "key": "03_10",
+  "tag": "",
+  "sat_med": 0.5,
+  "exg_med": 0.339,
+  "green_frac": 0.99,
+  "dark": 0.011,
+  "lc": 0.991
+ },
+ {
+  "id": "camfix_03_L0011",
+  "key": "03_11",
+  "tag": "",
+  "sat_med": 0.438,
+  "exg_med": 0.308,
+  "green_frac": 0.952,
+  "dark": 0.033,
+  "lc": 0.969
+ },
+ {
+  "id": "camfix_03_L0012",
+  "key": "03_12",
+  "tag": "",
+  "sat_med": 0.527,
+  "exg_med": 0.366,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0013",
+  "key": "03_13",
+  "tag": "bg",
+  "sat_med": 0.167,
+  "exg_med": 0.098,
+  "green_frac": 0.242,
+  "dark": 0.006,
+  "lc": 0.562
+ },
+ {
+  "id": "camfix_03_L0014",
+  "key": "03_14",
+  "tag": "",
+  "sat_med": 0.513,
+  "exg_med": 0.401,
+  "green_frac": 0.97,
+  "dark": 0.057,
+  "lc": 0.952
+ },
+ {
+  "id": "camfix_03_L0015",
+  "key": "03_15",
+  "tag": "",
+  "sat_med": 0.5,
+  "exg_med": 0.4,
+  "green_frac": 0.997,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0016",
+  "key": "03_16",
+  "tag": "",
+  "sat_med": 0.558,
+  "exg_med": 0.341,
+  "green_frac": 1.0,
+  "dark": 0.021,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0017",
+  "key": "03_17",
+  "tag": "",
+  "sat_med": 0.56,
+  "exg_med": 0.345,
+  "green_frac": 0.993,
+  "dark": 0.024,
+  "lc": 0.987
+ },
+ {
+  "id": "camfix_03_L0018",
+  "key": "03_18",
+  "tag": "",
+  "sat_med": 0.599,
+  "exg_med": 0.396,
+  "green_frac": 0.999,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0019",
+  "key": "03_19",
+  "tag": "",
+  "sat_med": 0.593,
+  "exg_med": 0.396,
+  "green_frac": 1.0,
+  "dark": 0.004,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_03_L0020",
+  "key": "03_20",
+  "tag": "leaf*",
+  "sat_med": 0.638,
+  "exg_med": 0.429,
+  "green_frac": 1.0,
+  "dark": 0.042,
+  "lc": 0.967
+ },
+ {
+  "id": "camfix_03_L0021",
+  "key": "03_21",
+  "tag": "",
+  "sat_med": 0.466,
+  "exg_med": 0.304,
+  "green_frac": 0.999,
+  "dark": 0.045,
+  "lc": 0.982
+ },
+ {
+  "id": "camfix_03_L0022",
+  "key": "03_22",
+  "tag": "",
+  "sat_med": 0.519,
+  "exg_med": 0.3,
+  "green_frac": 0.992,
+  "dark": 0.009,
+  "lc": 0.991
+ },
+ {
+  "id": "camfix_03_L0023",
+  "key": "03_23",
+  "tag": "bg",
+  "sat_med": 0.623,
+  "exg_med": 0.222,
+  "green_frac": 0.806,
+  "dark": 0.393,
+  "lc": 0.565
+ },
+ {
+  "id": "camfix_03_L0024",
+  "key": "03_24",
+  "tag": "",
+  "sat_med": 0.523,
+  "exg_med": 0.353,
+  "green_frac": 1.0,
+  "dark": 0.001,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0025",
+  "key": "03_25",
+  "tag": "",
+  "sat_med": 0.528,
+  "exg_med": 0.309,
+  "green_frac": 1.0,
+  "dark": 0.011,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_03_L0026",
+  "key": "03_26",
+  "tag": "",
+  "sat_med": 0.538,
+  "exg_med": 0.365,
+  "green_frac": 0.995,
+  "dark": 0.001,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_03_L0027",
+  "key": "03_27",
+  "tag": "",
+  "sat_med": 0.455,
+  "exg_med": 0.291,
+  "green_frac": 0.999,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0028",
+  "key": "03_28",
+  "tag": "",
+  "sat_med": 0.465,
+  "exg_med": 0.315,
+  "green_frac": 1.0,
+  "dark": 0.014,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_03_L0029",
+  "key": "03_29",
+  "tag": "",
+  "sat_med": 0.463,
+  "exg_med": 0.312,
+  "green_frac": 0.963,
+  "dark": 0.002,
+  "lc": 0.971
+ },
+ {
+  "id": "camfix_03_L0030",
+  "key": "03_30",
+  "tag": "bg",
+  "sat_med": 0.309,
+  "exg_med": 0.151,
+  "green_frac": 0.721,
+  "dark": 0.334,
+  "lc": 0.629
+ },
+ {
+  "id": "camfix_03_L0031",
+  "key": "03_31",
+  "tag": "",
+  "sat_med": 0.576,
+  "exg_med": 0.412,
+  "green_frac": 1.0,
+  "dark": 0.007,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_03_L0032",
+  "key": "03_32",
+  "tag": "bg",
+  "sat_med": 0.228,
+  "exg_med": 0.135,
+  "green_frac": 0.517,
+  "dark": 0.214,
+  "lc": 0.651
+ },
+ {
+  "id": "camfix_03_L0033",
+  "key": "03_33",
+  "tag": "",
+  "sat_med": 0.62,
+  "exg_med": 0.446,
+  "green_frac": 1.0,
+  "dark": 0.065,
+  "lc": 0.972
+ },
+ {
+  "id": "camfix_03_L0034",
+  "key": "03_34",
+  "tag": "bg",
+  "sat_med": 0.643,
+  "exg_med": 0.594,
+  "green_frac": 0.9,
+  "dark": 0.446,
+  "lc": 0.627
+ },
+ {
+  "id": "camfix_03_L0035",
+  "key": "03_35",
+  "tag": "",
+  "sat_med": 0.75,
+  "exg_med": 0.672,
+  "green_frac": 1.0,
+  "dark": 0.102,
+  "lc": 0.96
+ },
+ {
+  "id": "camfix_03_L0036",
+  "key": "03_36",
+  "tag": "",
+  "sat_med": 0.311,
+  "exg_med": 0.178,
+  "green_frac": 0.78,
+  "dark": 0.0,
+  "lc": 0.856
+ },
+ {
+  "id": "camfix_03_L0037",
+  "key": "03_37",
+  "tag": "",
+  "sat_med": 0.362,
+  "exg_med": 0.206,
+  "green_frac": 0.906,
+  "dark": 0.0,
+  "lc": 0.948
+ },
+ {
+  "id": "camfix_03_L0038",
+  "key": "03_38",
+  "tag": "",
+  "sat_med": 0.375,
+  "exg_med": 0.211,
+  "green_frac": 0.934,
+  "dark": 0.0,
+  "lc": 0.964
+ },
+ {
+  "id": "camfix_03_L0039",
+  "key": "03_39",
+  "tag": "",
+  "sat_med": 0.443,
+  "exg_med": 0.265,
+  "green_frac": 0.964,
+  "dark": 0.01,
+  "lc": 0.972
+ },
+ {
+  "id": "camfix_03_L0040",
+  "key": "03_40",
+  "tag": "",
+  "sat_med": 0.457,
+  "exg_med": 0.271,
+  "green_frac": 0.984,
+  "dark": 0.001,
+  "lc": 0.99
+ },
+ {
+  "id": "camfix_03_L0041",
+  "key": "03_41",
+  "tag": "",
+  "sat_med": 0.44,
+  "exg_med": 0.257,
+  "green_frac": 0.93,
+  "dark": 0.0,
+  "lc": 0.959
+ },
+ {
+  "id": "camfix_03_L0042",
+  "key": "03_42",
+  "tag": "",
+  "sat_med": 0.423,
+  "exg_med": 0.249,
+  "green_frac": 0.894,
+  "dark": 0.0,
+  "lc": 0.96
+ },
+ {
+  "id": "camfix_03_L0043",
+  "key": "03_43",
+  "tag": "",
+  "sat_med": 0.463,
+  "exg_med": 0.277,
+  "green_frac": 0.998,
+  "dark": 0.011,
+  "lc": 0.991
+ },
+ {
+  "id": "camfix_03_L0044",
+  "key": "03_44",
+  "tag": "",
+  "sat_med": 0.471,
+  "exg_med": 0.289,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0045",
+  "key": "03_45",
+  "tag": "",
+  "sat_med": 0.54,
+  "exg_med": 0.332,
+  "green_frac": 1.0,
+  "dark": 0.02,
+  "lc": 0.986
+ },
+ {
+  "id": "camfix_03_L0046",
+  "key": "03_46",
+  "tag": "",
+  "sat_med": 0.524,
+  "exg_med": 0.307,
+  "green_frac": 1.0,
+  "dark": 0.011,
+  "lc": 0.995
+ },
+ {
+  "id": "camfix_03_L0047",
+  "key": "03_47",
+  "tag": "",
+  "sat_med": 0.594,
+  "exg_med": 0.381,
+  "green_frac": 1.0,
+  "dark": 0.014,
+  "lc": 0.99
+ },
+ {
+  "id": "camfix_03_L0048",
+  "key": "03_48",
+  "tag": "",
+  "sat_med": 0.203,
+  "exg_med": 0.085,
+  "green_frac": 0.517,
+  "dark": 0.012,
+  "lc": 0.89
+ },
+ {
+  "id": "camfix_03_L0049",
+  "key": "03_49",
+  "tag": "",
+  "sat_med": 0.59,
+  "exg_med": 0.347,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0050",
+  "key": "03_50",
+  "tag": "",
+  "sat_med": 0.615,
+  "exg_med": 0.386,
+  "green_frac": 1.0,
+  "dark": 0.004,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0051",
+  "key": "03_51",
+  "tag": "",
+  "sat_med": 0.581,
+  "exg_med": 0.356,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0052",
+  "key": "03_52",
+  "tag": "",
+  "sat_med": 0.606,
+  "exg_med": 0.398,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0053",
+  "key": "03_53",
+  "tag": "",
+  "sat_med": 0.567,
+  "exg_med": 0.355,
+  "green_frac": 1.0,
+  "dark": 0.003,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_03_L0054",
+  "key": "03_54",
+  "tag": "",
+  "sat_med": 0.535,
+  "exg_med": 0.359,
+  "green_frac": 1.0,
+  "dark": 0.014,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_03_L0055",
+  "key": "03_55",
+  "tag": "",
+  "sat_med": 0.471,
+  "exg_med": 0.309,
+  "green_frac": 1.0,
+  "dark": 0.001,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0056",
+  "key": "03_56",
+  "tag": "",
+  "sat_med": 0.545,
+  "exg_med": 0.337,
+  "green_frac": 1.0,
+  "dark": 0.004,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0057",
+  "key": "03_57",
+  "tag": "",
+  "sat_med": 0.462,
+  "exg_med": 0.3,
+  "green_frac": 0.991,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0058",
+  "key": "03_58",
+  "tag": "",
+  "sat_med": 0.519,
+  "exg_med": 0.341,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0059",
+  "key": "03_59",
+  "tag": "",
+  "sat_med": 0.219,
+  "exg_med": 0.09,
+  "green_frac": 0.575,
+  "dark": 0.04,
+  "lc": 0.889
+ },
+ {
+  "id": "camfix_03_L0060",
+  "key": "03_60",
+  "tag": "",
+  "sat_med": 0.207,
+  "exg_med": 0.105,
+  "green_frac": 0.53,
+  "dark": 0.005,
+  "lc": 0.906
+ },
+ {
+  "id": "camfix_03_L0061",
+  "key": "03_61",
+  "tag": "",
+  "sat_med": 0.586,
+  "exg_med": 0.401,
+  "green_frac": 1.0,
+  "dark": 0.012,
+  "lc": 0.992
+ },
+ {
+  "id": "camfix_03_L0062",
+  "key": "03_62",
+  "tag": "",
+  "sat_med": 0.464,
+  "exg_med": 0.329,
+  "green_frac": 1.0,
+  "dark": 0.002,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_03_L0063",
+  "key": "03_63",
+  "tag": "",
+  "sat_med": 0.524,
+  "exg_med": 0.385,
+  "green_frac": 1.0,
+  "dark": 0.015,
+  "lc": 0.99
+ },
+ {
+  "id": "camfix_03_L0064",
+  "key": "03_64",
+  "tag": "",
+  "sat_med": 0.565,
+  "exg_med": 0.377,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0065",
+  "key": "03_65",
+  "tag": "",
+  "sat_med": 0.514,
+  "exg_med": 0.383,
+  "green_frac": 0.999,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0066",
+  "key": "03_66",
+  "tag": "leaf*",
+  "sat_med": 0.53,
+  "exg_med": 0.408,
+  "green_frac": 1.0,
+  "dark": 0.001,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0067",
+  "key": "03_67",
+  "tag": "",
+  "sat_med": 0.516,
+  "exg_med": 0.407,
+  "green_frac": 0.995,
+  "dark": 0.045,
+  "lc": 0.982
+ },
+ {
+  "id": "camfix_03_L0068",
+  "key": "03_68",
+  "tag": "",
+  "sat_med": 0.355,
+  "exg_med": 0.174,
+  "green_frac": 0.847,
+  "dark": 0.0,
+  "lc": 0.924
+ },
+ {
+  "id": "camfix_03_L0069",
+  "key": "03_69",
+  "tag": "",
+  "sat_med": 0.497,
+  "exg_med": 0.285,
+  "green_frac": 0.996,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0070",
+  "key": "03_70",
+  "tag": "",
+  "sat_med": 0.504,
+  "exg_med": 0.311,
+  "green_frac": 1.0,
+  "dark": 0.004,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_03_L0071",
+  "key": "03_71",
+  "tag": "",
+  "sat_med": 0.524,
+  "exg_med": 0.316,
+  "green_frac": 1.0,
+  "dark": 0.001,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0072",
+  "key": "03_72",
+  "tag": "",
+  "sat_med": 0.457,
+  "exg_med": 0.271,
+  "green_frac": 0.997,
+  "dark": 0.012,
+  "lc": 0.989
+ },
+ {
+  "id": "camfix_03_L0073",
+  "key": "03_73",
+  "tag": "",
+  "sat_med": 0.431,
+  "exg_med": 0.253,
+  "green_frac": 0.986,
+  "dark": 0.0,
+  "lc": 0.994
+ },
+ {
+  "id": "camfix_03_L0074",
+  "key": "03_74",
+  "tag": "",
+  "sat_med": 0.55,
+  "exg_med": 0.333,
+  "green_frac": 1.0,
+  "dark": 0.034,
+  "lc": 0.979
+ },
+ {
+  "id": "camfix_03_L0075",
+  "key": "03_75",
+  "tag": "",
+  "sat_med": 0.434,
+  "exg_med": 0.252,
+  "green_frac": 0.972,
+  "dark": 0.002,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_03_L0076",
+  "key": "03_76",
+  "tag": "",
+  "sat_med": 0.486,
+  "exg_med": 0.283,
+  "green_frac": 0.997,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0077",
+  "key": "03_77",
+  "tag": "bg",
+  "sat_med": 0.259,
+  "exg_med": 0.103,
+  "green_frac": 0.619,
+  "dark": 0.326,
+  "lc": 0.553
+ },
+ {
+  "id": "camfix_03_L0078",
+  "key": "03_78",
+  "tag": "",
+  "sat_med": 0.567,
+  "exg_med": 0.342,
+  "green_frac": 1.0,
+  "dark": 0.005,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_03_L0079",
+  "key": "03_79",
+  "tag": "",
+  "sat_med": 0.505,
+  "exg_med": 0.286,
+  "green_frac": 0.991,
+  "dark": 0.001,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_03_L0080",
+  "key": "03_80",
+  "tag": "",
+  "sat_med": 0.57,
+  "exg_med": 0.366,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0081",
+  "key": "03_81",
+  "tag": "",
+  "sat_med": 0.514,
+  "exg_med": 0.292,
+  "green_frac": 0.996,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0082",
+  "key": "03_82",
+  "tag": "",
+  "sat_med": 0.537,
+  "exg_med": 0.346,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0083",
+  "key": "03_83",
+  "tag": "",
+  "sat_med": 0.488,
+  "exg_med": 0.329,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0084",
+  "key": "03_84",
+  "tag": "",
+  "sat_med": 0.472,
+  "exg_med": 0.299,
+  "green_frac": 0.961,
+  "dark": 0.0,
+  "lc": 0.974
+ },
+ {
+  "id": "camfix_03_L0085",
+  "key": "03_85",
+  "tag": "",
+  "sat_med": 0.493,
+  "exg_med": 0.344,
+  "green_frac": 1.0,
+  "dark": 0.01,
+  "lc": 0.992
+ },
+ {
+  "id": "camfix_03_L0086",
+  "key": "03_86",
+  "tag": "",
+  "sat_med": 0.411,
+  "exg_med": 0.217,
+  "green_frac": 0.929,
+  "dark": 0.0,
+  "lc": 0.96
+ },
+ {
+  "id": "camfix_03_L0087",
+  "key": "03_87",
+  "tag": "",
+  "sat_med": 0.355,
+  "exg_med": 0.2,
+  "green_frac": 0.835,
+  "dark": 0.0,
+  "lc": 0.878
+ },
+ {
+  "id": "camfix_03_L0088",
+  "key": "03_88",
+  "tag": "",
+  "sat_med": 0.417,
+  "exg_med": 0.234,
+  "green_frac": 0.889,
+  "dark": 0.0,
+  "lc": 0.943
+ },
+ {
+  "id": "camfix_03_L0089",
+  "key": "03_89",
+  "tag": "",
+  "sat_med": 0.435,
+  "exg_med": 0.233,
+  "green_frac": 0.933,
+  "dark": 0.0,
+  "lc": 0.971
+ },
+ {
+  "id": "camfix_03_L0090",
+  "key": "03_90",
+  "tag": "",
+  "sat_med": 0.464,
+  "exg_med": 0.261,
+  "green_frac": 0.96,
+  "dark": 0.0,
+  "lc": 0.985
+ },
+ {
+  "id": "camfix_03_L0091",
+  "key": "03_91",
+  "tag": "",
+  "sat_med": 0.493,
+  "exg_med": 0.28,
+  "green_frac": 0.917,
+  "dark": 0.0,
+  "lc": 0.958
+ },
+ {
+  "id": "camfix_03_L0092",
+  "key": "03_92",
+  "tag": "",
+  "sat_med": 0.488,
+  "exg_med": 0.28,
+  "green_frac": 0.898,
+  "dark": 0.0,
+  "lc": 0.945
+ },
+ {
+  "id": "camfix_03_L0093",
+  "key": "03_93",
+  "tag": "",
+  "sat_med": 0.488,
+  "exg_med": 0.257,
+  "green_frac": 0.983,
+  "dark": 0.0,
+  "lc": 0.995
+ },
+ {
+  "id": "camfix_03_L0094",
+  "key": "03_94",
+  "tag": "",
+  "sat_med": 0.417,
+  "exg_med": 0.257,
+  "green_frac": 0.902,
+  "dark": 0.0,
+  "lc": 0.938
+ },
+ {
+  "id": "camfix_03_L0095",
+  "key": "03_95",
+  "tag": "",
+  "sat_med": 0.397,
+  "exg_med": 0.244,
+  "green_frac": 0.845,
+  "dark": 0.0,
+  "lc": 0.887
+ },
+ {
+  "id": "camfix_03_L0096",
+  "key": "03_96",
+  "tag": "",
+  "sat_med": 0.386,
+  "exg_med": 0.249,
+  "green_frac": 0.838,
+  "dark": 0.0,
+  "lc": 0.917
+ },
+ {
+  "id": "camfix_03_L0097",
+  "key": "03_97",
+  "tag": "",
+  "sat_med": 0.46,
+  "exg_med": 0.306,
+  "green_frac": 0.881,
+  "dark": 0.0,
+  "lc": 0.931
+ },
+ {
+  "id": "camfix_03_L0098",
+  "key": "03_98",
+  "tag": "",
+  "sat_med": 0.408,
+  "exg_med": 0.314,
+  "green_frac": 0.94,
+  "dark": 0.0,
+  "lc": 0.988
+ },
+ {
+  "id": "camfix_03_L0099",
+  "key": "03_99",
+  "tag": "",
+  "sat_med": 0.479,
+  "exg_med": 0.388,
+  "green_frac": 0.992,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_03_L0100",
+  "key": "03_100",
+  "tag": "",
+  "sat_med": 0.5,
+  "exg_med": 0.372,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0001",
+  "key": "04_1",
+  "tag": "",
+  "sat_med": 0.423,
+  "exg_med": 0.282,
+  "green_frac": 0.941,
+  "dark": 0.0,
+  "lc": 0.975
+ },
+ {
+  "id": "camfix_04_L0002",
+  "key": "04_2",
+  "tag": "",
+  "sat_med": 0.394,
+  "exg_med": 0.222,
+  "green_frac": 0.876,
+  "dark": 0.0,
+  "lc": 0.918
+ },
+ {
+  "id": "camfix_04_L0003",
+  "key": "04_3",
+  "tag": "",
+  "sat_med": 0.337,
+  "exg_med": 0.172,
+  "green_frac": 0.735,
+  "dark": 0.0,
+  "lc": 0.848
+ },
+ {
+  "id": "camfix_04_L0004",
+  "key": "04_4",
+  "tag": "",
+  "sat_med": 0.414,
+  "exg_med": 0.23,
+  "green_frac": 0.857,
+  "dark": 0.0,
+  "lc": 0.904
+ },
+ {
+  "id": "camfix_04_L0005",
+  "key": "04_5",
+  "tag": "",
+  "sat_med": 0.429,
+  "exg_med": 0.239,
+  "green_frac": 0.895,
+  "dark": 0.0,
+  "lc": 0.939
+ },
+ {
+  "id": "camfix_04_L0006",
+  "key": "04_6",
+  "tag": "",
+  "sat_med": 0.404,
+  "exg_med": 0.202,
+  "green_frac": 0.808,
+  "dark": 0.0,
+  "lc": 0.86
+ },
+ {
+  "id": "camfix_04_L0007",
+  "key": "04_7",
+  "tag": "",
+  "sat_med": 0.419,
+  "exg_med": 0.211,
+  "green_frac": 0.817,
+  "dark": 0.0,
+  "lc": 0.869
+ },
+ {
+  "id": "camfix_04_L0008",
+  "key": "04_8",
+  "tag": "",
+  "sat_med": 0.403,
+  "exg_med": 0.2,
+  "green_frac": 0.776,
+  "dark": 0.0,
+  "lc": 0.837
+ },
+ {
+  "id": "camfix_04_L0009",
+  "key": "04_9",
+  "tag": "",
+  "sat_med": 0.436,
+  "exg_med": 0.222,
+  "green_frac": 0.867,
+  "dark": 0.0,
+  "lc": 0.916
+ },
+ {
+  "id": "camfix_04_L0010",
+  "key": "04_10",
+  "tag": "",
+  "sat_med": 0.411,
+  "exg_med": 0.275,
+  "green_frac": 0.885,
+  "dark": 0.0,
+  "lc": 0.932
+ },
+ {
+  "id": "camfix_04_L0011",
+  "key": "04_11",
+  "tag": "",
+  "sat_med": 0.4,
+  "exg_med": 0.226,
+  "green_frac": 0.892,
+  "dark": 0.0,
+  "lc": 0.938
+ },
+ {
+  "id": "camfix_04_L0012",
+  "key": "04_12",
+  "tag": "",
+  "sat_med": 0.368,
+  "exg_med": 0.208,
+  "green_frac": 0.875,
+  "dark": 0.0,
+  "lc": 0.914
+ },
+ {
+  "id": "camfix_04_L0013",
+  "key": "04_13",
+  "tag": "",
+  "sat_med": 0.361,
+  "exg_med": 0.185,
+  "green_frac": 0.935,
+  "dark": 0.004,
+  "lc": 0.967
+ },
+ {
+  "id": "camfix_04_L0014",
+  "key": "04_14",
+  "tag": "",
+  "sat_med": 0.33,
+  "exg_med": 0.167,
+  "green_frac": 0.766,
+  "dark": 0.0,
+  "lc": 0.816
+ },
+ {
+  "id": "camfix_04_L0015",
+  "key": "04_15",
+  "tag": "",
+  "sat_med": 0.445,
+  "exg_med": 0.265,
+  "green_frac": 0.879,
+  "dark": 0.0,
+  "lc": 0.909
+ },
+ {
+  "id": "camfix_04_L0016",
+  "key": "04_16",
+  "tag": "",
+  "sat_med": 0.464,
+  "exg_med": 0.268,
+  "green_frac": 0.891,
+  "dark": 0.0,
+  "lc": 0.93
+ },
+ {
+  "id": "camfix_04_L0017",
+  "key": "04_17",
+  "tag": "",
+  "sat_med": 0.432,
+  "exg_med": 0.261,
+  "green_frac": 0.877,
+  "dark": 0.0,
+  "lc": 0.921
+ },
+ {
+  "id": "camfix_04_L0018",
+  "key": "04_18",
+  "tag": "",
+  "sat_med": 0.473,
+  "exg_med": 0.284,
+  "green_frac": 0.966,
+  "dark": 0.0,
+  "lc": 0.976
+ },
+ {
+  "id": "camfix_04_L0019",
+  "key": "04_19",
+  "tag": "",
+  "sat_med": 0.476,
+  "exg_med": 0.279,
+  "green_frac": 0.848,
+  "dark": 0.0,
+  "lc": 0.895
+ },
+ {
+  "id": "camfix_04_L0020",
+  "key": "04_20",
+  "tag": "",
+  "sat_med": 0.497,
+  "exg_med": 0.297,
+  "green_frac": 0.939,
+  "dark": 0.002,
+  "lc": 0.951
+ },
+ {
+  "id": "camfix_04_L0021",
+  "key": "04_21",
+  "tag": "",
+  "sat_med": 0.429,
+  "exg_med": 0.248,
+  "green_frac": 0.775,
+  "dark": 0.0,
+  "lc": 0.816
+ },
+ {
+  "id": "camfix_04_L0022",
+  "key": "04_22",
+  "tag": "",
+  "sat_med": 0.476,
+  "exg_med": 0.292,
+  "green_frac": 0.923,
+  "dark": 0.0,
+  "lc": 0.945
+ },
+ {
+  "id": "camfix_04_L0023",
+  "key": "04_23",
+  "tag": "",
+  "sat_med": 0.496,
+  "exg_med": 0.251,
+  "green_frac": 0.995,
+  "dark": 0.0,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_04_L0024",
+  "key": "04_24",
+  "tag": "",
+  "sat_med": 0.405,
+  "exg_med": 0.239,
+  "green_frac": 0.848,
+  "dark": 0.0,
+  "lc": 0.88
+ },
+ {
+  "id": "camfix_04_L0025",
+  "key": "04_25",
+  "tag": "",
+  "sat_med": 0.408,
+  "exg_med": 0.245,
+  "green_frac": 0.906,
+  "dark": 0.0,
+  "lc": 0.929
+ },
+ {
+  "id": "camfix_04_L0026",
+  "key": "04_26",
+  "tag": "",
+  "sat_med": 0.552,
+  "exg_med": 0.204,
+  "green_frac": 0.899,
+  "dark": 0.38,
+  "lc": 0.767
+ },
+ {
+  "id": "camfix_04_L0027",
+  "key": "04_27",
+  "tag": "",
+  "sat_med": 0.397,
+  "exg_med": 0.197,
+  "green_frac": 0.957,
+  "dark": 0.001,
+  "lc": 0.979
+ },
+ {
+  "id": "camfix_04_L0028",
+  "key": "04_28",
+  "tag": "",
+  "sat_med": 0.395,
+  "exg_med": 0.21,
+  "green_frac": 0.963,
+  "dark": 0.025,
+  "lc": 0.985
+ },
+ {
+  "id": "camfix_04_L0029",
+  "key": "04_29",
+  "tag": "",
+  "sat_med": 0.41,
+  "exg_med": 0.216,
+  "green_frac": 0.947,
+  "dark": 0.001,
+  "lc": 0.975
+ },
+ {
+  "id": "camfix_04_L0030",
+  "key": "04_30",
+  "tag": "",
+  "sat_med": 0.514,
+  "exg_med": 0.296,
+  "green_frac": 0.954,
+  "dark": 0.0,
+  "lc": 0.968
+ },
+ {
+  "id": "camfix_04_L0031",
+  "key": "04_31",
+  "tag": "",
+  "sat_med": 0.491,
+  "exg_med": 0.284,
+  "green_frac": 0.98,
+  "dark": 0.0,
+  "lc": 0.991
+ },
+ {
+  "id": "camfix_04_L0032",
+  "key": "04_32",
+  "tag": "",
+  "sat_med": 0.532,
+  "exg_med": 0.329,
+  "green_frac": 0.997,
+  "dark": 0.009,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_04_L0033",
+  "key": "04_33",
+  "tag": "",
+  "sat_med": 0.502,
+  "exg_med": 0.248,
+  "green_frac": 0.995,
+  "dark": 0.0,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_04_L0034",
+  "key": "04_34",
+  "tag": "",
+  "sat_med": 0.488,
+  "exg_med": 0.296,
+  "green_frac": 0.95,
+  "dark": 0.0,
+  "lc": 0.964
+ },
+ {
+  "id": "camfix_04_L0035",
+  "key": "04_35",
+  "tag": "",
+  "sat_med": 0.524,
+  "exg_med": 0.311,
+  "green_frac": 0.998,
+  "dark": 0.008,
+  "lc": 0.994
+ },
+ {
+  "id": "camfix_04_L0036",
+  "key": "04_36",
+  "tag": "",
+  "sat_med": 0.548,
+  "exg_med": 0.337,
+  "green_frac": 1.0,
+  "dark": 0.011,
+  "lc": 0.992
+ },
+ {
+  "id": "camfix_04_L0037",
+  "key": "04_37",
+  "tag": "",
+  "sat_med": 0.505,
+  "exg_med": 0.297,
+  "green_frac": 0.93,
+  "dark": 0.0,
+  "lc": 0.946
+ },
+ {
+  "id": "camfix_04_L0038",
+  "key": "04_38",
+  "tag": "",
+  "sat_med": 0.571,
+  "exg_med": 0.363,
+  "green_frac": 0.999,
+  "dark": 0.015,
+  "lc": 0.99
+ },
+ {
+  "id": "camfix_04_L0039",
+  "key": "04_39",
+  "tag": "",
+  "sat_med": 0.429,
+  "exg_med": 0.191,
+  "green_frac": 0.961,
+  "dark": 0.21,
+  "lc": 0.899
+ },
+ {
+  "id": "camfix_04_L0040",
+  "key": "04_40",
+  "tag": "",
+  "sat_med": 0.357,
+  "exg_med": 0.167,
+  "green_frac": 0.975,
+  "dark": 0.085,
+  "lc": 0.978
+ },
+ {
+  "id": "camfix_04_L0041",
+  "key": "04_41",
+  "tag": "",
+  "sat_med": 0.385,
+  "exg_med": 0.197,
+  "green_frac": 1.0,
+  "dark": 0.011,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0042",
+  "key": "04_42",
+  "tag": "",
+  "sat_med": 0.424,
+  "exg_med": 0.212,
+  "green_frac": 0.978,
+  "dark": 0.085,
+  "lc": 0.966
+ },
+ {
+  "id": "camfix_04_L0043",
+  "key": "04_43",
+  "tag": "",
+  "sat_med": 0.398,
+  "exg_med": 0.2,
+  "green_frac": 0.905,
+  "dark": 0.102,
+  "lc": 0.907
+ },
+ {
+  "id": "camfix_04_L0044",
+  "key": "04_44",
+  "tag": "",
+  "sat_med": 0.442,
+  "exg_med": 0.237,
+  "green_frac": 0.974,
+  "dark": 0.017,
+  "lc": 0.99
+ },
+ {
+  "id": "camfix_04_L0045",
+  "key": "04_45",
+  "tag": "",
+  "sat_med": 0.466,
+  "exg_med": 0.233,
+  "green_frac": 0.974,
+  "dark": 0.009,
+  "lc": 0.984
+ },
+ {
+  "id": "camfix_04_L0046",
+  "key": "04_46",
+  "tag": "",
+  "sat_med": 0.412,
+  "exg_med": 0.228,
+  "green_frac": 0.94,
+  "dark": 0.035,
+  "lc": 0.955
+ },
+ {
+  "id": "camfix_04_L0047",
+  "key": "04_47",
+  "tag": "",
+  "sat_med": 0.504,
+  "exg_med": 0.302,
+  "green_frac": 0.957,
+  "dark": 0.04,
+  "lc": 0.955
+ },
+ {
+  "id": "camfix_04_L0048",
+  "key": "04_48",
+  "tag": "",
+  "sat_med": 0.453,
+  "exg_med": 0.26,
+  "green_frac": 0.943,
+  "dark": 0.016,
+  "lc": 0.949
+ },
+ {
+  "id": "camfix_04_L0049",
+  "key": "04_49",
+  "tag": "",
+  "sat_med": 0.542,
+  "exg_med": 0.278,
+  "green_frac": 0.908,
+  "dark": 0.004,
+  "lc": 0.943
+ },
+ {
+  "id": "camfix_04_L0050",
+  "key": "04_50",
+  "tag": "",
+  "sat_med": 0.496,
+  "exg_med": 0.277,
+  "green_frac": 0.963,
+  "dark": 0.005,
+  "lc": 0.976
+ },
+ {
+  "id": "camfix_04_L0051",
+  "key": "04_51",
+  "tag": "",
+  "sat_med": 0.586,
+  "exg_med": 0.354,
+  "green_frac": 0.993,
+  "dark": 0.061,
+  "lc": 0.947
+ },
+ {
+  "id": "camfix_04_L0052",
+  "key": "04_52",
+  "tag": "",
+  "sat_med": 0.507,
+  "exg_med": 0.311,
+  "green_frac": 1.0,
+  "dark": 0.002,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_04_L0053",
+  "key": "04_53",
+  "tag": "",
+  "sat_med": 0.509,
+  "exg_med": 0.33,
+  "green_frac": 1.0,
+  "dark": 0.006,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_04_L0054",
+  "key": "04_54",
+  "tag": "",
+  "sat_med": 0.507,
+  "exg_med": 0.324,
+  "green_frac": 1.0,
+  "dark": 0.012,
+  "lc": 0.99
+ },
+ {
+  "id": "camfix_04_L0055",
+  "key": "04_55",
+  "tag": "",
+  "sat_med": 0.559,
+  "exg_med": 0.347,
+  "green_frac": 1.0,
+  "dark": 0.006,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_04_L0056",
+  "key": "04_56",
+  "tag": "",
+  "sat_med": 0.51,
+  "exg_med": 0.316,
+  "green_frac": 0.997,
+  "dark": 0.039,
+  "lc": 0.979
+ },
+ {
+  "id": "camfix_04_L0057",
+  "key": "04_57",
+  "tag": "",
+  "sat_med": 0.341,
+  "exg_med": 0.16,
+  "green_frac": 0.886,
+  "dark": 0.062,
+  "lc": 0.921
+ },
+ {
+  "id": "camfix_04_L0058",
+  "key": "04_58",
+  "tag": "",
+  "sat_med": 0.395,
+  "exg_med": 0.198,
+  "green_frac": 0.96,
+  "dark": 0.0,
+  "lc": 0.99
+ },
+ {
+  "id": "camfix_04_L0059",
+  "key": "04_59",
+  "tag": "",
+  "sat_med": 0.375,
+  "exg_med": 0.187,
+  "green_frac": 0.953,
+  "dark": 0.0,
+  "lc": 0.994
+ },
+ {
+  "id": "camfix_04_L0060",
+  "key": "04_60",
+  "tag": "",
+  "sat_med": 0.486,
+  "exg_med": 0.264,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0061",
+  "key": "04_61",
+  "tag": "",
+  "sat_med": 0.418,
+  "exg_med": 0.171,
+  "green_frac": 0.793,
+  "dark": 0.005,
+  "lc": 0.905
+ },
+ {
+  "id": "camfix_04_L0062",
+  "key": "04_62",
+  "tag": "",
+  "sat_med": 0.471,
+  "exg_med": 0.249,
+  "green_frac": 0.948,
+  "dark": 0.196,
+  "lc": 0.846
+ },
+ {
+  "id": "camfix_04_L0063",
+  "key": "04_63",
+  "tag": "",
+  "sat_med": 0.358,
+  "exg_med": 0.193,
+  "green_frac": 0.939,
+  "dark": 0.003,
+  "lc": 0.953
+ },
+ {
+  "id": "camfix_04_L0064",
+  "key": "04_64",
+  "tag": "",
+  "sat_med": 0.51,
+  "exg_med": 0.307,
+  "green_frac": 0.984,
+  "dark": 0.011,
+  "lc": 0.988
+ },
+ {
+  "id": "camfix_04_L0065",
+  "key": "04_65",
+  "tag": "",
+  "sat_med": 0.577,
+  "exg_med": 0.373,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0066",
+  "key": "04_66",
+  "tag": "",
+  "sat_med": 0.482,
+  "exg_med": 0.303,
+  "green_frac": 0.989,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0067",
+  "key": "04_67",
+  "tag": "",
+  "sat_med": 0.559,
+  "exg_med": 0.357,
+  "green_frac": 0.993,
+  "dark": 0.027,
+  "lc": 0.978
+ },
+ {
+  "id": "camfix_04_L0068",
+  "key": "04_68",
+  "tag": "",
+  "sat_med": 0.544,
+  "exg_med": 0.348,
+  "green_frac": 0.965,
+  "dark": 0.003,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_04_L0069",
+  "key": "04_69",
+  "tag": "",
+  "sat_med": 0.527,
+  "exg_med": 0.327,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0070",
+  "key": "04_70",
+  "tag": "bg",
+  "sat_med": 0.182,
+  "exg_med": 0.069,
+  "green_frac": 0.234,
+  "dark": 0.014,
+  "lc": 0.799
+ },
+ {
+  "id": "camfix_04_L0071",
+  "key": "04_71",
+  "tag": "",
+  "sat_med": 0.544,
+  "exg_med": 0.355,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0072",
+  "key": "04_72",
+  "tag": "",
+  "sat_med": 0.559,
+  "exg_med": 0.351,
+  "green_frac": 0.985,
+  "dark": 0.0,
+  "lc": 0.992
+ },
+ {
+  "id": "camfix_04_L0073",
+  "key": "04_73",
+  "tag": "",
+  "sat_med": 0.532,
+  "exg_med": 0.333,
+  "green_frac": 0.952,
+  "dark": 0.009,
+  "lc": 0.974
+ },
+ {
+  "id": "camfix_04_L0074",
+  "key": "04_74",
+  "tag": "",
+  "sat_med": 0.455,
+  "exg_med": 0.269,
+  "green_frac": 0.876,
+  "dark": 0.0,
+  "lc": 0.927
+ },
+ {
+  "id": "camfix_04_L0075",
+  "key": "04_75",
+  "tag": "",
+  "sat_med": 0.485,
+  "exg_med": 0.309,
+  "green_frac": 0.893,
+  "dark": 0.0,
+  "lc": 0.937
+ },
+ {
+  "id": "camfix_04_L0076",
+  "key": "04_76",
+  "tag": "",
+  "sat_med": 0.387,
+  "exg_med": 0.182,
+  "green_frac": 0.905,
+  "dark": 0.024,
+  "lc": 0.945
+ },
+ {
+  "id": "camfix_04_L0077",
+  "key": "04_77",
+  "tag": "",
+  "sat_med": 0.394,
+  "exg_med": 0.185,
+  "green_frac": 0.906,
+  "dark": 0.025,
+  "lc": 0.941
+ },
+ {
+  "id": "camfix_04_L0078",
+  "key": "04_78",
+  "tag": "",
+  "sat_med": 0.422,
+  "exg_med": 0.207,
+  "green_frac": 0.977,
+  "dark": 0.024,
+  "lc": 0.981
+ },
+ {
+  "id": "camfix_04_L0079",
+  "key": "04_79",
+  "tag": "",
+  "sat_med": 0.436,
+  "exg_med": 0.22,
+  "green_frac": 0.94,
+  "dark": 0.078,
+  "lc": 0.939
+ },
+ {
+  "id": "camfix_04_L0080",
+  "key": "04_80",
+  "tag": "",
+  "sat_med": 0.438,
+  "exg_med": 0.226,
+  "green_frac": 0.991,
+  "dark": 0.009,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_04_L0081",
+  "key": "04_81",
+  "tag": "",
+  "sat_med": 0.411,
+  "exg_med": 0.222,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0082",
+  "key": "04_82",
+  "tag": "",
+  "sat_med": 0.388,
+  "exg_med": 0.204,
+  "green_frac": 0.989,
+  "dark": 0.0,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_04_L0083",
+  "key": "04_83",
+  "tag": "",
+  "sat_med": 0.529,
+  "exg_med": 0.313,
+  "green_frac": 0.979,
+  "dark": 0.052,
+  "lc": 0.951
+ },
+ {
+  "id": "camfix_04_L0084",
+  "key": "04_84",
+  "tag": "",
+  "sat_med": 0.521,
+  "exg_med": 0.306,
+  "green_frac": 0.967,
+  "dark": 0.111,
+  "lc": 0.909
+ },
+ {
+  "id": "camfix_04_L0085",
+  "key": "04_85",
+  "tag": "bg",
+  "sat_med": 0.5,
+  "exg_med": 0.085,
+  "green_frac": 0.516,
+  "dark": 0.404,
+  "lc": 0.521
+ },
+ {
+  "id": "camfix_04_L0086",
+  "key": "04_86",
+  "tag": "bg",
+  "sat_med": 0.318,
+  "exg_med": 0.122,
+  "green_frac": 0.684,
+  "dark": 0.525,
+  "lc": 0.52
+ },
+ {
+  "id": "camfix_04_L0087",
+  "key": "04_87",
+  "tag": "",
+  "sat_med": 0.542,
+  "exg_med": 0.372,
+  "green_frac": 0.997,
+  "dark": 0.014,
+  "lc": 0.99
+ },
+ {
+  "id": "camfix_04_L0088",
+  "key": "04_88",
+  "tag": "",
+  "sat_med": 0.53,
+  "exg_med": 0.363,
+  "green_frac": 0.998,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0089",
+  "key": "04_89",
+  "tag": "",
+  "sat_med": 0.612,
+  "exg_med": 0.417,
+  "green_frac": 0.999,
+  "dark": 0.017,
+  "lc": 0.988
+ },
+ {
+  "id": "camfix_04_L0090",
+  "key": "04_90",
+  "tag": "",
+  "sat_med": 0.584,
+  "exg_med": 0.378,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0091",
+  "key": "04_91",
+  "tag": "",
+  "sat_med": 0.616,
+  "exg_med": 0.399,
+  "green_frac": 1.0,
+  "dark": 0.003,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_04_L0092",
+  "key": "04_92",
+  "tag": "",
+  "sat_med": 0.606,
+  "exg_med": 0.389,
+  "green_frac": 0.999,
+  "dark": 0.014,
+  "lc": 0.988
+ },
+ {
+  "id": "camfix_04_L0093",
+  "key": "04_93",
+  "tag": "",
+  "sat_med": 0.593,
+  "exg_med": 0.371,
+  "green_frac": 1.0,
+  "dark": 0.003,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_04_L0094",
+  "key": "04_94",
+  "tag": "",
+  "sat_med": 0.46,
+  "exg_med": 0.295,
+  "green_frac": 0.929,
+  "dark": 0.017,
+  "lc": 0.945
+ },
+ {
+  "id": "camfix_04_L0095",
+  "key": "04_95",
+  "tag": "",
+  "sat_med": 0.465,
+  "exg_med": 0.3,
+  "green_frac": 0.943,
+  "dark": 0.008,
+  "lc": 0.959
+ },
+ {
+  "id": "camfix_04_L0096",
+  "key": "04_96",
+  "tag": "",
+  "sat_med": 0.352,
+  "exg_med": 0.178,
+  "green_frac": 0.962,
+  "dark": 0.0,
+  "lc": 0.984
+ },
+ {
+  "id": "camfix_04_L0097",
+  "key": "04_97",
+  "tag": "",
+  "sat_med": 0.382,
+  "exg_med": 0.159,
+  "green_frac": 0.726,
+  "dark": 0.239,
+  "lc": 0.745
+ },
+ {
+  "id": "camfix_04_L0098",
+  "key": "04_98",
+  "tag": "",
+  "sat_med": 0.354,
+  "exg_med": 0.177,
+  "green_frac": 0.999,
+  "dark": 0.013,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_04_L0099",
+  "key": "04_99",
+  "tag": "",
+  "sat_med": 0.385,
+  "exg_med": 0.197,
+  "green_frac": 0.879,
+  "dark": 0.022,
+  "lc": 0.925
+ },
+ {
+  "id": "camfix_04_L0100",
+  "key": "04_100",
+  "tag": "",
+  "sat_med": 0.455,
+  "exg_med": 0.236,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0101",
+  "key": "04_101",
+  "tag": "",
+  "sat_med": 0.447,
+  "exg_med": 0.2,
+  "green_frac": 0.82,
+  "dark": 0.0,
+  "lc": 0.849
+ },
+ {
+  "id": "camfix_04_L0102",
+  "key": "04_102",
+  "tag": "",
+  "sat_med": 0.486,
+  "exg_med": 0.262,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0103",
+  "key": "04_103",
+  "tag": "",
+  "sat_med": 0.48,
+  "exg_med": 0.249,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0104",
+  "key": "04_104",
+  "tag": "",
+  "sat_med": 0.476,
+  "exg_med": 0.279,
+  "green_frac": 1.0,
+  "dark": 0.028,
+  "lc": 0.983
+ },
+ {
+  "id": "camfix_04_L0105",
+  "key": "04_105",
+  "tag": "",
+  "sat_med": 0.525,
+  "exg_med": 0.286,
+  "green_frac": 1.0,
+  "dark": 0.001,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0106",
+  "key": "04_106",
+  "tag": "",
+  "sat_med": 0.529,
+  "exg_med": 0.291,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0107",
+  "key": "04_107",
+  "tag": "bg",
+  "sat_med": 0.491,
+  "exg_med": 0.113,
+  "green_frac": 0.612,
+  "dark": 0.425,
+  "lc": 0.645
+ },
+ {
+  "id": "camfix_04_L0108",
+  "key": "04_108",
+  "tag": "",
+  "sat_med": 0.531,
+  "exg_med": 0.325,
+  "green_frac": 0.989,
+  "dark": 0.033,
+  "lc": 0.977
+ },
+ {
+  "id": "camfix_04_L0109",
+  "key": "04_109",
+  "tag": "",
+  "sat_med": 0.424,
+  "exg_med": 0.254,
+  "green_frac": 0.987,
+  "dark": 0.011,
+  "lc": 0.991
+ },
+ {
+  "id": "camfix_04_L0110",
+  "key": "04_110",
+  "tag": "",
+  "sat_med": 0.468,
+  "exg_med": 0.284,
+  "green_frac": 0.972,
+  "dark": 0.02,
+  "lc": 0.976
+ },
+ {
+  "id": "camfix_04_L0111",
+  "key": "04_111",
+  "tag": "",
+  "sat_med": 0.468,
+  "exg_med": 0.291,
+  "green_frac": 0.973,
+  "dark": 0.014,
+  "lc": 0.976
+ },
+ {
+  "id": "camfix_04_L0112",
+  "key": "04_112",
+  "tag": "",
+  "sat_med": 0.492,
+  "exg_med": 0.319,
+  "green_frac": 0.947,
+  "dark": 0.0,
+  "lc": 0.981
+ },
+ {
+  "id": "camfix_04_L0113",
+  "key": "04_113",
+  "tag": "",
+  "sat_med": 0.659,
+  "exg_med": 0.461,
+  "green_frac": 0.988,
+  "dark": 0.03,
+  "lc": 0.98
+ },
+ {
+  "id": "camfix_04_L0114",
+  "key": "04_114",
+  "tag": "",
+  "sat_med": 0.569,
+  "exg_med": 0.384,
+  "green_frac": 0.999,
+  "dark": 0.003,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_04_L0115",
+  "key": "04_115",
+  "tag": "",
+  "sat_med": 0.539,
+  "exg_med": 0.351,
+  "green_frac": 0.994,
+  "dark": 0.001,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_04_L0116",
+  "key": "04_116",
+  "tag": "bg",
+  "sat_med": 0.185,
+  "exg_med": 0.078,
+  "green_frac": 0.313,
+  "dark": 0.007,
+  "lc": 0.756
+ },
+ {
+  "id": "camfix_04_L0117",
+  "key": "04_117",
+  "tag": "",
+  "sat_med": 0.592,
+  "exg_med": 0.407,
+  "green_frac": 1.0,
+  "dark": 0.059,
+  "lc": 0.954
+ },
+ {
+  "id": "camfix_04_L0118",
+  "key": "04_118",
+  "tag": "",
+  "sat_med": 0.626,
+  "exg_med": 0.438,
+  "green_frac": 0.997,
+  "dark": 0.191,
+  "lc": 0.838
+ },
+ {
+  "id": "camfix_04_L0119",
+  "key": "04_119",
+  "tag": "",
+  "sat_med": 0.569,
+  "exg_med": 0.391,
+  "green_frac": 0.998,
+  "dark": 0.027,
+  "lc": 0.981
+ },
+ {
+  "id": "camfix_04_L0120",
+  "key": "04_120",
+  "tag": "",
+  "sat_med": 0.438,
+  "exg_med": 0.237,
+  "green_frac": 1.0,
+  "dark": 0.13,
+  "lc": 0.968
+ },
+ {
+  "id": "camfix_04_L0121",
+  "key": "04_121",
+  "tag": "",
+  "sat_med": 0.46,
+  "exg_med": 0.213,
+  "green_frac": 0.991,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0122",
+  "key": "04_122",
+  "tag": "",
+  "sat_med": 0.324,
+  "exg_med": 0.187,
+  "green_frac": 0.91,
+  "dark": 0.0,
+  "lc": 0.966
+ },
+ {
+  "id": "camfix_04_L0123",
+  "key": "04_123",
+  "tag": "",
+  "sat_med": 0.424,
+  "exg_med": 0.245,
+  "green_frac": 0.997,
+  "dark": 0.008,
+  "lc": 0.994
+ },
+ {
+  "id": "camfix_04_L0124",
+  "key": "04_124",
+  "tag": "",
+  "sat_med": 0.555,
+  "exg_med": 0.346,
+  "green_frac": 0.996,
+  "dark": 0.0,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_04_L0125",
+  "key": "04_125",
+  "tag": "",
+  "sat_med": 0.533,
+  "exg_med": 0.339,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0126",
+  "key": "04_126",
+  "tag": "",
+  "sat_med": 0.558,
+  "exg_med": 0.354,
+  "green_frac": 0.991,
+  "dark": 0.0,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_04_L0127",
+  "key": "04_127",
+  "tag": "",
+  "sat_med": 0.571,
+  "exg_med": 0.403,
+  "green_frac": 1.0,
+  "dark": 0.009,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_04_L0128",
+  "key": "04_128",
+  "tag": "",
+  "sat_med": 0.586,
+  "exg_med": 0.406,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0129",
+  "key": "04_129",
+  "tag": "",
+  "sat_med": 0.578,
+  "exg_med": 0.386,
+  "green_frac": 0.991,
+  "dark": 0.001,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_04_L0130",
+  "key": "04_130",
+  "tag": "",
+  "sat_med": 0.567,
+  "exg_med": 0.39,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0131",
+  "key": "04_131",
+  "tag": "",
+  "sat_med": 0.631,
+  "exg_med": 0.419,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0132",
+  "key": "04_132",
+  "tag": "",
+  "sat_med": 0.596,
+  "exg_med": 0.381,
+  "green_frac": 0.998,
+  "dark": 0.049,
+  "lc": 0.984
+ },
+ {
+  "id": "camfix_04_L0133",
+  "key": "04_133",
+  "tag": "",
+  "sat_med": 0.611,
+  "exg_med": 0.382,
+  "green_frac": 1.0,
+  "dark": 0.004,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_04_L0134",
+  "key": "04_134",
+  "tag": "",
+  "sat_med": 0.616,
+  "exg_med": 0.408,
+  "green_frac": 0.997,
+  "dark": 0.098,
+  "lc": 0.928
+ },
+ {
+  "id": "camfix_04_L0135",
+  "key": "04_135",
+  "tag": "",
+  "sat_med": 0.565,
+  "exg_med": 0.362,
+  "green_frac": 1.0,
+  "dark": 0.001,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0136",
+  "key": "04_136",
+  "tag": "",
+  "sat_med": 0.543,
+  "exg_med": 0.376,
+  "green_frac": 0.995,
+  "dark": 0.028,
+  "lc": 0.977
+ },
+ {
+  "id": "camfix_04_L0137",
+  "key": "04_137",
+  "tag": "",
+  "sat_med": 0.587,
+  "exg_med": 0.408,
+  "green_frac": 0.999,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0138",
+  "key": "04_138",
+  "tag": "",
+  "sat_med": 0.492,
+  "exg_med": 0.322,
+  "green_frac": 0.917,
+  "dark": 0.0,
+  "lc": 0.967
+ },
+ {
+  "id": "camfix_04_L0139",
+  "key": "04_139",
+  "tag": "",
+  "sat_med": 0.569,
+  "exg_med": 0.367,
+  "green_frac": 0.967,
+  "dark": 0.0,
+  "lc": 0.976
+ },
+ {
+  "id": "camfix_04_L0140",
+  "key": "04_140",
+  "tag": "",
+  "sat_med": 0.528,
+  "exg_med": 0.339,
+  "green_frac": 0.987,
+  "dark": 0.0,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_04_L0141",
+  "key": "04_141",
+  "tag": "",
+  "sat_med": 0.536,
+  "exg_med": 0.341,
+  "green_frac": 0.935,
+  "dark": 0.0,
+  "lc": 0.952
+ },
+ {
+  "id": "camfix_04_L0142",
+  "key": "04_142",
+  "tag": "",
+  "sat_med": 0.524,
+  "exg_med": 0.336,
+  "green_frac": 0.971,
+  "dark": 0.0,
+  "lc": 0.986
+ },
+ {
+  "id": "camfix_04_L0143",
+  "key": "04_143",
+  "tag": "",
+  "sat_med": 0.434,
+  "exg_med": 0.267,
+  "green_frac": 0.819,
+  "dark": 0.0,
+  "lc": 0.875
+ },
+ {
+  "id": "camfix_04_L0144",
+  "key": "04_144",
+  "tag": "",
+  "sat_med": 0.407,
+  "exg_med": 0.241,
+  "green_frac": 0.772,
+  "dark": 0.0,
+  "lc": 0.818
+ },
+ {
+  "id": "camfix_04_L0145",
+  "key": "04_145",
+  "tag": "",
+  "sat_med": 0.436,
+  "exg_med": 0.273,
+  "green_frac": 1.0,
+  "dark": 0.06,
+  "lc": 0.989
+ },
+ {
+  "id": "camfix_04_L0146",
+  "key": "04_146",
+  "tag": "",
+  "sat_med": 0.459,
+  "exg_med": 0.262,
+  "green_frac": 1.0,
+  "dark": 0.036,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_04_L0147",
+  "key": "04_147",
+  "tag": "",
+  "sat_med": 0.444,
+  "exg_med": 0.245,
+  "green_frac": 0.983,
+  "dark": 0.001,
+  "lc": 0.994
+ },
+ {
+  "id": "camfix_04_L0148",
+  "key": "04_148",
+  "tag": "",
+  "sat_med": 0.481,
+  "exg_med": 0.253,
+  "green_frac": 0.987,
+  "dark": 0.002,
+  "lc": 0.988
+ },
+ {
+  "id": "camfix_04_L0149",
+  "key": "04_149",
+  "tag": "",
+  "sat_med": 0.41,
+  "exg_med": 0.227,
+  "green_frac": 0.966,
+  "dark": 0.005,
+  "lc": 0.986
+ },
+ {
+  "id": "camfix_04_L0150",
+  "key": "04_150",
+  "tag": "",
+  "sat_med": 0.395,
+  "exg_med": 0.24,
+  "green_frac": 0.978,
+  "dark": 0.025,
+  "lc": 0.977
+ },
+ {
+  "id": "camfix_04_L0151",
+  "key": "04_151",
+  "tag": "",
+  "sat_med": 0.524,
+  "exg_med": 0.325,
+  "green_frac": 0.998,
+  "dark": 0.007,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_04_L0152",
+  "key": "04_152",
+  "tag": "",
+  "sat_med": 0.521,
+  "exg_med": 0.322,
+  "green_frac": 0.996,
+  "dark": 0.027,
+  "lc": 0.983
+ },
+ {
+  "id": "camfix_04_L0153",
+  "key": "04_153",
+  "tag": "",
+  "sat_med": 0.5,
+  "exg_med": 0.304,
+  "green_frac": 0.997,
+  "dark": 0.078,
+  "lc": 0.944
+ },
+ {
+  "id": "camfix_04_L0154",
+  "key": "04_154",
+  "tag": "",
+  "sat_med": 0.458,
+  "exg_med": 0.298,
+  "green_frac": 0.993,
+  "dark": 0.026,
+  "lc": 0.984
+ },
+ {
+  "id": "camfix_04_L0155",
+  "key": "04_155",
+  "tag": "",
+  "sat_med": 0.525,
+  "exg_med": 0.334,
+  "green_frac": 0.972,
+  "dark": 0.021,
+  "lc": 0.973
+ },
+ {
+  "id": "camfix_04_L0156",
+  "key": "04_156",
+  "tag": "",
+  "sat_med": 0.535,
+  "exg_med": 0.355,
+  "green_frac": 1.0,
+  "dark": 0.005,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_04_L0157",
+  "key": "04_157",
+  "tag": "",
+  "sat_med": 0.542,
+  "exg_med": 0.364,
+  "green_frac": 1.0,
+  "dark": 0.002,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0158",
+  "key": "04_158",
+  "tag": "",
+  "sat_med": 0.534,
+  "exg_med": 0.369,
+  "green_frac": 1.0,
+  "dark": 0.013,
+  "lc": 0.992
+ },
+ {
+  "id": "camfix_04_L0159",
+  "key": "04_159",
+  "tag": "",
+  "sat_med": 0.602,
+  "exg_med": 0.426,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0160",
+  "key": "04_160",
+  "tag": "",
+  "sat_med": 0.53,
+  "exg_med": 0.369,
+  "green_frac": 1.0,
+  "dark": 0.003,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_04_L0161",
+  "key": "04_161",
+  "tag": "",
+  "sat_med": 0.567,
+  "exg_med": 0.381,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0162",
+  "key": "04_162",
+  "tag": "",
+  "sat_med": 0.559,
+  "exg_med": 0.335,
+  "green_frac": 0.976,
+  "dark": 0.0,
+  "lc": 0.988
+ },
+ {
+  "id": "camfix_04_L0163",
+  "key": "04_163",
+  "tag": "",
+  "sat_med": 0.52,
+  "exg_med": 0.348,
+  "green_frac": 0.982,
+  "dark": 0.0,
+  "lc": 0.988
+ },
+ {
+  "id": "camfix_04_L0164",
+  "key": "04_164",
+  "tag": "",
+  "sat_med": 0.544,
+  "exg_med": 0.335,
+  "green_frac": 0.982,
+  "dark": 0.0,
+  "lc": 0.99
+ },
+ {
+  "id": "camfix_04_L0165",
+  "key": "04_165",
+  "tag": "bg",
+  "sat_med": 0.193,
+  "exg_med": 0.085,
+  "green_frac": 0.477,
+  "dark": 0.132,
+  "lc": 0.491
+ },
+ {
+  "id": "camfix_04_L0166",
+  "key": "04_166",
+  "tag": "",
+  "sat_med": 0.538,
+  "exg_med": 0.283,
+  "green_frac": 0.934,
+  "dark": 0.058,
+  "lc": 0.974
+ },
+ {
+  "id": "camfix_04_L0167",
+  "key": "04_167",
+  "tag": "",
+  "sat_med": 0.574,
+  "exg_med": 0.372,
+  "green_frac": 0.993,
+  "dark": 0.049,
+  "lc": 0.959
+ },
+ {
+  "id": "camfix_04_L0168",
+  "key": "04_168",
+  "tag": "",
+  "sat_med": 0.545,
+  "exg_med": 0.32,
+  "green_frac": 0.989,
+  "dark": 0.018,
+  "lc": 0.978
+ },
+ {
+  "id": "camfix_04_L0169",
+  "key": "04_169",
+  "tag": "",
+  "sat_med": 0.554,
+  "exg_med": 0.321,
+  "green_frac": 0.997,
+  "dark": 0.006,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_04_L0170",
+  "key": "04_170",
+  "tag": "",
+  "sat_med": 0.496,
+  "exg_med": 0.328,
+  "green_frac": 0.904,
+  "dark": 0.021,
+  "lc": 0.943
+ },
+ {
+  "id": "camfix_04_L0171",
+  "key": "04_171",
+  "tag": "",
+  "sat_med": 0.449,
+  "exg_med": 0.276,
+  "green_frac": 0.885,
+  "dark": 0.008,
+  "lc": 0.929
+ },
+ {
+  "id": "camfix_04_L0172",
+  "key": "04_172",
+  "tag": "",
+  "sat_med": 0.484,
+  "exg_med": 0.296,
+  "green_frac": 0.82,
+  "dark": 0.0,
+  "lc": 0.873
+ },
+ {
+  "id": "camfix_04_L0173",
+  "key": "04_173",
+  "tag": "",
+  "sat_med": 0.453,
+  "exg_med": 0.234,
+  "green_frac": 0.895,
+  "dark": 0.0,
+  "lc": 0.953
+ },
+ {
+  "id": "camfix_04_L0174",
+  "key": "04_174",
+  "tag": "",
+  "sat_med": 0.484,
+  "exg_med": 0.268,
+  "green_frac": 0.896,
+  "dark": 0.0,
+  "lc": 0.943
+ },
+ {
+  "id": "camfix_04_L0175",
+  "key": "04_175",
+  "tag": "",
+  "sat_med": 0.351,
+  "exg_med": 0.192,
+  "green_frac": 0.91,
+  "dark": 0.022,
+  "lc": 0.955
+ },
+ {
+  "id": "camfix_04_L0176",
+  "key": "04_176",
+  "tag": "",
+  "sat_med": 0.43,
+  "exg_med": 0.247,
+  "green_frac": 0.938,
+  "dark": 0.0,
+  "lc": 0.973
+ },
+ {
+  "id": "camfix_04_L0177",
+  "key": "04_177",
+  "tag": "",
+  "sat_med": 0.423,
+  "exg_med": 0.239,
+  "green_frac": 0.944,
+  "dark": 0.0,
+  "lc": 0.973
+ },
+ {
+  "id": "camfix_04_L0178",
+  "key": "04_178",
+  "tag": "",
+  "sat_med": 0.474,
+  "exg_med": 0.274,
+  "green_frac": 0.99,
+  "dark": 0.012,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_04_L0179",
+  "key": "04_179",
+  "tag": "",
+  "sat_med": 0.288,
+  "exg_med": 0.114,
+  "green_frac": 0.619,
+  "dark": 0.251,
+  "lc": 0.656
+ },
+ {
+  "id": "camfix_04_L0180",
+  "key": "04_180",
+  "tag": "",
+  "sat_med": 0.456,
+  "exg_med": 0.281,
+  "green_frac": 0.998,
+  "dark": 0.013,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_04_L0181",
+  "key": "04_181",
+  "tag": "",
+  "sat_med": 0.419,
+  "exg_med": 0.252,
+  "green_frac": 0.924,
+  "dark": 0.0,
+  "lc": 0.945
+ },
+ {
+  "id": "camfix_04_L0182",
+  "key": "04_182",
+  "tag": "",
+  "sat_med": 0.488,
+  "exg_med": 0.315,
+  "green_frac": 1.0,
+  "dark": 0.002,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0183",
+  "key": "04_183",
+  "tag": "",
+  "sat_med": 0.53,
+  "exg_med": 0.357,
+  "green_frac": 0.998,
+  "dark": 0.0,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_04_L0184",
+  "key": "04_184",
+  "tag": "",
+  "sat_med": 0.543,
+  "exg_med": 0.355,
+  "green_frac": 1.0,
+  "dark": 0.009,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_04_L0185",
+  "key": "04_185",
+  "tag": "",
+  "sat_med": 0.545,
+  "exg_med": 0.355,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0186",
+  "key": "04_186",
+  "tag": "",
+  "sat_med": 0.561,
+  "exg_med": 0.367,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0187",
+  "key": "04_187",
+  "tag": "",
+  "sat_med": 0.539,
+  "exg_med": 0.35,
+  "green_frac": 1.0,
+  "dark": 0.009,
+  "lc": 0.995
+ },
+ {
+  "id": "camfix_04_L0188",
+  "key": "04_188",
+  "tag": "",
+  "sat_med": 0.58,
+  "exg_med": 0.384,
+  "green_frac": 1.0,
+  "dark": 0.003,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_04_L0189",
+  "key": "04_189",
+  "tag": "",
+  "sat_med": 0.526,
+  "exg_med": 0.345,
+  "green_frac": 0.984,
+  "dark": 0.005,
+  "lc": 0.984
+ },
+ {
+  "id": "camfix_04_L0190",
+  "key": "04_190",
+  "tag": "",
+  "sat_med": 0.518,
+  "exg_med": 0.35,
+  "green_frac": 0.985,
+  "dark": 0.0,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_04_L0191",
+  "key": "04_191",
+  "tag": "",
+  "sat_med": 0.5,
+  "exg_med": 0.352,
+  "green_frac": 0.988,
+  "dark": 0.0,
+  "lc": 0.994
+ },
+ {
+  "id": "camfix_04_L0192",
+  "key": "04_192",
+  "tag": "",
+  "sat_med": 0.512,
+  "exg_med": 0.363,
+  "green_frac": 0.985,
+  "dark": 0.0,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_04_L0193",
+  "key": "04_193",
+  "tag": "",
+  "sat_med": 0.514,
+  "exg_med": 0.271,
+  "green_frac": 1.0,
+  "dark": 0.007,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_04_L0194",
+  "key": "04_194",
+  "tag": "",
+  "sat_med": 0.523,
+  "exg_med": 0.275,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_04_L0195",
+  "key": "04_195",
+  "tag": "",
+  "sat_med": 0.537,
+  "exg_med": 0.283,
+  "green_frac": 1.0,
+  "dark": 0.001,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0001",
+  "key": "05_1",
+  "tag": "",
+  "sat_med": 0.326,
+  "exg_med": 0.216,
+  "green_frac": 0.845,
+  "dark": 0.0,
+  "lc": 0.974
+ },
+ {
+  "id": "camfix_05_L0002",
+  "key": "05_2",
+  "tag": "",
+  "sat_med": 0.374,
+  "exg_med": 0.221,
+  "green_frac": 0.859,
+  "dark": 0.0,
+  "lc": 0.946
+ },
+ {
+  "id": "camfix_05_L0003",
+  "key": "05_3",
+  "tag": "",
+  "sat_med": 0.412,
+  "exg_med": 0.275,
+  "green_frac": 0.913,
+  "dark": 0.0,
+  "lc": 0.952
+ },
+ {
+  "id": "camfix_05_L0004",
+  "key": "05_4",
+  "tag": "",
+  "sat_med": 0.469,
+  "exg_med": 0.287,
+  "green_frac": 0.967,
+  "dark": 0.0,
+  "lc": 0.987
+ },
+ {
+  "id": "camfix_05_L0005",
+  "key": "05_5",
+  "tag": "",
+  "sat_med": 0.481,
+  "exg_med": 0.292,
+  "green_frac": 0.997,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0006",
+  "key": "05_6",
+  "tag": "",
+  "sat_med": 0.528,
+  "exg_med": 0.341,
+  "green_frac": 1.0,
+  "dark": 0.047,
+  "lc": 0.986
+ },
+ {
+  "id": "camfix_05_L0007",
+  "key": "05_7",
+  "tag": "",
+  "sat_med": 0.534,
+  "exg_med": 0.347,
+  "green_frac": 1.0,
+  "dark": 0.021,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_05_L0008",
+  "key": "05_8",
+  "tag": "",
+  "sat_med": 0.562,
+  "exg_med": 0.377,
+  "green_frac": 1.0,
+  "dark": 0.008,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_05_L0009",
+  "key": "05_9",
+  "tag": "",
+  "sat_med": 0.5,
+  "exg_med": 0.344,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0010",
+  "key": "05_10",
+  "tag": "",
+  "sat_med": 0.419,
+  "exg_med": 0.29,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0011",
+  "key": "05_11",
+  "tag": "",
+  "sat_med": 0.524,
+  "exg_med": 0.358,
+  "green_frac": 0.996,
+  "dark": 0.007,
+  "lc": 0.994
+ },
+ {
+  "id": "camfix_05_L0012",
+  "key": "05_12",
+  "tag": "bg",
+  "sat_med": 0.321,
+  "exg_med": 0.179,
+  "green_frac": 0.87,
+  "dark": 0.412,
+  "lc": 0.853
+ },
+ {
+  "id": "camfix_05_L0013",
+  "key": "05_13",
+  "tag": "",
+  "sat_med": 0.493,
+  "exg_med": 0.372,
+  "green_frac": 0.985,
+  "dark": 0.0,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_05_L0014",
+  "key": "05_14",
+  "tag": "",
+  "sat_med": 0.451,
+  "exg_med": 0.275,
+  "green_frac": 0.984,
+  "dark": 0.0,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_05_L0015",
+  "key": "05_15",
+  "tag": "",
+  "sat_med": 0.474,
+  "exg_med": 0.305,
+  "green_frac": 0.985,
+  "dark": 0.0,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_05_L0016",
+  "key": "05_16",
+  "tag": "",
+  "sat_med": 0.438,
+  "exg_med": 0.266,
+  "green_frac": 0.95,
+  "dark": 0.0,
+  "lc": 0.984
+ },
+ {
+  "id": "camfix_05_L0017",
+  "key": "05_17",
+  "tag": "",
+  "sat_med": 0.469,
+  "exg_med": 0.284,
+  "green_frac": 0.989,
+  "dark": 0.0,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_05_L0018",
+  "key": "05_18",
+  "tag": "",
+  "sat_med": 0.542,
+  "exg_med": 0.351,
+  "green_frac": 0.999,
+  "dark": 0.007,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_05_L0019",
+  "key": "05_19",
+  "tag": "",
+  "sat_med": 0.494,
+  "exg_med": 0.312,
+  "green_frac": 0.984,
+  "dark": 0.003,
+  "lc": 0.988
+ },
+ {
+  "id": "camfix_05_L0020",
+  "key": "05_20",
+  "tag": "",
+  "sat_med": 0.434,
+  "exg_med": 0.287,
+  "green_frac": 0.938,
+  "dark": 0.0,
+  "lc": 0.961
+ },
+ {
+  "id": "camfix_05_L0021",
+  "key": "05_21",
+  "tag": "",
+  "sat_med": 0.567,
+  "exg_med": 0.386,
+  "green_frac": 0.999,
+  "dark": 0.002,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_05_L0022",
+  "key": "05_22",
+  "tag": "",
+  "sat_med": 0.187,
+  "exg_med": 0.074,
+  "green_frac": 0.457,
+  "dark": 0.0,
+  "lc": 0.647
+ },
+ {
+  "id": "camfix_05_L0023",
+  "key": "05_23",
+  "tag": "",
+  "sat_med": 0.511,
+  "exg_med": 0.336,
+  "green_frac": 0.996,
+  "dark": 0.009,
+  "lc": 0.994
+ },
+ {
+  "id": "camfix_05_L0024",
+  "key": "05_24",
+  "tag": "",
+  "sat_med": 0.467,
+  "exg_med": 0.318,
+  "green_frac": 0.973,
+  "dark": 0.0,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_05_L0025",
+  "key": "05_25",
+  "tag": "",
+  "sat_med": 0.516,
+  "exg_med": 0.354,
+  "green_frac": 0.982,
+  "dark": 0.0,
+  "lc": 0.992
+ },
+ {
+  "id": "camfix_05_L0026",
+  "key": "05_26",
+  "tag": "",
+  "sat_med": 0.456,
+  "exg_med": 0.3,
+  "green_frac": 0.967,
+  "dark": 0.0,
+  "lc": 0.987
+ },
+ {
+  "id": "camfix_05_L0027",
+  "key": "05_27",
+  "tag": "",
+  "sat_med": 0.566,
+  "exg_med": 0.352,
+  "green_frac": 0.989,
+  "dark": 0.025,
+  "lc": 0.98
+ },
+ {
+  "id": "camfix_05_L0028",
+  "key": "05_28",
+  "tag": "",
+  "sat_med": 0.562,
+  "exg_med": 0.344,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0029",
+  "key": "05_29",
+  "tag": "",
+  "sat_med": 0.48,
+  "exg_med": 0.33,
+  "green_frac": 0.97,
+  "dark": 0.021,
+  "lc": 0.97
+ },
+ {
+  "id": "camfix_05_L0030",
+  "key": "05_30",
+  "tag": "",
+  "sat_med": 0.524,
+  "exg_med": 0.385,
+  "green_frac": 0.971,
+  "dark": 0.014,
+  "lc": 0.978
+ },
+ {
+  "id": "camfix_05_L0031",
+  "key": "05_31",
+  "tag": "",
+  "sat_med": 0.531,
+  "exg_med": 0.385,
+  "green_frac": 0.925,
+  "dark": 0.0,
+  "lc": 0.934
+ },
+ {
+  "id": "camfix_05_L0032",
+  "key": "05_32",
+  "tag": "",
+  "sat_med": 0.579,
+  "exg_med": 0.455,
+  "green_frac": 1.0,
+  "dark": 0.023,
+  "lc": 0.989
+ },
+ {
+  "id": "camfix_05_L0033",
+  "key": "05_33",
+  "tag": "leaf*",
+  "sat_med": 0.671,
+  "exg_med": 0.615,
+  "green_frac": 0.991,
+  "dark": 0.053,
+  "lc": 0.958
+ },
+ {
+  "id": "camfix_05_L0034",
+  "key": "05_34",
+  "tag": "",
+  "sat_med": 0.578,
+  "exg_med": 0.362,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0035",
+  "key": "05_35",
+  "tag": "",
+  "sat_med": 0.572,
+  "exg_med": 0.361,
+  "green_frac": 0.999,
+  "dark": 0.003,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_05_L0036",
+  "key": "05_36",
+  "tag": "",
+  "sat_med": 0.556,
+  "exg_med": 0.358,
+  "green_frac": 0.997,
+  "dark": 0.006,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_05_L0037",
+  "key": "05_37",
+  "tag": "",
+  "sat_med": 0.487,
+  "exg_med": 0.315,
+  "green_frac": 0.976,
+  "dark": 0.0,
+  "lc": 0.99
+ },
+ {
+  "id": "camfix_05_L0038",
+  "key": "05_38",
+  "tag": "",
+  "sat_med": 0.558,
+  "exg_med": 0.372,
+  "green_frac": 0.997,
+  "dark": 0.0,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_05_L0039",
+  "key": "05_39",
+  "tag": "",
+  "sat_med": 0.587,
+  "exg_med": 0.388,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0040",
+  "key": "05_40",
+  "tag": "",
+  "sat_med": 0.602,
+  "exg_med": 0.416,
+  "green_frac": 1.0,
+  "dark": 0.004,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_05_L0041",
+  "key": "05_41",
+  "tag": "",
+  "sat_med": 0.551,
+  "exg_med": 0.351,
+  "green_frac": 1.0,
+  "dark": 0.123,
+  "lc": 0.922
+ },
+ {
+  "id": "camfix_05_L0042",
+  "key": "05_42",
+  "tag": "",
+  "sat_med": 0.582,
+  "exg_med": 0.402,
+  "green_frac": 0.998,
+  "dark": 0.039,
+  "lc": 0.977
+ },
+ {
+  "id": "camfix_05_L0043",
+  "key": "05_43",
+  "tag": "",
+  "sat_med": 0.561,
+  "exg_med": 0.395,
+  "green_frac": 0.988,
+  "dark": 0.0,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_05_L0044",
+  "key": "05_44",
+  "tag": "bg",
+  "sat_med": 0.158,
+  "exg_med": 0.082,
+  "green_frac": 0.128,
+  "dark": 0.014,
+  "lc": 0.531
+ },
+ {
+  "id": "camfix_05_L0045",
+  "key": "05_45",
+  "tag": "",
+  "sat_med": 0.515,
+  "exg_med": 0.403,
+  "green_frac": 0.995,
+  "dark": 0.01,
+  "lc": 0.994
+ },
+ {
+  "id": "camfix_05_L0046",
+  "key": "05_46",
+  "tag": "",
+  "sat_med": 0.483,
+  "exg_med": 0.373,
+  "green_frac": 1.0,
+  "dark": 0.025,
+  "lc": 0.982
+ },
+ {
+  "id": "camfix_05_L0047",
+  "key": "05_47",
+  "tag": "",
+  "sat_med": 0.691,
+  "exg_med": 0.752,
+  "green_frac": 1.0,
+  "dark": 0.001,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0048",
+  "key": "05_48",
+  "tag": "",
+  "sat_med": 0.562,
+  "exg_med": 0.358,
+  "green_frac": 1.0,
+  "dark": 0.005,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0049",
+  "key": "05_49",
+  "tag": "",
+  "sat_med": 0.614,
+  "exg_med": 0.416,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0050",
+  "key": "05_50",
+  "tag": "",
+  "sat_med": 0.59,
+  "exg_med": 0.409,
+  "green_frac": 1.0,
+  "dark": 0.014,
+  "lc": 0.989
+ },
+ {
+  "id": "camfix_05_L0051",
+  "key": "05_51",
+  "tag": "",
+  "sat_med": 0.552,
+  "exg_med": 0.384,
+  "green_frac": 1.0,
+  "dark": 0.008,
+  "lc": 0.995
+ },
+ {
+  "id": "camfix_05_L0052",
+  "key": "05_52",
+  "tag": "",
+  "sat_med": 0.56,
+  "exg_med": 0.344,
+  "green_frac": 1.0,
+  "dark": 0.002,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_05_L0053",
+  "key": "05_53",
+  "tag": "",
+  "sat_med": 0.59,
+  "exg_med": 0.37,
+  "green_frac": 1.0,
+  "dark": 0.013,
+  "lc": 0.99
+ },
+ {
+  "id": "camfix_05_L0054",
+  "key": "05_54",
+  "tag": "",
+  "sat_med": 0.537,
+  "exg_med": 0.376,
+  "green_frac": 0.984,
+  "dark": 0.002,
+  "lc": 0.994
+ },
+ {
+  "id": "camfix_05_L0055",
+  "key": "05_55",
+  "tag": "",
+  "sat_med": 0.483,
+  "exg_med": 0.328,
+  "green_frac": 0.981,
+  "dark": 0.027,
+  "lc": 0.976
+ },
+ {
+  "id": "camfix_05_L0056",
+  "key": "05_56",
+  "tag": "bg",
+  "sat_med": 0.362,
+  "exg_med": 0.178,
+  "green_frac": 0.75,
+  "dark": 0.27,
+  "lc": 0.714
+ },
+ {
+  "id": "camfix_05_L0057",
+  "key": "05_57",
+  "tag": "",
+  "sat_med": 0.326,
+  "exg_med": 0.181,
+  "green_frac": 0.846,
+  "dark": 0.0,
+  "lc": 0.914
+ },
+ {
+  "id": "camfix_05_L0058",
+  "key": "05_58",
+  "tag": "",
+  "sat_med": 0.419,
+  "exg_med": 0.251,
+  "green_frac": 0.94,
+  "dark": 0.0,
+  "lc": 0.978
+ },
+ {
+  "id": "camfix_05_L0059",
+  "key": "05_59",
+  "tag": "",
+  "sat_med": 0.482,
+  "exg_med": 0.293,
+  "green_frac": 0.977,
+  "dark": 0.0,
+  "lc": 0.989
+ },
+ {
+  "id": "camfix_05_L0060",
+  "key": "05_60",
+  "tag": "",
+  "sat_med": 0.466,
+  "exg_med": 0.29,
+  "green_frac": 0.927,
+  "dark": 0.0,
+  "lc": 0.956
+ },
+ {
+  "id": "camfix_05_L0061",
+  "key": "05_61",
+  "tag": "",
+  "sat_med": 0.484,
+  "exg_med": 0.3,
+  "green_frac": 0.992,
+  "dark": 0.006,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_05_L0062",
+  "key": "05_62",
+  "tag": "",
+  "sat_med": 0.652,
+  "exg_med": 0.357,
+  "green_frac": 0.998,
+  "dark": 0.0,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_05_L0063",
+  "key": "05_63",
+  "tag": "",
+  "sat_med": 0.55,
+  "exg_med": 0.328,
+  "green_frac": 0.994,
+  "dark": 0.003,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_05_L0064",
+  "key": "05_64",
+  "tag": "",
+  "sat_med": 0.186,
+  "exg_med": 0.085,
+  "green_frac": 0.471,
+  "dark": 0.011,
+  "lc": 0.554
+ },
+ {
+  "id": "camfix_05_L0065",
+  "key": "05_65",
+  "tag": "",
+  "sat_med": 0.594,
+  "exg_med": 0.346,
+  "green_frac": 0.981,
+  "dark": 0.001,
+  "lc": 0.983
+ },
+ {
+  "id": "camfix_05_L0066",
+  "key": "05_66",
+  "tag": "",
+  "sat_med": 0.627,
+  "exg_med": 0.414,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0067",
+  "key": "05_67",
+  "tag": "",
+  "sat_med": 0.608,
+  "exg_med": 0.41,
+  "green_frac": 0.999,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0068",
+  "key": "05_68",
+  "tag": "",
+  "sat_med": 0.643,
+  "exg_med": 0.434,
+  "green_frac": 0.998,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0069",
+  "key": "05_69",
+  "tag": "",
+  "sat_med": 0.62,
+  "exg_med": 0.415,
+  "green_frac": 1.0,
+  "dark": 0.002,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0070",
+  "key": "05_70",
+  "tag": "",
+  "sat_med": 0.602,
+  "exg_med": 0.33,
+  "green_frac": 0.998,
+  "dark": 0.021,
+  "lc": 0.983
+ },
+ {
+  "id": "camfix_05_L0071",
+  "key": "05_71",
+  "tag": "",
+  "sat_med": 0.519,
+  "exg_med": 0.346,
+  "green_frac": 0.989,
+  "dark": 0.0,
+  "lc": 0.995
+ },
+ {
+  "id": "camfix_05_L0072",
+  "key": "05_72",
+  "tag": "",
+  "sat_med": 0.563,
+  "exg_med": 0.38,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0073",
+  "key": "05_73",
+  "tag": "",
+  "sat_med": 0.587,
+  "exg_med": 0.407,
+  "green_frac": 1.0,
+  "dark": 0.03,
+  "lc": 0.982
+ },
+ {
+  "id": "camfix_05_L0074",
+  "key": "05_74",
+  "tag": "",
+  "sat_med": 0.581,
+  "exg_med": 0.396,
+  "green_frac": 0.995,
+  "dark": 0.0,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_05_L0075",
+  "key": "05_75",
+  "tag": "",
+  "sat_med": 0.497,
+  "exg_med": 0.332,
+  "green_frac": 0.999,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0076",
+  "key": "05_76",
+  "tag": "",
+  "sat_med": 0.529,
+  "exg_med": 0.398,
+  "green_frac": 0.996,
+  "dark": 0.004,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_05_L0077",
+  "key": "05_77",
+  "tag": "",
+  "sat_med": 0.596,
+  "exg_med": 0.441,
+  "green_frac": 1.0,
+  "dark": 0.008,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_05_L0078",
+  "key": "05_78",
+  "tag": "",
+  "sat_med": 0.58,
+  "exg_med": 0.434,
+  "green_frac": 0.998,
+  "dark": 0.087,
+  "lc": 0.93
+ },
+ {
+  "id": "camfix_05_L0079",
+  "key": "05_79",
+  "tag": "",
+  "sat_med": 0.541,
+  "exg_med": 0.396,
+  "green_frac": 0.997,
+  "dark": 0.0,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_05_L0080",
+  "key": "05_80",
+  "tag": "",
+  "sat_med": 0.598,
+  "exg_med": 0.472,
+  "green_frac": 1.0,
+  "dark": 0.082,
+  "lc": 0.965
+ },
+ {
+  "id": "camfix_05_L0081",
+  "key": "05_81",
+  "tag": "",
+  "sat_med": 0.341,
+  "exg_med": 0.207,
+  "green_frac": 0.878,
+  "dark": 0.0,
+  "lc": 0.913
+ },
+ {
+  "id": "camfix_05_L0082",
+  "key": "05_82",
+  "tag": "",
+  "sat_med": 0.358,
+  "exg_med": 0.212,
+  "green_frac": 0.892,
+  "dark": 0.0,
+  "lc": 0.936
+ },
+ {
+  "id": "camfix_05_L0083",
+  "key": "05_83",
+  "tag": "",
+  "sat_med": 0.516,
+  "exg_med": 0.3,
+  "green_frac": 0.991,
+  "dark": 0.0,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_05_L0084",
+  "key": "05_84",
+  "tag": "",
+  "sat_med": 0.433,
+  "exg_med": 0.269,
+  "green_frac": 0.983,
+  "dark": 0.005,
+  "lc": 0.988
+ },
+ {
+  "id": "camfix_05_L0085",
+  "key": "05_85",
+  "tag": "",
+  "sat_med": 0.488,
+  "exg_med": 0.295,
+  "green_frac": 0.984,
+  "dark": 0.003,
+  "lc": 0.992
+ },
+ {
+  "id": "camfix_05_L0086",
+  "key": "05_86",
+  "tag": "",
+  "sat_med": 0.481,
+  "exg_med": 0.302,
+  "green_frac": 1.0,
+  "dark": 0.006,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_05_L0087",
+  "key": "05_87",
+  "tag": "",
+  "sat_med": 0.463,
+  "exg_med": 0.298,
+  "green_frac": 1.0,
+  "dark": 0.005,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_05_L0088",
+  "key": "05_88",
+  "tag": "",
+  "sat_med": 0.634,
+  "exg_med": 0.401,
+  "green_frac": 1.0,
+  "dark": 0.008,
+  "lc": 0.994
+ },
+ {
+  "id": "camfix_05_L0089",
+  "key": "05_89",
+  "tag": "",
+  "sat_med": 0.585,
+  "exg_med": 0.388,
+  "green_frac": 0.986,
+  "dark": 0.003,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_05_L0090",
+  "key": "05_90",
+  "tag": "",
+  "sat_med": 0.573,
+  "exg_med": 0.381,
+  "green_frac": 0.998,
+  "dark": 0.003,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_05_L0091",
+  "key": "05_91",
+  "tag": "",
+  "sat_med": 0.283,
+  "exg_med": 0.12,
+  "green_frac": 0.856,
+  "dark": 0.272,
+  "lc": 0.906
+ },
+ {
+  "id": "camfix_05_L0092",
+  "key": "05_92",
+  "tag": "",
+  "sat_med": 0.574,
+  "exg_med": 0.397,
+  "green_frac": 0.996,
+  "dark": 0.026,
+  "lc": 0.992
+ },
+ {
+  "id": "camfix_05_L0093",
+  "key": "05_93",
+  "tag": "",
+  "sat_med": 0.453,
+  "exg_med": 0.311,
+  "green_frac": 0.999,
+  "dark": 0.009,
+  "lc": 0.995
+ },
+ {
+  "id": "camfix_05_L0094",
+  "key": "05_94",
+  "tag": "",
+  "sat_med": 0.548,
+  "exg_med": 0.384,
+  "green_frac": 0.993,
+  "dark": 0.019,
+  "lc": 0.987
+ },
+ {
+  "id": "camfix_05_L0095",
+  "key": "05_95",
+  "tag": "",
+  "sat_med": 0.236,
+  "exg_med": 0.102,
+  "green_frac": 0.66,
+  "dark": 0.007,
+  "lc": 0.842
+ },
+ {
+  "id": "camfix_05_L0096",
+  "key": "05_96",
+  "tag": "",
+  "sat_med": 0.261,
+  "exg_med": 0.111,
+  "green_frac": 0.832,
+  "dark": 0.0,
+  "lc": 0.969
+ },
+ {
+  "id": "camfix_05_L0097",
+  "key": "05_97",
+  "tag": "",
+  "sat_med": 0.462,
+  "exg_med": 0.35,
+  "green_frac": 0.982,
+  "dark": 0.009,
+  "lc": 0.989
+ },
+ {
+  "id": "camfix_05_L0098",
+  "key": "05_98",
+  "tag": "",
+  "sat_med": 0.581,
+  "exg_med": 0.419,
+  "green_frac": 0.987,
+  "dark": 0.034,
+  "lc": 0.972
+ },
+ {
+  "id": "camfix_05_L0099",
+  "key": "05_99",
+  "tag": "",
+  "sat_med": 0.587,
+  "exg_med": 0.399,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0100",
+  "key": "05_100",
+  "tag": "",
+  "sat_med": 0.569,
+  "exg_med": 0.396,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0101",
+  "key": "05_101",
+  "tag": "",
+  "sat_med": 0.512,
+  "exg_med": 0.38,
+  "green_frac": 1.0,
+  "dark": 0.005,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_05_L0102",
+  "key": "05_102",
+  "tag": "",
+  "sat_med": 0.566,
+  "exg_med": 0.429,
+  "green_frac": 1.0,
+  "dark": 0.003,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_05_L0103",
+  "key": "05_103",
+  "tag": "",
+  "sat_med": 0.409,
+  "exg_med": 0.203,
+  "green_frac": 0.883,
+  "dark": 0.0,
+  "lc": 0.947
+ },
+ {
+  "id": "camfix_05_L0104",
+  "key": "05_104",
+  "tag": "",
+  "sat_med": 0.4,
+  "exg_med": 0.2,
+  "green_frac": 0.865,
+  "dark": 0.0,
+  "lc": 0.928
+ },
+ {
+  "id": "camfix_05_L0105",
+  "key": "05_105",
+  "tag": "",
+  "sat_med": 0.392,
+  "exg_med": 0.222,
+  "green_frac": 0.928,
+  "dark": 0.0,
+  "lc": 0.966
+ },
+ {
+  "id": "camfix_05_L0106",
+  "key": "05_106",
+  "tag": "",
+  "sat_med": 0.482,
+  "exg_med": 0.297,
+  "green_frac": 0.998,
+  "dark": 0.0,
+  "lc": 0.999
+ },
+ {
+  "id": "camfix_05_L0107",
+  "key": "05_107",
+  "tag": "",
+  "sat_med": 0.437,
+  "exg_med": 0.275,
+  "green_frac": 0.987,
+  "dark": 0.0,
+  "lc": 0.995
+ },
+ {
+  "id": "camfix_05_L0108",
+  "key": "05_108",
+  "tag": "",
+  "sat_med": 0.523,
+  "exg_med": 0.324,
+  "green_frac": 1.0,
+  "dark": 0.035,
+  "lc": 0.975
+ },
+ {
+  "id": "camfix_05_L0109",
+  "key": "05_109",
+  "tag": "",
+  "sat_med": 0.451,
+  "exg_med": 0.268,
+  "green_frac": 0.987,
+  "dark": 0.0,
+  "lc": 0.996
+ },
+ {
+  "id": "camfix_05_L0110",
+  "key": "05_110",
+  "tag": "",
+  "sat_med": 0.525,
+  "exg_med": 0.326,
+  "green_frac": 0.996,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0111",
+  "key": "05_111",
+  "tag": "",
+  "sat_med": 0.5,
+  "exg_med": 0.304,
+  "green_frac": 0.972,
+  "dark": 0.008,
+  "lc": 0.988
+ },
+ {
+  "id": "camfix_05_L0112",
+  "key": "05_112",
+  "tag": "",
+  "sat_med": 0.568,
+  "exg_med": 0.348,
+  "green_frac": 0.999,
+  "dark": 0.006,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_05_L0113",
+  "key": "05_113",
+  "tag": "",
+  "sat_med": 0.507,
+  "exg_med": 0.295,
+  "green_frac": 0.983,
+  "dark": 0.001,
+  "lc": 0.992
+ },
+ {
+  "id": "camfix_05_L0114",
+  "key": "05_114",
+  "tag": "",
+  "sat_med": 0.569,
+  "exg_med": 0.369,
+  "green_frac": 0.99,
+  "dark": 0.0,
+  "lc": 0.993
+ },
+ {
+  "id": "camfix_05_L0115",
+  "key": "05_115",
+  "tag": "",
+  "sat_med": 0.592,
+  "exg_med": 0.426,
+  "green_frac": 1.0,
+  "dark": 0.005,
+  "lc": 0.997
+ },
+ {
+  "id": "camfix_05_L0116",
+  "key": "05_116",
+  "tag": "",
+  "sat_med": 0.512,
+  "exg_med": 0.344,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0117",
+  "key": "05_117",
+  "tag": "",
+  "sat_med": 0.475,
+  "exg_med": 0.323,
+  "green_frac": 0.999,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0118",
+  "key": "05_118",
+  "tag": "",
+  "sat_med": 0.557,
+  "exg_med": 0.434,
+  "green_frac": 1.0,
+  "dark": 0.078,
+  "lc": 0.952
+ },
+ {
+  "id": "camfix_05_L0119",
+  "key": "05_119",
+  "tag": "",
+  "sat_med": 0.433,
+  "exg_med": 0.253,
+  "green_frac": 0.967,
+  "dark": 0.0,
+  "lc": 0.982
+ },
+ {
+  "id": "camfix_05_L0120",
+  "key": "05_120",
+  "tag": "",
+  "sat_med": 0.413,
+  "exg_med": 0.235,
+  "green_frac": 0.916,
+  "dark": 0.0,
+  "lc": 0.956
+ },
+ {
+  "id": "camfix_05_L0121",
+  "key": "05_121",
+  "tag": "",
+  "sat_med": 0.449,
+  "exg_med": 0.213,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0122",
+  "key": "05_122",
+  "tag": "",
+  "sat_med": 0.474,
+  "exg_med": 0.231,
+  "green_frac": 0.979,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0123",
+  "key": "05_123",
+  "tag": "",
+  "sat_med": 0.384,
+  "exg_med": 0.223,
+  "green_frac": 0.89,
+  "dark": 0.0,
+  "lc": 0.928
+ },
+ {
+  "id": "camfix_05_L0124",
+  "key": "05_124",
+  "tag": "",
+  "sat_med": 0.502,
+  "exg_med": 0.292,
+  "green_frac": 0.98,
+  "dark": 0.0,
+  "lc": 0.998
+ },
+ {
+  "id": "camfix_05_L0125",
+  "key": "05_125",
+  "tag": "",
+  "sat_med": 0.416,
+  "exg_med": 0.254,
+  "green_frac": 0.986,
+  "dark": 0.0,
+  "lc": 0.995
+ },
+ {
+  "id": "camfix_05_L0126",
+  "key": "05_126",
+  "tag": "",
+  "sat_med": 0.517,
+  "exg_med": 0.309,
+  "green_frac": 0.941,
+  "dark": 0.0,
+  "lc": 0.977
+ },
+ {
+  "id": "camfix_05_L0127",
+  "key": "05_127",
+  "tag": "",
+  "sat_med": 0.507,
+  "exg_med": 0.288,
+  "green_frac": 0.985,
+  "dark": 0.0,
+  "lc": 0.994
+ },
+ {
+  "id": "camfix_05_L0128",
+  "key": "05_128",
+  "tag": "",
+  "sat_med": 0.466,
+  "exg_med": 0.266,
+  "green_frac": 0.967,
+  "dark": 0.0,
+  "lc": 0.989
+ },
+ {
+  "id": "camfix_05_L0129",
+  "key": "05_129",
+  "tag": "",
+  "sat_med": 0.477,
+  "exg_med": 0.255,
+  "green_frac": 0.98,
+  "dark": 0.0,
+  "lc": 0.991
+ },
+ {
+  "id": "camfix_05_L0130",
+  "key": "05_130",
+  "tag": "",
+  "sat_med": 0.429,
+  "exg_med": 0.263,
+  "green_frac": 0.918,
+  "dark": 0.0,
+  "lc": 0.949
+ },
+ {
+  "id": "camfix_05_L0131",
+  "key": "05_131",
+  "tag": "",
+  "sat_med": 0.512,
+  "exg_med": 0.342,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0132",
+  "key": "05_132",
+  "tag": "",
+  "sat_med": 0.497,
+  "exg_med": 0.326,
+  "green_frac": 0.979,
+  "dark": 0.0,
+  "lc": 0.984
+ },
+ {
+  "id": "camfix_05_L0133",
+  "key": "05_133",
+  "tag": "",
+  "sat_med": 0.507,
+  "exg_med": 0.332,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0134",
+  "key": "05_134",
+  "tag": "",
+  "sat_med": 0.513,
+  "exg_med": 0.35,
+  "green_frac": 0.947,
+  "dark": 0.0,
+  "lc": 0.97
+ },
+ {
+  "id": "camfix_05_L0135",
+  "key": "05_135",
+  "tag": "",
+  "sat_med": 0.431,
+  "exg_med": 0.319,
+  "green_frac": 0.815,
+  "dark": 0.0,
+  "lc": 0.916
+ },
+ {
+  "id": "camfix_05_L0136",
+  "key": "05_136",
+  "tag": "",
+  "sat_med": 0.354,
+  "exg_med": 0.209,
+  "green_frac": 0.83,
+  "dark": 0.0,
+  "lc": 0.891
+ },
+ {
+  "id": "camfix_05_L0137",
+  "key": "05_137",
+  "tag": "",
+  "sat_med": 0.481,
+  "exg_med": 0.27,
+  "green_frac": 0.959,
+  "dark": 0.0,
+  "lc": 0.99
+ },
+ {
+  "id": "camfix_05_L0138",
+  "key": "05_138",
+  "tag": "",
+  "sat_med": 0.485,
+  "exg_med": 0.271,
+  "green_frac": 0.94,
+  "dark": 0.0,
+  "lc": 0.975
+ },
+ {
+  "id": "camfix_05_L0139",
+  "key": "05_139",
+  "tag": "",
+  "sat_med": 0.464,
+  "exg_med": 0.301,
+  "green_frac": 0.938,
+  "dark": 0.0,
+  "lc": 0.967
+ },
+ {
+  "id": "camfix_05_L0140",
+  "key": "05_140",
+  "tag": "",
+  "sat_med": 0.434,
+  "exg_med": 0.268,
+  "green_frac": 0.888,
+  "dark": 0.0,
+  "lc": 0.929
+ },
+ {
+  "id": "camfix_05_L0141",
+  "key": "05_141",
+  "tag": "",
+  "sat_med": 0.46,
+  "exg_med": 0.299,
+  "green_frac": 0.895,
+  "dark": 0.0,
+  "lc": 0.949
+ },
+ {
+  "id": "camfix_05_L0142",
+  "key": "05_142",
+  "tag": "",
+  "sat_med": 0.515,
+  "exg_med": 0.42,
+  "green_frac": 0.956,
+  "dark": 0.0,
+  "lc": 0.987
+ },
+ {
+  "id": "camfix_05_L0143",
+  "key": "05_143",
+  "tag": "",
+  "sat_med": 0.462,
+  "exg_med": 0.347,
+  "green_frac": 1.0,
+  "dark": 0.0,
+  "lc": 1.0
+ },
+ {
+  "id": "camfix_05_L0144",
+  "key": "05_144",
+  "tag": "",
+  "sat_med": 0.549,
+  "exg_med": 0.424,
+  "green_frac": 0.991,
+  "dark": 0.0,
+  "lc": 1.0
+ }
+]

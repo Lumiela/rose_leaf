@@ -1,0 +1,1811 @@
+{
+"camfix_01_L0001": {
+"hold": true
+},
+"camfix_01_L0002": {
+"hold": true
+},
+"camfix_01_L0003": {
+"hold": false
+},
+"camfix_01_L0004": {
+"hold": true
+},
+"camfix_01_L0005": {
+"hold": true
+},
+"camfix_01_L0006": {
+"hold": false
+},
+"camfix_01_L0007": {
+"hold": false
+},
+"camfix_01_L0008": {
+"hold": true
+},
+"camfix_01_L0009": {
+"hold": false
+},
+"camfix_01_L0010": {
+"hold": true
+},
+"camfix_01_L0011": {
+"hold": true
+},
+"camfix_01_L0012": {
+"hold": true
+},
+"camfix_01_L0013": {
+"hold": false
+},
+"camfix_01_L0014": {
+"hold": false
+},
+"camfix_01_L0015": {
+"hold": true
+},
+"camfix_01_L0016": {
+"hold": true
+},
+"camfix_01_L0017": {
+"hold": false
+},
+"camfix_01_L0018": {
+"hold": false
+},
+"camfix_01_L0019": {
+"hold": true
+},
+"camfix_01_L0020": {
+"hold": false
+},
+"camfix_01_L0021": {
+"hold": false
+},
+"camfix_01_L0022": {
+"hold": false
+},
+"camfix_01_L0023": {
+"hold": false
+},
+"camfix_01_L0024": {
+"hold": false
+},
+"camfix_01_L0025": {
+"hold": false
+},
+"camfix_01_L0026": {
+"hold": false
+},
+"camfix_01_L0027": {
+"hold": false
+},
+"camfix_01_L0028": {
+"hold": false
+},
+"camfix_01_L0029": {
+"hold": false
+},
+"camfix_01_L0030": {
+"hold": false
+},
+"camfix_01_L0031": {
+"hold": false
+},
+"camfix_01_L0032": {
+"hold": false
+},
+"camfix_01_L0033": {
+"hold": false
+},
+"camfix_01_L0034": {
+"hold": true
+},
+"camfix_01_L0035": {
+"hold": true
+},
+"camfix_01_L0036": {
+"hold": false
+},
+"camfix_01_L0037": {
+"hold": false
+},
+"camfix_01_L0038": {
+"hold": false
+},
+"camfix_01_L0039": {
+"hold": false
+},
+"camfix_01_L0040": {
+"hold": false
+},
+"camfix_01_L0041": {
+"hold": false
+},
+"camfix_01_L0042": {
+"hold": false
+},
+"camfix_01_L0043": {
+"hold": true
+},
+"camfix_01_L0044": {
+"hold": true
+},
+"camfix_01_L0045": {
+"hold": false
+},
+"camfix_01_L0046": {
+"hold": true
+},
+"camfix_01_L0047": {
+"hold": false
+},
+"camfix_01_L0048": {
+"hold": false
+},
+"camfix_01_L0049": {
+"hold": false
+},
+"camfix_01_L0050": {
+"hold": false
+},
+"camfix_01_L0051": {
+"hold": false
+},
+"camfix_01_L0052": {
+"hold": false
+},
+"camfix_01_L0053": {
+"hold": false
+},
+"camfix_01_L0054": {
+"hold": false
+},
+"camfix_01_L0055": {
+"hold": false
+},
+"camfix_01_L0056": {
+"hold": true
+},
+"camfix_01_L0057": {
+"hold": false
+},
+"camfix_01_L0058": {
+"hold": false
+},
+"camfix_01_L0059": {
+"hold": false
+},
+"camfix_01_L0060": {
+"hold": false
+},
+"camfix_01_L0061": {
+"hold": false
+},
+"camfix_01_L0062": {
+"hold": true
+},
+"camfix_01_L0063": {
+"hold": false
+},
+"camfix_01_L0064": {
+"hold": true
+},
+"camfix_01_L0065": {
+"hold": true
+},
+"camfix_01_L0066": {
+"hold": false
+},
+"camfix_01_L0067": {
+"hold": false
+},
+"camfix_01_L0068": {
+"hold": true
+},
+"camfix_01_L0069": {
+"hold": false
+},
+"camfix_01_L0070": {
+"hold": false
+},
+"camfix_01_L0071": {
+"hold": false
+},
+"camfix_01_L0072": {
+"hold": false
+},
+"camfix_01_L0073": {
+"hold": false
+},
+"camfix_01_L0074": {
+"hold": false
+},
+"camfix_01_L0075": {
+"hold": false
+},
+"camfix_01_L0076": {
+"hold": false
+},
+"camfix_01_L0077": {
+"hold": false
+},
+"camfix_01_L0078": {
+"hold": false
+},
+"camfix_01_L0079": {
+"hold": false
+},
+"camfix_01_L0080": {
+"hold": false
+},
+"camfix_01_L0081": {
+"hold": false
+},
+"camfix_01_L0082": {
+"hold": false
+},
+"camfix_01_L0083": {
+"hold": false
+},
+"camfix_01_L0084": {
+"hold": false
+},
+"camfix_01_L0085": {
+"hold": true
+},
+"camfix_01_L0086": {
+"hold": false
+},
+"camfix_01_L0087": {
+"hold": false
+},
+"camfix_01_L0088": {
+"hold": false
+},
+"camfix_01_L0089": {
+"hold": false
+},
+"camfix_01_L0090": {
+"hold": false
+},
+"camfix_01_L0091": {
+"hold": false
+},
+"camfix_01_L0092": {
+"hold": false
+},
+"camfix_01_L0093": {
+"hold": false
+},
+"camfix_01_L0094": {
+"hold": false
+},
+"camfix_01_L0095": {
+"hold": false
+},
+"camfix_01_L0096": {
+"hold": false
+},
+"camfix_01_L0097": {
+"hold": false
+},
+"camfix_01_L0098": {
+"hold": true
+},
+"camfix_01_L0099": {
+"hold": false
+},
+"camfix_01_L0100": {
+"hold": false
+},
+"camfix_01_L0101": {
+"hold": true
+},
+"camfix_02_L0001": {
+"hold": true
+},
+"camfix_02_L0002": {
+"hold": true
+},
+"camfix_02_L0003": {
+"hold": false
+},
+"camfix_02_L0004": {
+"hold": false
+},
+"camfix_02_L0005": {
+"hold": false
+},
+"camfix_02_L0006": {
+"hold": false
+},
+"camfix_02_L0007": {
+"hold": false
+},
+"camfix_02_L0008": {
+"hold": true
+},
+"camfix_02_L0009": {
+"hold": true
+},
+"camfix_02_L0010": {
+"hold": false
+},
+"camfix_02_L0011": {
+"hold": false
+},
+"camfix_02_L0012": {
+"hold": true
+},
+"camfix_02_L0013": {
+"hold": false
+},
+"camfix_02_L0014": {
+"hold": false
+},
+"camfix_02_L0015": {
+"hold": true
+},
+"camfix_02_L0016": {
+"hold": false
+},
+"camfix_02_L0017": {
+"hold": false
+},
+"camfix_02_L0018": {
+"hold": false
+},
+"camfix_02_L0019": {
+"hold": false
+},
+"camfix_02_L0020": {
+"hold": true
+},
+"camfix_02_L0021": {
+"hold": false
+},
+"camfix_02_L0022": {
+"hold": false
+},
+"camfix_02_L0023": {
+"hold": true
+},
+"camfix_02_L0024": {
+"hold": false
+},
+"camfix_02_L0025": {
+"hold": false
+},
+"camfix_02_L0026": {
+"hold": false
+},
+"camfix_02_L0027": {
+"hold": false
+},
+"camfix_02_L0028": {
+"hold": false
+},
+"camfix_02_L0029": {
+"hold": false
+},
+"camfix_02_L0030": {
+"hold": true
+},
+"camfix_02_L0031": {
+"hold": false
+},
+"camfix_02_L0032": {
+"hold": false
+},
+"camfix_02_L0033": {
+"hold": false
+},
+"camfix_02_L0034": {
+"hold": false
+},
+"camfix_02_L0035": {
+"hold": false
+},
+"camfix_02_L0036": {
+"hold": false
+},
+"camfix_02_L0037": {
+"hold": false
+},
+"camfix_02_L0038": {
+"hold": false
+},
+"camfix_02_L0039": {
+"hold": false
+},
+"camfix_02_L0040": {
+"hold": false
+},
+"camfix_02_L0041": {
+"hold": true
+},
+"camfix_02_L0042": {
+"hold": false
+},
+"camfix_02_L0043": {
+"hold": false
+},
+"camfix_02_L0044": {
+"hold": true
+},
+"camfix_02_L0045": {
+"hold": false
+},
+"camfix_02_L0046": {
+"hold": false
+},
+"camfix_02_L0047": {
+"hold": false
+},
+"camfix_02_L0048": {
+"hold": false
+},
+"camfix_02_L0049": {
+"hold": false
+},
+"camfix_02_L0050": {
+"hold": false
+},
+"camfix_02_L0051": {
+"hold": true
+},
+"camfix_02_L0052": {
+"hold": false
+},
+"camfix_02_L0053": {
+"hold": true
+},
+"camfix_02_L0054": {
+"hold": false
+},
+"camfix_02_L0055": {
+"hold": false
+},
+"camfix_02_L0056": {
+"hold": false
+},
+"camfix_02_L0057": {
+"hold": false
+},
+"camfix_02_L0058": {
+"hold": false
+},
+"camfix_02_L0059": {
+"hold": false
+},
+"camfix_02_L0060": {
+"hold": true
+},
+"camfix_02_L0061": {
+"hold": false
+},
+"camfix_02_L0062": {
+"hold": false
+},
+"camfix_02_L0063": {
+"hold": false
+},
+"camfix_02_L0064": {
+"hold": false
+},
+"camfix_02_L0065": {
+"hold": false
+},
+"camfix_02_L0066": {
+"hold": true
+},
+"camfix_02_L0067": {
+"hold": false
+},
+"camfix_02_L0068": {
+"hold": true
+},
+"camfix_02_L0069": {
+"hold": true
+},
+"camfix_02_L0070": {
+"hold": true
+},
+"camfix_02_L0071": {
+"hold": false
+},
+"camfix_02_L0072": {
+"hold": false
+},
+"camfix_02_L0073": {
+"hold": true
+},
+"camfix_02_L0074": {
+"hold": false
+},
+"camfix_02_L0075": {
+"hold": false
+},
+"camfix_02_L0076": {
+"hold": true
+},
+"camfix_02_L0077": {
+"hold": false
+},
+"camfix_02_L0078": {
+"hold": false
+},
+"camfix_02_L0079": {
+"hold": true
+},
+"camfix_02_L0080": {
+"hold": true
+},
+"camfix_02_L0081": {
+"hold": false
+},
+"camfix_02_L0082": {
+"hold": true
+},
+"camfix_02_L0083": {
+"hold": false
+},
+"camfix_02_L0084": {
+"hold": false
+},
+"camfix_02_L0085": {
+"hold": false
+},
+"camfix_02_L0086": {
+"hold": false
+},
+"camfix_02_L0087": {
+"hold": true
+},
+"camfix_03_L0001": {
+"hold": true
+},
+"camfix_03_L0002": {
+"hold": false
+},
+"camfix_03_L0003": {
+"hold": true
+},
+"camfix_03_L0004": {
+"hold": false
+},
+"camfix_03_L0005": {
+"hold": true
+},
+"camfix_03_L0006": {
+"hold": false
+},
+"camfix_03_L0007": {
+"hold": false
+},
+"camfix_03_L0008": {
+"hold": false
+},
+"camfix_03_L0009": {
+"hold": true
+},
+"camfix_03_L0010": {
+"hold": true
+},
+"camfix_03_L0011": {
+"hold": true
+},
+"camfix_03_L0012": {
+"hold": false
+},
+"camfix_03_L0013": {
+"hold": true
+},
+"camfix_03_L0014": {
+"hold": false
+},
+"camfix_03_L0015": {
+"hold": false
+},
+"camfix_03_L0016": {
+"hold": false
+},
+"camfix_03_L0017": {
+"hold": false
+},
+"camfix_03_L0018": {
+"hold": false
+},
+"camfix_03_L0019": {
+"hold": true
+},
+"camfix_03_L0020": {
+"hold": false
+},
+"camfix_03_L0021": {
+"hold": false
+},
+"camfix_03_L0022": {
+"hold": false
+},
+"camfix_03_L0023": {
+"hold": false
+},
+"camfix_03_L0024": {
+"hold": false
+},
+"camfix_03_L0025": {
+"hold": false
+},
+"camfix_03_L0026": {
+"hold": false
+},
+"camfix_03_L0027": {
+"hold": false
+},
+"camfix_03_L0028": {
+"hold": false
+},
+"camfix_03_L0029": {
+"hold": false
+},
+"camfix_03_L0030": {
+"hold": true
+},
+"camfix_03_L0031": {
+"hold": true
+},
+"camfix_03_L0032": {
+"hold": false
+},
+"camfix_03_L0033": {
+"hold": false
+},
+"camfix_03_L0034": {
+"hold": false
+},
+"camfix_03_L0035": {
+"hold": false
+},
+"camfix_03_L0036": {
+"hold": false
+},
+"camfix_03_L0037": {
+"hold": false
+},
+"camfix_03_L0038": {
+"hold": false
+},
+"camfix_03_L0039": {
+"hold": true
+},
+"camfix_03_L0040": {
+"hold": false
+},
+"camfix_03_L0041": {
+"hold": true
+},
+"camfix_03_L0042": {
+"hold": false
+},
+"camfix_03_L0043": {
+"hold": false
+},
+"camfix_03_L0044": {
+"hold": true
+},
+"camfix_03_L0045": {
+"hold": false
+},
+"camfix_03_L0046": {
+"hold": false
+},
+"camfix_03_L0047": {
+"hold": false
+},
+"camfix_03_L0048": {
+"hold": false
+},
+"camfix_03_L0049": {
+"hold": false
+},
+"camfix_03_L0050": {
+"hold": false
+},
+"camfix_03_L0051": {
+"hold": false
+},
+"camfix_03_L0052": {
+"hold": false
+},
+"camfix_03_L0053": {
+"hold": false
+},
+"camfix_03_L0054": {
+"hold": false
+},
+"camfix_03_L0055": {
+"hold": false
+},
+"camfix_03_L0056": {
+"hold": true
+},
+"camfix_03_L0057": {
+"hold": false
+},
+"camfix_03_L0058": {
+"hold": false
+},
+"camfix_03_L0059": {
+"hold": true
+},
+"camfix_03_L0060": {
+"hold": true
+},
+"camfix_03_L0061": {
+"hold": false
+},
+"camfix_03_L0062": {
+"hold": false
+},
+"camfix_03_L0063": {
+"hold": true
+},
+"camfix_03_L0064": {
+"hold": true
+},
+"camfix_03_L0065": {
+"hold": true
+},
+"camfix_03_L0066": {
+"hold": false
+},
+"camfix_03_L0067": {
+"hold": true
+},
+"camfix_03_L0068": {
+"hold": true
+},
+"camfix_03_L0069": {
+"hold": false
+},
+"camfix_03_L0070": {
+"hold": false
+},
+"camfix_03_L0071": {
+"hold": false
+},
+"camfix_03_L0072": {
+"hold": false
+},
+"camfix_03_L0073": {
+"hold": false
+},
+"camfix_03_L0074": {
+"hold": false
+},
+"camfix_03_L0075": {
+"hold": false
+},
+"camfix_03_L0076": {
+"hold": false
+},
+"camfix_03_L0077": {
+"hold": false
+},
+"camfix_03_L0078": {
+"hold": false
+},
+"camfix_03_L0079": {
+"hold": false
+},
+"camfix_03_L0080": {
+"hold": false
+},
+"camfix_03_L0081": {
+"hold": false
+},
+"camfix_03_L0082": {
+"hold": false
+},
+"camfix_03_L0083": {
+"hold": false
+},
+"camfix_03_L0084": {
+"hold": false
+},
+"camfix_03_L0085": {
+"hold": false
+},
+"camfix_03_L0086": {
+"hold": false
+},
+"camfix_03_L0087": {
+"hold": false
+},
+"camfix_03_L0088": {
+"hold": false
+},
+"camfix_03_L0089": {
+"hold": true
+},
+"camfix_03_L0090": {
+"hold": false
+},
+"camfix_03_L0091": {
+"hold": false
+},
+"camfix_03_L0092": {
+"hold": true
+},
+"camfix_04_L0001": {
+"hold": false
+},
+"camfix_04_L0002": {
+"hold": true
+},
+"camfix_04_L0003": {
+"hold": false
+},
+"camfix_04_L0004": {
+"hold": true
+},
+"camfix_04_L0005": {
+"hold": false
+},
+"camfix_04_L0006": {
+"hold": true
+},
+"camfix_04_L0007": {
+"hold": false
+},
+"camfix_04_L0008": {
+"hold": false
+},
+"camfix_04_L0009": {
+"hold": true
+},
+"camfix_04_L0010": {
+"hold": true
+},
+"camfix_04_L0011": {
+"hold": true
+},
+"camfix_04_L0012": {
+"hold": false
+},
+"camfix_04_L0013": {
+"hold": false
+},
+"camfix_04_L0014": {
+"hold": false
+},
+"camfix_04_L0015": {
+"hold": false
+},
+"camfix_04_L0016": {
+"hold": false
+},
+"camfix_04_L0017": {
+"hold": false
+},
+"camfix_04_L0018": {
+"hold": false
+},
+"camfix_04_L0019": {
+"hold": false
+},
+"camfix_04_L0020": {
+"hold": true
+},
+"camfix_04_L0021": {
+"hold": false
+},
+"camfix_04_L0022": {
+"hold": false
+},
+"camfix_04_L0023": {
+"hold": false
+},
+"camfix_04_L0024": {
+"hold": false
+},
+"camfix_04_L0025": {
+"hold": false
+},
+"camfix_04_L0026": {
+"hold": false
+},
+"camfix_04_L0027": {
+"hold": false
+},
+"camfix_04_L0028": {
+"hold": false
+},
+"camfix_04_L0029": {
+"hold": false
+},
+"camfix_04_L0030": {
+"hold": false
+},
+"camfix_04_L0031": {
+"hold": true
+},
+"camfix_04_L0032": {
+"hold": false
+},
+"camfix_04_L0033": {
+"hold": false
+},
+"camfix_04_L0034": {
+"hold": false
+},
+"camfix_04_L0035": {
+"hold": false
+},
+"camfix_04_L0036": {
+"hold": false
+},
+"camfix_04_L0037": {
+"hold": false
+},
+"camfix_04_L0038": {
+"hold": true
+},
+"camfix_04_L0039": {
+"hold": false
+},
+"camfix_04_L0040": {
+"hold": false
+},
+"camfix_04_L0041": {
+"hold": false
+},
+"camfix_04_L0042": {
+"hold": false
+},
+"camfix_04_L0043": {
+"hold": false
+},
+"camfix_04_L0044": {
+"hold": true
+},
+"camfix_04_L0045": {
+"hold": false
+},
+"camfix_04_L0046": {
+"hold": false
+},
+"camfix_04_L0047": {
+"hold": false
+},
+"camfix_04_L0048": {
+"hold": true
+},
+"camfix_04_L0049": {
+"hold": true
+},
+"camfix_04_L0050": {
+"hold": true
+},
+"camfix_04_L0051": {
+"hold": false
+},
+"camfix_04_L0052": {
+"hold": false
+},
+"camfix_04_L0053": {
+"hold": false
+},
+"camfix_04_L0054": {
+"hold": false
+},
+"camfix_04_L0055": {
+"hold": false
+},
+"camfix_04_L0056": {
+"hold": true
+},
+"camfix_04_L0057": {
+"hold": false
+},
+"camfix_04_L0058": {
+"hold": false
+},
+"camfix_04_L0059": {
+"hold": false
+},
+"camfix_04_L0060": {
+"hold": true
+},
+"camfix_04_L0061": {
+"hold": true
+},
+"camfix_04_L0062": {
+"hold": false
+},
+"camfix_04_L0063": {
+"hold": false
+},
+"camfix_04_L0064": {
+"hold": false
+},
+"camfix_04_L0065": {
+"hold": false
+},
+"camfix_04_L0066": {
+"hold": true
+},
+"camfix_04_L0067": {
+"hold": false
+},
+"camfix_04_L0068": {
+"hold": false
+},
+"camfix_04_L0069": {
+"hold": false
+},
+"camfix_04_L0070": {
+"hold": false
+},
+"camfix_04_L0071": {
+"hold": false
+},
+"camfix_04_L0072": {
+"hold": false
+},
+"camfix_04_L0073": {
+"hold": false
+},
+"camfix_04_L0074": {
+"hold": false
+},
+"camfix_04_L0075": {
+"hold": false
+},
+"camfix_04_L0076": {
+"hold": false
+},
+"camfix_04_L0077": {
+"hold": false
+},
+"camfix_04_L0078": {
+"hold": false
+},
+"camfix_04_L0079": {
+"hold": true
+},
+"camfix_04_L0080": {
+"hold": false
+},
+"camfix_04_L0081": {
+"hold": false
+},
+"camfix_04_L0082": {
+"hold": false
+},
+"camfix_04_L0083": {
+"hold": false
+},
+"camfix_04_L0084": {
+"hold": false
+},
+"camfix_04_L0085": {
+"hold": false
+},
+"camfix_04_L0086": {
+"hold": true
+},
+"camfix_04_L0087": {
+"hold": false
+},
+"camfix_04_L0088": {
+"hold": false
+},
+"camfix_04_L0089": {
+"hold": false
+},
+"camfix_04_L0090": {
+"hold": false
+},
+"camfix_04_L0091": {
+"hold": false
+},
+"camfix_04_L0092": {
+"hold": false
+},
+"camfix_04_L0093": {
+"hold": false
+},
+"camfix_04_L0094": {
+"hold": true
+},
+"camfix_04_L0095": {
+"hold": false
+},
+"camfix_04_L0096": {
+"hold": false
+},
+"camfix_04_L0097": {
+"hold": false
+},
+"camfix_04_L0098": {
+"hold": false
+},
+"camfix_04_L0099": {
+"hold": false
+},
+"camfix_04_L0100": {
+"hold": false
+},
+"camfix_04_L0101": {
+"hold": false
+},
+"camfix_04_L0102": {
+"hold": false
+},
+"camfix_04_L0103": {
+"hold": false
+},
+"camfix_04_L0104": {
+"hold": false
+},
+"camfix_04_L0105": {
+"hold": false
+},
+"camfix_04_L0106": {
+"hold": false
+},
+"camfix_04_L0107": {
+"hold": false
+},
+"camfix_04_L0108": {
+"hold": false
+},
+"camfix_04_L0109": {
+"hold": false
+},
+"camfix_04_L0110": {
+"hold": false
+},
+"camfix_04_L0111": {
+"hold": true
+},
+"camfix_04_L0112": {
+"hold": true
+},
+"camfix_04_L0113": {
+"hold": false
+},
+"camfix_04_L0114": {
+"hold": true
+},
+"camfix_04_L0115": {
+"hold": false
+},
+"camfix_04_L0116": {
+"hold": false
+},
+"camfix_04_L0117": {
+"hold": true
+},
+"camfix_04_L0118": {
+"hold": false
+},
+"camfix_04_L0119": {
+"hold": true
+},
+"camfix_04_L0120": {
+"hold": false
+},
+"camfix_04_L0121": {
+"hold": false
+},
+"camfix_04_L0122": {
+"hold": false
+},
+"camfix_04_L0123": {
+"hold": false
+},
+"camfix_04_L0124": {
+"hold": false
+},
+"camfix_04_L0125": {
+"hold": false
+},
+"camfix_04_L0126": {
+"hold": true
+},
+"camfix_04_L0127": {
+"hold": false
+},
+"camfix_04_L0128": {
+"hold": true
+},
+"camfix_04_L0129": {
+"hold": true
+},
+"camfix_04_L0130": {
+"hold": false
+},
+"camfix_04_L0131": {
+"hold": true
+},
+"camfix_04_L0132": {
+"hold": false
+},
+"camfix_04_L0133": {
+"hold": false
+},
+"camfix_04_L0134": {
+"hold": false
+},
+"camfix_04_L0135": {
+"hold": false
+},
+"camfix_04_L0136": {
+"hold": false
+},
+"camfix_04_L0137": {
+"hold": false
+},
+"camfix_04_L0138": {
+"hold": false
+},
+"camfix_04_L0139": {
+"hold": true
+},
+"camfix_04_L0140": {
+"hold": true
+},
+"camfix_04_L0141": {
+"hold": false
+},
+"camfix_04_L0142": {
+"hold": false
+},
+"camfix_04_L0143": {
+"hold": false
+},
+"camfix_04_L0144": {
+"hold": false
+},
+"camfix_04_L0145": {
+"hold": false
+},
+"camfix_04_L0146": {
+"hold": false
+},
+"camfix_04_L0147": {
+"hold": false
+},
+"camfix_04_L0148": {
+"hold": false
+},
+"camfix_04_L0149": {
+"hold": true
+},
+"camfix_04_L0150": {
+"hold": true
+},
+"camfix_04_L0151": {
+"hold": false
+},
+"camfix_04_L0152": {
+"hold": false
+},
+"camfix_04_L0153": {
+"hold": false
+},
+"camfix_04_L0154": {
+"hold": false
+},
+"camfix_04_L0155": {
+"hold": false
+},
+"camfix_04_L0156": {
+"hold": false
+},
+"camfix_04_L0157": {
+"hold": false
+},
+"camfix_04_L0158": {
+"hold": false
+},
+"camfix_04_L0159": {
+"hold": false
+},
+"camfix_04_L0160": {
+"hold": true
+},
+"camfix_04_L0161": {
+"hold": false
+},
+"camfix_04_L0162": {
+"hold": false
+},
+"camfix_04_L0163": {
+"hold": true
+},
+"camfix_04_L0164": {
+"hold": false
+},
+"camfix_04_L0165": {
+"hold": false
+},
+"camfix_04_L0166": {
+"hold": false
+},
+"camfix_04_L0167": {
+"hold": false
+},
+"camfix_04_L0168": {
+"hold": false
+},
+"camfix_04_L0169": {
+"hold": false
+},
+"camfix_04_L0170": {
+"hold": true
+},
+"camfix_04_L0171": {
+"hold": false
+},
+"camfix_04_L0172": {
+"hold": false
+},
+"camfix_04_L0173": {
+"hold": true
+},
+"camfix_04_L0174": {
+"hold": false
+},
+"camfix_04_L0175": {
+"hold": true
+},
+"camfix_04_L0176": {
+"hold": false
+},
+"camfix_04_L0177": {
+"hold": false
+},
+"camfix_04_L0178": {
+"hold": false
+},
+"camfix_04_L0179": {
+"hold": true
+},
+"camfix_04_L0180": {
+"hold": false
+},
+"camfix_04_L0181": {
+"hold": true
+},
+"camfix_04_L0182": {
+"hold": true
+},
+"camfix_04_L0183": {
+"hold": true
+},
+"camfix_04_L0184": {
+"hold": true
+},
+"camfix_04_L0185": {
+"hold": false
+},
+"camfix_04_L0186": {
+"hold": false
+},
+"camfix_04_L0187": {
+"hold": false
+},
+"camfix_05_L0001": {
+"hold": true
+},
+"camfix_05_L0002": {
+"hold": false
+},
+"camfix_05_L0003": {
+"hold": true
+},
+"camfix_05_L0004": {
+"hold": true
+},
+"camfix_05_L0005": {
+"hold": false
+},
+"camfix_05_L0006": {
+"hold": true
+},
+"camfix_05_L0007": {
+"hold": false
+},
+"camfix_05_L0008": {
+"hold": false
+},
+"camfix_05_L0009": {
+"hold": true
+},
+"camfix_05_L0010": {
+"hold": true
+},
+"camfix_05_L0011": {
+"hold": true
+},
+"camfix_05_L0012": {
+"hold": false
+},
+"camfix_05_L0013": {
+"hold": false
+},
+"camfix_05_L0014": {
+"hold": false
+},
+"camfix_05_L0015": {
+"hold": false
+},
+"camfix_05_L0016": {
+"hold": false
+},
+"camfix_05_L0017": {
+"hold": false
+},
+"camfix_05_L0018": {
+"hold": false
+},
+"camfix_05_L0019": {
+"hold": false
+},
+"camfix_05_L0020": {
+"hold": false
+},
+"camfix_05_L0021": {
+"hold": false
+},
+"camfix_05_L0022": {
+"hold": false
+},
+"camfix_05_L0023": {
+"hold": false
+},
+"camfix_05_L0024": {
+"hold": false
+},
+"camfix_05_L0025": {
+"hold": false
+},
+"camfix_05_L0026": {
+"hold": false
+},
+"camfix_05_L0027": {
+"hold": false
+},
+"camfix_05_L0028": {
+"hold": false
+},
+"camfix_05_L0029": {
+"hold": false
+},
+"camfix_05_L0030": {
+"hold": false
+},
+"camfix_05_L0031": {
+"hold": true
+},
+"camfix_05_L0032": {
+"hold": false
+},
+"camfix_05_L0033": {
+"hold": false
+},
+"camfix_05_L0034": {
+"hold": false
+},
+"camfix_05_L0035": {
+"hold": false
+},
+"camfix_05_L0036": {
+"hold": false
+},
+"camfix_05_L0037": {
+"hold": false
+},
+"camfix_05_L0038": {
+"hold": false
+},
+"camfix_05_L0039": {
+"hold": true
+},
+"camfix_05_L0040": {
+"hold": false
+},
+"camfix_05_L0041": {
+"hold": false
+},
+"camfix_05_L0042": {
+"hold": false
+},
+"camfix_05_L0043": {
+"hold": false
+},
+"camfix_05_L0044": {
+"hold": true
+},
+"camfix_05_L0045": {
+"hold": false
+},
+"camfix_05_L0046": {
+"hold": false
+},
+"camfix_05_L0047": {
+"hold": false
+},
+"camfix_05_L0048": {
+"hold": false
+},
+"camfix_05_L0049": {
+"hold": false
+},
+"camfix_05_L0050": {
+"hold": false
+},
+"camfix_05_L0051": {
+"hold": false
+},
+"camfix_05_L0052": {
+"hold": false
+},
+"camfix_05_L0053": {
+"hold": false
+},
+"camfix_05_L0054": {
+"hold": false
+},
+"camfix_05_L0055": {
+"hold": true
+},
+"camfix_05_L0056": {
+"hold": false
+},
+"camfix_05_L0057": {
+"hold": true
+},
+"camfix_05_L0058": {
+"hold": true
+},
+"camfix_05_L0059": {
+"hold": true
+},
+"camfix_05_L0060": {
+"hold": false
+},
+"camfix_05_L0061": {
+"hold": false
+},
+"camfix_05_L0062": {
+"hold": false
+},
+"camfix_05_L0063": {
+"hold": false
+},
+"camfix_05_L0064": {
+"hold": false
+},
+"camfix_05_L0065": {
+"hold": false
+},
+"camfix_05_L0066": {
+"hold": true
+},
+"camfix_05_L0067": {
+"hold": false
+},
+"camfix_05_L0068": {
+"hold": false
+},
+"camfix_05_L0069": {
+"hold": false
+},
+"camfix_05_L0070": {
+"hold": false
+},
+"camfix_05_L0071": {
+"hold": false
+},
+"camfix_05_L0072": {
+"hold": false
+},
+"camfix_05_L0073": {
+"hold": false
+},
+"camfix_05_L0074": {
+"hold": false
+},
+"camfix_05_L0075": {
+"hold": false
+},
+"camfix_05_L0076": {
+"hold": false
+},
+"camfix_05_L0077": {
+"hold": false
+},
+"camfix_05_L0078": {
+"hold": false
+},
+"camfix_05_L0079": {
+"hold": true
+},
+"camfix_05_L0080": {
+"hold": false
+},
+"camfix_05_L0081": {
+"hold": true
+},
+"camfix_05_L0082": {
+"hold": false
+},
+"camfix_05_L0083": {
+"hold": false
+},
+"camfix_05_L0084": {
+"hold": false
+},
+"camfix_05_L0085": {
+"hold": false
+},
+"camfix_05_L0086": {
+"hold": false
+},
+"camfix_05_L0087": {
+"hold": false
+},
+"camfix_05_L0088": {
+"hold": false
+},
+"camfix_05_L0089": {
+"hold": false
+},
+"camfix_05_L0090": {
+"hold": false
+},
+"camfix_05_L0091": {
+"hold": false
+},
+"camfix_05_L0092": {
+"hold": false
+},
+"camfix_05_L0093": {
+"hold": false
+},
+"camfix_05_L0094": {
+"hold": true
+},
+"camfix_05_L0095": {
+"hold": false
+},
+"camfix_05_L0096": {
+"hold": true
+},
+"camfix_05_L0097": {
+"hold": false
+},
+"camfix_05_L0098": {
+"hold": true
+},
+"camfix_05_L0099": {
+"hold": false
+},
+"camfix_05_L0100": {
+"hold": true
+},
+"camfix_05_L0101": {
+"hold": false
+},
+"camfix_05_L0102": {
+"hold": false
+},
+"camfix_05_L0103": {
+"hold": false
+},
+"camfix_05_L0104": {
+"hold": false
+},
+"camfix_05_L0105": {
+"hold": false
+},
+"camfix_05_L0106": {
+"hold": false
+},
+"camfix_05_L0107": {
+"hold": false
+},
+"camfix_05_L0108": {
+"hold": false
+},
+"camfix_05_L0109": {
+"hold": false
+},
+"camfix_05_L0110": {
+"hold": true
+},
+"camfix_05_L0111": {
+"hold": false
+},
+"camfix_05_L0112": {
+"hold": false
+},
+"camfix_05_L0113": {
+"hold": true
+},
+"camfix_05_L0114": {
+"hold": false
+},
+"camfix_05_L0115": {
+"hold": false
+},
+"camfix_05_L0116": {
+"hold": false
+},
+"camfix_05_L0117": {
+"hold": false
+},
+"camfix_05_L0118": {
+"hold": false
+},
+"camfix_05_L0119": {
+"hold": false
+},
+"camfix_05_L0120": {
+"hold": true
+},
+"camfix_05_L0121": {
+"hold": false
+},
+"camfix_05_L0122": {
+"hold": false
+},
+"camfix_05_L0123": {
+"hold": false
+},
+"camfix_05_L0124": {
+"hold": false
+},
+"camfix_05_L0125": {
+"hold": false
+},
+"camfix_05_L0126": {
+"hold": true
+},
+"camfix_05_L0127": {
+"hold": false
+},
+"camfix_05_L0128": {
+"hold": false
+},
+"camfix_05_L0129": {
+"hold": false
+},
+"camfix_05_L0130": {
+"hold": false
+},
+"camfix_05_L0131": {
+"hold": false
+},
+"camfix_05_L0132": {
+"hold": false
+},
+"camfix_05_L0133": {
+"hold": false
+},
+"camfix_05_L0134": {
+"hold": false
+},
+"camfix_05_L0135": {
+"hold": true
+},
+"camfix_05_L0136": {
+"hold": true
+}
+}
