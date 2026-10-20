@@ -1,0 +1,10 @@
+nohup: ignoring input
+20261016_114612.jpg 514 {'FRESH': 503, 'HOLD_SHAPE': 11} {'stage1_s': 7.29, 'stage2_s': 4.22}
+20261016_114613.jpg 516 {'FRESH': 508, 'HOLD_SHAPE': 8} {'stage1_s': 4.56, 'stage2_s': 4.17}
+20261019_142007.jpg 385 {'FRESH': 372, 'HOLD_SHAPE': 12, 'ANOMALY:Yellow': 1} {'stage1_s': 3.66, 'stage2_s': 3.85}
+20261019_142011.jpg 530 {'HOLD_SHAPE': 39, 'FRESH': 487, 'UNKNOWN': 3, 'ANOMALY:Yellow': 1} {'stage1_s': 9.11, 'stage2_s': 4.37}
+20261019_150522.jpg 442 {'HOLD_SHAPE': 50, 'FRESH': 390, 'ANOMALY:Yellow': 2} {'stage1_s': 7.11, 'stage2_s': 4.53}
+20261019_150529.jpg 531 {'FRESH': 455, 'HOLD_SHAPE': 76} {'stage1_s': 9.7, 'stage2_s': 4.87}
+20261019_150546.jpg 447 {'HOLD_SHAPE': 47, 'FRESH': 400} {'stage1_s': 9.53, 'stage2_s': 4.42}
+20261019_150548.jpg 422 {'HOLD_SHAPE': 38, 'FRESH': 384} {'stage1_s': 9.21, 'stage2_s': 4.5}
+20261019_150754.jpg 330 {'HOLD_SHAPE': 40, 'FRESH': 290} {'stage1_s': 8.46, 'stage2_s': 4.22}

@@ -1,0 +1,363 @@
+path,label,p_Black,p_Fresh,p_Hole,p_Yellow
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_100339.jpg,Black,0.9193,0.0272,0.0281,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_102021.jpg,Black,0.9267,0.0242,0.0246,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_102031.jpg,Black,0.9302,0.0245,0.0224,0.023
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_102116.jpg,Black,0.9304,0.0238,0.0222,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_102310.jpg,Black,0.9342,0.0224,0.0215,0.0218
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_102322.jpg,Black,0.9292,0.0239,0.0236,0.0232
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_102341.jpg,Black,0.9211,0.0235,0.0262,0.0291
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_102434.jpg,Black,0.9256,0.0259,0.0255,0.0229
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_102629.jpg,Black,0.8927,0.0488,0.0297,0.0288
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_103202.jpg,Black,0.9254,0.0248,0.0236,0.0262
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_103213.jpg,Black,0.9327,0.0225,0.0228,0.022
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_103231.jpg,Black,0.9032,0.0432,0.0247,0.0288
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_103505.jpg,Black,0.926,0.0255,0.0236,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_104058.jpg,Black,0.9232,0.025,0.0266,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_114033.jpg,Black,0.9285,0.0239,0.023,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_114047.jpg,Black,0.9308,0.0226,0.0233,0.0233
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_114350.jpg,Black,0.9279,0.0231,0.0244,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_114443.jpg,Black,0.0367,0.024,0.9136,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_114522.jpg,Black,0.3172,0.0243,0.6289,0.0297
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_114631.jpg,Black,0.0533,0.0193,0.9053,0.0221
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_114705.jpg,Black,0.9316,0.0228,0.0231,0.0226
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_114942.jpg,Black,0.9251,0.0193,0.0305,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_115017.jpg,Black,0.9149,0.0275,0.0283,0.0292
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_115108.jpg,Black,0.9264,0.0233,0.0242,0.0261
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_115305.jpg,Black,0.4004,0.5478,0.0274,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_115410.jpg,Black,0.0292,0.0236,0.9203,0.027
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_121131.jpg,Black,0.928,0.0214,0.0255,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_121743.jpg,Black,0.0312,0.0186,0.9242,0.026
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_122806.jpg,Black,0.9284,0.0239,0.0233,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_122836.jpg,Black,0.9282,0.023,0.0247,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_125912.jpg,Black,0.1258,0.3214,0.5287,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_130051.jpg,Black,0.9269,0.0203,0.0228,0.03
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_153524.jpg,Black,0.9263,0.0222,0.0243,0.0272
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_154102.jpg,Black,0.9167,0.0277,0.0281,0.0275
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_154202.jpg,Black,0.9296,0.0235,0.0235,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_154359.jpg,Black,0.0224,0.0244,0.9285,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_154403.jpg,Black,0.9248,0.0251,0.0246,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_155157.jpg,Black,0.9284,0.023,0.0239,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_155208.jpg,Black,0.4134,0.511,0.0368,0.0388
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_155420.jpg,Black,0.9299,0.0231,0.0244,0.0225
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_155516.jpg,Black,0.927,0.0248,0.0239,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_155652.jpg,Black,0.9236,0.0239,0.0276,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_155721.jpg,Black,0.926,0.0251,0.0234,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_155738.jpg,Black,0.929,0.0231,0.0239,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_160020.jpg,Black,0.924,0.0257,0.0252,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_160458.jpg,Black,0.9292,0.0229,0.0244,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_160620.jpg,Black,0.9226,0.0245,0.0259,0.0271
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_160746.jpg,Black,0.9268,0.0239,0.0244,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_160754.jpg,Black,0.9274,0.0235,0.0251,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_163124.jpg,Black,0.9295,0.0207,0.0268,0.0229
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_163351.jpg,Black,0.9204,0.0327,0.0238,0.0231
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_164021.jpg,Black,0.541,0.0324,0.387,0.0396
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_164541.jpg,Black,0.9281,0.0238,0.0234,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_165141.jpg,Black,0.023,0.0237,0.926,0.0272
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_165652.jpg,Black,0.9262,0.0236,0.0248,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_170955.jpg,Black,0.6982,0.2317,0.0342,0.0359
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/20241104_172214.jpg,Black,0.0397,0.8918,0.0426,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_040454050.jpg,Black,0.9236,0.0249,0.0234,0.028
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_040510281.jpg,Black,0.9228,0.0245,0.0265,0.0261
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_040814643.jpg,Black,0.8172,0.0252,0.0245,0.1332
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_041303777.jpg,Black,0.9123,0.0341,0.0268,0.0269
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_042445710.jpg,Black,0.1602,0.397,0.4232,0.0196
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_043730869.jpg,Black,0.9287,0.0227,0.0244,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_043740103.jpg,Black,0.925,0.0227,0.0261,0.0262
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_044752520.jpg,Black,0.9297,0.0239,0.0233,0.0231
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_061752779.jpg,Black,0.0273,0.9269,0.0225,0.0233
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_061756594.jpg,Black,0.0235,0.9257,0.0259,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_061829232.jpg,Black,0.0262,0.9211,0.0277,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_062915754.jpg,Black,0.9277,0.023,0.0258,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_063621300.jpg,Black,0.9308,0.0211,0.0239,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_064221117.jpg,Black,0.9226,0.0241,0.0277,0.0256
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_064350604.jpg,Black,0.9289,0.0222,0.0245,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_093616387.jpg,Black,0.9275,0.0223,0.0252,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_094038078.jpg,Black,0.9153,0.0271,0.0366,0.0209
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_094122547.jpg,Black,0.9257,0.0227,0.0266,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_095233816.jpg,Black,0.9302,0.0233,0.023,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_100420911.jpg,Black,0.9213,0.0283,0.0246,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_103029217.jpg,Black,0.0278,0.9151,0.0339,0.0232
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_105737505.jpg,Black,0.9229,0.0264,0.0251,0.0256
+/helpai-storage/model/v8_reallabel/cls/data/test/Black Spot Leaves/PXL_20241104_113307086.jpg,Black,0.9314,0.0225,0.0219,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_100015.jpg,Fresh,0.0235,0.9251,0.0259,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_100402.jpg,Fresh,0.025,0.9249,0.0259,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_100636.jpg,Fresh,0.0264,0.9232,0.0274,0.023
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_100654.jpg,Fresh,0.0248,0.9216,0.0262,0.0274
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_101644.jpg,Fresh,0.023,0.9275,0.0243,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_101725.jpg,Fresh,0.0229,0.9201,0.0321,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_101745.jpg,Fresh,0.0234,0.9299,0.0239,0.0229
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_102457.jpg,Fresh,0.0219,0.9285,0.0257,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_102601.jpg,Fresh,0.0235,0.927,0.0251,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_102720.jpg,Fresh,0.0243,0.9271,0.0238,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_102750.jpg,Fresh,0.0236,0.9233,0.0267,0.0264
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_103126.jpg,Fresh,0.0222,0.9275,0.0249,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_103438.jpg,Fresh,0.0215,0.9247,0.0299,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_103907.jpg,Fresh,0.0227,0.9283,0.0236,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_104040.jpg,Fresh,0.0228,0.9283,0.0235,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_104645.jpg,Fresh,0.0243,0.923,0.0272,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_104727.jpg,Fresh,0.0224,0.9272,0.0256,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_113758.jpg,Fresh,0.0228,0.926,0.0258,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_113821.jpg,Fresh,0.0243,0.9246,0.0258,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_113919.jpg,Fresh,0.0246,0.9216,0.0281,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_114219.jpg,Fresh,0.0235,0.9279,0.0237,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_114723.jpg,Fresh,0.022,0.927,0.0268,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_114911.jpg,Fresh,0.0281,0.9176,0.025,0.0293
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_115050.jpg,Fresh,0.0223,0.9237,0.027,0.027
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_115059.jpg,Fresh,0.0219,0.9294,0.0251,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_120120.jpg,Fresh,0.0228,0.9265,0.0254,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_120932.jpg,Fresh,0.0751,0.8552,0.0376,0.0321
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_121206.jpg,Fresh,0.0238,0.9236,0.0282,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_121458.jpg,Fresh,0.0248,0.9257,0.0256,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_121736.jpg,Fresh,0.0227,0.927,0.025,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_121845.jpg,Fresh,0.0218,0.9301,0.0246,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_121851.jpg,Fresh,0.023,0.9269,0.0266,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_121857.jpg,Fresh,0.0329,0.9196,0.0235,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_123206.jpg,Fresh,0.1675,0.5422,0.271,0.0193
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_123246.jpg,Fresh,0.0227,0.9275,0.025,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_125931.jpg,Fresh,0.0234,0.9201,0.0309,0.0256
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_153749.jpg,Fresh,0.0239,0.9248,0.0264,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_153757.jpg,Fresh,0.022,0.9312,0.024,0.0228
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_154221.jpg,Fresh,0.0224,0.9208,0.0333,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_154314.jpg,Fresh,0.023,0.9279,0.0235,0.0256
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_155007.jpg,Fresh,0.0238,0.9282,0.0233,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_160313.jpg,Fresh,0.0231,0.9282,0.025,0.0237
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_160640.jpg,Fresh,0.0235,0.9276,0.0246,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_162957.jpg,Fresh,0.0213,0.9326,0.0238,0.0224
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_163053.jpg,Fresh,0.0246,0.924,0.0256,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_163141.jpg,Fresh,0.0217,0.931,0.0238,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_163318.jpg,Fresh,0.0248,0.9257,0.0247,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_163521.jpg,Fresh,0.0246,0.9245,0.025,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_163601.jpg,Fresh,0.023,0.9248,0.0271,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_163623.jpg,Fresh,0.0252,0.9278,0.0258,0.0211
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_163758.jpg,Fresh,0.023,0.9258,0.0262,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_163830.jpg,Fresh,0.0242,0.9249,0.0258,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_164120.jpg,Fresh,0.0241,0.9293,0.0229,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_164253.jpg,Fresh,0.0213,0.9229,0.0228,0.033
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_164326.jpg,Fresh,0.0251,0.9211,0.0282,0.0256
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_164410.jpg,Fresh,0.0216,0.9284,0.0257,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_164428.jpg,Fresh,0.023,0.9245,0.0265,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_164652.jpg,Fresh,0.0269,0.9198,0.0261,0.0272
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_164733.jpg,Fresh,0.0233,0.9291,0.0234,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_164804.jpg,Fresh,0.0232,0.9281,0.0252,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_164817.jpg,Fresh,0.0229,0.926,0.0263,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_165031.jpg,Fresh,0.0233,0.9269,0.0254,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_165032.jpg,Fresh,0.0224,0.9282,0.026,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_165639.jpg,Fresh,0.0231,0.9296,0.025,0.0223
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_165920.jpg,Fresh,0.1498,0.7918,0.0265,0.0319
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_165938.jpg,Fresh,0.0258,0.9241,0.0247,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_170154.jpg,Fresh,0.0204,0.9325,0.0244,0.0226
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_170156.jpg,Fresh,0.0428,0.9072,0.0312,0.0188
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_170446.jpg,Fresh,0.0626,0.8782,0.0276,0.0316
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_170644.jpg,Fresh,0.0246,0.9213,0.0276,0.0264
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_170851.jpg,Fresh,0.0234,0.9244,0.026,0.0262
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_170930.jpg,Fresh,0.0256,0.9225,0.0251,0.0268
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_171043.jpg,Fresh,0.0246,0.9283,0.0232,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_171131.jpg,Fresh,0.0695,0.8558,0.0403,0.0344
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_171218.jpg,Fresh,0.0223,0.9301,0.0244,0.0231
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_171234.jpg,Fresh,0.0252,0.9169,0.0293,0.0286
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_171828.jpg,Fresh,0.0252,0.9272,0.0232,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_171834.jpg,Fresh,0.0235,0.9295,0.023,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_171849.jpg,Fresh,0.025,0.923,0.0273,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_171910.jpg,Fresh,0.0229,0.9255,0.0266,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_171918.jpg,Fresh,0.0225,0.9277,0.0252,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/20241104_172353.jpg,Fresh,0.0239,0.9271,0.0243,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_035507836.MP.jpg,Fresh,0.0226,0.9319,0.022,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_035609941.jpg,Fresh,0.0236,0.9284,0.0247,0.0233
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_040006161.jpg,Fresh,0.0247,0.9253,0.0252,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_040040236.jpg,Fresh,0.0265,0.9215,0.0272,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_040141177.jpg,Fresh,0.0209,0.9292,0.0267,0.0233
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_040145749.jpg,Fresh,0.0248,0.9247,0.0242,0.0263
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_040205732.jpg,Fresh,0.0231,0.9289,0.0248,0.0232
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_040434214.jpg,Fresh,0.0248,0.921,0.0271,0.0271
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_040532626.jpg,Fresh,0.0245,0.9248,0.025,0.0256
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_040709752.jpg,Fresh,0.0245,0.9248,0.0253,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_040742526.jpg,Fresh,0.0218,0.9265,0.0268,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_040856496.jpg,Fresh,0.0231,0.9279,0.0251,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_041132630.jpg,Fresh,0.0233,0.9269,0.027,0.0228
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_041218984.jpg,Fresh,0.0215,0.9292,0.0258,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_041221201.jpg,Fresh,0.022,0.9334,0.0237,0.0208
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_041233072.jpg,Fresh,0.0217,0.9309,0.0238,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_041507216.jpg,Fresh,0.0237,0.9215,0.0283,0.0265
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_041514166.jpg,Fresh,0.0234,0.9231,0.0278,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_041730246.jpg,Fresh,0.0227,0.9287,0.0248,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_042104245.jpg,Fresh,0.0215,0.9321,0.0235,0.023
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_042353518.jpg,Fresh,0.025,0.9243,0.0249,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_042420961.jpg,Fresh,0.0225,0.9278,0.0264,0.0232
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_042805937.jpg,Fresh,0.0231,0.9291,0.0248,0.023
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_042839983.jpg,Fresh,0.026,0.9208,0.0271,0.0261
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_044026138.jpg,Fresh,0.8968,0.0463,0.035,0.0219
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_044235912.jpg,Fresh,0.0238,0.9221,0.0258,0.0283
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_044758852.jpg,Fresh,0.0243,0.9285,0.0243,0.0228
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_044849850.jpg,Fresh,0.0229,0.931,0.0242,0.0218
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_045557288.jpg,Fresh,0.0251,0.9246,0.0254,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_045616946.jpg,Fresh,0.0277,0.9202,0.0256,0.0266
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_053851454.jpg,Fresh,0.0233,0.9286,0.0243,0.0237
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_053917929.jpg,Fresh,0.0211,0.9263,0.0306,0.022
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_054001232.jpg,Fresh,0.0217,0.9347,0.0204,0.0231
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_054401459.jpg,Fresh,0.0227,0.9244,0.0279,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_054648871.jpg,Fresh,0.0261,0.922,0.0265,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_054728393.jpg,Fresh,0.0245,0.9199,0.0305,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_054820937.jpg,Fresh,0.0231,0.926,0.0258,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_054847347.jpg,Fresh,0.0224,0.9298,0.0234,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_054907639.jpg,Fresh,0.0297,0.9174,0.0287,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_054927273.jpg,Fresh,0.0242,0.7348,0.2126,0.0285
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_055307709.jpg,Fresh,0.0234,0.9267,0.0256,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_055331142.jpg,Fresh,0.0238,0.9254,0.025,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_055341200.jpg,Fresh,0.0244,0.9248,0.0254,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_055446796.jpg,Fresh,0.0243,0.9245,0.0259,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_055532679.jpg,Fresh,0.0262,0.9216,0.0268,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_055540338.jpg,Fresh,0.0382,0.059,0.884,0.0188
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_055559464.jpg,Fresh,0.0245,0.9248,0.0273,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_055647018.jpg,Fresh,0.0214,0.9328,0.0227,0.0232
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_055706724.jpg,Fresh,0.0235,0.9248,0.0263,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_055800935.jpg,Fresh,0.0235,0.9291,0.0235,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_055934045.jpg,Fresh,0.0216,0.9294,0.0257,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_060009532.jpg,Fresh,0.022,0.9273,0.0264,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_060133209.jpg,Fresh,0.0252,0.9234,0.0274,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_060313105.jpg,Fresh,0.0249,0.9239,0.0267,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_060345894.jpg,Fresh,0.0241,0.9257,0.0248,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_060355652.jpg,Fresh,0.0244,0.9234,0.0257,0.0264
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_060611715.jpg,Fresh,0.0228,0.9275,0.0251,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_060722546.jpg,Fresh,0.0217,0.928,0.0246,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_060852851.jpg,Fresh,0.024,0.9269,0.0243,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_061029670.jpg,Fresh,0.0241,0.9271,0.0254,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_061038301.jpg,Fresh,0.0233,0.9277,0.0247,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_061044550.jpg,Fresh,0.0233,0.9294,0.0237,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_061224213.jpg,Fresh,0.0237,0.9262,0.026,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_061328077.jpg,Fresh,0.0258,0.9229,0.027,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_061348308.jpg,Fresh,0.0255,0.9262,0.0243,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_061443788.jpg,Fresh,0.0219,0.9297,0.0236,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_061507781.jpg,Fresh,0.0256,0.9224,0.0265,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_061621945.jpg,Fresh,0.0218,0.9308,0.0233,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_061743921.jpg,Fresh,0.0227,0.9274,0.0247,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_061847059.jpg,Fresh,0.0228,0.9243,0.0269,0.026
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_061852041.jpg,Fresh,0.0206,0.9289,0.0265,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_062059452.jpg,Fresh,0.0247,0.9247,0.025,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_062816194.jpg,Fresh,0.0242,0.9298,0.0215,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_062929031.jpg,Fresh,0.0226,0.9295,0.024,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_063033680.jpg,Fresh,0.0248,0.9267,0.0246,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_063603669.jpg,Fresh,0.0237,0.9256,0.0264,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_064333966.jpg,Fresh,0.0255,0.9262,0.0233,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_064404415.jpg,Fresh,0.0229,0.9266,0.0254,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_065133926.jpg,Fresh,0.0239,0.9262,0.0245,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_065731658.jpg,Fresh,0.0214,0.9326,0.0226,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_065846726.jpg,Fresh,0.0225,0.929,0.0248,0.0237
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_070039371.jpg,Fresh,0.0228,0.9309,0.0231,0.0232
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_093403514.jpg,Fresh,0.0229,0.9289,0.0249,0.0232
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_094156422.jpg,Fresh,0.0239,0.9259,0.0263,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_094344088.jpg,Fresh,0.0225,0.928,0.0248,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_094711668.jpg,Fresh,0.0222,0.9288,0.024,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_094732862.jpg,Fresh,0.0241,0.9229,0.0262,0.0268
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_094902417.jpg,Fresh,0.0217,0.9321,0.0244,0.0218
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_095119735.jpg,Fresh,0.0212,0.9286,0.0262,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_095528518.jpg,Fresh,0.024,0.9247,0.0264,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_095725286.jpg,Fresh,0.0241,0.9276,0.0253,0.023
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_103249050.jpg,Fresh,0.0226,0.9318,0.0231,0.0225
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_103602446.jpg,Fresh,0.0263,0.9218,0.0254,0.0265
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_103625729.jpg,Fresh,0.0254,0.9259,0.0237,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_103915093.jpg,Fresh,0.0247,0.926,0.0256,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_104159287.jpg,Fresh,0.0247,0.9251,0.0253,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_104710324.jpg,Fresh,0.0244,0.9276,0.024,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_104714787.jpg,Fresh,0.0226,0.9278,0.0245,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_105029427.jpg,Fresh,0.0237,0.9258,0.0263,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_105229931.jpg,Fresh,0.0222,0.9308,0.023,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_105445110.jpg,Fresh,0.0214,0.9345,0.0224,0.0217
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_105534519.jpg,Fresh,0.0238,0.9248,0.025,0.0264
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_105548967.jpg,Fresh,0.0224,0.929,0.0239,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_105639755.jpg,Fresh,0.0718,0.8802,0.0216,0.0263
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_105724072.jpg,Fresh,0.0281,0.9243,0.0226,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_110420016.jpg,Fresh,0.0224,0.9277,0.0266,0.0233
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_110856558.jpg,Fresh,0.0248,0.9209,0.0277,0.0265
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_111020800.jpg,Fresh,0.0222,0.9269,0.0273,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_111045684.jpg,Fresh,0.0244,0.928,0.0242,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_111153162.jpg,Fresh,0.023,0.9281,0.0252,0.0237
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_111330603.jpg,Fresh,0.0222,0.9247,0.0273,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_111518850.jpg,Fresh,0.0253,0.923,0.026,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_111530836.jpg,Fresh,0.0258,0.9237,0.0247,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_111940460.jpg,Fresh,0.0219,0.9301,0.0228,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_112104174.jpg,Fresh,0.0228,0.9271,0.0251,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_112115677.jpg,Fresh,0.0265,0.9252,0.0243,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_112322159.jpg,Fresh,0.0223,0.9265,0.0269,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_112840859.jpg,Fresh,0.0227,0.9265,0.0265,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_112934199.jpg,Fresh,0.027,0.9215,0.0265,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_113018860.jpg,Fresh,0.0252,0.9264,0.0244,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_113256736.jpg,Fresh,0.0232,0.927,0.0252,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_113506797.jpg,Fresh,0.022,0.9279,0.0249,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_113702246.jpg,Fresh,0.0243,0.923,0.0273,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_113711095.jpg,Fresh,0.0253,0.9202,0.0282,0.0263
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_113910164.jpg,Fresh,0.0246,0.9253,0.0249,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test/Fresh Leaves/PXL_20241104_113943795.jpg,Fresh,0.0225,0.9276,0.0256,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_095543.jpg,Hole,0.0277,0.0321,0.9145,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_095901.jpg,Hole,0.0252,0.0236,0.9239,0.0273
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_100032.jpg,Hole,0.0211,0.0266,0.9247,0.0275
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_100327.jpg,Hole,0.0264,0.9161,0.0326,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_101021.jpg,Hole,0.0227,0.0241,0.9299,0.0232
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_103806.jpg,Hole,0.0284,0.0246,0.9194,0.0277
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_103840.jpg,Hole,0.0218,0.0247,0.9294,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_114548.jpg,Hole,0.0242,0.0229,0.9274,0.0256
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_120058.jpg,Hole,0.8234,0.026,0.1261,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_121122.jpg,Hole,0.0249,0.1129,0.8409,0.0213
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_122557.jpg,Hole,0.0222,0.0236,0.9314,0.0227
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_125943.jpg,Hole,0.0229,0.9272,0.0253,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_153606.jpg,Hole,0.0222,0.0267,0.9252,0.026
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_153751.jpg,Hole,0.0228,0.0265,0.9234,0.0273
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_153852.jpg,Hole,0.027,0.025,0.9209,0.0271
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_153857.jpg,Hole,0.3576,0.0353,0.5913,0.0159
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_153859.jpg,Hole,0.0243,0.0224,0.9299,0.0233
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_154005.jpg,Hole,0.0228,0.0244,0.9273,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_154635.jpg,Hole,0.8715,0.0269,0.0733,0.0282
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_154655.jpg,Hole,0.0214,0.0233,0.9295,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_154812.jpg,Hole,0.0259,0.0239,0.9251,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_155413.jpg,Hole,0.0234,0.0266,0.9225,0.0275
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_155607.jpg,Hole,0.0239,0.0233,0.929,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_155615.jpg,Hole,0.0211,0.0235,0.9354,0.02
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_155825.jpg,Hole,0.0248,0.024,0.9254,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_160204.jpg,Hole,0.0246,0.0236,0.927,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_160600.jpg,Hole,0.0227,0.0245,0.9273,0.0256
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_160627.jpg,Hole,0.0248,0.021,0.9304,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_163609.jpg,Hole,0.0257,0.0245,0.9269,0.0228
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_163632.jpg,Hole,0.0244,0.0245,0.9252,0.026
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_163640.jpg,Hole,0.0233,0.025,0.9248,0.0269
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_163744.jpg,Hole,0.0242,0.0227,0.9289,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_165242.jpg,Hole,0.0229,0.0243,0.9269,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_170130.jpg,Hole,0.0243,0.0226,0.9279,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_170911.jpg,Hole,0.0227,0.0231,0.9312,0.023
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_171031.jpg,Hole,0.0271,0.0244,0.9211,0.0275
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_171427.jpg,Hole,0.0243,0.0247,0.9252,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_171558.jpg,Hole,0.0247,0.0232,0.9266,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_171601.jpg,Hole,0.0241,0.0269,0.9235,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_171623.jpg,Hole,0.0248,0.0259,0.9245,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_171736.jpg,Hole,0.4658,0.026,0.4731,0.0351
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_171952.jpg,Hole,0.0234,0.0239,0.9285,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_172129.jpg,Hole,0.025,0.0264,0.922,0.0266
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/20241104_172317.jpg,Hole,0.0241,0.0256,0.921,0.0292
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_035449024.jpg,Hole,0.0247,0.0243,0.9278,0.0233
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_035724388.jpg,Hole,0.0216,0.0287,0.9228,0.0269
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_042548169.jpg,Hole,0.0265,0.0249,0.9236,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_044320421.jpg,Hole,0.0277,0.0321,0.9164,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_053824145.jpg,Hole,0.8921,0.0214,0.0769,0.0096
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_053940936.jpg,Hole,0.8802,0.0185,0.0786,0.0226
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_054500017.jpg,Hole,0.0242,0.0224,0.9288,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_054833533.jpg,Hole,0.0236,0.021,0.9324,0.0229
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_054902191.jpg,Hole,0.0241,0.0241,0.9266,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_060057363.jpg,Hole,0.0237,0.924,0.0271,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_060558051.jpg,Hole,0.0221,0.9278,0.0253,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_060623796.jpg,Hole,0.0233,0.9284,0.0241,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_093806192.jpg,Hole,0.0303,0.0256,0.9182,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_095318201.jpg,Hole,0.0254,0.0256,0.9203,0.0288
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_103007009.jpg,Hole,0.0242,0.0252,0.9249,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_103139334.jpg,Hole,0.0232,0.022,0.9301,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_103338729.jpg,Hole,0.0231,0.0229,0.931,0.0229
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_103635922.jpg,Hole,0.0261,0.0266,0.9218,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_105431545.jpg,Hole,0.0242,0.0242,0.9256,0.026
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_105555330.jpg,Hole,0.93,0.0225,0.024,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_110737392.jpg,Hole,0.0238,0.0234,0.9277,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_113424592.jpg,Hole,0.0219,0.0226,0.9315,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test/Hole Leaves/PXL_20241104_113605503.jpg,Hole,0.0284,0.0251,0.9205,0.0261
+/helpai-storage/model/v8_reallabel/cls/data/test/Yellow Leaves/20241104_165426.jpg,Yellow,0.0237,0.0242,0.0273,0.9248
+/helpai-storage/model/v8_reallabel/cls/data/test/Yellow Leaves/20241104_165514.jpg,Yellow,0.0254,0.0321,0.0296,0.9129
+/helpai-storage/model/v8_reallabel/cls/data/test/Yellow Leaves/20241104_165526.jpg,Yellow,0.0248,0.0263,0.0256,0.9232
+/helpai-storage/model/v8_reallabel/cls/data/test/Yellow Leaves/20241104_165617.jpg,Yellow,0.0347,0.0343,0.2238,0.7073
+/helpai-storage/model/v8_reallabel/cls/data/test/Yellow Leaves/PXL_20241104_043346625.jpg,Yellow,0.9174,0.0217,0.023,0.0379
+/helpai-storage/model/v8_reallabel/cls/data/test/Yellow Leaves/PXL_20241104_105824453.jpg,Yellow,0.0238,0.0422,0.0395,0.8944
+/helpai-storage/model/v8_reallabel/cls/data/test/Yellow Leaves/PXL_20241104_105950274.jpg,Yellow,0.0246,0.0302,0.0258,0.9194

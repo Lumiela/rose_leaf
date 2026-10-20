@@ -1,0 +1,25 @@
+nohup: ignoring input
+SKIP reviewed camfix_01
+fix_c6485924: model=259 added=14 replaced_merged=14 instances=295 9s
+fix_92ccc604: model=225 added=13 replaced_merged=4 instances=250 3s
+fix_ce7a654f: model=225 added=7 replaced_merged=12 instances=255 3s
+fix_44be89e5: model=63 added=6 replaced_merged=2 instances=102 3s
+cube_05: model=130 added=7 replaced_merged=3 instances=148 2s
+cube_06: model=161 added=14 replaced_merged=4 instances=181 2s
+cube_08: model=148 added=6 replaced_merged=4 instances=174 2s
+cube_09: model=160 added=1 replaced_merged=5 instances=194 1s
+cube_10: model=188 added=12 replaced_merged=4 instances=218 1s
+cube_12: model=177 added=5 replaced_merged=12 instances=191 1s
+cube_13: model=250 added=11 replaced_merged=12 instances=263 2s
+cube_14: model=183 added=1 replaced_merged=10 instances=191 1s
+cube_15: model=131 added=12 replaced_merged=3 instances=146 2s
+cube_16: model=275 added=22 replaced_merged=14 instances=303 2s
+cube_18: model=135 added=10 replaced_merged=4 instances=161 1s
+cube_19: model=189 added=10 replaced_merged=3 instances=204 2s
+cube_20: model=128 added=5 replaced_merged=8 instances=149 1s
+cube_22: model=171 added=8 replaced_merged=3 instances=231 1s
+cube_21: model=196 added=9 replaced_merged=3 instances=244 1s
+fix_8b90aa7e: model=111 added=13 replaced_merged=8 instances=143 2s
+cube_11: model=169 added=9 replaced_merged=11 instances=184 1s
+cube_17: model=232 added=18 replaced_merged=9 instances=268 2s
+REFINE_DONE {'added': 213, 'replaced': 152}

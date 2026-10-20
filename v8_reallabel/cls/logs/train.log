@@ -1,0 +1,28 @@
+nohup: ignoring input
+train 18909 val 1988
+epoch 1/20 loss 0.8670 val acc 0.9261 macroF1 0.9153 recall {'Black': 0.935, 'Fresh': 0.935, 'Hole': 0.854, 'Yellow': 0.978} (best 0.9153) 54s
+epoch 2/20 loss 0.4882 val acc 0.9271 macroF1 0.9161 recall {'Black': 0.908, 'Fresh': 0.932, 'Hole': 0.898, 'Yellow': 0.978} (best 0.9161) 106s
+epoch 3/20 loss 0.4476 val acc 0.9281 macroF1 0.9187 recall {'Black': 0.924, 'Fresh': 0.926, 'Hole': 0.898, 'Yellow': 0.991} (best 0.9187) 157s
+epoch 4/20 loss 0.4208 val acc 0.921 macroF1 0.9111 recall {'Black': 0.932, 'Fresh': 0.907, 'Hole': 0.907, 'Yellow': 0.991} (best 0.9187) 209s
+epoch 5/20 loss 0.4044 val acc 0.9205 macroF1 0.9131 recall {'Black': 0.919, 'Fresh': 0.912, 'Hole': 0.907, 'Yellow': 0.982} (best 0.9187) 262s
+epoch 6/20 loss 0.3998 val acc 0.9391 macroF1 0.9319 recall {'Black': 0.886, 'Fresh': 0.953, 'Hole': 0.933, 'Yellow': 0.969} (best 0.9319) 315s
+epoch 7/20 loss 0.3901 val acc 0.9401 macroF1 0.9311 recall {'Black': 0.946, 'Fresh': 0.944, 'Hole': 0.904, 'Yellow': 0.969} (best 0.9319) 368s
+epoch 8/20 loss 0.3815 val acc 0.9411 macroF1 0.9293 recall {'Black': 0.908, 'Fresh': 0.961, 'Hole': 0.895, 'Yellow': 0.973} (best 0.9319) 420s
+epoch 9/20 loss 0.3747 val acc 0.9326 macroF1 0.9259 recall {'Black': 0.93, 'Fresh': 0.929, 'Hole': 0.921, 'Yellow': 0.973} (best 0.9319) 472s
+epoch 10/20 loss 0.3692 val acc 0.9396 macroF1 0.9308 recall {'Black': 0.9, 'Fresh': 0.953, 'Hole': 0.915, 'Yellow': 0.978} (best 0.9319) 525s
+epoch 11/20 loss 0.3632 val acc 0.9437 macroF1 0.9346 recall {'Black': 0.886, 'Fresh': 0.966, 'Hole': 0.924, 'Yellow': 0.964} (best 0.9346) 577s
+epoch 12/20 loss 0.3609 val acc 0.9396 macroF1 0.9322 recall {'Black': 0.927, 'Fresh': 0.944, 'Hole': 0.918, 'Yellow': 0.973} (best 0.9346) 627s
+epoch 13/20 loss 0.3581 val acc 0.9472 macroF1 0.9392 recall {'Black': 0.932, 'Fresh': 0.956, 'Hole': 0.921, 'Yellow': 0.969} (best 0.9392) 679s
+epoch 14/20 loss 0.3544 val acc 0.9416 macroF1 0.9326 recall {'Black': 0.94, 'Fresh': 0.95, 'Hole': 0.898, 'Yellow': 0.973} (best 0.9392) 732s
+epoch 15/20 loss 0.3538 val acc 0.9487 macroF1 0.939 recall {'Black': 0.916, 'Fresh': 0.965, 'Hole': 0.918, 'Yellow': 0.973} (best 0.9392) 782s
+epoch 16/20 loss 0.3516 val acc 0.9482 macroF1 0.9387 recall {'Black': 0.93, 'Fresh': 0.961, 'Hole': 0.918, 'Yellow': 0.964} (best 0.9392) 833s
+epoch 17/20 loss 0.3518 val acc 0.9477 macroF1 0.939 recall {'Black': 0.932, 'Fresh': 0.958, 'Hole': 0.915, 'Yellow': 0.973} (best 0.9392) 884s
+epoch 18/20 loss 0.3517 val acc 0.9492 macroF1 0.9398 recall {'Black': 0.911, 'Fresh': 0.963, 'Hole': 0.939, 'Yellow': 0.964} (best 0.9398) 936s
+epoch 19/20 loss 0.3505 val acc 0.9477 macroF1 0.9383 recall {'Black': 0.924, 'Fresh': 0.959, 'Hole': 0.924, 'Yellow': 0.969} (best 0.9398) 988s
+epoch 20/20 loss 0.3503 val acc 0.9482 macroF1 0.9391 recall {'Black': 0.919, 'Fresh': 0.962, 'Hole': 0.924, 'Yellow': 0.969} (best 0.9398) 1040s
+val 0.9492 {'Black': 0.911, 'Fresh': 0.963, 'Hole': 0.939, 'Yellow': 0.964}
+test 0.9199 {'Black': 0.8, 'Fresh': 0.99, 'Hole': 0.851, 'Yellow': 0.857}
+test_deg 0.8867 {'Black': 0.812, 'Fresh': 0.923, 'Hole': 0.866, 'Yellow': 0.857}
+test_real 1.0 {'Black': 0.0, 'Fresh': 1.0, 'Hole': 0.0, 'Yellow': 0.0}
+test_real_anom 0.9965 {'Black': 1.0, 'Fresh': 0.0, 'Hole': 0.997, 'Yellow': 0.993}
+TRAIN_DONE

@@ -1,0 +1,168 @@
+{
+ "20261016_114612": {
+  "n": 514,
+  "L": 100.5,
+  "counts": {
+   "FRESH": 503,
+   "HOLD_SHAPE": 11
+  },
+  "timing": {
+   "stage1_s": 7.29,
+   "stage2_s": 4.22
+  },
+  "yfrac_gt30": 1,
+  "pY_max": 0.0291,
+  "pFresh_lt09": 4,
+  "hold_border": 0,
+  "hold_solid": 11
+ },
+ "20261016_114613": {
+  "n": 516,
+  "L": 99.6,
+  "counts": {
+   "FRESH": 508,
+   "HOLD_SHAPE": 8
+  },
+  "timing": {
+   "stage1_s": 4.56,
+   "stage2_s": 4.17
+  },
+  "yfrac_gt30": 1,
+  "pY_max": 0.0303,
+  "pFresh_lt09": 1,
+  "hold_border": 0,
+  "hold_solid": 8
+ },
+ "20261019_142007": {
+  "n": 385,
+  "L": 101.5,
+  "counts": {
+   "FRESH": 372,
+   "HOLD_SHAPE": 12,
+   "ANOMALY:Yellow": 1
+  },
+  "timing": {
+   "stage1_s": 3.66,
+   "stage2_s": 3.85
+  },
+  "yfrac_gt30": 1,
+  "pY_max": 0.7008,
+  "pFresh_lt09": 7,
+  "hold_border": 7,
+  "hold_solid": 5
+ },
+ "20261019_142011": {
+  "n": 530,
+  "L": 137.5,
+  "counts": {
+   "HOLD_SHAPE": 39,
+   "FRESH": 487,
+   "UNKNOWN": 3,
+   "ANOMALY:Yellow": 1
+  },
+  "timing": {
+   "stage1_s": 9.11,
+   "stage2_s": 4.37
+  },
+  "yfrac_gt30": 8,
+  "pY_max": 0.8538,
+  "pFresh_lt09": 9,
+  "hold_border": 31,
+  "hold_solid": 9
+ },
+ "20261019_150522": {
+  "n": 442,
+  "L": 157.5,
+  "counts": {
+   "HOLD_SHAPE": 50,
+   "FRESH": 390,
+   "ANOMALY:Yellow": 2
+  },
+  "timing": {
+   "stage1_s": 7.11,
+   "stage2_s": 4.53
+  },
+  "yfrac_gt30": 8,
+  "pY_max": 0.6636,
+  "pFresh_lt09": 6,
+  "hold_border": 41,
+  "hold_solid": 9
+ },
+ "20261019_150529": {
+  "n": 531,
+  "L": 164.5,
+  "counts": {
+   "FRESH": 455,
+   "HOLD_SHAPE": 76
+  },
+  "timing": {
+   "stage1_s": 9.7,
+   "stage2_s": 4.87
+  },
+  "yfrac_gt30": 23,
+  "pY_max": 0.0432,
+  "pFresh_lt09": 1,
+  "hold_border": 65,
+  "hold_solid": 12
+ },
+ "20261019_150546": {
+  "n": 447,
+  "L": 169.0,
+  "counts": {
+   "HOLD_SHAPE": 47,
+   "FRESH": 400
+  },
+  "timing": {
+   "stage1_s": 9.53,
+   "stage2_s": 4.42
+  },
+  "yfrac_gt30": 32,
+  "pY_max": 0.0834,
+  "pFresh_lt09": 1,
+  "hold_border": 33,
+  "hold_solid": 14
+ },
+ "20261019_150548": {
+  "n": 422,
+  "L": 168.1,
+  "counts": {
+   "HOLD_SHAPE": 38,
+   "FRESH": 384
+  },
+  "timing": {
+   "stage1_s": 9.21,
+   "stage2_s": 4.5
+  },
+  "yfrac_gt30": 31,
+  "pY_max": 0.1719,
+  "pFresh_lt09": 2,
+  "hold_border": 28,
+  "hold_solid": 10
+ },
+ "20261019_150754": {
+  "n": 330,
+  "L": 176.8,
+  "counts": {
+   "HOLD_SHAPE": 40,
+   "FRESH": 290
+  },
+  "timing": {
+   "stage1_s": 8.46,
+   "stage2_s": 4.22
+  },
+  "yfrac_gt30": 27,
+  "pY_max": 0.0463,
+  "pFresh_lt09": 1,
+  "hold_border": 33,
+  "hold_solid": 7
+ },
+ "_all": {
+  "n": 4117,
+  "fresh_yfrac_gt30": 118,
+  "fresh_yfrac_gt50": 80,
+  "yellowest48_states": {
+   "FRESH": 45,
+   "HOLD_SHAPE": 3
+  }
+ }
+}

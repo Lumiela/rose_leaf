@@ -1,0 +1,188 @@
+{
+ "weights": "/helpai-storage/model/v7_leafid/cls/runs_bbox_real_aug/effnetv2s/best.pt",
+ "min_conf": 0.0,
+ "per_photo": {
+  "camfix_02.jpg": {
+   "Black Spot": 0,
+   "Fresh": 63,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 24
+  },
+  "cube_05.jpg": {
+   "Black Spot": 0,
+   "Fresh": 105,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 18
+  },
+  "cube_06.jpg": {
+   "Black Spot": 0,
+   "Fresh": 88,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 25
+  },
+  "cube_07.jpg": {
+   "Black Spot": 0,
+   "Fresh": 133,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 25
+  },
+  "cube_08.jpg": {
+   "Black Spot": 0,
+   "Fresh": 109,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 22
+  },
+  "cube_09.jpg": {
+   "Black Spot": 0,
+   "Fresh": 120,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 14
+  },
+  "cube_10.jpg": {
+   "Black Spot": 0,
+   "Fresh": 68,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 18
+  },
+  "cube_11.jpg": {
+   "Black Spot": 0,
+   "Fresh": 103,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 9
+  },
+  "cube_12.jpg": {
+   "Black Spot": 0,
+   "Fresh": 123,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 16
+  },
+  "cube_13.jpg": {
+   "Black Spot": 0,
+   "Fresh": 142,
+   "Hole": 0,
+   "Yellow": 1,
+   "Hold": 37
+  },
+  "cube_14.jpg": {
+   "Black Spot": 0,
+   "Fresh": 119,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 20
+  },
+  "cube_15.jpg": {
+   "Black Spot": 0,
+   "Fresh": 80,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 15
+  },
+  "cube_16.jpg": {
+   "Black Spot": 0,
+   "Fresh": 166,
+   "Hole": 0,
+   "Yellow": 1,
+   "Hold": 31
+  },
+  "cube_17.jpg": {
+   "Black Spot": 0,
+   "Fresh": 157,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 31
+  },
+  "cube_18.jpg": {
+   "Black Spot": 0,
+   "Fresh": 81,
+   "Hole": 1,
+   "Yellow": 0,
+   "Hold": 15
+  },
+  "cube_19.jpg": {
+   "Black Spot": 0,
+   "Fresh": 156,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 17
+  },
+  "cube_20.jpg": {
+   "Black Spot": 0,
+   "Fresh": 80,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 19
+  },
+  "cube_21.jpg": {
+   "Black Spot": 0,
+   "Fresh": 65,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 8
+  },
+  "cube_22.jpg": {
+   "Black Spot": 0,
+   "Fresh": 140,
+   "Hole": 2,
+   "Yellow": 0,
+   "Hold": 14
+  },
+  "fix_44be89e5.jpg": {
+   "Black Spot": 1,
+   "Fresh": 50,
+   "Hole": 0,
+   "Yellow": 0,
+   "Hold": 23
+  },
+  "fix_84496bcf.jpg": {
+   "Black Spot": 1,
+   "Fresh": 141,
+   "Hole": 3,
+   "Yellow": 2,
+   "Hold": 38
+  },
+  "fix_8b90aa7e.jpg": {
+   "Black Spot": 0,
+   "Fresh": 59,
+   "Hole": 3,
+   "Yellow": 2,
+   "Hold": 19
+  },
+  "fix_92ccc604.jpg": {
+   "Black Spot": 1,
+   "Fresh": 116,
+   "Hole": 1,
+   "Yellow": 0,
+   "Hold": 34
+  },
+  "fix_c6485924.jpg": {
+   "Black Spot": 3,
+   "Fresh": 148,
+   "Hole": 0,
+   "Yellow": 1,
+   "Hold": 46
+  },
+  "fix_ce7a654f.jpg": {
+   "Black Spot": 0,
+   "Fresh": 125,
+   "Hole": 1,
+   "Yellow": 1,
+   "Hold": 27
+  },
+  "fix_eafda190.jpg": {
+   "Black Spot": 2,
+   "Fresh": 145,
+   "Hole": 3,
+   "Yellow": 1,
+   "Hold": 36
+  }
+ }
+}

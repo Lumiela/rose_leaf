@@ -1,0 +1,50 @@
+{
+ "weights": "v8_reallabel/runs/r2_fromv4/weights/best.pt",
+ "split": "val",
+ "tile_mult": 8.0,
+ "imgsz": 640,
+ "conf": 0.35,
+ "total": {
+  "gt": 595,
+  "pred": 615,
+  "tp": 485,
+  "fp": 130,
+  "ignored": 0,
+  "merged": 23,
+  "recall": 0.815,
+  "precision": 0.789,
+  "f1": 0.802
+ },
+ "per_photo": {
+  "fix_8b90aa7e": {
+   "gt": 143,
+   "pred": 161,
+   "tp": 97,
+   "fp": 64,
+   "ignored": 0,
+   "merged": 11,
+   "recall": 0.678,
+   "precision": 0.602
+  },
+  "cube_11": {
+   "gt": 184,
+   "pred": 180,
+   "tp": 159,
+   "fp": 21,
+   "ignored": 0,
+   "merged": 1,
+   "recall": 0.864,
+   "precision": 0.883
+  },
+  "cube_17": {
+   "gt": 268,
+   "pred": 274,
+   "tp": 229,
+   "fp": 45,
+   "ignored": 0,
+   "merged": 11,
+   "recall": 0.854,
+   "precision": 0.836
+  }
+ }
+}

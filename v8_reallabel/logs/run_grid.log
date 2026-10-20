@@ -1,0 +1,74 @@
+nohup: ignoring input
+grid None -> 1 new
+grid None -> 1 new
+SAVED cube_05: instances=139 flagged=34
+REVIEW cube_05: instances=139 flagged=34 tiles=9 R=791 uncovered_px=164652
+grid None -> 9 new
+grid None -> 6 new
+SAVED cube_06: instances=162 flagged=45
+REVIEW cube_06: instances=162 flagged=45 tiles=12 R=665 uncovered_px=155920
+grid None -> 4 new
+grid None -> 2 new
+SAVED cube_07: instances=195 flagged=51
+REVIEW cube_07: instances=195 flagged=51 tiles=9 R=745 uncovered_px=167642
+grid None -> 6 new
+grid None -> 4 new
+SAVED cube_08: instances=166 flagged=54
+REVIEW cube_08: instances=166 flagged=54 tiles=12 R=693 uncovered_px=150472
+grid None -> 4 new
+grid None -> 3 new
+SAVED cube_09: instances=189 flagged=36
+REVIEW cube_09: instances=189 flagged=36 tiles=20 R=553 uncovered_px=110026
+grid None -> 17 new
+grid None -> 5 new
+SAVED cube_10: instances=202 flagged=39
+REVIEW cube_10: instances=202 flagged=39 tiles=12 R=598 uncovered_px=167819
+grid None -> 8 new
+grid None -> 0 new
+SAVED cube_11: instances=166 flagged=20
+REVIEW cube_11: instances=166 flagged=20 tiles=15 R=560 uncovered_px=111820
+grid None -> 2 new
+grid None -> 0 new
+SAVED cube_12: instances=177 flagged=23
+REVIEW cube_12: instances=177 flagged=23 tiles=12 R=581 uncovered_px=116182
+grid None -> 10 new
+grid None -> 4 new
+SAVED cube_13: instances=244 flagged=54
+REVIEW cube_13: instances=244 flagged=54 tiles=12 R=644 uncovered_px=194828
+grid None -> 4 new
+grid None -> 2 new
+SAVED cube_14: instances=183 flagged=29
+REVIEW cube_14: instances=183 flagged=29 tiles=12 R=581 uncovered_px=119078
+grid None -> 10 new
+grid None -> 2 new
+SAVED cube_15: instances=132 flagged=38
+REVIEW cube_15: instances=132 flagged=38 tiles=9 R=742 uncovered_px=211363
+grid None -> 11 new
+grid None -> 8 new
+SAVED cube_16: instances=270 flagged=73
+REVIEW cube_16: instances=270 flagged=73 tiles=12 R=612 uncovered_px=203372
+grid None -> 6 new
+grid None -> 4 new
+SAVED cube_17: instances=241 flagged=61
+REVIEW cube_17: instances=241 flagged=61 tiles=12 R=647 uncovered_px=194598
+grid None -> 8 new
+grid None -> 10 new
+SAVED cube_18: instances=148 flagged=39
+REVIEW cube_18: instances=148 flagged=39 tiles=12 R=567 uncovered_px=112643
+grid None -> 1 new
+grid None -> 2 new
+SAVED cube_19: instances=192 flagged=31
+REVIEW cube_19: instances=192 flagged=31 tiles=12 R=658 uncovered_px=119228
+grid None -> 3 new
+grid None -> 2 new
+SAVED cube_20: instances=139 flagged=25
+REVIEW cube_20: instances=139 flagged=25 tiles=12 R=602 uncovered_px=116882
+grid None -> 24 new
+grid None -> 13 new
+SAVED cube_21: instances=221 flagged=53
+REVIEW cube_21: instances=221 flagged=53 tiles=12 R=602 uncovered_px=187536
+grid None -> 4 new
+grid None -> 6 new
+SAVED cube_22: instances=221 flagged=45
+REVIEW cube_22: instances=221 flagged=45 tiles=12 R=581 uncovered_px=144801
+ALL_GRID_DONE

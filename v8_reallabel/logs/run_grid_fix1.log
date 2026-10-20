@@ -1,0 +1,18 @@
+nohup: ignoring input
+grid None -> 10 new
+grid None -> 4 new
+SAVED fix_84496bcf: instances=245 flagged=42
+REVIEW fix_84496bcf: instances=245 flagged=42 tiles=12 R=900 uncovered_px=367353
+grid None -> 3 new
+grid None -> 4 new
+SAVED fix_44be89e5: instances=95 flagged=69
+REVIEW fix_44be89e5: instances=95 flagged=69 tiles=12 R=900 uncovered_px=462791
+grid None -> 13 new
+grid None -> 4 new
+SAVED fix_8b90aa7e: instances=120 flagged=37
+REVIEW fix_8b90aa7e: instances=120 flagged=37 tiles=6 R=896 uncovered_px=339709
+grid None -> 24 new
+grid None -> 8 new
+SAVED fix_92ccc604: instances=234 flagged=37
+REVIEW fix_92ccc604: instances=234 flagged=37 tiles=12 R=700 uncovered_px=261245
+ALL_GRID_DONE

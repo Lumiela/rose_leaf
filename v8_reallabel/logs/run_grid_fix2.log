@@ -1,0 +1,14 @@
+nohup: ignoring input
+grid None -> 9 new
+grid None -> 11 new
+SAVED fix_eafda190: instances=251 flagged=51
+REVIEW fix_eafda190: instances=251 flagged=51 tiles=12 R=900 uncovered_px=377158
+grid None -> 13 new
+grid None -> 2 new
+SAVED fix_c6485924: instances=267 flagged=66
+REVIEW fix_c6485924: instances=267 flagged=66 tiles=12 R=900 uncovered_px=422462
+grid None -> 23 new
+grid None -> 9 new
+SAVED fix_ce7a654f: instances=234 flagged=44
+REVIEW fix_ce7a654f: instances=234 flagged=44 tiles=12 R=700 uncovered_px=238436
+ALL_GRID_DONE

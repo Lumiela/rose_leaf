@@ -1,0 +1,866 @@
+path,label,p_Black,p_Fresh,p_Hole,p_Yellow
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0006.jpg,Black,0.9183,0.0196,0.0424,0.0197
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0009.jpg,Black,0.8078,0.1169,0.0396,0.0357
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0012.jpg,Black,0.9264,0.0248,0.023,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0016.jpg,Black,0.9337,0.0224,0.0239,0.02
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0019.jpg,Black,0.933,0.0223,0.0218,0.0229
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0023.jpg,Black,0.9289,0.0233,0.0238,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0030.jpg,Black,0.9246,0.0243,0.0259,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0033.jpg,Black,0.9343,0.022,0.0214,0.0224
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0036.jpg,Black,0.9322,0.0226,0.0215,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0039.jpg,Black,0.9336,0.022,0.0217,0.0228
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0042.jpg,Black,0.9277,0.0237,0.0249,0.0237
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0045.jpg,Black,0.9272,0.0238,0.025,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0048.jpg,Black,0.9295,0.0228,0.0241,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0051.jpg,Black,0.9208,0.0257,0.0274,0.0261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0054.jpg,Black,0.9307,0.0235,0.0228,0.0231
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0057.jpg,Black,0.9287,0.0246,0.0231,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0060.jpg,Black,0.9288,0.0236,0.024,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0063.jpg,Black,0.9262,0.0238,0.0251,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0066.jpg,Black,0.9265,0.0251,0.0237,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0069.jpg,Black,0.9294,0.0234,0.0236,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0072.jpg,Black,0.9244,0.0248,0.0244,0.0264
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0075.jpg,Black,0.9238,0.0253,0.0254,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0078.jpg,Black,0.9283,0.0236,0.0239,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0082.jpg,Black,0.9309,0.0234,0.0223,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0085.jpg,Black,0.9255,0.0239,0.0247,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0088.jpg,Black,0.9319,0.0222,0.0232,0.0227
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0091.jpg,Black,0.9348,0.0216,0.0223,0.0213
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0094.jpg,Black,0.926,0.0253,0.0239,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0097.jpg,Black,0.9243,0.0243,0.0259,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0101.jpg,Black,0.9306,0.0236,0.0231,0.0226
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0104.jpg,Black,0.9275,0.0244,0.0235,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0107.jpg,Black,0.9255,0.0234,0.0253,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0110.jpg,Black,0.9245,0.0251,0.0251,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0113.jpg,Black,0.9235,0.0259,0.0253,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0116.jpg,Black,0.9301,0.0228,0.0229,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0119.jpg,Black,0.9294,0.023,0.0236,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0124.jpg,Black,0.9255,0.0235,0.0262,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0128.jpg,Black,0.9211,0.0259,0.0267,0.0263
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0133.jpg,Black,0.9314,0.0228,0.0231,0.0227
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0137.jpg,Black,0.9332,0.0222,0.0218,0.0229
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0141.jpg,Black,0.9302,0.0218,0.0257,0.0223
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0147.jpg,Black,0.9248,0.0237,0.0256,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0150.jpg,Black,0.9326,0.0224,0.0222,0.0228
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0155.jpg,Black,0.9282,0.0228,0.0252,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_camfix_02_L0158.jpg,Black,0.9258,0.0239,0.0258,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0004.jpg,Black,0.9263,0.0243,0.0249,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0008.jpg,Black,0.9275,0.0238,0.024,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0012.jpg,Black,0.924,0.0248,0.0261,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0015.jpg,Black,0.9259,0.0243,0.0252,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0018.jpg,Black,0.9215,0.0232,0.0281,0.0271
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0021.jpg,Black,0.9276,0.0237,0.0241,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0024.jpg,Black,0.9238,0.0254,0.0245,0.0263
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0027.jpg,Black,0.9247,0.0255,0.0244,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0030.jpg,Black,0.9314,0.0218,0.0227,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0034.jpg,Black,0.9263,0.0238,0.0241,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0037.jpg,Black,0.923,0.0263,0.0259,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0040.jpg,Black,0.9281,0.0242,0.0228,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0043.jpg,Black,0.9263,0.0247,0.0243,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0046.jpg,Black,0.9286,0.0235,0.0242,0.0237
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0050.jpg,Black,0.9274,0.0228,0.0254,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0053.jpg,Black,0.9289,0.0225,0.0245,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0058.jpg,Black,0.9268,0.0234,0.0246,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0061.jpg,Black,0.9265,0.0244,0.0244,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0064.jpg,Black,0.9296,0.0229,0.0229,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0067.jpg,Black,0.9299,0.0229,0.024,0.0232
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0070.jpg,Black,0.9357,0.0195,0.0224,0.0224
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0073.jpg,Black,0.9248,0.0247,0.0248,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0076.jpg,Black,0.9316,0.023,0.023,0.0224
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0079.jpg,Black,0.9378,0.0185,0.0227,0.021
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0082.jpg,Black,0.9281,0.0217,0.0274,0.0227
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0085.jpg,Black,0.9239,0.0248,0.0252,0.0261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0088.jpg,Black,0.9235,0.0255,0.0249,0.026
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0091.jpg,Black,0.9293,0.0235,0.024,0.0231
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0094.jpg,Black,0.9294,0.0234,0.0237,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0097.jpg,Black,0.9302,0.0232,0.0228,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0100.jpg,Black,0.9305,0.0236,0.0224,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0103.jpg,Black,0.9344,0.0223,0.0213,0.0219
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0106.jpg,Black,0.925,0.0242,0.0257,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0109.jpg,Black,0.927,0.0243,0.0238,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0112.jpg,Black,0.9246,0.0242,0.0248,0.0264
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0115.jpg,Black,0.9259,0.0248,0.0244,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0118.jpg,Black,0.9207,0.0262,0.0267,0.0263
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0121.jpg,Black,0.9281,0.0236,0.0245,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0124.jpg,Black,0.9291,0.0234,0.0229,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0127.jpg,Black,0.9267,0.0232,0.0253,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0130.jpg,Black,0.9298,0.0221,0.0236,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0133.jpg,Black,0.927,0.0224,0.024,0.0266
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0136.jpg,Black,0.928,0.0237,0.0235,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0139.jpg,Black,0.9265,0.0247,0.024,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0142.jpg,Black,0.9241,0.0242,0.0247,0.027
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0145.jpg,Black,0.9229,0.0248,0.0246,0.0277
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0148.jpg,Black,0.924,0.0243,0.0258,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0151.jpg,Black,0.9326,0.0216,0.0227,0.0231
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0154.jpg,Black,0.926,0.0254,0.0249,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0157.jpg,Black,0.9271,0.0244,0.0233,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0160.jpg,Black,0.9264,0.0242,0.0241,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0163.jpg,Black,0.9284,0.0234,0.0239,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0166.jpg,Black,0.9302,0.022,0.023,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0170.jpg,Black,0.9269,0.0244,0.0251,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0173.jpg,Black,0.9333,0.0222,0.022,0.0225
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0176.jpg,Black,0.9232,0.0251,0.026,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0179.jpg,Black,0.9285,0.0234,0.0234,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0182.jpg,Black,0.9308,0.0218,0.0228,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0185.jpg,Black,0.9236,0.0247,0.0254,0.0264
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0188.jpg,Black,0.9298,0.0226,0.0239,0.0237
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0191.jpg,Black,0.9243,0.0239,0.026,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0194.jpg,Black,0.9249,0.0243,0.0251,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0197.jpg,Black,0.9281,0.0229,0.0246,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0200.jpg,Black,0.9301,0.0233,0.023,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0203.jpg,Black,0.9278,0.0237,0.024,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0206.jpg,Black,0.9277,0.0239,0.024,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0209.jpg,Black,0.9336,0.0223,0.0219,0.0222
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0212.jpg,Black,0.9268,0.0254,0.0247,0.0231
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0215.jpg,Black,0.9225,0.0252,0.0262,0.0262
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0219.jpg,Black,0.9217,0.0268,0.0261,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0222.jpg,Black,0.9271,0.0243,0.0237,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_cube_07_L0225.jpg,Black,0.9261,0.0239,0.0242,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0001.jpg,Black,0.926,0.0259,0.0245,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0004.jpg,Black,0.9266,0.0254,0.0237,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0007.jpg,Black,0.9277,0.0237,0.0244,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0010.jpg,Black,0.9284,0.0228,0.0243,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0013.jpg,Black,0.9294,0.0238,0.0235,0.0233
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0016.jpg,Black,0.9335,0.0229,0.0216,0.0219
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0020.jpg,Black,0.9267,0.0235,0.0246,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0023.jpg,Black,0.9247,0.0251,0.0247,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0026.jpg,Black,0.9277,0.0242,0.0242,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0029.jpg,Black,0.9319,0.023,0.0225,0.0226
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0032.jpg,Black,0.9268,0.0245,0.0249,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0035.jpg,Black,0.9344,0.0228,0.0199,0.0229
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0038.jpg,Black,0.9293,0.0234,0.0234,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0041.jpg,Black,0.9234,0.0248,0.0257,0.0261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0044.jpg,Black,0.9293,0.0232,0.0231,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0047.jpg,Black,0.9267,0.0246,0.0243,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0050.jpg,Black,0.9328,0.0224,0.0226,0.0221
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0053.jpg,Black,0.9299,0.0225,0.0235,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0056.jpg,Black,0.6376,0.2691,0.0488,0.0445
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0060.jpg,Black,0.9336,0.0212,0.0219,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0063.jpg,Black,0.9243,0.0248,0.0252,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0067.jpg,Black,0.9259,0.0252,0.0246,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0070.jpg,Black,0.9266,0.0244,0.0243,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0073.jpg,Black,0.9278,0.0231,0.024,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0076.jpg,Black,0.9271,0.0238,0.0251,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0079.jpg,Black,0.9246,0.0259,0.025,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0082.jpg,Black,0.9244,0.0256,0.0243,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0085.jpg,Black,0.9336,0.0222,0.0222,0.022
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0088.jpg,Black,0.9323,0.0231,0.0222,0.0224
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0092.jpg,Black,0.9301,0.023,0.0235,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0095.jpg,Black,0.9264,0.0248,0.0241,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0098.jpg,Black,0.9299,0.0232,0.0238,0.0231
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0101.jpg,Black,0.9271,0.0228,0.0251,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0104.jpg,Black,0.9291,0.0226,0.0241,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0107.jpg,Black,0.9205,0.0282,0.0255,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0110.jpg,Black,0.9294,0.0216,0.0257,0.0233
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0114.jpg,Black,0.9292,0.0232,0.024,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0118.jpg,Black,0.9292,0.023,0.024,0.0237
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0121.jpg,Black,0.9268,0.0245,0.0245,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0124.jpg,Black,0.928,0.0235,0.0242,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0127.jpg,Black,0.9312,0.0227,0.0235,0.0226
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0130.jpg,Black,0.9297,0.025,0.0229,0.0224
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0133.jpg,Black,0.9356,0.0215,0.0214,0.0215
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0136.jpg,Black,0.9271,0.0236,0.0246,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0139.jpg,Black,0.9299,0.0229,0.0227,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0144.jpg,Black,0.9265,0.0234,0.025,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0147.jpg,Black,0.9241,0.0243,0.0263,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0150.jpg,Black,0.9224,0.0272,0.0269,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0153.jpg,Black,0.9292,0.0236,0.0224,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0156.jpg,Black,0.9266,0.0244,0.0243,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0160.jpg,Black,0.9261,0.0236,0.0249,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0163.jpg,Black,0.9285,0.0236,0.0224,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0167.jpg,Black,0.928,0.0238,0.0239,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0170.jpg,Black,0.9253,0.0243,0.0256,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0173.jpg,Black,0.9283,0.0237,0.0245,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0176.jpg,Black,0.9253,0.0247,0.0252,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0179.jpg,Black,0.9247,0.0245,0.0252,0.0256
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0182.jpg,Black,0.9272,0.0252,0.0237,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0185.jpg,Black,0.9294,0.0243,0.0231,0.0233
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0188.jpg,Black,0.9273,0.0239,0.0248,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0192.jpg,Black,0.849,0.0788,0.0462,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0195.jpg,Black,0.9281,0.0228,0.0243,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0199.jpg,Black,0.9232,0.0264,0.025,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0202.jpg,Black,0.9289,0.0235,0.0235,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0205.jpg,Black,0.9302,0.023,0.0233,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0208.jpg,Black,0.928,0.0238,0.0244,0.0237
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0211.jpg,Black,0.9253,0.0256,0.0242,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0214.jpg,Black,0.9332,0.0225,0.0217,0.0226
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0218.jpg,Black,0.9236,0.0255,0.0246,0.0263
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0221.jpg,Black,0.9317,0.0217,0.0231,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0224.jpg,Black,0.9306,0.023,0.0219,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0227.jpg,Black,0.9236,0.0263,0.0249,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0230.jpg,Black,0.9313,0.0222,0.0231,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0233.jpg,Black,0.9278,0.0235,0.0236,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0236.jpg,Black,0.9259,0.024,0.0252,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0240.jpg,Black,0.9294,0.0234,0.0236,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0248.jpg,Black,0.928,0.0232,0.0244,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0253.jpg,Black,0.9323,0.0227,0.0211,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_84496bcf_L0262.jpg,Black,0.9329,0.0218,0.0222,0.0231
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0002.jpg,Black,0.9325,0.0226,0.0227,0.0222
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0005.jpg,Black,0.9318,0.0229,0.0225,0.0227
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0008.jpg,Black,0.9318,0.0226,0.0224,0.0231
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0011.jpg,Black,0.9256,0.0239,0.025,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0015.jpg,Black,0.9277,0.0239,0.0244,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0018.jpg,Black,0.9303,0.0225,0.0247,0.0225
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0021.jpg,Black,0.9294,0.0248,0.0231,0.0227
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0024.jpg,Black,0.9285,0.0229,0.0244,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0027.jpg,Black,0.9279,0.0239,0.024,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0030.jpg,Black,0.9278,0.0238,0.0229,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0033.jpg,Black,0.9318,0.0231,0.0226,0.0225
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0036.jpg,Black,0.9249,0.0264,0.0247,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0039.jpg,Black,0.9279,0.0249,0.0234,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0042.jpg,Black,0.9313,0.0229,0.023,0.0228
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0045.jpg,Black,0.9253,0.0254,0.0248,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0050.jpg,Black,0.9255,0.0249,0.0246,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0053.jpg,Black,0.9312,0.0224,0.0231,0.0233
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0056.jpg,Black,0.927,0.0239,0.0237,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0059.jpg,Black,0.9325,0.0225,0.0225,0.0224
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0062.jpg,Black,0.9298,0.0236,0.0234,0.0232
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0065.jpg,Black,0.9231,0.025,0.0254,0.0265
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0068.jpg,Black,0.9288,0.0238,0.0235,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0071.jpg,Black,0.9276,0.0244,0.0245,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0074.jpg,Black,0.9286,0.0241,0.0237,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0079.jpg,Black,0.928,0.0238,0.0243,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0082.jpg,Black,0.9302,0.0229,0.0237,0.0232
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0085.jpg,Black,0.9274,0.0241,0.0236,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0088.jpg,Black,0.9302,0.0228,0.0239,0.0232
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0091.jpg,Black,0.9202,0.0295,0.0263,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0094.jpg,Black,0.9312,0.0223,0.0235,0.023
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0097.jpg,Black,0.9228,0.0257,0.0253,0.0261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0100.jpg,Black,0.922,0.0266,0.0261,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0103.jpg,Black,0.9246,0.0258,0.0246,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0106.jpg,Black,0.9304,0.023,0.0227,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0109.jpg,Black,0.9256,0.0256,0.0247,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0112.jpg,Black,0.9286,0.0233,0.0238,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0115.jpg,Black,0.9239,0.024,0.0273,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0118.jpg,Black,0.9271,0.0244,0.0243,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0121.jpg,Black,0.928,0.023,0.024,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0124.jpg,Black,0.9268,0.0241,0.0233,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0127.jpg,Black,0.9238,0.0249,0.0255,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0131.jpg,Black,0.9275,0.0237,0.0248,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0135.jpg,Black,0.9282,0.0234,0.0241,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0138.jpg,Black,0.9344,0.0222,0.0244,0.019
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0141.jpg,Black,0.9281,0.023,0.0245,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0144.jpg,Black,0.9239,0.0246,0.0258,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0147.jpg,Black,0.9289,0.0243,0.0234,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0150.jpg,Black,0.9293,0.0243,0.023,0.0233
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0153.jpg,Black,0.9287,0.024,0.0242,0.0231
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0156.jpg,Black,0.9266,0.0258,0.0239,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0159.jpg,Black,0.9272,0.0247,0.0241,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0162.jpg,Black,0.9313,0.0218,0.0232,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0165.jpg,Black,0.9262,0.025,0.0243,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0168.jpg,Black,0.9253,0.0284,0.0235,0.0228
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0171.jpg,Black,0.9299,0.0223,0.0227,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0174.jpg,Black,0.9258,0.0242,0.0245,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0177.jpg,Black,0.9222,0.0254,0.0264,0.026
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0180.jpg,Black,0.9273,0.0234,0.0254,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0183.jpg,Black,0.9278,0.023,0.0248,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0187.jpg,Black,0.9212,0.0265,0.026,0.0263
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0190.jpg,Black,0.9271,0.0244,0.0239,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0193.jpg,Black,0.9245,0.0258,0.0252,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0196.jpg,Black,0.9269,0.025,0.0232,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0199.jpg,Black,0.9247,0.0239,0.0259,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0202.jpg,Black,0.9329,0.0215,0.0209,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0205.jpg,Black,0.9292,0.0234,0.0233,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0208.jpg,Black,0.9269,0.024,0.0242,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0211.jpg,Black,0.9251,0.0262,0.0243,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0215.jpg,Black,0.9243,0.0252,0.026,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0218.jpg,Black,0.9318,0.0218,0.0228,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0221.jpg,Black,0.9294,0.0251,0.0222,0.0233
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0224.jpg,Black,0.9265,0.0247,0.0236,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0227.jpg,Black,0.9187,0.0326,0.0242,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0230.jpg,Black,0.9248,0.0263,0.0248,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0233.jpg,Black,0.911,0.0455,0.025,0.0185
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0236.jpg,Black,0.9237,0.0252,0.0256,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0239.jpg,Black,0.9323,0.0226,0.0218,0.0233
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0242.jpg,Black,0.7591,0.155,0.0487,0.0372
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0245.jpg,Black,0.9273,0.0245,0.0239,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0248.jpg,Black,0.924,0.0266,0.0243,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0251.jpg,Black,0.9257,0.0252,0.0249,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0254.jpg,Black,0.9283,0.0241,0.0232,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0257.jpg,Black,0.9283,0.0238,0.0244,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0260.jpg,Black,0.9262,0.024,0.0239,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0263.jpg,Black,0.9277,0.0237,0.0235,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0266.jpg,Black,0.9277,0.0247,0.0235,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0269.jpg,Black,0.932,0.0221,0.0233,0.0225
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0272.jpg,Black,0.9306,0.0231,0.0232,0.0231
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0277.jpg,Black,0.9232,0.0255,0.0264,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0285.jpg,Black,0.9265,0.0251,0.0232,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0293.jpg,Black,0.927,0.0256,0.024,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Black Spot Leaves/v8anom_fix_eafda190_L0300.jpg,Black,0.9264,0.0249,0.0244,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0007.jpg,Hole,0.0243,0.0253,0.9238,0.0266
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0010.jpg,Hole,0.0252,0.0238,0.9255,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0013.jpg,Hole,0.0222,0.0236,0.9291,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0017.jpg,Hole,0.0236,0.0246,0.9269,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0020.jpg,Hole,0.0241,0.0244,0.925,0.0265
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0024.jpg,Hole,0.0246,0.0243,0.9269,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0031.jpg,Hole,0.0246,0.0237,0.926,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0034.jpg,Hole,0.0216,0.0245,0.9307,0.0231
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0037.jpg,Hole,0.0233,0.023,0.9291,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0040.jpg,Hole,0.0229,0.024,0.9278,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0043.jpg,Hole,0.0234,0.023,0.9297,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0046.jpg,Hole,0.0232,0.0239,0.9289,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0049.jpg,Hole,0.0244,0.0255,0.9255,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0052.jpg,Hole,0.0223,0.0239,0.9292,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0055.jpg,Hole,0.0231,0.024,0.9267,0.0262
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0058.jpg,Hole,0.0239,0.0246,0.9277,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0061.jpg,Hole,0.0228,0.0221,0.9326,0.0225
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0064.jpg,Hole,0.0228,0.0266,0.9242,0.0264
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0067.jpg,Hole,0.0245,0.0251,0.9261,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0070.jpg,Hole,0.0245,0.0247,0.926,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0073.jpg,Hole,0.0235,0.0236,0.9284,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0076.jpg,Hole,0.0254,0.0228,0.9248,0.027
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0080.jpg,Hole,0.0232,0.0249,0.926,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0083.jpg,Hole,0.0249,0.0247,0.9248,0.0256
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0086.jpg,Hole,0.0238,0.0219,0.9295,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0089.jpg,Hole,0.0271,0.0263,0.9212,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0092.jpg,Hole,0.0231,0.0223,0.9297,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0095.jpg,Hole,0.0238,0.0256,0.9263,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0098.jpg,Hole,0.0236,0.0245,0.9283,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0102.jpg,Hole,0.0244,0.0239,0.9272,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0105.jpg,Hole,0.0225,0.0231,0.9326,0.0219
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0108.jpg,Hole,0.0218,0.0215,0.9332,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0111.jpg,Hole,0.0232,0.0259,0.9267,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0114.jpg,Hole,0.0238,0.0238,0.9279,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0117.jpg,Hole,0.0228,0.0235,0.9292,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0120.jpg,Hole,0.022,0.0221,0.9313,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0125.jpg,Hole,0.0242,0.0229,0.9284,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0130.jpg,Hole,0.0225,0.0234,0.9288,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0135.jpg,Hole,0.0254,0.023,0.9264,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0138.jpg,Hole,0.026,0.0245,0.9229,0.0266
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0144.jpg,Hole,0.0253,0.0245,0.9233,0.0269
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0148.jpg,Hole,0.0247,0.0236,0.9271,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0151.jpg,Hole,0.0232,0.0241,0.9282,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_camfix_02_L0156.jpg,Hole,0.0229,0.0239,0.9285,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0002.jpg,Hole,0.025,0.025,0.9243,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0005.jpg,Hole,0.0239,0.0248,0.9263,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0009.jpg,Hole,0.0256,0.0244,0.9238,0.0262
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0013.jpg,Hole,0.0231,0.0242,0.9273,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0016.jpg,Hole,0.0228,0.0253,0.9259,0.026
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0019.jpg,Hole,0.0235,0.0238,0.928,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0022.jpg,Hole,0.0234,0.0224,0.9289,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0025.jpg,Hole,0.0234,0.0252,0.9277,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0028.jpg,Hole,0.0239,0.0254,0.9247,0.026
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0031.jpg,Hole,0.0237,0.0243,0.9276,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0035.jpg,Hole,0.0239,0.0238,0.9279,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0038.jpg,Hole,0.023,0.0232,0.9297,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0041.jpg,Hole,0.0223,0.0233,0.9294,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0044.jpg,Hole,0.0259,0.0238,0.9254,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0048.jpg,Hole,0.0256,0.0254,0.9234,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0051.jpg,Hole,0.0246,0.0253,0.9217,0.0285
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0054.jpg,Hole,0.023,0.0241,0.9267,0.0262
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0059.jpg,Hole,0.0227,0.0229,0.9307,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0062.jpg,Hole,0.0235,0.0241,0.9277,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0065.jpg,Hole,0.0234,0.0232,0.929,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0068.jpg,Hole,0.0242,0.0247,0.9266,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0071.jpg,Hole,0.0239,0.0227,0.9279,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0074.jpg,Hole,0.0229,0.0211,0.9328,0.0232
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0077.jpg,Hole,0.0235,0.0237,0.9261,0.0267
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0080.jpg,Hole,0.0243,0.0252,0.925,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0083.jpg,Hole,0.0242,0.0249,0.9261,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0086.jpg,Hole,0.0248,0.023,0.9278,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0089.jpg,Hole,0.0237,0.0246,0.9268,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0092.jpg,Hole,0.0217,0.0239,0.9317,0.0227
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0095.jpg,Hole,0.0241,0.024,0.9262,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0098.jpg,Hole,0.0235,0.0228,0.9288,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0101.jpg,Hole,0.0217,0.022,0.9316,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0104.jpg,Hole,0.0246,0.0219,0.9283,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0107.jpg,Hole,0.025,0.0248,0.9253,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0110.jpg,Hole,0.0237,0.0247,0.9268,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0113.jpg,Hole,0.0259,0.0256,0.9212,0.0273
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0116.jpg,Hole,0.023,0.0255,0.9267,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0119.jpg,Hole,0.0256,0.0274,0.9204,0.0266
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0122.jpg,Hole,0.0222,0.0255,0.927,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0125.jpg,Hole,0.0231,0.0247,0.9254,0.0268
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0128.jpg,Hole,0.0251,0.0258,0.9229,0.0262
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0131.jpg,Hole,0.0232,0.024,0.927,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0134.jpg,Hole,0.0226,0.0253,0.9277,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0137.jpg,Hole,0.0241,0.0252,0.9256,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0140.jpg,Hole,0.0221,0.0491,0.903,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0143.jpg,Hole,0.0231,0.0246,0.9272,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0146.jpg,Hole,0.0257,0.0254,0.9233,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0149.jpg,Hole,0.0251,0.0254,0.9258,0.0237
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0152.jpg,Hole,0.0241,0.0252,0.9256,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0155.jpg,Hole,0.0261,0.0239,0.9236,0.0264
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0158.jpg,Hole,0.0275,0.026,0.9179,0.0286
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0161.jpg,Hole,0.0237,0.0244,0.9259,0.026
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0164.jpg,Hole,0.0232,0.0241,0.9283,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0168.jpg,Hole,0.0241,0.0259,0.9226,0.0274
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0171.jpg,Hole,0.027,0.0282,0.9151,0.0297
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0174.jpg,Hole,0.0224,0.0241,0.9282,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0177.jpg,Hole,0.0207,0.0232,0.9305,0.0256
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0180.jpg,Hole,0.0259,0.0303,0.9176,0.0262
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0183.jpg,Hole,0.0223,0.0212,0.933,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0186.jpg,Hole,0.025,0.0263,0.9218,0.027
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0189.jpg,Hole,0.0245,0.0245,0.9251,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0192.jpg,Hole,0.023,0.0252,0.926,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0195.jpg,Hole,0.0253,0.0257,0.9208,0.0282
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0198.jpg,Hole,0.022,0.0223,0.9314,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0201.jpg,Hole,0.0229,0.0253,0.9257,0.0262
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0204.jpg,Hole,0.0246,0.0233,0.9249,0.0271
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0207.jpg,Hole,0.0345,0.0577,0.8811,0.0267
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0210.jpg,Hole,0.0237,0.0246,0.9277,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0213.jpg,Hole,0.0233,0.0243,0.9288,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0216.jpg,Hole,0.0232,0.0247,0.9259,0.0261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0220.jpg,Hole,0.0246,0.0266,0.9227,0.0261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0223.jpg,Hole,0.0248,0.0275,0.9204,0.0273
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_cube_07_L0226.jpg,Hole,0.022,0.0222,0.9335,0.0223
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0002.jpg,Hole,0.0254,0.0253,0.9242,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0005.jpg,Hole,0.0246,0.0263,0.9229,0.0262
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0008.jpg,Hole,0.0214,0.0206,0.9339,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0011.jpg,Hole,0.0224,0.0239,0.9297,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0014.jpg,Hole,0.0251,0.0249,0.925,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0017.jpg,Hole,0.0262,0.0265,0.9203,0.027
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0021.jpg,Hole,0.0241,0.0244,0.9256,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0024.jpg,Hole,0.0252,0.0249,0.9248,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0027.jpg,Hole,0.0229,0.0253,0.9262,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0030.jpg,Hole,0.0232,0.0245,0.9284,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0033.jpg,Hole,0.0214,0.0228,0.9329,0.023
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0036.jpg,Hole,0.0218,0.0244,0.9292,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0039.jpg,Hole,0.0235,0.025,0.9252,0.0262
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0042.jpg,Hole,0.0225,0.0239,0.9289,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0045.jpg,Hole,0.0211,0.0237,0.9314,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0048.jpg,Hole,0.0241,0.0245,0.9259,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0051.jpg,Hole,0.0242,0.0263,0.9237,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0054.jpg,Hole,0.0208,0.0202,0.9372,0.0218
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0058.jpg,Hole,0.0233,0.0247,0.9288,0.0232
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0061.jpg,Hole,0.0237,0.0248,0.9259,0.0256
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0065.jpg,Hole,0.022,0.021,0.9343,0.0227
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0068.jpg,Hole,0.0226,0.0245,0.9292,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0071.jpg,Hole,0.0252,0.0257,0.9244,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0074.jpg,Hole,0.0255,0.0247,0.9241,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0077.jpg,Hole,0.0242,0.0253,0.9254,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0080.jpg,Hole,0.0231,0.0228,0.93,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0083.jpg,Hole,0.024,0.0233,0.9278,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0086.jpg,Hole,0.0241,0.026,0.9234,0.0265
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0089.jpg,Hole,0.0226,0.0256,0.9276,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0093.jpg,Hole,0.0225,0.0237,0.9278,0.026
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0096.jpg,Hole,0.0226,0.0236,0.9294,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0099.jpg,Hole,0.0233,0.022,0.931,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0102.jpg,Hole,0.0217,0.0244,0.9306,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0105.jpg,Hole,0.0206,0.0243,0.931,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0108.jpg,Hole,0.024,0.0242,0.9268,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0111.jpg,Hole,0.0252,0.0244,0.9251,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0115.jpg,Hole,0.0252,0.0257,0.9224,0.0267
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0119.jpg,Hole,0.0232,0.0236,0.9284,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0122.jpg,Hole,0.0237,0.0261,0.9254,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0125.jpg,Hole,0.0225,0.0235,0.9299,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0128.jpg,Hole,0.0222,0.0243,0.9289,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0131.jpg,Hole,0.0223,0.0227,0.9314,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0134.jpg,Hole,0.0239,0.0251,0.9252,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0137.jpg,Hole,0.0232,0.0226,0.9307,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0141.jpg,Hole,0.0248,0.0251,0.9248,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0145.jpg,Hole,0.0231,0.0217,0.9304,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0148.jpg,Hole,0.0246,0.0247,0.9261,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0151.jpg,Hole,0.024,0.0224,0.9289,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0154.jpg,Hole,0.0235,0.0232,0.9295,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0157.jpg,Hole,0.0242,0.0234,0.9286,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0161.jpg,Hole,0.021,0.0222,0.9324,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0164.jpg,Hole,0.021,0.0248,0.9304,0.0237
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0168.jpg,Hole,0.0232,0.0242,0.927,0.0256
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0171.jpg,Hole,0.0252,0.0252,0.925,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0174.jpg,Hole,0.0241,0.0243,0.9249,0.0267
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0177.jpg,Hole,0.0257,0.0245,0.9243,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0180.jpg,Hole,0.0269,0.0241,0.9239,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0183.jpg,Hole,0.0235,0.0249,0.9262,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0186.jpg,Hole,0.0237,0.0259,0.9231,0.0273
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0190.jpg,Hole,0.0233,0.0232,0.93,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0193.jpg,Hole,0.02,0.0215,0.9355,0.023
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0196.jpg,Hole,0.0261,0.0246,0.9234,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0200.jpg,Hole,0.0218,0.0236,0.9305,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0203.jpg,Hole,0.0207,0.0219,0.9356,0.0218
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0206.jpg,Hole,0.0223,0.025,0.9278,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0209.jpg,Hole,0.0236,0.0246,0.9252,0.0266
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0212.jpg,Hole,0.0234,0.0233,0.9293,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0215.jpg,Hole,0.0235,0.024,0.927,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0219.jpg,Hole,0.0246,0.0229,0.9296,0.0228
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0222.jpg,Hole,0.024,0.0224,0.9292,0.0244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0225.jpg,Hole,0.0235,0.0245,0.9271,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0228.jpg,Hole,0.0257,0.0256,0.9232,0.0256
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0231.jpg,Hole,0.0222,0.0235,0.9302,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0234.jpg,Hole,0.0244,0.0229,0.9276,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0237.jpg,Hole,0.0237,0.0255,0.9258,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0245.jpg,Hole,0.0221,0.0223,0.9317,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0249.jpg,Hole,0.0194,0.0191,0.9393,0.0222
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0259.jpg,Hole,0.0224,0.0236,0.9292,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_84496bcf_L0267.jpg,Hole,0.0236,0.0234,0.9286,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0003.jpg,Hole,0.024,0.0244,0.9267,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0006.jpg,Hole,0.0238,0.0236,0.9276,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0009.jpg,Hole,0.0253,0.0277,0.9207,0.0263
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0013.jpg,Hole,0.0227,0.0226,0.9297,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0016.jpg,Hole,0.0255,0.024,0.9254,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0019.jpg,Hole,0.0234,0.0252,0.9272,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0022.jpg,Hole,0.0241,0.0234,0.9266,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0025.jpg,Hole,0.0235,0.0254,0.9252,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0028.jpg,Hole,0.0233,0.0221,0.9307,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0031.jpg,Hole,0.0231,0.0258,0.9268,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0034.jpg,Hole,0.0246,0.0246,0.9258,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0037.jpg,Hole,0.0245,0.026,0.9244,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0040.jpg,Hole,0.0225,0.0232,0.9309,0.0234
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0043.jpg,Hole,0.0233,0.0235,0.9286,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0048.jpg,Hole,0.0215,0.0228,0.932,0.0237
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0051.jpg,Hole,0.0229,0.0232,0.9282,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0054.jpg,Hole,0.0212,0.0228,0.932,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0057.jpg,Hole,0.0242,0.0262,0.923,0.0266
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0060.jpg,Hole,0.0258,0.0249,0.9238,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0063.jpg,Hole,0.0208,0.022,0.9347,0.0224
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0066.jpg,Hole,0.025,0.0255,0.9237,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0069.jpg,Hole,0.0259,0.0256,0.9224,0.0261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0072.jpg,Hole,0.0241,0.0249,0.9263,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0075.jpg,Hole,0.0294,0.0252,0.9202,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0080.jpg,Hole,0.0217,0.0218,0.9323,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0083.jpg,Hole,0.0238,0.0233,0.928,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0086.jpg,Hole,0.0247,0.023,0.9281,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0089.jpg,Hole,0.023,0.0259,0.926,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0092.jpg,Hole,0.0246,0.0245,0.9255,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0095.jpg,Hole,0.0254,0.0259,0.9235,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0098.jpg,Hole,0.0203,0.0229,0.9328,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0101.jpg,Hole,0.0229,0.0216,0.9314,0.0241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0104.jpg,Hole,0.0236,0.0228,0.9306,0.023
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0107.jpg,Hole,0.0217,0.0247,0.9298,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0110.jpg,Hole,0.0223,0.0237,0.9293,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0113.jpg,Hole,0.0246,0.0237,0.9269,0.0247
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0116.jpg,Hole,0.024,0.0251,0.9268,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0119.jpg,Hole,0.0227,0.0233,0.9307,0.0233
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0122.jpg,Hole,0.0227,0.0242,0.9274,0.0257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0125.jpg,Hole,0.0218,0.023,0.9306,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0128.jpg,Hole,0.0219,0.0248,0.9295,0.0237
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0133.jpg,Hole,0.025,0.0237,0.9263,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0136.jpg,Hole,0.0242,0.0228,0.9291,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0139.jpg,Hole,0.0235,0.024,0.9264,0.0261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0142.jpg,Hole,0.0253,0.0253,0.9222,0.0271
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0145.jpg,Hole,0.024,0.0247,0.9268,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0148.jpg,Hole,0.0226,0.0242,0.9287,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0151.jpg,Hole,0.026,0.0257,0.9234,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0154.jpg,Hole,0.0234,0.0213,0.9312,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0157.jpg,Hole,0.0242,0.0242,0.9257,0.0259
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0160.jpg,Hole,0.022,0.0226,0.9311,0.0243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0163.jpg,Hole,0.0238,0.025,0.9281,0.0231
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0166.jpg,Hole,0.023,0.0257,0.926,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0169.jpg,Hole,0.0249,0.0244,0.9253,0.0255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0172.jpg,Hole,0.0222,0.0226,0.932,0.0232
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0175.jpg,Hole,0.0253,0.026,0.9214,0.0273
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0178.jpg,Hole,0.0239,0.9191,0.0329,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0181.jpg,Hole,0.0219,0.023,0.9313,0.0238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0184.jpg,Hole,0.0211,0.0235,0.9315,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0188.jpg,Hole,0.0232,0.0235,0.9278,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0191.jpg,Hole,0.0225,0.0222,0.9299,0.0254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0194.jpg,Hole,0.0224,0.0224,0.9317,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0197.jpg,Hole,0.0231,0.0255,0.9274,0.0239
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0200.jpg,Hole,0.0235,0.0242,0.9272,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0203.jpg,Hole,0.0234,0.0246,0.9271,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0206.jpg,Hole,0.0233,0.0228,0.9295,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0209.jpg,Hole,0.0217,0.0381,0.9157,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0213.jpg,Hole,0.0236,0.0248,0.925,0.0266
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0216.jpg,Hole,0.0235,0.0242,0.9269,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0219.jpg,Hole,0.0241,0.0242,0.9264,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0222.jpg,Hole,0.025,0.0247,0.9257,0.0246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0225.jpg,Hole,0.0253,0.0236,0.9274,0.0237
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0228.jpg,Hole,0.0215,0.0241,0.9309,0.0235
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0231.jpg,Hole,0.0226,0.0241,0.9288,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0234.jpg,Hole,0.0236,0.0232,0.9282,0.025
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0237.jpg,Hole,0.0239,0.025,0.9256,0.0256
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0240.jpg,Hole,0.0241,0.0224,0.9282,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0243.jpg,Hole,0.0229,0.0221,0.9314,0.0236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0246.jpg,Hole,0.024,0.0242,0.9275,0.0242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0249.jpg,Hole,0.0239,0.0237,0.9276,0.0248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0252.jpg,Hole,0.0264,0.0237,0.9241,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0255.jpg,Hole,0.0223,0.0271,0.9244,0.0262
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0258.jpg,Hole,0.0236,0.0243,0.9281,0.024
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0261.jpg,Hole,0.0236,0.0256,0.9262,0.0245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0264.jpg,Hole,0.0239,0.0243,0.9265,0.0253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0267.jpg,Hole,0.0222,0.0249,0.9277,0.0252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0270.jpg,Hole,0.0231,0.0237,0.9283,0.0249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0273.jpg,Hole,0.0252,0.0257,0.924,0.0251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0281.jpg,Hole,0.0203,0.022,0.9347,0.023
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0286.jpg,Hole,0.0224,0.0231,0.9287,0.0258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0296.jpg,Hole,0.024,0.0238,0.9251,0.0271
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Hole Leaves/v8anom_fix_eafda190_L0301.jpg,Hole,0.0235,0.0253,0.9245,0.0266
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0005.jpg,Yellow,0.0229,0.0259,0.0247,0.9265
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0008.jpg,Yellow,0.0238,0.0244,0.0258,0.926
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0011.jpg,Yellow,0.0232,0.025,0.0257,0.9261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0015.jpg,Yellow,0.0239,0.0257,0.0252,0.9251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0018.jpg,Yellow,0.0246,0.0262,0.0288,0.9204
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0022.jpg,Yellow,0.0247,0.0272,0.0271,0.921
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0026.jpg,Yellow,0.024,0.025,0.0265,0.9245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0032.jpg,Yellow,0.0251,0.0276,0.0278,0.9195
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0035.jpg,Yellow,0.0219,0.0226,0.0233,0.9322
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0038.jpg,Yellow,0.0236,0.0259,0.0249,0.9256
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0041.jpg,Yellow,0.0271,0.0253,0.0266,0.9211
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0044.jpg,Yellow,0.0237,0.0242,0.0266,0.9255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0047.jpg,Yellow,0.0227,0.0231,0.0239,0.9303
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0050.jpg,Yellow,0.0249,0.026,0.0261,0.9231
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0053.jpg,Yellow,0.0225,0.0213,0.0242,0.932
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0056.jpg,Yellow,0.0235,0.0236,0.0245,0.9283
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0059.jpg,Yellow,0.0227,0.0249,0.0271,0.9253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0062.jpg,Yellow,0.0243,0.0247,0.0266,0.9243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0065.jpg,Yellow,0.0229,0.0243,0.024,0.9288
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0068.jpg,Yellow,0.0221,0.0214,0.0244,0.9321
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0071.jpg,Yellow,0.0243,0.0293,0.028,0.9185
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0074.jpg,Yellow,0.0233,0.026,0.0268,0.9239
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0077.jpg,Yellow,0.0261,0.0265,0.0279,0.9195
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0081.jpg,Yellow,0.0203,0.0242,0.0227,0.9328
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0084.jpg,Yellow,0.0239,0.0249,0.027,0.9241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0087.jpg,Yellow,0.0244,0.0267,0.0267,0.9221
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0090.jpg,Yellow,0.0252,0.0263,0.0249,0.9236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0093.jpg,Yellow,0.0239,0.025,0.025,0.9261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0096.jpg,Yellow,0.0229,0.023,0.0237,0.9304
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0099.jpg,Yellow,0.0247,0.0264,0.0248,0.9241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0103.jpg,Yellow,0.0245,0.0259,0.0254,0.9242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0106.jpg,Yellow,0.0251,0.0273,0.0268,0.9207
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0109.jpg,Yellow,0.0247,0.0261,0.0266,0.9226
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0112.jpg,Yellow,0.0252,0.0267,0.0269,0.9213
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0115.jpg,Yellow,0.0238,0.0231,0.0254,0.9277
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0118.jpg,Yellow,0.0211,0.0239,0.0249,0.9301
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0123.jpg,Yellow,0.026,0.0262,0.0267,0.9211
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0127.jpg,Yellow,0.0219,0.0281,0.0244,0.9256
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0132.jpg,Yellow,0.0254,0.0271,0.0269,0.9206
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0136.jpg,Yellow,0.0231,0.0256,0.0258,0.9255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0139.jpg,Yellow,0.0249,0.0253,0.0258,0.924
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0145.jpg,Yellow,0.0254,0.0245,0.0255,0.9246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0149.jpg,Yellow,0.0234,0.0255,0.0262,0.9249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0152.jpg,Yellow,0.0239,0.0253,0.0254,0.9254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_camfix_02_L0157.jpg,Yellow,0.024,0.0246,0.0268,0.9246
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0003.jpg,Yellow,0.0225,0.0263,0.0227,0.9284
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0007.jpg,Yellow,0.0238,0.0249,0.0249,0.9264
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0010.jpg,Yellow,0.0227,0.0247,0.0235,0.9291
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0014.jpg,Yellow,0.0233,0.0235,0.0255,0.9278
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0017.jpg,Yellow,0.0227,0.0233,0.0234,0.9307
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0020.jpg,Yellow,0.0237,0.0247,0.0241,0.9274
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0023.jpg,Yellow,0.0223,0.0229,0.026,0.9288
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0026.jpg,Yellow,0.0218,0.026,0.0251,0.9271
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0029.jpg,Yellow,0.0231,0.0226,0.0259,0.9283
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0032.jpg,Yellow,0.0241,0.0247,0.0271,0.924
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0036.jpg,Yellow,0.0232,0.0262,0.0254,0.9251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0039.jpg,Yellow,0.0241,0.0236,0.0247,0.9276
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0042.jpg,Yellow,0.0234,0.0239,0.0244,0.9283
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0045.jpg,Yellow,0.0225,0.0235,0.0243,0.9297
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0049.jpg,Yellow,0.0232,0.0236,0.0239,0.9294
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0052.jpg,Yellow,0.0243,0.0215,0.0236,0.9305
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0055.jpg,Yellow,0.0243,0.0284,0.0346,0.9128
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0060.jpg,Yellow,0.0233,0.0248,0.0249,0.927
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0063.jpg,Yellow,0.024,0.0255,0.0254,0.9251
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0066.jpg,Yellow,0.0233,0.0223,0.0242,0.9302
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0069.jpg,Yellow,0.0245,0.026,0.025,0.9245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0072.jpg,Yellow,0.0241,0.0248,0.0244,0.9267
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0075.jpg,Yellow,0.0225,0.0252,0.0269,0.9254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0078.jpg,Yellow,0.0246,0.0239,0.0255,0.9261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0081.jpg,Yellow,0.0238,0.0243,0.0236,0.9284
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0084.jpg,Yellow,0.024,0.0245,0.0259,0.9257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0087.jpg,Yellow,0.0234,0.0239,0.0241,0.9287
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0090.jpg,Yellow,0.0256,0.0241,0.0259,0.9245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0093.jpg,Yellow,0.0246,0.0234,0.0256,0.9264
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0096.jpg,Yellow,0.0231,0.0253,0.0264,0.9252
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0099.jpg,Yellow,0.0234,0.0237,0.0257,0.9272
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0102.jpg,Yellow,0.0223,0.0244,0.0254,0.9279
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0105.jpg,Yellow,0.022,0.0235,0.0257,0.9288
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0108.jpg,Yellow,0.0224,0.0233,0.024,0.9303
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0111.jpg,Yellow,0.0254,0.0262,0.0255,0.9229
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0114.jpg,Yellow,0.0264,0.0266,0.0272,0.9198
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0117.jpg,Yellow,0.0242,0.0259,0.0251,0.9249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0120.jpg,Yellow,0.0226,0.0229,0.0238,0.9306
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0123.jpg,Yellow,0.0244,0.0226,0.024,0.929
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0126.jpg,Yellow,0.0207,0.0245,0.0244,0.9304
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0129.jpg,Yellow,0.0241,0.0231,0.0236,0.9292
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0132.jpg,Yellow,0.0229,0.025,0.0241,0.9279
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0135.jpg,Yellow,0.023,0.0244,0.0247,0.9278
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0138.jpg,Yellow,0.0248,0.0252,0.0264,0.9236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0141.jpg,Yellow,0.0277,0.0242,0.0265,0.9217
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0144.jpg,Yellow,0.0241,0.026,0.0259,0.9239
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0147.jpg,Yellow,0.0234,0.0255,0.024,0.927
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0150.jpg,Yellow,0.024,0.0228,0.0247,0.9285
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0153.jpg,Yellow,0.0224,0.0238,0.0235,0.9303
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0156.jpg,Yellow,0.022,0.0215,0.0238,0.9327
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0159.jpg,Yellow,0.024,0.0252,0.0248,0.926
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0162.jpg,Yellow,0.0222,0.023,0.0243,0.9305
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0165.jpg,Yellow,0.023,0.0234,0.025,0.9286
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0169.jpg,Yellow,0.0242,0.0278,0.028,0.92
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0172.jpg,Yellow,0.0258,0.0238,0.0234,0.9271
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0175.jpg,Yellow,0.0207,0.0257,0.0251,0.9285
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0178.jpg,Yellow,0.0218,0.0258,0.0242,0.9282
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0181.jpg,Yellow,0.0239,0.0253,0.0247,0.9261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0184.jpg,Yellow,0.0233,0.0232,0.0229,0.9306
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0187.jpg,Yellow,0.0231,0.0261,0.0254,0.9254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0190.jpg,Yellow,0.0234,0.0253,0.0242,0.9271
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0193.jpg,Yellow,0.0221,0.0234,0.0248,0.9297
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0196.jpg,Yellow,0.0224,0.0227,0.0241,0.9308
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0199.jpg,Yellow,0.0228,0.024,0.0248,0.9283
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0202.jpg,Yellow,0.0239,0.0266,0.026,0.9236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0205.jpg,Yellow,0.024,0.0407,0.0267,0.9086
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0208.jpg,Yellow,0.0241,0.024,0.0262,0.9257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0211.jpg,Yellow,0.0216,0.0235,0.023,0.9319
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0214.jpg,Yellow,0.0219,0.0221,0.0237,0.9323
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0218.jpg,Yellow,0.0216,0.0288,0.0232,0.9264
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0221.jpg,Yellow,0.0226,0.0262,0.0238,0.9274
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_cube_07_L0224.jpg,Yellow,0.0211,0.0466,0.0283,0.904
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0003.jpg,Yellow,0.0409,0.0202,0.7503,0.1886
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0006.jpg,Yellow,0.0251,0.0287,0.0258,0.9204
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0009.jpg,Yellow,0.0219,0.0218,0.0241,0.9322
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0012.jpg,Yellow,0.0233,0.0265,0.0295,0.9207
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0015.jpg,Yellow,0.025,0.0266,0.0334,0.915
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0018.jpg,Yellow,0.0245,0.027,0.0261,0.9225
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0022.jpg,Yellow,0.0224,0.0231,0.0247,0.9298
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0025.jpg,Yellow,0.0238,0.0245,0.0247,0.927
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0028.jpg,Yellow,0.0242,0.0271,0.0297,0.919
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0031.jpg,Yellow,0.0229,0.0256,0.0252,0.9263
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0034.jpg,Yellow,0.0239,0.0236,0.0247,0.9279
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0037.jpg,Yellow,0.0226,0.0258,0.026,0.9256
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0040.jpg,Yellow,0.0229,0.0251,0.0254,0.9265
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0043.jpg,Yellow,0.023,0.0242,0.0256,0.9272
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0046.jpg,Yellow,0.0227,0.0234,0.0246,0.9293
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0049.jpg,Yellow,0.0241,0.0244,0.0259,0.9256
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0052.jpg,Yellow,0.024,0.0251,0.0251,0.9258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0055.jpg,Yellow,0.0248,0.0245,0.0264,0.9243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0059.jpg,Yellow,0.0248,0.0255,0.0254,0.9243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0062.jpg,Yellow,0.0216,0.0248,0.0216,0.9321
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0066.jpg,Yellow,0.0239,0.0241,0.0276,0.9244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0069.jpg,Yellow,0.0211,0.0229,0.0229,0.9331
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0072.jpg,Yellow,0.0215,0.023,0.0243,0.9313
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0075.jpg,Yellow,0.022,0.0262,0.0262,0.9256
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0078.jpg,Yellow,0.0204,0.0258,0.0231,0.9306
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0081.jpg,Yellow,0.0246,0.0258,0.0271,0.9225
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0084.jpg,Yellow,0.0263,0.0248,0.0255,0.9234
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0087.jpg,Yellow,0.0242,0.0231,0.0257,0.927
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0090.jpg,Yellow,0.0254,0.0244,0.0266,0.9236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0094.jpg,Yellow,0.0255,0.0269,0.0292,0.9184
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0097.jpg,Yellow,0.0232,0.0235,0.0235,0.9297
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0100.jpg,Yellow,0.021,0.0245,0.024,0.9305
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0103.jpg,Yellow,0.0242,0.0265,0.027,0.9222
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0106.jpg,Yellow,0.0232,0.0236,0.0239,0.9293
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0109.jpg,Yellow,0.0224,0.0235,0.0237,0.9304
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0113.jpg,Yellow,0.0244,0.0248,0.0247,0.9261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0116.jpg,Yellow,0.0227,0.0268,0.0255,0.925
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0120.jpg,Yellow,0.0241,0.0256,0.0263,0.924
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0123.jpg,Yellow,0.0247,0.0261,0.0257,0.9236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0126.jpg,Yellow,0.0255,0.0259,0.0264,0.9222
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0129.jpg,Yellow,0.0228,0.0241,0.0234,0.9296
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0132.jpg,Yellow,0.0235,0.025,0.0252,0.9263
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0135.jpg,Yellow,0.0219,0.0261,0.0255,0.9266
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0138.jpg,Yellow,0.0267,0.0257,0.0283,0.9194
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0142.jpg,Yellow,0.0235,0.026,0.0258,0.9248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0146.jpg,Yellow,0.0231,0.0259,0.0261,0.9249
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0149.jpg,Yellow,0.0214,0.0248,0.0238,0.93
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0152.jpg,Yellow,0.025,0.026,0.0273,0.9217
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0155.jpg,Yellow,0.0229,0.0237,0.023,0.9304
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0158.jpg,Yellow,0.024,0.0246,0.0249,0.9265
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0162.jpg,Yellow,0.0214,0.023,0.0239,0.9316
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0165.jpg,Yellow,0.0232,0.0251,0.0244,0.9273
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0169.jpg,Yellow,0.0231,0.0246,0.0244,0.9279
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0172.jpg,Yellow,0.0231,0.0274,0.0269,0.9226
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0175.jpg,Yellow,0.0225,0.0257,0.026,0.9259
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0178.jpg,Yellow,0.0223,0.0242,0.0239,0.9296
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0181.jpg,Yellow,0.022,0.028,0.0241,0.9259
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0184.jpg,Yellow,0.0234,0.0244,0.0247,0.9275
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0187.jpg,Yellow,0.0241,0.0239,0.0264,0.9257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0191.jpg,Yellow,0.0231,0.0229,0.0251,0.9289
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0194.jpg,Yellow,0.0226,0.0224,0.0244,0.9305
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0198.jpg,Yellow,0.0234,0.026,0.0239,0.9267
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0201.jpg,Yellow,0.0231,0.0238,0.0273,0.9258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0204.jpg,Yellow,0.0218,0.0251,0.0248,0.9283
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0207.jpg,Yellow,0.0246,0.0253,0.0266,0.9235
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0210.jpg,Yellow,0.0226,0.0239,0.0233,0.9301
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0213.jpg,Yellow,0.0236,0.0244,0.0257,0.9263
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0217.jpg,Yellow,0.0245,0.0242,0.026,0.9253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0220.jpg,Yellow,0.0226,0.0221,0.0259,0.9293
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0223.jpg,Yellow,0.0252,0.0267,0.026,0.9221
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0226.jpg,Yellow,0.0228,0.0258,0.0253,0.9261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0229.jpg,Yellow,0.0225,0.0247,0.025,0.9279
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0232.jpg,Yellow,0.0239,0.0249,0.0245,0.9267
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0235.jpg,Yellow,0.024,0.0272,0.0253,0.9236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0238.jpg,Yellow,0.0238,0.025,0.0264,0.9248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0247.jpg,Yellow,0.0237,0.0243,0.0263,0.9257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0250.jpg,Yellow,0.0244,0.0242,0.025,0.9263
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0261.jpg,Yellow,0.0241,0.0297,0.0257,0.9205
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_84496bcf_L0268.jpg,Yellow,0.0245,0.0251,0.0243,0.9261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0001.jpg,Yellow,0.0198,0.0347,0.0223,0.9233
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0004.jpg,Yellow,0.0255,0.0255,0.0257,0.9233
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0007.jpg,Yellow,0.021,0.0235,0.0242,0.9313
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0010.jpg,Yellow,0.024,0.0251,0.0256,0.9253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0014.jpg,Yellow,0.0223,0.023,0.025,0.9297
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0017.jpg,Yellow,0.0218,0.0232,0.0239,0.9311
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0020.jpg,Yellow,0.0261,0.1258,0.0239,0.8242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0023.jpg,Yellow,0.0232,0.0238,0.0243,0.9287
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0026.jpg,Yellow,0.0217,0.0397,0.0248,0.9137
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0029.jpg,Yellow,0.0203,0.0212,0.0233,0.9352
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0032.jpg,Yellow,0.0223,0.025,0.026,0.9266
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0035.jpg,Yellow,0.024,0.0256,0.0251,0.9253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0038.jpg,Yellow,0.0231,0.0246,0.0259,0.9265
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0041.jpg,Yellow,0.0245,0.0256,0.0255,0.9244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0044.jpg,Yellow,0.0238,0.0239,0.0265,0.9259
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0049.jpg,Yellow,0.021,0.0234,0.0234,0.9323
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0052.jpg,Yellow,0.0234,0.0303,0.0285,0.9178
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0055.jpg,Yellow,0.0222,0.0232,0.0236,0.931
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0058.jpg,Yellow,0.0229,0.0277,0.0257,0.9237
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0061.jpg,Yellow,0.02,0.022,0.023,0.935
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0064.jpg,Yellow,0.024,0.0252,0.0254,0.9255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0067.jpg,Yellow,0.025,0.0252,0.025,0.9248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0070.jpg,Yellow,0.0237,0.0263,0.0264,0.9236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0073.jpg,Yellow,0.0236,0.0259,0.0252,0.9254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0076.jpg,Yellow,0.0245,0.0255,0.0262,0.9238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0081.jpg,Yellow,0.0314,0.0336,0.2411,0.6939
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0084.jpg,Yellow,0.021,0.0242,0.0246,0.9302
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0087.jpg,Yellow,0.0236,0.0255,0.0255,0.9254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0090.jpg,Yellow,0.0235,0.0251,0.0254,0.926
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0093.jpg,Yellow,0.024,0.0258,0.0249,0.9253
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0096.jpg,Yellow,0.0236,0.0235,0.0264,0.9265
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0099.jpg,Yellow,0.0218,0.0252,0.0247,0.9284
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0102.jpg,Yellow,0.0226,0.0231,0.024,0.9303
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0105.jpg,Yellow,0.027,0.027,0.0276,0.9184
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0108.jpg,Yellow,0.0217,0.9113,0.0245,0.0426
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0111.jpg,Yellow,0.0224,0.0248,0.0253,0.9274
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0114.jpg,Yellow,0.0244,0.0233,0.0264,0.9259
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0117.jpg,Yellow,0.0237,0.025,0.0246,0.9267
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0120.jpg,Yellow,0.0242,0.0233,0.0262,0.9263
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0123.jpg,Yellow,0.0249,0.0259,0.0258,0.9234
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0126.jpg,Yellow,0.0245,0.0262,0.0248,0.9245
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0129.jpg,Yellow,0.023,0.0247,0.0227,0.9296
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0134.jpg,Yellow,0.0242,0.0279,0.0268,0.9211
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0137.jpg,Yellow,0.0238,0.0249,0.0246,0.9266
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0140.jpg,Yellow,0.0227,0.0268,0.0267,0.9238
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0143.jpg,Yellow,0.0234,0.0243,0.026,0.9263
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0146.jpg,Yellow,0.0225,0.0261,0.0257,0.9257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0149.jpg,Yellow,0.0234,0.0255,0.0254,0.9257
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0152.jpg,Yellow,0.0236,0.0266,0.0256,0.9242
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0155.jpg,Yellow,0.0249,0.0228,0.0258,0.9265
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0158.jpg,Yellow,0.0239,0.0246,0.026,0.9254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0161.jpg,Yellow,0.0236,0.0244,0.026,0.926
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0164.jpg,Yellow,0.0224,0.0249,0.0237,0.9291
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0167.jpg,Yellow,0.0234,0.0256,0.0255,0.9255
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0170.jpg,Yellow,0.0212,0.0223,0.0234,0.933
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0173.jpg,Yellow,0.0233,0.027,0.0265,0.9232
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0176.jpg,Yellow,0.0231,0.0244,0.0254,0.9271
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0179.jpg,Yellow,0.0216,0.0226,0.0246,0.9311
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0182.jpg,Yellow,0.0234,0.0248,0.0241,0.9277
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0186.jpg,Yellow,0.0214,0.0254,0.0244,0.9289
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0189.jpg,Yellow,0.0236,0.0258,0.0243,0.9263
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0192.jpg,Yellow,0.0244,0.0268,0.0263,0.9225
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0195.jpg,Yellow,0.0245,0.0251,0.0253,0.925
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0198.jpg,Yellow,0.0238,0.0235,0.0234,0.9293
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0201.jpg,Yellow,0.025,0.0256,0.0272,0.9223
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0204.jpg,Yellow,0.0222,0.0265,0.0244,0.9269
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0207.jpg,Yellow,0.0209,0.0225,0.0231,0.9334
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0210.jpg,Yellow,0.0237,0.0266,0.0261,0.9236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0214.jpg,Yellow,0.0251,0.0249,0.0273,0.9227
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0217.jpg,Yellow,0.0219,0.0233,0.0247,0.9302
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0220.jpg,Yellow,0.0246,0.0241,0.027,0.9243
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0223.jpg,Yellow,0.0229,0.0242,0.0231,0.9298
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0226.jpg,Yellow,0.0233,0.0255,0.0251,0.9262
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0229.jpg,Yellow,0.025,0.0266,0.0269,0.9215
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0232.jpg,Yellow,0.0232,0.0247,0.0245,0.9275
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0235.jpg,Yellow,0.0241,0.0252,0.025,0.9258
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0238.jpg,Yellow,0.024,0.025,0.0248,0.9262
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0241.jpg,Yellow,0.0234,0.0225,0.024,0.9302
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0244.jpg,Yellow,0.0231,0.0265,0.0254,0.925
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0247.jpg,Yellow,0.0235,0.0243,0.0254,0.9268
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0250.jpg,Yellow,0.023,0.0217,0.0246,0.9306
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0253.jpg,Yellow,0.0229,0.0244,0.0248,0.9278
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0256.jpg,Yellow,0.0239,0.0252,0.0254,0.9254
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0259.jpg,Yellow,0.0234,0.0262,0.0256,0.9248
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0262.jpg,Yellow,0.0246,0.0253,0.0257,0.9244
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0265.jpg,Yellow,0.0246,0.0255,0.0263,0.9236
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0268.jpg,Yellow,0.0234,0.0273,0.0252,0.9241
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0271.jpg,Yellow,0.0217,0.023,0.0239,0.9314
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0274.jpg,Yellow,0.0249,0.0235,0.0255,0.9261
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0283.jpg,Yellow,0.0235,0.0254,0.0245,0.9266
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0290.jpg,Yellow,0.022,0.0225,0.0231,0.9324
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0298.jpg,Yellow,0.0233,0.0248,0.0252,0.9267
+/helpai-storage/model/v8_reallabel/cls/data/test_real_anom/Yellow Leaves/v8anom_fix_eafda190_L0305.jpg,Yellow,0.023,0.0238,0.0252,0.928

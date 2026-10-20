@@ -1,0 +1,13 @@
+nohup: ignoring input
+fix_eafda190.jpg {'Black Spot': 2, 'Fresh': 145, 'Hole': 3, 'Yellow': 1, 'Hold': 36}
+judged non-Fresh: 31 -> /helpai-storage/model/v8_reallabel/v7boxes/stage2
+fix_eafda190.jpg {'Black Spot': 3, 'Fresh': 218, 'Hole': 1, 'Yellow': 3, 'Hold': 26}
+judged non-Fresh: 61 -> /helpai-storage/model/v8_reallabel/pipeline/v8_stage1/stage2
+fix_eafda190.jpg {'Black Spot': 4, 'Fresh': 267, 'Hole': 1, 'Yellow': 5, 'Hold': 31}
+judged non-Fresh: 85 -> /helpai-storage/model/v8_reallabel/pipeline/v8_stage1_nobg/stage2
+| 실행 | GT | 예측 | 재현율 | 정밀도 | 합쳐진 | 보류율 | 판정 대상 | 판정 대상 중 정답 잎 1:1 | 정답 잎 중 판정까지 간 비율 | 판정 대상 오탐 | 판정 대상 합쳐짐 | 2단계 분포 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| v7 | 880 | 617 | 0.595 | 0.851 | 96 | 0.199 | 494 | 442 | 0.502 | 52 | 62 | {'Fresh': 482, 'Hole': 6, 'Yellow': 3, 'Black Spot': 3} |
+| v8 | 880 | 722 | 0.61 | 0.767 | 23 | 0.093 | 655 | 493 | 0.56 | 140 | 20 | {'Fresh': 638, 'Yellow': 7, 'Hole': 4, 'Black Spot': 6} |
+| v8_nobg | 880 | 963 | 0.802 | 0.769 | 31 | 0.102 | 865 | 643 | 0.731 | 179 | 26 | {'Fresh': 841, 'Yellow': 13, 'Hole': 4, 'Black Spot': 7} |
+PIPE_DONE

@@ -1,0 +1,171 @@
+[
+ {
+  "n": 1,
+  "id": "camfix_02_L0006",
+  "photo": "camfix_02.jpg",
+  "p_yellow": 0.919,
+  "p_fresh": 0.036,
+  "box": [
+   108,
+   44,
+   145,
+   99
+  ]
+ },
+ {
+  "n": 2,
+  "id": "camfix_02_L0086",
+  "photo": "camfix_02.jpg",
+  "p_yellow": 0.897,
+  "p_fresh": 0.052,
+  "box": [
+   167,
+   544,
+   200,
+   569
+  ]
+ },
+ {
+  "n": 3,
+  "id": "camfix_02_L0084",
+  "photo": "camfix_02.jpg",
+  "p_yellow": 0.887,
+  "p_fresh": 0.065,
+  "box": [
+   124,
+   547,
+   166,
+   600
+  ]
+ },
+ {
+  "n": 4,
+  "id": "camfix_02_L0149",
+  "photo": "camfix_02.jpg",
+  "p_yellow": 0.667,
+  "p_fresh": 0.273,
+  "box": [
+   830,
+   671,
+   866,
+   710
+  ]
+ },
+ {
+  "n": 5,
+  "id": "cube_07_L0058",
+  "photo": "cube_07.jpg",
+  "p_yellow": 0.917,
+  "p_fresh": 0.039,
+  "box": [
+   13,
+   553,
+   79,
+   609
+  ]
+ },
+ {
+  "n": 6,
+  "id": "fix_84496bcf_L0204",
+  "photo": "fix_84496bcf.jpg",
+  "p_yellow": 0.911,
+  "p_fresh": 0.043,
+  "box": [
+   1191,
+   1589,
+   1256,
+   1648
+  ]
+ },
+ {
+  "n": 7,
+  "id": "fix_84496bcf_L0034",
+  "photo": "fix_84496bcf.jpg",
+  "p_yellow": 0.809,
+  "p_fresh": 0.122,
+  "box": [
+   1615,
+   540,
+   1669,
+   580
+  ]
+ },
+ {
+  "n": 8,
+  "id": "fix_84496bcf_L0013",
+  "photo": "fix_84496bcf.jpg",
+  "p_yellow": 0.625,
+  "p_fresh": 0.291,
+  "box": [
+   1215,
+   279,
+   1293,
+   354
+  ]
+ },
+ {
+  "n": 9,
+  "id": "fix_eafda190_L0004",
+  "photo": "fix_eafda190.jpg",
+  "p_yellow": 0.897,
+  "p_fresh": 0.045,
+  "box": [
+   1262,
+   257,
+   1333,
+   321
+  ]
+ },
+ {
+  "n": 10,
+  "id": "fix_eafda190_L0005",
+  "photo": "fix_eafda190.jpg",
+  "p_yellow": 0.895,
+  "p_fresh": 0.048,
+  "box": [
+   1264,
+   222,
+   1341,
+   263
+  ]
+ },
+ {
+  "n": 11,
+  "id": "fix_eafda190_L0026",
+  "photo": "fix_eafda190.jpg",
+  "p_yellow": 0.8,
+  "p_fresh": 0.131,
+  "box": [
+   57,
+   571,
+   126,
+   626
+  ]
+ },
+ {
+  "n": 12,
+  "id": "fix_eafda190_L0226",
+  "photo": "fix_eafda190.jpg",
+  "p_yellow": 0.677,
+  "p_fresh": 0.272,
+  "box": [
+   1209,
+   1571,
+   1273,
+   1630
+  ]
+ },
+ {
+  "n": 13,
+  "id": "fix_eafda190_L0051",
+  "photo": "fix_eafda190.jpg",
+  "p_yellow": 0.541,
+  "p_fresh": 0.381,
+  "box": [
+   176,
+   597,
+   225,
+   641
+  ]
+ }
+]

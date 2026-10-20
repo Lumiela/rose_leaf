@@ -1,0 +1,5 @@
+fix_84496bcf {'gt': 260, 'pred': 233, 'tp': 192, 'fp': 39, 'ignored': 2, 'merged': 10, 'recall': 0.738, 'precision': 0.831}
+fix_eafda190 {'gt': 263, 'pred': 267, 'tp': 212, 'fp': 45, 'ignored': 10, 'merged': 9, 'recall': 0.806, 'precision': 0.825}
+camfix_02 {'gt': 154, 'pred': 137, 'tp': 85, 'fp': 41, 'ignored': 11, 'merged': 13, 'recall': 0.552, 'precision': 0.675}
+cube_07 {'gt': 203, 'pred': 208, 'tp': 173, 'fp': 30, 'ignored': 5, 'merged': 9, 'recall': 0.852, 'precision': 0.852}
+TOTAL {'gt': 880, 'pred': 845, 'tp': 662, 'fp': 155, 'ignored': 28, 'merged': 41, 'recall': 0.752, 'precision': 0.81, 'f1': 0.78} 18s

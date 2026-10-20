@@ -1,0 +1,211 @@
+nohup: ignoring input
+27
+PHOTO camfix_02 1280x720 L=72 T=720 windows=3 v7_boxes=87
+  box prompts -> 86 masks 4.0s
+  seed round 0: seeds=27 accepted=12 4.4s
+  seed round 1: seeds=20 accepted=3 4.7s
+  seed round 2: seeds=19 accepted=0 5.0s
+  thin dropped=0 auto-split=9 9.3s
+DONE camfix_02: instances=106 9.5s
+REVIEW camfix_02: instances=106 flagged=37 tiles=6 R=504 uncovered_px=140117
+PHOTO cube_05 1500x2000 L=113 T=1024 windows=6 v7_boxes=123
+  box prompts -> 123 masks 4.6s
+  seed round 0: seeds=15 accepted=8 5.3s
+  seed round 1: seeds=13 accepted=2 5.9s
+  seed round 2: seeds=12 accepted=1 6.5s
+  thin dropped=0 auto-split=5 37.4s
+DONE cube_05: instances=137 38.5s
+REVIEW cube_05: instances=137 flagged=33 tiles=9 R=791 uncovered_px=174294
+PHOTO cube_06 1500x2000 L=95 T=950 windows=6 v7_boxes=113
+  box prompts -> 113 masks 4.9s
+  seed round 0: seeds=28 accepted=15 5.8s
+  seed round 1: seeds=23 accepted=6 6.5s
+  seed round 2: seeds=21 accepted=2 7.1s
+  thin dropped=0 auto-split=13 44.6s
+DONE cube_06: instances=147 47.8s
+REVIEW cube_06: instances=147 flagged=35 tiles=12 R=665 uncovered_px=210074
+PHOTO cube_07 1500x2000 L=106 T=1024 windows=6 v7_boxes=158
+  box prompts -> 158 masks 4.6s
+  seed round 0: seeds=21 accepted=15 5.4s
+  seed round 1: seeds=16 accepted=7 6.1s
+  seed round 2: seeds=15 accepted=4 6.7s
+  thin dropped=0 auto-split=7 40.1s
+DONE cube_07: instances=189 41.6s
+REVIEW cube_07: instances=189 flagged=47 tiles=9 R=745 uncovered_px=209731
+PHOTO cube_08 1500x2000 L=99 T=990 windows=6 v7_boxes=131
+  box prompts -> 131 masks 4.8s
+  seed round 0: seeds=20 accepted=13 5.5s
+  seed round 1: seeds=15 accepted=6 6.1s
+  seed round 2: seeds=11 accepted=2 6.6s
+  thin dropped=0 auto-split=7 43.1s
+DONE cube_08: instances=156 44.3s
+REVIEW cube_08: instances=156 flagged=46 tiles=12 R=693 uncovered_px=191394
+PHOTO cube_09 1500x2000 L=79 T=790 windows=12 v7_boxes=134
+  box prompts -> 134 masks 4.9s
+  seed round 0: seeds=26 accepted=22 5.9s
+  seed round 1: seeds=18 accepted=10 6.6s
+  seed round 2: seeds=19 accepted=7 7.3s
+  thin dropped=1 auto-split=11 28.4s
+DONE cube_09: instances=182 29.9s
+REVIEW cube_09: instances=182 flagged=31 tiles=20 R=553 uncovered_px=125361
+PHOTO cube_10 1500x2000 L=86 T=855 windows=12 v7_boxes=86
+  box prompts -> 86 masks 4.5s
+  seed round 0: seeds=57 accepted=52 6.1s
+  seed round 1: seeds=29 accepted=19 7.0s
+  seed round 2: seeds=26 accepted=17 7.9s
+  thin dropped=0 auto-split=9 27.5s
+DONE cube_10: instances=180 28.9s
+REVIEW cube_10: instances=180 flagged=21 tiles=12 R=598 uncovered_px=242337
+PHOTO cube_11 1500x2000 L=80 T=800 windows=12 v7_boxes=112
+  box prompts -> 112 masks 4.9s
+  seed round 0: seeds=27 accepted=23 5.8s
+  seed round 1: seeds=18 accepted=12 6.6s
+  seed round 2: seeds=15 accepted=7 7.3s
+  thin dropped=0 auto-split=5 23.6s
+DONE cube_11: instances=158 25.0s
+REVIEW cube_11: instances=158 flagged=15 tiles=15 R=560 uncovered_px=133215
+PHOTO cube_12 1500x2000 L=83 T=830 windows=12 v7_boxes=139
+  box prompts -> 139 masks 5.2s
+  seed round 0: seeds=30 accepted=24 6.0s
+  seed round 1: seeds=20 accepted=6 6.6s
+  seed round 2: seeds=19 accepted=1 7.2s
+  thin dropped=0 auto-split=7 25.9s
+DONE cube_12: instances=175 27.3s
+REVIEW cube_12: instances=175 flagged=22 tiles=12 R=581 uncovered_px=120575
+PHOTO cube_13 2000x1500 L=92 T=920 windows=9 v7_boxes=180
+  box prompts -> 180 masks 4.7s
+  seed round 0: seeds=36 accepted=23 5.7s
+  seed round 1: seeds=25 accepted=6 6.5s
+  seed round 2: seeds=24 accepted=4 7.3s
+  thin dropped=0 auto-split=16 51.0s
+DONE cube_13: instances=230 52.8s
+REVIEW cube_13: instances=230 flagged=45 tiles=12 R=644 uncovered_px=250709
+PHOTO cube_14 1500x2000 L=83 T=830 windows=12 v7_boxes=139
+  box prompts -> 139 masks 4.7s
+  seed round 0: seeds=29 accepted=24 5.7s
+  seed round 1: seeds=17 accepted=6 6.4s
+  seed round 2: seeds=18 accepted=3 7.2s
+  thin dropped=0 auto-split=5 27.7s
+DONE cube_14: instances=177 29.3s
+REVIEW cube_14: instances=177 flagged=23 tiles=12 R=581 uncovered_px=130751
+PHOTO cube_15 2000x1500 L=106 T=1024 windows=6 v7_boxes=95
+  box prompts -> 95 masks 4.5s
+  seed round 0: seeds=30 accepted=18 5.3s
+  seed round 1: seeds=20 accepted=2 5.9s
+  seed round 2: seeds=18 accepted=0 6.5s
+  thin dropped=1 auto-split=8 38.6s
+DONE cube_15: instances=120 39.7s
+REVIEW cube_15: instances=120 flagged=27 tiles=9 R=742 uncovered_px=297385
+PHOTO cube_16 2000x1500 L=88 T=875 windows=12 v7_boxes=198
+  box prompts -> 196 masks 7.8s
+  seed round 0: seeds=38 accepted=29 9.5s
+  seed round 1: seeds=23 accepted=8 10.3s
+  seed round 2: seeds=19 accepted=1 11.0s
+  thin dropped=0 auto-split=18 53.4s
+DONE cube_16: instances=251 56.6s
+REVIEW cube_16: instances=251 flagged=59 tiles=12 R=612 uncovered_px=268528
+PHOTO cube_17 2000x1500 L=92 T=925 windows=9 v7_boxes=188
+  box prompts -> 188 masks 5.5s
+  seed round 0: seeds=29 accepted=26 6.6s
+  seed round 1: seeds=19 accepted=6 7.3s
+  seed round 2: seeds=19 accepted=4 8.0s
+  thin dropped=0 auto-split=12 53.9s
+DONE cube_17: instances=231 56.0s
+REVIEW cube_17: instances=231 flagged=52 tiles=12 R=647 uncovered_px=228014
+PHOTO cube_18 1500x2000 L=81 T=810 windows=12 v7_boxes=97
+  box prompts -> 97 masks 5.1s
+  seed round 0: seeds=20 accepted=14 5.8s
+  seed round 1: seeds=15 accepted=4 6.4s
+  seed round 2: seeds=15 accepted=2 7.0s
+  thin dropped=0 auto-split=11 32.9s
+DONE cube_18: instances=130 34.1s
+REVIEW cube_18: instances=130 flagged=23 tiles=12 R=567 uncovered_px=171684
+PHOTO cube_19 1500x2000 L=94 T=940 windows=6 v7_boxes=173
+  box prompts -> 173 masks 5.2s
+  seed round 0: seeds=18 accepted=11 5.9s
+  seed round 1: seeds=10 accepted=3 6.4s
+  seed round 2: seeds=10 accepted=2 6.9s
+  thin dropped=1 auto-split=3 31.4s
+DONE cube_19: instances=189 33.2s
+REVIEW cube_19: instances=189 flagged=30 tiles=12 R=658 uncovered_px=130387
+PHOTO cube_20 1500x2000 L=86 T=860 windows=12 v7_boxes=99
+  box prompts -> 99 masks 5.0s
+  seed round 0: seeds=23 accepted=17 5.9s
+  seed round 1: seeds=20 accepted=8 6.6s
+  seed round 2: seeds=16 accepted=1 7.1s
+  thin dropped=0 auto-split=10 36.8s
+DONE cube_20: instances=134 38.1s
+REVIEW cube_20: instances=134 flagged=21 tiles=12 R=602 uncovered_px=129797
+PHOTO cube_21 2000x1500 L=86 T=860 windows=12 v7_boxes=73
+  box prompts -> 73 masks 5.2s
+  seed round 0: seeds=76 accepted=68 7.1s
+  seed round 1: seeds=30 accepted=19 8.1s
+  seed round 2: seeds=30 accepted=17 9.2s
+  thin dropped=0 auto-split=8 40.7s
+DONE cube_21: instances=184 42.5s
+REVIEW cube_21: instances=184 flagged=29 tiles=12 R=602 uncovered_px=326193
+PHOTO cube_22 2000x1500 L=83 T=830 windows=12 v7_boxes=156
+  box prompts -> 155 masks 5.7s
+  seed round 0: seeds=37 accepted=27 7.9s
+  seed round 1: seeds=27 accepted=10 8.8s
+  seed round 2: seeds=25 accepted=8 9.7s
+  thin dropped=0 auto-split=11 44.6s
+DONE cube_22: instances=211 46.6s
+REVIEW cube_22: instances=211 flagged=37 tiles=12 R=581 uncovered_px=181979
+PHOTO fix_44be89e5 2560x1920 L=179 T=1024 windows=12 v7_boxes=74
+  box prompts -> 74 masks 7.5s
+  seed round 0: seeds=0 accepted=0 8.7s
+  seed round 1: seeds=0 accepted=0 9.5s
+  seed round 2: seeds=0 accepted=0 10.1s
+  thin dropped=0 auto-split=11 192.3s
+DONE fix_44be89e5: instances=88 195.8s
+REVIEW fix_44be89e5: instances=88 flagged=64 tiles=12 R=900 uncovered_px=514009
+PHOTO fix_84496bcf 2560x1920 L=130 T=1024 windows=12 v7_boxes=185
+  box prompts -> 185 masks 15.4s
+  seed round 0: seeds=24 accepted=17 17.2s
+  seed round 1: seeds=20 accepted=14 18.7s
+  seed round 2: seeds=20 accepted=7 19.8s
+  thin dropped=1 auto-split=13 220.1s
+DONE fix_84496bcf: instances=231 224.9s
+REVIEW fix_84496bcf: instances=231 flagged=34 tiles=12 R=900 uncovered_px=478577
+PHOTO fix_8b90aa7e 2048x1536 L=128 T=1024 windows=6 v7_boxes=83
+  box prompts -> 83 masks 11.5s
+  seed round 0: seeds=14 accepted=7 12.2s
+  seed round 1: seeds=12 accepted=4 13.0s
+  seed round 2: seeds=12 accepted=2 13.7s
+  thin dropped=0 auto-split=10 82.4s
+DONE fix_8b90aa7e: instances=103 83.6s
+REVIEW fix_8b90aa7e: instances=103 flagged=28 tiles=6 R=896 uncovered_px=498657
+PHOTO fix_92ccc604 2048x1536 L=100 T=1000 windows=6 v7_boxes=152
+  box prompts -> 152 masks 15.0s
+  seed round 0: seeds=21 accepted=19 16.3s
+  seed round 1: seeds=19 accepted=13 17.4s
+  seed round 2: seeds=21 accepted=11 18.3s
+  thin dropped=3 auto-split=12 56.6s
+DONE fix_92ccc604: instances=202 58.8s
+REVIEW fix_92ccc604: instances=202 flagged=21 tiles=12 R=700 uncovered_px=443303
+PHOTO fix_c6485924 2560x1920 L=129 T=1024 windows=12 v7_boxes=198
+  box prompts -> 197 masks 14.4s
+  seed round 0: seeds=32 accepted=23 15.6s
+  seed round 1: seeds=20 accepted=9 16.6s
+  seed round 2: seeds=17 accepted=5 17.4s
+  thin dropped=0 auto-split=14 162.2s
+DONE fix_c6485924: instances=252 166.1s
+REVIEW fix_c6485924: instances=252 flagged=56 tiles=12 R=900 uncovered_px=535103
+PHOTO fix_ce7a654f 2048x1536 L=100 T=1000 windows=6 v7_boxes=154
+  box prompts -> 154 masks 8.3s
+  seed round 0: seeds=26 accepted=20 9.3s
+  seed round 1: seeds=22 accepted=12 10.1s
+  seed round 2: seeds=21 accepted=6 11.0s
+  thin dropped=1 auto-split=13 61.0s
+DONE fix_ce7a654f: instances=202 63.0s
+REVIEW fix_ce7a654f: instances=202 flagged=25 tiles=12 R=700 uncovered_px=444425
+PHOTO fix_eafda190 2560x1920 L=130 T=1024 windows=12 v7_boxes=187
+  box prompts -> 187 masks 6.5s
+  seed round 0: seeds=29 accepted=25 8.0s
+  seed round 1: seeds=15 accepted=6 9.1s
+  seed round 2: seeds=16 accepted=5 10.1s
+  thin dropped=1 auto-split=12 108.0s
+DONE fix_eafda190: instances=231 111.4s
+REVIEW fix_eafda190: instances=231 flagged=35 tiles=12 R=900 uncovered_px=497825
+ALL_DRAFTS_DONE

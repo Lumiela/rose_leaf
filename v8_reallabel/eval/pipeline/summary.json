@@ -1,0 +1,224 @@
+{
+ "v7": {
+  "total": {
+   "gt": 880,
+   "pred": 617,
+   "tp": 524,
+   "fp": 92,
+   "ign": 1,
+   "merged": 96,
+   "judged": 494,
+   "judged_tp": 442,
+   "judged_fp": 52,
+   "judged_merged": 62,
+   "cls": {
+    "Fresh": 482,
+    "Hole": 6,
+    "Yellow": 3,
+    "Black Spot": 3
+   },
+   "recall": 0.595,
+   "precision": 0.851,
+   "judged_share_of_gt": 0.502,
+   "hold_rate": 0.199
+  },
+  "per_photo": {
+   "fix_84496bcf": {
+    "gt": 260,
+    "pred": 185,
+    "tp": 156,
+    "fp": 29,
+    "ign": 0,
+    "merged": 28,
+    "judged": 147,
+    "judged_tp": 130,
+    "judged_fp": 17,
+    "judged_merged": 18
+   },
+   "fix_eafda190": {
+    "gt": 263,
+    "pred": 187,
+    "tp": 164,
+    "fp": 23,
+    "ign": 0,
+    "merged": 25,
+    "judged": 151,
+    "judged_tp": 138,
+    "judged_fp": 13,
+    "judged_merged": 18
+   },
+   "camfix_02": {
+    "gt": 154,
+    "pred": 87,
+    "tp": 67,
+    "fp": 19,
+    "ign": 1,
+    "merged": 19,
+    "judged": 63,
+    "judged_tp": 50,
+    "judged_fp": 13,
+    "judged_merged": 12
+   },
+   "cube_07": {
+    "gt": 203,
+    "pred": 158,
+    "tp": 137,
+    "fp": 21,
+    "ign": 0,
+    "merged": 24,
+    "judged": 133,
+    "judged_tp": 124,
+    "judged_fp": 9,
+    "judged_merged": 14
+   }
+  }
+ },
+ "v8": {
+  "total": {
+   "gt": 880,
+   "pred": 722,
+   "tp": 537,
+   "fp": 163,
+   "ign": 22,
+   "merged": 23,
+   "judged": 655,
+   "judged_tp": 493,
+   "judged_fp": 140,
+   "judged_merged": 20,
+   "cls": {
+    "Fresh": 638,
+    "Yellow": 7,
+    "Hole": 4,
+    "Black Spot": 6
+   },
+   "recall": 0.61,
+   "precision": 0.767,
+   "judged_share_of_gt": 0.56,
+   "hold_rate": 0.093
+  },
+  "per_photo": {
+   "fix_84496bcf": {
+    "gt": 260,
+    "pred": 240,
+    "tp": 188,
+    "fp": 50,
+    "ign": 2,
+    "merged": 6,
+    "judged": 214,
+    "judged_tp": 169,
+    "judged_fp": 43,
+    "judged_merged": 4
+   },
+   "fix_eafda190": {
+    "gt": 263,
+    "pred": 251,
+    "tp": 180,
+    "fp": 54,
+    "ign": 17,
+    "merged": 5,
+    "judged": 225,
+    "judged_tp": 160,
+    "judged_fp": 48,
+    "judged_merged": 5
+   },
+   "camfix_02": {
+    "gt": 154,
+    "pred": 72,
+    "tp": 43,
+    "fp": 27,
+    "ign": 2,
+    "merged": 7,
+    "judged": 63,
+    "judged_tp": 40,
+    "judged_fp": 21,
+    "judged_merged": 6
+   },
+   "cube_07": {
+    "gt": 203,
+    "pred": 159,
+    "tp": 126,
+    "fp": 32,
+    "ign": 1,
+    "merged": 5,
+    "judged": 153,
+    "judged_tp": 124,
+    "judged_fp": 28,
+    "judged_merged": 5
+   }
+  }
+ },
+ "v8_nobg": {
+  "total": {
+   "gt": 880,
+   "pred": 963,
+   "tp": 706,
+   "fp": 212,
+   "ign": 45,
+   "merged": 31,
+   "judged": 865,
+   "judged_tp": 643,
+   "judged_fp": 179,
+   "judged_merged": 26,
+   "cls": {
+    "Fresh": 841,
+    "Yellow": 13,
+    "Hole": 4,
+    "Black Spot": 7
+   },
+   "recall": 0.802,
+   "precision": 0.769,
+   "judged_share_of_gt": 0.731,
+   "hold_rate": 0.102
+  },
+  "per_photo": {
+   "fix_84496bcf": {
+    "gt": 260,
+    "pred": 269,
+    "tp": 213,
+    "fp": 53,
+    "ign": 3,
+    "merged": 7,
+    "judged": 237,
+    "judged_tp": 188,
+    "judged_fp": 46,
+    "judged_merged": 5
+   },
+   "fix_eafda190": {
+    "gt": 263,
+    "pred": 308,
+    "tp": 222,
+    "fp": 65,
+    "ign": 21,
+    "merged": 8,
+    "judged": 277,
+    "judged_tp": 199,
+    "judged_fp": 58,
+    "judged_merged": 7
+   },
+   "camfix_02": {
+    "gt": 154,
+    "pred": 159,
+    "tp": 95,
+    "fp": 49,
+    "ign": 15,
+    "merged": 9,
+    "judged": 134,
+    "judged_tp": 85,
+    "judged_fp": 35,
+    "judged_merged": 8
+   },
+   "cube_07": {
+    "gt": 203,
+    "pred": 227,
+    "tp": 176,
+    "fp": 45,
+    "ign": 6,
+    "merged": 7,
+    "judged": 217,
+    "judged_tp": 171,
+    "judged_fp": 40,
+    "judged_merged": 6
+   }
+  }
+ }
+}

@@ -1,0 +1,7 @@
+PHOTO camfix_01 1280x720 L=67 T=670 windows=6 v7_boxes=101
+  box prompts -> 101 masks 4.7s
+  seed round 0: seeds=18 accepted=11 5.4s
+  seed round 1: seeds=16 accepted=5 6.0s
+  seed round 2: seeds=18 accepted=3 6.6s
+  thin dropped=1 auto-split=10 10.2s
+DONE camfix_01: instances=131 10.6s

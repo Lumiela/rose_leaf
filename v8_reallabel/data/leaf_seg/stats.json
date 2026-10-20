@@ -1,0 +1,245 @@
+{
+ "fix_84496bcf": {
+  "split": "test",
+  "leaves": 260,
+  "tiles": 9,
+  "tile_instances": 632,
+  "R": 1040,
+  "L": 130.0,
+  "reviewed": true
+ },
+ "fix_eafda190": {
+  "split": "test",
+  "leaves": 263,
+  "tiles": 9,
+  "tile_instances": 638,
+  "R": 1040,
+  "L": 130.0,
+  "reviewed": true
+ },
+ "camfix_02": {
+  "split": "test",
+  "leaves": 154,
+  "tiles": 6,
+  "tile_instances": 373,
+  "R": 576,
+  "L": 72.0,
+  "reviewed": true
+ },
+ "cube_07": {
+  "split": "test",
+  "leaves": 203,
+  "tiles": 9,
+  "tile_instances": 543,
+  "R": 852,
+  "L": 106.5,
+  "reviewed": true
+ },
+ "fix_8b90aa7e": {
+  "split": "val",
+  "leaves": 120,
+  "tiles": 6,
+  "tile_instances": 330,
+  "R": 1024,
+  "L": 128.0,
+  "reviewed": false
+ },
+ "cube_11": {
+  "split": "val",
+  "leaves": 166,
+  "tiles": 12,
+  "tile_instances": 364,
+  "R": 640,
+  "L": 80.0,
+  "reviewed": false
+ },
+ "cube_17": {
+  "split": "val",
+  "leaves": 241,
+  "tiles": 12,
+  "tile_instances": 700,
+  "R": 740,
+  "L": 92.5,
+  "reviewed": false
+ },
+ "camfix_01": {
+  "split": "train",
+  "leaves": 137,
+  "tiles": 6,
+  "tile_instances": 308,
+  "R": 536,
+  "L": 67.0,
+  "reviewed": true
+ },
+ "fix_c6485924": {
+  "split": "train",
+  "leaves": 267,
+  "tiles": 9,
+  "tile_instances": 626,
+  "R": 1032,
+  "L": 129.0,
+  "reviewed": false
+ },
+ "fix_92ccc604": {
+  "split": "train",
+  "leaves": 234,
+  "tiles": 12,
+  "tile_instances": 715,
+  "R": 800,
+  "L": 100.0,
+  "reviewed": false
+ },
+ "fix_ce7a654f": {
+  "split": "train",
+  "leaves": 234,
+  "tiles": 12,
+  "tile_instances": 729,
+  "R": 800,
+  "L": 100.0,
+  "reviewed": false
+ },
+ "fix_44be89e5": {
+  "split": "train",
+  "leaves": 95,
+  "tiles": 6,
+  "tile_instances": 278,
+  "R": 1432,
+  "L": 179.0,
+  "reviewed": false
+ },
+ "cube_05": {
+  "split": "train",
+  "leaves": 139,
+  "tiles": 6,
+  "tile_instances": 338,
+  "R": 904,
+  "L": 113.0,
+  "reviewed": false
+ },
+ "cube_06": {
+  "split": "train",
+  "leaves": 162,
+  "tiles": 12,
+  "tile_instances": 360,
+  "R": 760,
+  "L": 95.0,
+  "reviewed": false
+ },
+ "cube_08": {
+  "split": "train",
+  "leaves": 166,
+  "tiles": 12,
+  "tile_instances": 525,
+  "R": 792,
+  "L": 99.0,
+  "reviewed": false
+ },
+ "cube_09": {
+  "split": "train",
+  "leaves": 189,
+  "tiles": 12,
+  "tile_instances": 380,
+  "R": 632,
+  "L": 79.0,
+  "reviewed": false
+ },
+ "cube_10": {
+  "split": "train",
+  "leaves": 202,
+  "tiles": 12,
+  "tile_instances": 360,
+  "R": 684,
+  "L": 85.5,
+  "reviewed": false
+ },
+ "cube_12": {
+  "split": "train",
+  "leaves": 177,
+  "tiles": 12,
+  "tile_instances": 381,
+  "R": 664,
+  "L": 83.0,
+  "reviewed": false
+ },
+ "cube_13": {
+  "split": "train",
+  "leaves": 244,
+  "tiles": 12,
+  "tile_instances": 633,
+  "R": 736,
+  "L": 92.0,
+  "reviewed": false
+ },
+ "cube_14": {
+  "split": "train",
+  "leaves": 183,
+  "tiles": 12,
+  "tile_instances": 387,
+  "R": 664,
+  "L": 83.0,
+  "reviewed": false
+ },
+ "cube_15": {
+  "split": "train",
+  "leaves": 132,
+  "tiles": 9,
+  "tile_instances": 388,
+  "R": 848,
+  "L": 106.0,
+  "reviewed": false
+ },
+ "cube_16": {
+  "split": "train",
+  "leaves": 270,
+  "tiles": 12,
+  "tile_instances": 667,
+  "R": 700,
+  "L": 87.5,
+  "reviewed": false
+ },
+ "cube_18": {
+  "split": "train",
+  "leaves": 148,
+  "tiles": 12,
+  "tile_instances": 255,
+  "R": 648,
+  "L": 81.0,
+  "reviewed": false
+ },
+ "cube_19": {
+  "split": "train",
+  "leaves": 192,
+  "tiles": 12,
+  "tile_instances": 470,
+  "R": 752,
+  "L": 94.0,
+  "reviewed": false
+ },
+ "cube_20": {
+  "split": "train",
+  "leaves": 139,
+  "tiles": 12,
+  "tile_instances": 279,
+  "R": 688,
+  "L": 86.0,
+  "reviewed": false
+ },
+ "cube_22": {
+  "split": "train",
+  "leaves": 221,
+  "tiles": 12,
+  "tile_instances": 491,
+  "R": 664,
+  "L": 83.0,
+  "reviewed": false
+ },
+ "cube_21": {
+  "split": "train",
+  "leaves": 233,
+  "tiles": 12,
+  "tile_instances": 526,
+  "R": 688,
+  "L": 86.0,
+  "reviewed": false
+ }
+}

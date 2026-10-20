@@ -1,0 +1,127 @@
+{
+ "model": "/helpai-storage/model/v8_reallabel/cls/runs/effnetv2s",
+ "thresholds": {
+  "s_min": 0,
+  "d_max": 1.01,
+  "L_min": 0,
+  "t_anom": 0.5,
+  "t_fresh": 0.7
+ },
+ "total": {
+  "FRESH": 5456,
+  "HOLD_SHAPE": 381,
+  "UNKNOWN": 2
+ },
+ "per_photo": {
+  "camfix_01.jpg": {
+   "FRESH": 128,
+   "HOLD_SHAPE": 12,
+   "UNKNOWN": 1
+  },
+  "camfix_02.jpg": {
+   "HOLD_SHAPE": 25,
+   "FRESH": 134
+  },
+  "cube_05.jpg": {
+   "FRESH": 161,
+   "HOLD_SHAPE": 8
+  },
+  "cube_06.jpg": {
+   "FRESH": 193,
+   "HOLD_SHAPE": 16
+  },
+  "cube_07.jpg": {
+   "HOLD_SHAPE": 10,
+   "FRESH": 217
+  },
+  "cube_08.jpg": {
+   "FRESH": 175,
+   "HOLD_SHAPE": 10
+  },
+  "cube_09.jpg": {
+   "FRESH": 179,
+   "HOLD_SHAPE": 5
+  },
+  "cube_10.jpg": {
+   "FRESH": 201,
+   "HOLD_SHAPE": 18
+  },
+  "cube_11.jpg": {
+   "FRESH": 180,
+   "HOLD_SHAPE": 1
+  },
+  "cube_12.jpg": {
+   "FRESH": 188,
+   "HOLD_SHAPE": 3
+  },
+  "cube_13.jpg": {
+   "HOLD_SHAPE": 30,
+   "FRESH": 244
+  },
+  "cube_14.jpg": {
+   "FRESH": 198,
+   "HOLD_SHAPE": 2
+  },
+  "cube_15.jpg": {
+   "FRESH": 163,
+   "HOLD_SHAPE": 3
+  },
+  "cube_16.jpg": {
+   "HOLD_SHAPE": 24,
+   "FRESH": 294
+  },
+  "cube_17.jpg": {
+   "FRESH": 258,
+   "HOLD_SHAPE": 14
+  },
+  "cube_18.jpg": {
+   "FRESH": 160,
+   "HOLD_SHAPE": 9
+  },
+  "cube_19.jpg": {
+   "FRESH": 201,
+   "HOLD_SHAPE": 10
+  },
+  "cube_20.jpg": {
+   "FRESH": 151,
+   "HOLD_SHAPE": 11
+  },
+  "cube_21.jpg": {
+   "FRESH": 246,
+   "HOLD_SHAPE": 10
+  },
+  "cube_22.jpg": {
+   "FRESH": 218,
+   "HOLD_SHAPE": 2
+  },
+  "fix_44be89e5.jpg": {
+   "FRESH": 110,
+   "HOLD_SHAPE": 8
+  },
+  "fix_84496bcf.jpg": {
+   "FRESH": 237,
+   "HOLD_SHAPE": 32
+  },
+  "fix_8b90aa7e.jpg": {
+   "HOLD_SHAPE": 1,
+   "FRESH": 200,
+   "UNKNOWN": 1
+  },
+  "fix_92ccc604.jpg": {
+   "HOLD_SHAPE": 27,
+   "FRESH": 233
+  },
+  "fix_c6485924.jpg": {
+   "HOLD_SHAPE": 34,
+   "FRESH": 279
+  },
+  "fix_ce7a654f.jpg": {
+   "FRESH": 231,
+   "HOLD_SHAPE": 25
+  },
+  "fix_eafda190.jpg": {
+   "FRESH": 277,
+   "HOLD_SHAPE": 31
+  }
+ }
+}

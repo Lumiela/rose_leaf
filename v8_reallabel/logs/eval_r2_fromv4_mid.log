@@ -1,0 +1,6 @@
+nohup: ignoring input
+fix_84496bcf {'gt': 260, 'pred': 266, 'tp': 211, 'fp': 52, 'ignored': 3, 'merged': 13, 'recall': 0.812, 'precision': 0.802}
+fix_eafda190 {'gt': 263, 'pred': 284, 'tp': 216, 'fp': 58, 'ignored': 10, 'merged': 6, 'recall': 0.821, 'precision': 0.788}
+camfix_02 {'gt': 154, 'pred': 180, 'tp': 105, 'fp': 57, 'ignored': 18, 'merged': 10, 'recall': 0.682, 'precision': 0.648}
+cube_07 {'gt': 203, 'pred': 231, 'tp': 177, 'fp': 49, 'ignored': 5, 'merged': 8, 'recall': 0.872, 'precision': 0.783}
+TOTAL {'gt': 880, 'pred': 961, 'tp': 709, 'fp': 216, 'ignored': 36, 'merged': 37, 'recall': 0.806, 'precision': 0.766, 'f1': 0.785} 121s

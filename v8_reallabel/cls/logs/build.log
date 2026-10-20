@@ -1,0 +1,37 @@
+nohup: ignoring input
+camfix_01.jpg train
+camfix_02.jpg test
+cube_05.jpg train
+cube_06.jpg train
+cube_07.jpg test
+cube_08.jpg train
+cube_09.jpg train
+cube_10.jpg train
+cube_11.jpg val
+cube_12.jpg train
+cube_13.jpg train
+cube_14.jpg train
+cube_15.jpg train
+cube_16.jpg train
+cube_17.jpg val
+cube_18.jpg train
+cube_19.jpg train
+cube_20.jpg train
+cube_21.jpg train
+cube_22.jpg train
+fix_44be89e5.jpg train
+fix_84496bcf.jpg test
+fix_8b90aa7e.jpg val
+fix_92ccc604.jpg train
+fix_c6485924.jpg train
+fix_ce7a654f.jpg train
+fix_eafda190.jpg test
+synthetic linked 8487
+real: {'test/Fresh': 865, 'test_real_anom/Black': 288, 'test_real_anom/Hole': 288, 'test_real_anom/Yellow': 289, 'train/Black': 1318, 'train/Fresh': 3954, 'train/Hole': 1318, 'train/Yellow': 1318, 'val/Black': 213, 'val/Fresh': 639, 'val/Hole': 213, 'val/Yellow': 213}
+train {'Black': 3217, 'Fresh': 9838, 'Hole': 3205, 'Yellow': 2649}
+val {'Black': 369, 'Fresh': 1051, 'Hole': 343, 'Yellow': 225}
+test {'Black': 80, 'Fresh': 208, 'Hole': 67, 'Yellow': 7}
+test_deg {'Black': 80, 'Fresh': 208, 'Hole': 67, 'Yellow': 7}
+test_real {'Black': 0, 'Fresh': 865, 'Hole': 0, 'Yellow': 0}
+test_real_anom {'Black': 288, 'Fresh': 0, 'Hole': 288, 'Yellow': 289}
+BUILD_DONE

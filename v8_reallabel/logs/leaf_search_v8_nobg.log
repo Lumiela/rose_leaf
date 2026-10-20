@@ -1,0 +1,29 @@
+nohup: ignoring input
+PHOTO camfix_01.jpg 1280x720 L=53 raw=143 bg_dropped=0 leaves=141 merged_suspect(solidity<0.8)=0 border=12 4.9s
+PHOTO camfix_02.jpg 1280x720 L=53 raw=162 bg_dropped=0 leaves=159 merged_suspect(solidity<0.8)=1 border=24 0.9s
+PHOTO cube_05.jpg 1500x2000 L=82 raw=169 bg_dropped=0 leaves=169 merged_suspect(solidity<0.8)=3 border=5 2.2s
+PHOTO cube_06.jpg 1500x2000 L=61 raw=212 bg_dropped=0 leaves=209 merged_suspect(solidity<0.8)=2 border=14 1.9s
+PHOTO cube_07.jpg 1500x2000 L=84 raw=228 bg_dropped=0 leaves=227 merged_suspect(solidity<0.8)=4 border=6 2.8s
+PHOTO cube_08.jpg 1500x2000 L=77 raw=185 bg_dropped=0 leaves=185 merged_suspect(solidity<0.8)=2 border=8 1.9s
+PHOTO cube_09.jpg 1500x2000 L=64 raw=184 bg_dropped=0 leaves=184 merged_suspect(solidity<0.8)=3 border=2 1.8s
+PHOTO cube_10.jpg 1500x2000 L=64 raw=222 bg_dropped=0 leaves=219 merged_suspect(solidity<0.8)=2 border=18 1.7s
+PHOTO cube_11.jpg 1500x2000 L=64 raw=182 bg_dropped=0 leaves=181 merged_suspect(solidity<0.8)=1 border=0 1.7s
+PHOTO cube_12.jpg 1500x2000 L=66 raw=191 bg_dropped=0 leaves=191 merged_suspect(solidity<0.8)=2 border=1 1.8s
+PHOTO cube_13.jpg 2000x1500 L=70 raw=277 bg_dropped=0 leaves=274 merged_suspect(solidity<0.8)=5 border=26 2.8s
+PHOTO cube_14.jpg 1500x2000 L=67 raw=201 bg_dropped=0 leaves=200 merged_suspect(solidity<0.8)=0 border=2 2.0s
+PHOTO cube_15.jpg 2000x1500 L=84 raw=166 bg_dropped=0 leaves=166 merged_suspect(solidity<0.8)=2 border=1 2.1s
+PHOTO cube_16.jpg 2000x1500 L=67 raw=321 bg_dropped=0 leaves=318 merged_suspect(solidity<0.8)=2 border=22 3.0s
+PHOTO cube_17.jpg 2000x1500 L=76 raw=275 bg_dropped=0 leaves=272 merged_suspect(solidity<0.8)=6 border=8 2.7s
+PHOTO cube_18.jpg 1500x2000 L=59 raw=170 bg_dropped=0 leaves=169 merged_suspect(solidity<0.8)=2 border=7 1.6s
+PHOTO cube_19.jpg 1500x2000 L=83 raw=211 bg_dropped=0 leaves=211 merged_suspect(solidity<0.8)=6 border=4 2.3s
+PHOTO cube_20.jpg 1500x2000 L=61 raw=163 bg_dropped=0 leaves=162 merged_suspect(solidity<0.8)=4 border=7 1.5s
+PHOTO cube_21.jpg 2000x1500 L=63 raw=258 bg_dropped=0 leaves=256 merged_suspect(solidity<0.8)=0 border=10 2.1s
+PHOTO cube_22.jpg 2000x1500 L=64 raw=220 bg_dropped=0 leaves=220 merged_suspect(solidity<0.8)=2 border=0 2.0s
+PHOTO fix_44be89e5.jpg 2560x1920 L=113 raw=118 bg_dropped=0 leaves=118 merged_suspect(solidity<0.8)=2 border=6 2.8s
+PHOTO fix_84496bcf.jpg 2560x1920 L=104 raw=269 bg_dropped=0 leaves=269 merged_suspect(solidity<0.8)=7 border=25 3.7s
+PHOTO fix_8b90aa7e.jpg 2048x1536 L=84 raw=202 bg_dropped=0 leaves=202 merged_suspect(solidity<0.8)=0 border=1 2.3s
+PHOTO fix_92ccc604.jpg 2048x1536 L=80 raw=262 bg_dropped=0 leaves=260 merged_suspect(solidity<0.8)=1 border=26 2.5s
+PHOTO fix_c6485924.jpg 2560x1920 L=101 raw=313 bg_dropped=0 leaves=313 merged_suspect(solidity<0.8)=6 border=28 3.9s
+PHOTO fix_ce7a654f.jpg 2048x1536 L=79 raw=256 bg_dropped=0 leaves=256 merged_suspect(solidity<0.8)=1 border=24 2.4s
+PHOTO fix_eafda190.jpg 2560x1920 L=96 raw=308 bg_dropped=0 leaves=308 merged_suspect(solidity<0.8)=4 border=27 3.7s
+SAVED /helpai-storage/model/v8_reallabel/pipeline/v8_stage1_nobg total leaves 5839

@@ -1,0 +1,73 @@
+{
+ "note": "v8 scene groups (dedup 2026-10-15, real_inventory.py). Split by scene; duplicates of other files are not used. | 2026-10-15: cube_21 moved test->train (oblique view + pink light, SAM drafts unreliable; test focuses on top-down views).",
+ "dropped_duplicates": {
+  "camfix_03": "~camfix_01 (corr 0.999)",
+  "camfix_04": "= fix_c6485924 (lower res)",
+  "camfix_05": "= fix_92ccc604 (lower res)",
+  "rose_real": "= cube_22",
+  "rose_real2": "= cube_19",
+  "rose_real3": "= cube_07",
+  "92ccc604 v6 copy fc594329": "same",
+  "740c0173": "= fix_ce7a654f"
+ },
+ "groups": {
+  "g_camfix01": [
+   "camfix_01"
+  ],
+  "g_camfix02": [
+   "camfix_02"
+  ],
+  "g_c6485924": [
+   "fix_c6485924"
+  ],
+  "g_05": [
+   "fix_92ccc604",
+   "fix_ce7a654f"
+  ],
+  "g_8b90aa7e": [
+   "fix_8b90aa7e"
+  ],
+  "g_44be89e5": [
+   "fix_44be89e5"
+  ],
+  "g_84": [
+   "fix_84496bcf",
+   "fix_eafda190"
+  ]
+ },
+ "split": {
+  "test": [
+   "fix_84496bcf",
+   "fix_eafda190",
+   "camfix_02",
+   "cube_07"
+  ],
+  "val": [
+   "fix_8b90aa7e",
+   "cube_11",
+   "cube_17"
+  ],
+  "train": [
+   "camfix_01",
+   "fix_c6485924",
+   "fix_92ccc604",
+   "fix_ce7a654f",
+   "fix_44be89e5",
+   "cube_05",
+   "cube_06",
+   "cube_08",
+   "cube_09",
+   "cube_10",
+   "cube_12",
+   "cube_13",
+   "cube_14",
+   "cube_15",
+   "cube_16",
+   "cube_18",
+   "cube_19",
+   "cube_20",
+   "cube_22",
+   "cube_21"
+  ]
+ }
+}
