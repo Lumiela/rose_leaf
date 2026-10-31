@@ -1,0 +1,10 @@
+20261030_134337.jpg 1159 {'HOLD_SHAPE': 152, 'FRESH': 956, 'ANOMALY:Yellow': 21, 'ANOMALY:Black Spot': 3, 'UNKNOWN': 16, 'ANOMALY:Hole': 11} {'stage1_s': 5.47, 'stage2_s': 3.83}
+20261030_134346.jpg 829 {'HOLD_SHAPE': 102, 'ANOMALY:Hole': 12, 'FRESH': 694, 'UNKNOWN': 6, 'ANOMALY:Yellow': 13, 'ANOMALY:Black Spot': 2} {'stage1_s': 1.45, 'stage2_s': 3.0}
+20261030_134355.jpg 904 {'HOLD_SHAPE': 118, 'FRESH': 750, 'ANOMALY:Yellow': 17, 'UNKNOWN': 4, 'ANOMALY:Black Spot': 3, 'ANOMALY:Hole': 12} {'stage1_s': 1.64, 'stage2_s': 3.21}
+20261030_134839.jpg 1134 {'HOLD_SHAPE': 106, 'FRESH': 943, 'ANOMALY:Yellow': 55, 'UNKNOWN': 25, 'ANOMALY:Hole': 4, 'ANOMALY:Black Spot': 1} {'stage1_s': 2.25, 'stage2_s': 3.36}
+20261030_134851.jpg 930 {'ANOMALY:Hole': 14, 'HOLD_SHAPE': 88, 'FRESH': 780, 'ANOMALY:Yellow': 29, 'UNKNOWN': 16, 'ANOMALY:Black Spot': 3} {'stage1_s': 2.06, 'stage2_s': 3.02}
+20261030_134908.jpg 1421 {'HOLD_SHAPE': 155, 'FRESH': 1203, 'ANOMALY:Yellow': 29, 'UNKNOWN': 13, 'ANOMALY:Hole': 13, 'ANOMALY:Black Spot': 8} {'stage1_s': 2.68, 'stage2_s': 4.09}
+20261030_134937.jpg 1140 {'HOLD_SHAPE': 118, 'FRESH': 980, 'ANOMALY:Hole': 6, 'ANOMALY:Yellow': 20, 'UNKNOWN': 13, 'ANOMALY:Black Spot': 3} {'stage1_s': 2.24, 'stage2_s': 3.44}
+20261030_140433.jpg 1340 {'HOLD_SHAPE': 120, 'FRESH': 1189, 'UNKNOWN': 7, 'ANOMALY:Yellow': 14, 'ANOMALY:Hole': 8, 'ANOMALY:Black Spot': 2} {'stage1_s': 2.54, 'stage2_s': 4.13}
+20261030_141240.jpg 1369 {'HOLD_SHAPE': 117, 'FRESH': 1202, 'ANOMALY:Yellow': 34, 'ANOMALY:Hole': 9, 'UNKNOWN': 7} {'stage1_s': 2.96, 'stage2_s': 3.78}
+exit asis 0

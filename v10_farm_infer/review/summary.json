@@ -1,0 +1,24 @@
+{
+ "minirose": {
+  "photos": 9,
+  "HOLD_SHAPE": 1105,
+  "FRESH": 8943,
+  "UNKNOWN": 121,
+  "ANOMALY:Yellow": 257,
+  "ANOMALY:Black Spot": 24,
+  "leaves": 10456,
+  "ANOMALY:Hole": 6,
+  "flagged": 408
+ },
+ "blackspot": {
+  "photos": 13,
+  "HOLD_SHAPE": 424,
+  "FRESH": 3748,
+  "ANOMALY:Black Spot": 457,
+  "ANOMALY:Yellow": 312,
+  "ANOMALY:Hole": 337,
+  "UNKNOWN": 282,
+  "leaves": 5560,
+  "flagged": 1388
+ }
+}

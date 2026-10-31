@@ -1,0 +1,14 @@
+20261030_130111.jpg 981 {'HOLD_SHAPE': 56, 'FRESH': 695, 'ANOMALY:Black Spot': 92, 'ANOMALY:Yellow': 86, 'ANOMALY:Hole': 13, 'UNKNOWN': 39} {'stage1_s': 4.33, 'stage2_s': 2.93}
+20261030_130136.jpg 684 {'HOLD_SHAPE': 72, 'FRESH': 442, 'ANOMALY:Black Spot': 112, 'ANOMALY:Hole': 30, 'UNKNOWN': 25, 'ANOMALY:Yellow': 3} {'stage1_s': 1.27, 'stage2_s': 2.39}
+20261030_130150.jpg 504 {'FRESH': 344, 'HOLD_SHAPE': 49, 'ANOMALY:Hole': 22, 'ANOMALY:Black Spot': 46, 'ANOMALY:Yellow': 18, 'UNKNOWN': 25} {'stage1_s': 1.12, 'stage2_s': 1.92}
+20261030_130219.jpg 249 {'HOLD_SHAPE': 35, 'FRESH': 189, 'UNKNOWN': 11, 'ANOMALY:Black Spot': 7, 'ANOMALY:Yellow': 7} {'stage1_s': 0.71, 'stage2_s': 1.54}
+20261030_130337.jpg 63 {'HOLD_SHAPE': 19, 'ANOMALY:Black Spot': 6, 'FRESH': 32, 'ANOMALY:Hole': 1, 'UNKNOWN': 5} {'stage1_s': 0.58, 'stage2_s': 1.09}
+20261030_135307.jpg 259 {'HOLD_SHAPE': 14, 'FRESH': 185, 'ANOMALY:Black Spot': 18, 'ANOMALY:Hole': 18, 'ANOMALY:Yellow': 16, 'UNKNOWN': 8} {'stage1_s': 1.38, 'stage2_s': 1.19}
+20261030_135312.jpg 261 {'HOLD_SHAPE': 12, 'FRESH': 185, 'ANOMALY:Yellow': 18, 'UNKNOWN': 17, 'ANOMALY:Hole': 16, 'ANOMALY:Black Spot': 13} {'stage1_s': 1.37, 'stage2_s': 1.14}
+20261030_135317.jpg 124 {'HOLD_SHAPE': 10, 'ANOMALY:Hole': 7, 'FRESH': 75, 'ANOMALY:Yellow': 16, 'ANOMALY:Black Spot': 8, 'UNKNOWN': 8} {'stage1_s': 1.61, 'stage2_s': 0.77}
+20261030_135324.jpg 128 {'HOLD_SHAPE': 7, 'FRESH': 83, 'ANOMALY:Hole': 11, 'UNKNOWN': 14, 'ANOMALY:Yellow': 11, 'ANOMALY:Black Spot': 2} {'stage1_s': 0.8, 'stage2_s': 0.74}
+20261030_135332.jpg 671 {'FRESH': 437, 'HOLD_SHAPE': 37, 'ANOMALY:Yellow': 61, 'ANOMALY:Hole': 57, 'ANOMALY:Black Spot': 40, 'UNKNOWN': 39} {'stage1_s': 1.76, 'stage2_s': 2.11}
+20261030_135336.jpg 490 {'ANOMALY:Yellow': 58, 'HOLD_SHAPE': 28, 'FRESH': 314, 'ANOMALY:Black Spot': 19, 'ANOMALY:Hole': 48, 'UNKNOWN': 23} {'stage1_s': 1.58, 'stage2_s': 1.54}
+20261030_135342.jpg 672 {'HOLD_SHAPE': 52, 'FRESH': 434, 'ANOMALY:Hole': 72, 'UNKNOWN': 43, 'ANOMALY:Black Spot': 58, 'ANOMALY:Yellow': 13} {'stage1_s': 1.78, 'stage2_s': 1.99}
+20261030_135345.jpg 474 {'FRESH': 333, 'ANOMALY:Yellow': 5, 'HOLD_SHAPE': 33, 'UNKNOWN': 25, 'ANOMALY:Hole': 42, 'ANOMALY:Black Spot': 36} {'stage1_s': 1.31, 'stage2_s': 1.83}
+exit blackspot 0
