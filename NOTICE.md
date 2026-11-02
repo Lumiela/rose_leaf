@@ -9,7 +9,7 @@ Hojayfa, S. S., Islam, J., Mojumdar, M. U. (2024). *Disease Detection in Rose Le
 
 - 라이선스: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - 수정 내용: 배경 합성, 크기 조정, 합성 이상 추가 등
-- 클래스별 파일 수(1,379 / 932 / 881 / 174)가 일치해 이 데이터로 판단했습니다. **받은 곳이 맞는지 확인 후 이 문구를 확정합니다.**
+- 출처 확인: 이 데이터를 받아 사용했음을 확인했습니다(2026-11-02). 클래스별 파일 수(1,379 / 932 / 881 / 174)도 일치합니다.
 
 ## 직접 촬영한 사진
 `common/real_images*`, `v8_reallabel/inputs_20261019`, `v10_farm_infer/inputs` 등은 직접 촬영한 사진입니다.

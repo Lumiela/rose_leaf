@@ -4,7 +4,7 @@
 
 | 경로 | 파일 | 용량 | 내용 | 출처 |
 |---|---:|---:|---|---|
-| `common/Dataset` | 3,366 | 1,130MB | 잎 누끼 4클래스 (Fresh 1,379, Black Spot 932, Hole 881, Yellow 174) | 공개 데이터셋 |
+| `common/Dataset` | 3,366 | 1,130MB | 잎 누끼 4클래스 (Fresh 1,379, Black Spot 932, Hole 881, Yellow 174) | 공개 데이터셋 (Mendeley Data, CC BY 4.0) |
 | `common/real_images` | 3 | 1MB | 초기 재배대 사진 (`cube_22/19/07`과 중복) | 직접 촬영 |
 | `common/real_images_camfix` | 5 | 2MB | 고정 카메라 | 직접 촬영 |
 | `common/real_images_cube` | 18 | 8MB | 스마트폰 큐브 사진 | 직접 촬영 |
