@@ -1,7 +1,7 @@
 #!/bin/bash
 # Full comparison: download -> render -> 3 models -> compare. Each step continues even if a previous model fails.
 # Progress: v7_leafid/cls/progress.md (Markdown preview) and this terminal.  Log: v7_leafid/cls/logs/run_all.log
-cd /helpai-storage/model
+cd /helpai-storage/model_git
 S=v7_leafid/cls/scripts
 rm -f v7_leafid/cls/progress.json v7_leafid/cls/compare.md
 bash $S/download_weights.sh

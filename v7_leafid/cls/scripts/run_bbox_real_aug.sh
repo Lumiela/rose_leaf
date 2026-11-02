@@ -3,7 +3,7 @@
 # then all metrics (A1-A3 eval_gt, A4 + B4 eval_real_test, B synthetic test/test_deg via compare).
 # Progress: v7_leafid/cls/progress_bbox_real_aug.md and this terminal.  Log: v7_leafid/cls/logs/run_bbox_real_aug.log
 set -e
-cd /helpai-storage/model
+cd /helpai-storage/model_git
 S=v7_leafid/cls/scripts
 export CLS_VARIANT=bbox_real_aug
 rm -f v7_leafid/cls/progress_bbox_real_aug.json v7_leafid/cls/compare_bbox_real_aug.md

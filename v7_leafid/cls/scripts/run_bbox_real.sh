@@ -3,7 +3,7 @@
 #   A1-A3 camfix ground truth (eval_gt.py), A4 held-out phone photos (eval_real_test.py), B synthetic test/test_deg.
 # Progress: v7_leafid/cls/progress_bbox_real.md and this terminal.  Log: v7_leafid/cls/logs/run_bbox_real.log
 set -e
-cd /helpai-storage/model
+cd /helpai-storage/model_git
 S=v7_leafid/cls/scripts
 export CLS_VARIANT=bbox_real
 rm -f v7_leafid/cls/progress_bbox_real.json v7_leafid/cls/compare_bbox_real.md

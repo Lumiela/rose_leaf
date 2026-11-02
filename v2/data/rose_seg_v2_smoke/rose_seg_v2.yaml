@@ -1,4 +1,4 @@
-path: /helpai-storage/model/v2/data/rose_seg_v2_smoke
+path: /helpai-storage/model_git/v2/data/rose_seg_v2_smoke
 train: images/train
 val: images/val
 test: images/test

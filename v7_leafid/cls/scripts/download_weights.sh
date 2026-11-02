@@ -1,6 +1,6 @@
 #!/bin/bash
 # Download pretrained weights for the classifier comparison into common/weights (no package changes).
-cd /helpai-storage/model
+cd /helpai-storage/model_git
 P="python -u -c 'import sys; sys.path.insert(0,\"v7_leafid/cls/scripts\"); from cls_common import Progress as P; P.log(\"download\", sys.argv[1], sys.argv[2] if len(sys.argv)>2 else None)'"
 log() { python -c "import sys; sys.path.insert(0,'v7_leafid/cls/scripts'); from cls_common import Progress as P; P.log('download', sys.argv[1], sys.argv[2] if len(sys.argv)>2 else None)" "$@"; }
 W=common/weights

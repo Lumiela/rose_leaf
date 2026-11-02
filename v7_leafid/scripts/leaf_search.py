@@ -11,7 +11,7 @@
 #   Thresholds were set on 642 detections of 5 fixed-camera photos (2026-10-14): 25 of 26 background objects
 #   flagged by eye were removed, 0 of 6 leaf look-alikes. Dropped instances are saved for review (<photo>_bg_dropped.jpg).
 #
-# Usage (from /helpai-storage/model):
+# Usage (from /helpai-storage/model_git):
 #   python v7_leafid/scripts/leaf_search.py <image file or folder> [--out <folder>] [--conf 0.25] [--min-area 400]
 #   default output: v7_leafid/runs/<input name>_<YYYYmmdd_HHMMSS>/
 # Outputs:

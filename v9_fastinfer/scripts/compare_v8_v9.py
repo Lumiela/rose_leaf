@@ -1,6 +1,6 @@
 """v9 vs v8 deploy package: identical output? how much faster?
 
-    cd /helpai-storage/model && python v9_fastinfer/scripts/compare_v8_v9.py [--reps 2] [--device cuda:0]
+    cd /helpai-storage/model_git && python v9_fastinfer/scripts/compare_v8_v9.py [--reps 2] [--device cuda:0]
 
 Photos: v8_reallabel/inputs (27 unique scenes) + v8_reallabel/inputs_20261019 (9 newest pot photos, 12MP).
 Each package runs in its own process (dump_run.py). Writes v9_fastinfer/eval/:

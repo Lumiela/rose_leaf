@@ -1,4 +1,4 @@
-path: /helpai-storage/model/v4_reallabel/labels_draft
+path: /helpai-storage/model_git/v4_reallabel/labels_draft
 train: images
 val: images
 names:

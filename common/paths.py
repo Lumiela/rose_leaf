@@ -1,4 +1,4 @@
-"""Shared paths for /helpai-storage/model + opencv workaround.
+"""Shared paths for /helpai-storage/model_git + opencv workaround.
 
 Import this before cv2 / ultralytics in every script and notebook:
     sys.path.insert(0, "<model>/common"); import paths
@@ -20,7 +20,7 @@ class _BlockCv2Typing(importlib.abc.MetaPathFinder):
 if not any(type(f).__name__ == "_BlockCv2Typing" for f in sys.meta_path):
     sys.meta_path.insert(0, _BlockCv2Typing())
 
-MODEL = Path(__file__).resolve().parents[1]           # /helpai-storage/model
+MODEL = Path(__file__).resolve().parents[1]           # /helpai-storage/model_git
 COMMON = MODEL / "common"
 DATASET = COMMON / "Dataset"                          # class folders of RGBA leaf cutouts
 WEIGHTS = COMMON / "weights"                          # pretrained weights (yolo26s-seg, yolo11s-seg, yolo26n)

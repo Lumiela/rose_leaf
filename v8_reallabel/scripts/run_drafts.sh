@@ -1,6 +1,6 @@
 #!/bin/bash
 # v8: build inputs/ (symlinks, unique scenes only), run v7 leaf search for boxes, then SAM drafts + review sheets.
-# Usage (from /helpai-storage/model): bash v8_reallabel/scripts/run_drafts.sh
+# Usage (from /helpai-storage/model_git): bash v8_reallabel/scripts/run_drafts.sh
 V8=v8_reallabel; IN=$V8/inputs; mkdir -p $IN $V8/v7boxes
 ln -sf ../../common/real_images_camfix/camfix_01.jpg $IN/camfix_01.jpg
 ln -sf ../../common/real_images_camfix/camfix_02.jpg $IN/camfix_02.jpg

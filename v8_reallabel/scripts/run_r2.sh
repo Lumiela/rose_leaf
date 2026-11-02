@@ -1,6 +1,6 @@
 #!/bin/bash
 # round 2: export refined labels -> data/leaf_seg_r2, train from v4 (same recipe as r1_fromv4), evaluate on test, compare
-cd /helpai-storage/model
+cd /helpai-storage/model_git
 V8=v8_reallabel
 python $V8/scripts/export_yolo.py --out $V8/data/leaf_seg_r2 2>&1 | grep -v -i warning | tail -3
 python $V8/scripts/train_v8.py r2_fromv4 v4_reallabel/runs/ft_from_v2ft/weights/best.pt --data $V8/data/leaf_seg_r2/leaf_seg.yaml > $V8/logs/train_r2_fromv4.log 2>&1

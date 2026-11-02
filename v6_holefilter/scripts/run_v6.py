@@ -1,5 +1,5 @@
 # Run the v6 pipeline (v4 model + white balance + Hole filter) on your own photos.
-# Usage (from /helpai-storage/model):
+# Usage (from /helpai-storage/model_git):
 #   python v6_holefilter/scripts/run_v6.py <image file or folder> [--out <folder>] [--no-wb] [--hole-min-leaf 0.5] [--conf 0.25]
 #   default output: v6_holefilter/runs/<input name>_<YYYYmmdd_HHMMSS>/
 # Outputs per photo: <photo>_v6.jpg (non-Fresh = filled, Fresh = thin green outline, dropped Hole = gray outline)

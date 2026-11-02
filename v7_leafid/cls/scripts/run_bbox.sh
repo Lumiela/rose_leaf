@@ -3,7 +3,7 @@
 # -> compare (+ refresh cutout compare).
 # Progress: v7_leafid/cls/progress_bbox.md and this terminal.  Log: v7_leafid/cls/logs/run_bbox.log
 set -e
-cd /helpai-storage/model
+cd /helpai-storage/model_git
 S=v7_leafid/cls/scripts
 export CLS_VARIANT=bbox
 rm -f v7_leafid/cls/progress_bbox.json v7_leafid/cls/compare_bbox.md
