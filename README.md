@@ -1,60 +1,63 @@
-# model/ 디렉토리 구조 (2026-10-13 재구성)
+# 미니장미 잎 탐색·상태 판정 모델
 
-장미 잎 검출·분할(YOLO-seg) 작업 폴더입니다. 버전별로 데이터·학습 결과·평가·스크립트를 나눴습니다.
-모든 명령은 `/helpai-storage/model`에서 실행하는 것을 기준으로 적었습니다.
+스마트큐브와 농장의 장미 사진에서 잎을 찾고, 잎마다 상태를 판정하는 모델의 버전별 기록입니다.
 
+- **이 저장소는 비공개입니다.** 공개 전 확인 사항은 [NOTICE.md](NOTICE.md)를 보세요.
+- 원본 `/helpai-storage/model`의 복사본에서 시작했고, 원본은 수정하지 않습니다.
+- 전체 변경 이력: [CHANGELOG.md](CHANGELOG.md)
+
+## 현재 상태 (2026-11-02)
+| 항목 | 위치 |
+|---|---|
+| 현재 배포본 | [v9_fastinfer/deploy](v9_fastinfer/deploy/README.md) |
+| 현재 모델 원본 | v8_reallabel (`leaf_seg_v8r2.pt`, `leaf_cls_v8.pt`) |
+| 최신 평가 | [v10_farm_infer](v10_farm_infer/REPORT.md): 흑점병 재현율 약 46%, 정밀도 약 63% (1인 판정 추정치) |
+| 다음 작업 | 실제 흑점 잎으로 2단계 재학습, 실제 구멍 잎 확보, Jetson 측정 |
+
+## 폴더 지도
+| 폴더 | 유형 | 내용 | 리포트 |
+|---|---|---|---|
+| `common/` | 공용 | 원본 잎 데이터, 실제 사진, 공용 도구 | [DATASETS.md](DATASETS.md) |
+| `phase1_cls/` | 기록 | 초기 분류 노트북 (실행 안 됨) | - |
+| `v1/` | 데이터 + 모델 | 자동 생성 배경 합성 | [REPORT](v1/REPORT.md) |
+| `v2/` | 데이터 + 모델 | 실제 배경 합성 | [REPORT](v2/REPORT.md) |
+| `v3_twostage/` | 실험 | 2단계 구조 검증 | [REPORT](v3_twostage/REPORT.md) |
+| `v4_reallabel/` | 데이터 + 모델 | 실제 잎 누끼 추가 | [REPORT](v4_reallabel/REPORT.md) |
+| `v5_cube/` | 평가 | 큐브 사진, 화이트밸런스 시험 | [REPORT](v5_cube/REPORT.md) |
+| `v6_holefilter/` | 코드 | 색 보정 + Hole 필터 | [REPORT](v6_holefilter/REPORT.md) |
+| `v7_leafid/` | 구조 + 모델 | 2단계 구조 | [REPORT](v7_leafid/REPORT.md) |
+| `v8_reallabel/` | 데이터 + 모델 | 실제 사진 라벨로 재학습 | [REPORT](v8_reallabel/REPORT.md) |
+| `v9_fastinfer/` | 코드 | 추론 속도 개선 | [REPORT](v9_fastinfer/REPORT.md) |
+| `v10_farm_infer/` | 평가 | 실제 농장 사진 평가 | [REPORT](v10_farm_infer/REPORT.md) |
+
+가중치 목록은 [MODELS.md](MODELS.md), 데이터 목록은 [DATASETS.md](DATASETS.md)에 있습니다.
+
+## 빠른 실행
 ```
-model/
-├── common/                      # 버전 공용
-│   ├── paths.py                 # 공용 경로 + opencv 충돌 우회 (모든 스크립트·노트북이 먼저 import)
-│   ├── Dataset/, Dataset.rar    # 원본 누끼 잎 (클래스별 RGBA png)
-│   ├── weights/                 # 기본 가중치: yolo26s-seg.pt, yolo11s-seg.pt, yolo26n.pt(AMP 점검용)
-│   ├── real_images/             # 실제 재배대 사진 3장 (rose_real3 = 학습에 안 쓴 평가용)
-│   ├── tools/                   # 버전 공용 도구 (아래 표)
-│   └── reorg/                   # 이번 재구성 스크립트와 이동 로그
-├── phase1_cls/
-│   └── 01_phase1_cls_baseline.ipynb   # 잎 상태 분류 노트북 (아직 실행 안 됨, 분류용 가중치 업로드 필요)
-├── v1/                          # 1차: 자동 생성 배경 합성 데이터
-│   ├── 02_phase2_seg_synthetic.ipynb  # v1 데이터 생성 + 학습 노트북 (작업 디렉토리 = v1/)
-│   ├── data/rose_seg/           # v1 합성 데이터 (6000/800/800)
-│   ├── runs/yolo26s-seg/        # ★ v1 모델 (best = 49 에포크)
-│   ├── runs/yolo11s-seg/        # v1 비교군 (32 에포크에서 중단)
-│   ├── eval/                    # 테스트 평가(test, test_conf025), 실사 예측(real_pred_conf025/010), best_snapshot.pt, logs/
-│   └── scripts/archive/         # 당시 실행한 원본 평가 스크립트 (기록용)
-├── v2/                          # 2차: 실제 배경 합성 데이터
-    ├── scripts/                 # make_backgrounds → inspect_leaves → make_synth_v2 → train_eval_v2 (+ make_review)
-    │   └── archive/             # 공용 도구로 대체된 원본 스크립트 (기록용)
-    ├── backgrounds/             # 실사 사진 1,2번에서 추출한 배경 79장
-    ├── data/rose_seg_v2/        # v2 합성 데이터 (6000/800/800), rose_seg_v2_smoke/ (시험용 32장)
-    ├── runs/ft_from_v1/         # ★ v1에서 이어서 학습 (best = 30 에포크)
-    ├── runs/coco_init/          # 기본 가중치에서 학습 (21 에포크에서 중단, best = 20 에포크)
-    ├── eval/                    # 실사 예측(ft_from_v1_conf025/010), 비교 이미지(compare_v1_vs_ft.jpg, compare_3models/)
-    ├── debug/                   # 배경 추출·잎 샘플·합성 라벨 확인 이미지
-    └── logs/                    # 생성·학습·평가 로그
-├── v3_twostage/                 # 2단계 구조(잎 영역 찾기 → 이상 상태 분리) 타당성 검증 (README.md 참고)
-├── v4_reallabel/                # 실제 사진 잎 라벨링: 모델 초안 + Claude 검토, 실제 잎 누끼 27장, 라벨 초안 (README.md 참고)
-├── v5_cube/                     # 큐브 실사 사진 18장 테스트, 화이트밸런스 시험
-├── v6_holefilter/               # 추론 파이프라인: v4 + 화이트밸런스 + Hole 후처리 필터 (README.md 참고)
-└── v7_leafid/                    # 새 구조 1단계: 잎 탐색 + ID 부여 → (2단계) 잎별 분류 (README.md 참고)
+cd /helpai-storage/model_git
+python v9_fastinfer/deploy/smoke_test.py
+python v9_fastinfer/deploy/run.py <사진 또는 폴더> --out <출력 폴더>
 ```
+
+## 버전 관리 규칙
+- **태그:** `v1`~`v10`은 각 버전 폴더를 추가한 시점입니다. 재구성한 이력이라 버전 내부의 세부 수정 과정은 없습니다.
+- **`main`:** 항상 동작하는 상태를 유지합니다.
+- **브랜치:** 작업마다 `feature/`, `fix/`, `exp/`로 만들고, 검증 후 합칩니다.
+- **기존 v1~v10:** 재현 기록이므로 코드를 고치지 않습니다. 현재 실행 경로만 예외입니다.
+- **새 버전:** 코드만 바뀌면 폴더를 복사하지 않고 브랜치에서 고칩니다. 새 실험과 평가는 결과 폴더를 새로 만듭니다.
 
 ## 공용 도구 (common/tools)
-| 스크립트 | 용도 | 사용법 |
-|---|---|---|
-| `predict_real.py` | 실사 사진 예측, 잎마다 마스크+박스+라벨 표시 | `python common/tools/predict_real.py <가중치> <출력폴더> [conf ...]` |
-| `compare_real.py` | 여러 모델 실사 비교 (마스크+테두리, 좌상단 범례, Fresh 숨김 버전 포함) | `python common/tools/compare_real.py <출력폴더> 이름=<가중치> ...` |
-| `eval_test.py` | 데이터셋 평가 (mAP, 클래스별 AP, 혼동 행렬) | `python common/tools/eval_test.py <가중치> <data.yaml> <출력폴더> [conf] [split]` |
-| `ckpt_info.py` | 가중치 파일의 에포크·검증 점수 확인 | `python common/tools/ckpt_info.py <가중치> ...` |
-| `viz_labels.py` | 합성 데이터 라벨 시각화 | `python common/tools/viz_labels.py <데이터폴더> <split> <장수> <출력.jpg>` |
-
-## v2 파이프라인 (v2/scripts)
-1. `make_backgrounds.py`: 실사 사진에서 잎 없는 배경 추출 → v2/backgrounds, v2/debug (재실행 시 배경을 새로 만듦)
-2. `inspect_leaves.py`: 원본 잎 샘플·통계 → v2/debug/leaf_samples.jpg
-3. `make_synth_v2.py`: 합성 데이터 생성 → v2/data/rose_seg_v2 (재실행 시 기존 데이터 삭제 후 재생성, `SMOKE=1`이면 시험용 32장)
-4. `train_eval_v2.py`: 학습(ft_from_v1, coco_init) + 평가 → v2/runs, v2/eval/final. **이미 best.pt가 있는 실행은 건너뜀** (`--retrain`일 때만 다시 학습)
+| 스크립트 | 용도 |
+|---|---|
+| `predict_real.py` | 실사 사진 예측 |
+| `compare_real.py` | 여러 모델 실사 비교 |
+| `eval_test.py` | 데이터셋 평가 |
+| `ckpt_info.py` | 가중치의 에포크·점수 확인 |
+| `viz_labels.py` | 합성 데이터 라벨 시각화 |
+| `crop_class.py` | 클래스별 크롭 |
 
 ## 주의
-- **opencv 충돌:** 서버 opencv 충돌 때문에 새 파이썬 프로세스에서는 `import paths`를 먼저 해야 `ultralytics`를 불러올 수 있습니다.
-- **pip 설치 셀:** 노트북의 `%pip install -U ultralytics` 셀은 충돌의 원인이라 주석 처리했습니다.
-- **이전 경로 기록:** `runs/*/args.yaml`에는 학습 당시의 이전 경로(`runs/rose_seg`, `v2_realbg` 등)가 기록되어 있습니다. 기록용이며 사용에는 영향이 없습니다.
-- **coco_init 이어서 학습:** `coco_init`을 이어서 학습(resume)하려면 체크포인트 안의 이전 데이터 경로를 고쳐야 합니다.
+- **opencv 충돌:** 서버에서는 `import paths` 또는 `import leafdx`를 먼저 해야 `ultralytics`를 불러올 수 있습니다.
+- **옛 경로:** `runs/*/args.yaml`과 보관 스크립트에는 당시 경로가 남아 있습니다. 기록용입니다.
+- **제외 파일:** 압축 파일, YOLO 캐시, `common/weights`, `weights/`는 Git에서 제외했습니다. 사전학습 가중치는 [MODELS.md](MODELS.md)를 보고 다시 받습니다.
+- **push:** 1회 2GB 제한이 있어 태그별로 나눠 올립니다.

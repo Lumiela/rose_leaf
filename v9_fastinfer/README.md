@@ -61,7 +61,7 @@ v9_fastinfer/
 ## 재현 (model/에서 실행)
 ```
 python v9_fastinfer/deploy/smoke_test.py                 # SMOKE_TEST PASS
-python v9_fastinfer/scripts/compare_v8_v9.py --reps 2    # 약 13분, eval/ 덮어씀
+python v9_fastinfer/scripts/compare_v8_v9.py --reps 2    # 약 9분, eval/ 덮어씀
 ```
 
 ## 주의
