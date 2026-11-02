@@ -1,5 +1,7 @@
 # v9 리포트: 출력 변경 없이 추론 속도 개선
 
+> 그림과 비교 표를 포함한 리포트: [REPORT.html](REPORT.html) (전체 비교: [REPORTS.html](../REPORTS.html))
+
 | 항목 | 내용 |
 |---|---|
 | 유형 | 코드 |

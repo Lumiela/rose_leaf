@@ -1,5 +1,7 @@
 # v7 리포트: 잎 탐색과 잎별 분류의 2단계 구조
 
+> 그림과 비교 표를 포함한 리포트: [REPORT.html](REPORT.html) (전체 비교: [REPORTS.html](../REPORTS.html))
+
 | 항목 | 내용 |
 |---|---|
 | 유형 | 구조 + 모델 |

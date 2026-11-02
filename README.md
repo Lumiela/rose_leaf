@@ -5,6 +5,7 @@
 - **이 저장소는 비공개입니다.** 공개 전 확인 사항은 [NOTICE.md](NOTICE.md)를 보세요.
 - 원본 `/helpai-storage/model`의 복사본에서 시작했고, 원본은 수정하지 않습니다.
 - 전체 변경 이력: [CHANGELOG.md](CHANGELOG.md)
+- 버전 비교: [REPORTS.html](REPORTS.html). 각 버전 폴더의 `REPORT.html`은 직전 기준과 비교한 리포트이고, `REPORT.md`는 요약본입니다. HTML은 내려받아 브라우저로 엽니다.
 
 ## 현재 상태 (2026-11-02)
 | 항목 | 위치 |

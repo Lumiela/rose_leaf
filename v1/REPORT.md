@@ -1,5 +1,7 @@
 # v1 리포트: 자동 생성 배경 합성 데이터로 첫 학습
 
+> 그림과 비교 표를 포함한 리포트: [REPORT.html](REPORT.html) (전체 비교: [REPORTS.html](../REPORTS.html))
+
 | 항목 | 내용 |
 |---|---|
 | 유형 | 데이터 + 모델 |

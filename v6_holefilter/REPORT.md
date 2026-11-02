@@ -1,5 +1,7 @@
 # v6 리포트: 색 보정과 Hole 필터 추론 파이프라인
 
+> 그림과 비교 표를 포함한 리포트: [REPORT.html](REPORT.html) (전체 비교: [REPORTS.html](../REPORTS.html))
+
 | 항목 | 내용 |
 |---|---|
 | 유형 | 코드 (재학습 없음) |

@@ -1,5 +1,7 @@
 # v4 리포트: 실제 잎 누끼를 넣은 재학습
 
+> 그림과 비교 표를 포함한 리포트: [REPORT.html](REPORT.html) (전체 비교: [REPORTS.html](../REPORTS.html))
+
 | 항목 | 내용 |
 |---|---|
 | 유형 | 데이터 + 모델 |
