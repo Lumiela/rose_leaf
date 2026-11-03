@@ -1,0 +1,6 @@
+camfix_01.jpg 141 {'FRESH': 128, 'HOLD_SHAPE': 12, 'UNKNOWN': 1} {'stage1_s': 2.7, 'stage2_s': 0.53}
+camfix_02.jpg 159 {'HOLD_SHAPE': 25, 'FRESH': 134} {'stage1_s': 0.26, 'stage2_s': 0.44}
+camfix_03.jpg 148 {'FRESH': 132, 'HOLD_SHAPE': 16} {'stage1_s': 0.26, 'stage2_s': 0.43}
+camfix_04.jpg 288 {'HOLD_SHAPE': 29, 'FRESH': 259} {'stage1_s': 0.53, 'stage2_s': 0.91}
+camfix_05.jpg 241 {'HOLD_SHAPE': 22, 'FRESH': 219} {'stage1_s': 0.45, 'stage2_s': 0.71}
+exit real_images_camfix 0

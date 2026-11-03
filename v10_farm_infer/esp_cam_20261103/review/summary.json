@@ -1,0 +1,154 @@
+{
+ "new_cam": {
+  "photos": 6,
+  "HOLD_SHAPE": 232,
+  "FRESH": 2733,
+  "UNKNOWN": 6,
+  "ANOMALY:Hole": 3,
+  "leaves": 2976,
+  "ANOMALY:Yellow": 2,
+  "flagged": 11,
+  "per_photo": [
+   {
+    "photo": "040525ce-1d6c-4d3b-b042-6314f39ba703.jfif",
+    "leaves": 498,
+    "L": 99.0,
+    "HOLD_SHAPE": 37,
+    "FRESH": 459,
+    "UNKNOWN": 1,
+    "ANOMALY:Hole": 1
+   },
+   {
+    "photo": "0d68e286-81f3-4512-9e0b-ba5f56694112.jfif",
+    "leaves": 492,
+    "L": 100.8,
+    "FRESH": 448,
+    "HOLD_SHAPE": 41,
+    "UNKNOWN": 2,
+    "ANOMALY:Hole": 1
+   },
+   {
+    "photo": "42e5f577-27c5-4374-ac3a-ba18acd6d548.jfif",
+    "leaves": 502,
+    "L": 101.6,
+    "HOLD_SHAPE": 38,
+    "FRESH": 464
+   },
+   {
+    "photo": "795eddd9-7293-4b02-a5ad-905f99ee585e.jfif",
+    "leaves": 492,
+    "L": 99.3,
+    "HOLD_SHAPE": 44,
+    "FRESH": 443,
+    "ANOMALY:Yellow": 2,
+    "ANOMALY:Hole": 1,
+    "UNKNOWN": 2
+   },
+   {
+    "photo": "817a7c9d-588b-45f2-9186-eb3433884fb1.jfif",
+    "leaves": 508,
+    "L": 102.0,
+    "HOLD_SHAPE": 35,
+    "FRESH": 473
+   },
+   {
+    "photo": "b676fe33-f201-4521-a099-bcb528ee62e4.jfif",
+    "leaves": 484,
+    "L": 99.5,
+    "FRESH": 446,
+    "HOLD_SHAPE": 37,
+    "UNKNOWN": 1
+   }
+  ]
+ },
+ "real_images_camfix": {
+  "photos": 5,
+  "FRESH": 872,
+  "HOLD_SHAPE": 104,
+  "UNKNOWN": 1,
+  "leaves": 977,
+  "flagged": 1,
+  "per_photo": [
+   {
+    "photo": "camfix_01.jpg",
+    "leaves": 141,
+    "L": 52.7,
+    "FRESH": 128,
+    "HOLD_SHAPE": 12,
+    "UNKNOWN": 1
+   },
+   {
+    "photo": "camfix_02.jpg",
+    "leaves": 159,
+    "L": 53.2,
+    "HOLD_SHAPE": 25,
+    "FRESH": 134
+   },
+   {
+    "photo": "camfix_03.jpg",
+    "leaves": 148,
+    "L": 52.3,
+    "FRESH": 132,
+    "HOLD_SHAPE": 16
+   },
+   {
+    "photo": "camfix_04.jpg",
+    "leaves": 288,
+    "L": 79.6,
+    "HOLD_SHAPE": 29,
+    "FRESH": 259
+   },
+   {
+    "photo": "camfix_05.jpg",
+    "leaves": 241,
+    "L": 78.2,
+    "HOLD_SHAPE": 22,
+    "FRESH": 219
+   }
+  ]
+ },
+ "real_images_local": {
+  "photos": 5,
+  "FRESH": 1088,
+  "HOLD_SHAPE": 123,
+  "leaves": 1211,
+  "flagged": 0,
+  "per_photo": [
+   {
+    "photo": "44be89e5-ba26-4fd0-837d-a5a36a1fca8f.jfif",
+    "leaves": 118,
+    "L": 113.3,
+    "FRESH": 110,
+    "HOLD_SHAPE": 8
+   },
+   {
+    "photo": "84496bcf-808a-4b82-a597-1453e2815c54.jfif",
+    "leaves": 269,
+    "L": 104.1,
+    "FRESH": 237,
+    "HOLD_SHAPE": 32
+   },
+   {
+    "photo": "92ccc604-a9d7-4b68-84eb-d5d21d3c2545.jfif",
+    "leaves": 260,
+    "L": 79.7,
+    "HOLD_SHAPE": 27,
+    "FRESH": 233
+   },
+   {
+    "photo": "ce7a654f-dc9c-4187-aed9-231aa7e998d1.jfif",
+    "leaves": 256,
+    "L": 79.1,
+    "FRESH": 231,
+    "HOLD_SHAPE": 25
+   },
+   {
+    "photo": "eafda190-5f86-4d2e-b98f-f41ed7cdcb46.jfif",
+    "leaves": 308,
+    "L": 96.3,
+    "FRESH": 277,
+    "HOLD_SHAPE": 31
+   }
+  ]
+ }
+}

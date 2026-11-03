@@ -1,0 +1,1 @@
+[{"idx": 0, "photo": "camfix_01.jpg", "id": "L0097", "state": "UNKNOWN", "cls": null, "probs": {"Black Spot": 0.042, "Fresh": 0.5464, "Hole": 0.375, "Yellow": 0.0366}, "box": [429, 487, 545, 570], "L": 116}]

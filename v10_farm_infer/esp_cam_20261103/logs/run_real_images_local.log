@@ -1,0 +1,6 @@
+44be89e5-ba26-4fd0-837d-a5a36a1fca8f.jfif 118 {'FRESH': 110, 'HOLD_SHAPE': 8} {'stage1_s': 3.82, 'stage2_s': 0.61}
+84496bcf-808a-4b82-a597-1453e2815c54.jfif 269 {'FRESH': 237, 'HOLD_SHAPE': 32} {'stage1_s': 0.53, 'stage2_s': 1.03}
+92ccc604-a9d7-4b68-84eb-d5d21d3c2545.jfif 260 {'HOLD_SHAPE': 27, 'FRESH': 233} {'stage1_s': 0.48, 'stage2_s': 0.86}
+ce7a654f-dc9c-4187-aed9-231aa7e998d1.jfif 256 {'FRESH': 231, 'HOLD_SHAPE': 25} {'stage1_s': 0.47, 'stage2_s': 0.73}
+eafda190-5f86-4d2e-b98f-f41ed7cdcb46.jfif 308 {'FRESH': 277, 'HOLD_SHAPE': 31} {'stage1_s': 0.63, 'stage2_s': 1.09}
+exit real_images_local 0
