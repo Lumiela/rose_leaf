@@ -2,18 +2,19 @@
 
 스마트큐브와 농장의 장미 사진에서 잎을 찾고, 잎마다 상태를 판정하는 모델의 버전별 기록입니다.
 
-- **이 저장소는 비공개입니다.** 공개 전 확인 사항은 [NOTICE.md](NOTICE.md)를 보세요.
+- **이 저장소는 공개 상태입니다** (2026-11-03 확인). 공개 관련 확인 항목은 [NOTICE.md](NOTICE.md)를 보세요.
 - 원본 `/helpai-storage/model`의 복사본에서 시작했고, 원본은 수정하지 않습니다.
 - 전체 변경 이력: [CHANGELOG.md](CHANGELOG.md)
 - 버전 비교: [REPORTS.html](REPORTS.html). 각 버전 폴더의 `REPORT.html`은 직전 기준과 비교한 리포트이고, `REPORT.md`는 요약본입니다. HTML은 내려받아 브라우저로 엽니다.
 
-## 현재 상태 (2026-11-02)
+## 현재 상태 (2026-11-03)
 | 항목 | 위치 |
 |---|---|
 | 현재 배포본 | [v9_fastinfer/deploy](v9_fastinfer/deploy/README.md) |
 | 현재 모델 원본 | v8_reallabel (`leaf_seg_v8r2.pt`, `leaf_cls_v8.pt`) |
-| 최신 평가 | [v10_farm_infer](v10_farm_infer/REPORT.md): 흑점병 재현율 약 46%, 정밀도 약 63% (1인 판정 추정치) |
-| 다음 작업 | 실제 흑점 잎으로 2단계 재학습, 실제 구멍 잎 확보, Jetson 측정 |
+| 농장 평가 | [v10_farm_infer](v10_farm_infer/REPORT.md): 흑점병 재현율 약 46%, 정밀도 약 63% (1인 판정 추정치) |
+| 최신 평가 | [ESP 카메라 교체](v10_farm_infer/esp_cam_20261103/RESULTS.md): 6장, 잎 2,976개, 이상 판정 5개 (정답 라벨 없음) |
+| 다음 작업 | 상단 가지치기 후 3시간 간격 추론 확인, 실제 흑점 잎으로 2단계 재학습, 실제 구멍 잎 확보, Jetson 측정 |
 
 ## 폴더 지도
 | 폴더 | 유형 | 내용 | 리포트 |
@@ -29,7 +30,7 @@
 | `v7_leafid/` | 구조 + 모델 | 2단계 구조 | [REPORT](v7_leafid/REPORT.md) |
 | `v8_reallabel/` | 데이터 + 모델 | 실제 사진 라벨로 재학습 | [REPORT](v8_reallabel/REPORT.md) |
 | `v9_fastinfer/` | 코드 | 추론 속도 개선 | [REPORT](v9_fastinfer/REPORT.md) |
-| `v10_farm_infer/` | 평가 | 실제 농장 사진 평가 | [REPORT](v10_farm_infer/REPORT.md) |
+| `v10_farm_infer/` | 평가 | 실제 농장 사진 평가, ESP 카메라 교체 평가 | [REPORT](v10_farm_infer/REPORT.md) |
 
 가중치 목록은 [MODELS.md](MODELS.md), 데이터 목록은 [DATASETS.md](DATASETS.md)에 있습니다.
 
